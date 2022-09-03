@@ -4,3 +4,9 @@
 * The IconsFlutter class is provided to access all Icons.
 * Refactored to support the latest flutter version.
 * Fixed to have the better performance
+
+## 0.0.2
+
+* Example added
+* code improvements
+* fixes
