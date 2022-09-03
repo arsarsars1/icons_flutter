@@ -75,7 +75,8 @@ class Typicons {
   static const IconData download = IconsFlutterData.typicons(0xe843);
   static const IconData upload_outline = IconsFlutterData.typicons(0xe844);
   static const IconData upload = IconsFlutterData.typicons(0xe845);
-  static const IconData upload_cloud_outline = IconsFlutterData.typicons(0xe846);
+  static const IconData upload_cloud_outline =
+      IconsFlutterData.typicons(0xe846);
   static const IconData upload_cloud = IconsFlutterData.typicons(0xe847);
   static const IconData reply_outline = IconsFlutterData.typicons(0xe848);
   static const IconData reply = IconsFlutterData.typicons(0xe849);
@@ -279,7 +280,8 @@ class Typicons {
   static const IconData sort_alphabet_outline =
       IconsFlutterData.typicons(0xe90c);
   static const IconData sort_alphabet = IconsFlutterData.typicons(0xe90d);
-  static const IconData sort_numeric_outline = IconsFlutterData.typicons(0xe90e);
+  static const IconData sort_numeric_outline =
+      IconsFlutterData.typicons(0xe90e);
   static const IconData sort_numeric = IconsFlutterData.typicons(0xe90f);
   static const IconData dribbble_circled = IconsFlutterData.typicons(0xe910);
   static const IconData dribbble = IconsFlutterData.typicons(0xe911);

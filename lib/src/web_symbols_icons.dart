@@ -47,7 +47,8 @@ class WebSymbols {
   static const IconData clock = IconsFlutterData.webSymbols(0xe828);
   static const IconData block = IconsFlutterData.webSymbols(0xe829);
   static const IconData resize_full = IconsFlutterData.webSymbols(0xe82a);
-  static const IconData resize_full_circle = IconsFlutterData.webSymbols(0xe82b);
+  static const IconData resize_full_circle =
+      IconsFlutterData.webSymbols(0xe82b);
   static const IconData popup = IconsFlutterData.webSymbols(0xe82c);
   static const IconData left_open = IconsFlutterData.webSymbols(0xe82d);
   static const IconData right_open = IconsFlutterData.webSymbols(0xe82e);
@@ -84,7 +85,8 @@ class WebSymbols {
   static const IconData googleplus_rect = IconsFlutterData.webSymbols(0xf309);
   static const IconData vkontakte_rect = IconsFlutterData.webSymbols(0xf30a);
   static const IconData skype = IconsFlutterData.webSymbols(0xf30b);
-  static const IconData odnoklassniki_rect = IconsFlutterData.webSymbols(0xf30d);
+  static const IconData odnoklassniki_rect =
+      IconsFlutterData.webSymbols(0xf30d);
   static const IconData vimeo_rect = IconsFlutterData.webSymbols(0xf30e);
   static const IconData tumblr_rect = IconsFlutterData.webSymbols(0xf310);
   static const IconData linkedin_rect = IconsFlutterData.webSymbols(0xf312);

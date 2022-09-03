@@ -4,8 +4,10 @@ import 'package:icons_flutter/src/icons_flutter_data.dart';
 class LineariconsFree {
   LineariconsFree._();
 
-  static const IconData direction_ltr = IconsFlutterData.linearIconsFree(0xe800);
-  static const IconData direction_rtl = IconsFlutterData.linearIconsFree(0xe801);
+  static const IconData direction_ltr =
+      IconsFlutterData.linearIconsFree(0xe800);
+  static const IconData direction_rtl =
+      IconsFlutterData.linearIconsFree(0xe801);
   static const IconData page_break = IconsFlutterData.linearIconsFree(0xe802);
   static const IconData sort_alpha_asc =
       IconsFlutterData.linearIconsFree(0xe803);
@@ -13,7 +15,8 @@ class LineariconsFree {
       IconsFlutterData.linearIconsFree(0xe804);
   static const IconData hand = IconsFlutterData.linearIconsFree(0xe805);
   static const IconData pointer_up = IconsFlutterData.linearIconsFree(0xe806);
-  static const IconData pointer_right = IconsFlutterData.linearIconsFree(0xe807);
+  static const IconData pointer_right =
+      IconsFlutterData.linearIconsFree(0xe807);
   static const IconData pointer_down = IconsFlutterData.linearIconsFree(0xe808);
   static const IconData pointer_left = IconsFlutterData.linearIconsFree(0xe809);
   static const IconData home = IconsFlutterData.linearIconsFree(0xe867);
@@ -66,13 +69,15 @@ class LineariconsFree {
   static const IconData store = IconsFlutterData.linearIconsFree(0xe894);
   static const IconData cart = IconsFlutterData.linearIconsFree(0xe895);
   static const IconData tag_1 = IconsFlutterData.linearIconsFree(0xe896);
-  static const IconData phone_handset = IconsFlutterData.linearIconsFree(0xe897);
+  static const IconData phone_handset =
+      IconsFlutterData.linearIconsFree(0xe897);
   static const IconData phone = IconsFlutterData.linearIconsFree(0xe898);
   static const IconData pushpin = IconsFlutterData.linearIconsFree(0xe899);
   static const IconData map_marker = IconsFlutterData.linearIconsFree(0xe89a);
   static const IconData map = IconsFlutterData.linearIconsFree(0xe89b);
   static const IconData location_1 = IconsFlutterData.linearIconsFree(0xe89c);
-  static const IconData calendar_full = IconsFlutterData.linearIconsFree(0xe89d);
+  static const IconData calendar_full =
+      IconsFlutterData.linearIconsFree(0xe89d);
   static const IconData keyboard = IconsFlutterData.linearIconsFree(0xe89e);
   static const IconData spell_check = IconsFlutterData.linearIconsFree(0xe89f);
   static const IconData screen = IconsFlutterData.linearIconsFree(0xe8a0);
@@ -109,7 +114,8 @@ class LineariconsFree {
   static const IconData alarm = IconsFlutterData.linearIconsFree(0xe8bf);
   static const IconData bullhorn = IconsFlutterData.linearIconsFree(0xe8c0);
   static const IconData volume_high = IconsFlutterData.linearIconsFree(0xe8c1);
-  static const IconData volume_medium = IconsFlutterData.linearIconsFree(0xe8c2);
+  static const IconData volume_medium =
+      IconsFlutterData.linearIconsFree(0xe8c2);
   static const IconData volume_low = IconsFlutterData.linearIconsFree(0xe8c3);
   static const IconData volume = IconsFlutterData.linearIconsFree(0xe8c4);
   static const IconData mic = IconsFlutterData.linearIconsFree(0xe8c5);
@@ -136,7 +142,8 @@ class LineariconsFree {
   static const IconData chevron_up = IconsFlutterData.linearIconsFree(0xe8da);
   static const IconData chevron_down = IconsFlutterData.linearIconsFree(0xe8db);
   static const IconData chevron_left = IconsFlutterData.linearIconsFree(0xe8dc);
-  static const IconData chevron_right = IconsFlutterData.linearIconsFree(0xe8dd);
+  static const IconData chevron_right =
+      IconsFlutterData.linearIconsFree(0xe8dd);
   static const IconData arrow_up = IconsFlutterData.linearIconsFree(0xe8de);
   static const IconData arrow_down = IconsFlutterData.linearIconsFree(0xe8df);
   static const IconData arrow_left = IconsFlutterData.linearIconsFree(0xe8e0);
@@ -149,7 +156,8 @@ class LineariconsFree {
   static const IconData checkmark_cicle =
       IconsFlutterData.linearIconsFree(0xe8e6);
   static const IconData cross_circle = IconsFlutterData.linearIconsFree(0xe8e7);
-  static const IconData plus_circle_1 = IconsFlutterData.linearIconsFree(0xe8e8);
+  static const IconData plus_circle_1 =
+      IconsFlutterData.linearIconsFree(0xe8e8);
   static const IconData circle_minus = IconsFlutterData.linearIconsFree(0xe8e9);
   static const IconData arrow_up_circle =
       IconsFlutterData.linearIconsFree(0xe8ea);
@@ -180,7 +188,8 @@ class LineariconsFree {
   static const IconData bold = IconsFlutterData.linearIconsFree(0xe8fa);
   static const IconData italic = IconsFlutterData.linearIconsFree(0xe8fb);
   static const IconData underline = IconsFlutterData.linearIconsFree(0xe8fc);
-  static const IconData strikethrough = IconsFlutterData.linearIconsFree(0xe8fd);
+  static const IconData strikethrough =
+      IconsFlutterData.linearIconsFree(0xe8fd);
   static const IconData highlight = IconsFlutterData.linearIconsFree(0xe8fe);
   static const IconData text_align_left =
       IconsFlutterData.linearIconsFree(0xe8ff);
@@ -201,6 +210,7 @@ class LineariconsFree {
   static const IconData skype = IconsFlutterData.linearIconsFree(0xf30b);
   static const IconData odnoklassniki_rect =
       IconsFlutterData.linearIconsFree(0xf30d);
-  static const IconData linkedin_rect = IconsFlutterData.linearIconsFree(0xf312);
+  static const IconData linkedin_rect =
+      IconsFlutterData.linearIconsFree(0xf312);
   static const IconData youtube = IconsFlutterData.linearIconsFree(0xf313);
 }

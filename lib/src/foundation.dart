@@ -225,7 +225,8 @@ class Foundation {
   static const IconData social_reddit = IconsFlutterData.foundation(61912);
   static const IconData social_skillshare = IconsFlutterData.foundation(61913);
   static const IconData social_skype = IconsFlutterData.foundation(61914);
-  static const IconData social_smashing_mag = IconsFlutterData.foundation(61915);
+  static const IconData social_smashing_mag =
+      IconsFlutterData.foundation(61915);
   static const IconData social_snapchat = IconsFlutterData.foundation(61916);
   static const IconData social_spotify = IconsFlutterData.foundation(61917);
   static const IconData social_squidoo = IconsFlutterData.foundation(61918);

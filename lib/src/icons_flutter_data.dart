@@ -6,7 +6,8 @@ class IconsFlutterData extends IconData {
 
   const IconsFlutterData.ionicons(int codePoint) : this(codePoint, "Ionicons");
 
-  const IconsFlutterData.antDesign(int codePoint) : this(codePoint, "AntDesign");
+  const IconsFlutterData.antDesign(int codePoint)
+      : this(codePoint, "AntDesign");
 
   const IconsFlutterData.fontAwesome(int codePoint)
       : this(codePoint, "FontAwesome");
@@ -25,7 +26,8 @@ class IconsFlutterData extends IconData {
 
   const IconsFlutterData.enTypo(int codePoint) : this(codePoint, "Entypo");
 
-  const IconsFlutterData.evilIcons(int codePoint) : this(codePoint, "EvilIcons");
+  const IconsFlutterData.evilIcons(int codePoint)
+      : this(codePoint, "EvilIcons");
 
   const IconsFlutterData.feather(int codePoint) : this(codePoint, "Feather");
 
@@ -52,7 +54,8 @@ class IconsFlutterData extends IconData {
 
   const IconsFlutterData.elusive(int codePoint) : this(codePoint, "Elusive");
 
-  const IconsFlutterData.fontElico(int codePoint) : this(codePoint, "Fontelico");
+  const IconsFlutterData.fontElico(int codePoint)
+      : this(codePoint, "Fontelico");
 
   const IconsFlutterData.linearIconsFree(int codePoint)
       : this(codePoint, "LineariconsFree");
@@ -61,7 +64,8 @@ class IconsFlutterData extends IconData {
 
   const IconsFlutterData.maki(int codePoint) : this(codePoint, "Maki");
 
-  const IconsFlutterData.meteoCons(int codePoint) : this(codePoint, "Meteocons");
+  const IconsFlutterData.meteoCons(int codePoint)
+      : this(codePoint, "Meteocons");
 
   const IconsFlutterData.mfgLabs(int codePoint) : this(codePoint, "MfgLabs");
 

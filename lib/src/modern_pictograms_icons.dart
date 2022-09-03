@@ -17,7 +17,8 @@ class ModernPictograms {
   static const IconData user_pair = IconsFlutterData.modernPictograms(0xe806);
   static const IconData video_alt = IconsFlutterData.modernPictograms(0xe807);
   static const IconData videocam = IconsFlutterData.modernPictograms(0xe808);
-  static const IconData videocam_alt = IconsFlutterData.modernPictograms(0xe809);
+  static const IconData videocam_alt =
+      IconsFlutterData.modernPictograms(0xe809);
   static const IconData camera = IconsFlutterData.modernPictograms(0xe80a);
   static const IconData th = IconsFlutterData.modernPictograms(0xe80b);
   static const IconData th_list = IconsFlutterData.modernPictograms(0xe80c);
@@ -54,7 +55,8 @@ class ModernPictograms {
   static const IconData basket = IconsFlutterData.modernPictograms(0xe82a);
   static const IconData basket_alt = IconsFlutterData.modernPictograms(0xe82b);
   static const IconData calendar = IconsFlutterData.modernPictograms(0xe82c);
-  static const IconData calendar_alt = IconsFlutterData.modernPictograms(0xe82d);
+  static const IconData calendar_alt =
+      IconsFlutterData.modernPictograms(0xe82d);
   static const IconData volume_off = IconsFlutterData.modernPictograms(0xe82e);
   static const IconData volume_down = IconsFlutterData.modernPictograms(0xe82f);
   static const IconData volume_up = IconsFlutterData.modernPictograms(0xe830);
@@ -63,7 +65,8 @@ class ModernPictograms {
   static const IconData clock_alt = IconsFlutterData.modernPictograms(0xe833);
   static const IconData stop = IconsFlutterData.modernPictograms(0xe834);
   static const IconData resize_full = IconsFlutterData.modernPictograms(0xe835);
-  static const IconData resize_small = IconsFlutterData.modernPictograms(0xe836);
+  static const IconData resize_small =
+      IconsFlutterData.modernPictograms(0xe836);
   static const IconData zoom_in = IconsFlutterData.modernPictograms(0xe837);
   static const IconData zoom_out = IconsFlutterData.modernPictograms(0xe838);
   static const IconData popup = IconsFlutterData.modernPictograms(0xe839);
@@ -98,7 +101,9 @@ class ModernPictograms {
   static const IconData facebook_rect =
       IconsFlutterData.modernPictograms(0xf301);
   static const IconData twitter = IconsFlutterData.modernPictograms(0xf302);
-  static const IconData twitter_bird = IconsFlutterData.modernPictograms(0xf303);
-  static const IconData twitter_rect = IconsFlutterData.modernPictograms(0xf314);
+  static const IconData twitter_bird =
+      IconsFlutterData.modernPictograms(0xf303);
+  static const IconData twitter_rect =
+      IconsFlutterData.modernPictograms(0xf314);
   static const IconData youtube = IconsFlutterData.modernPictograms(0xf315);
 }

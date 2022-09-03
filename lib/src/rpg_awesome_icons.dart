@@ -302,7 +302,8 @@ class RpgAwesome {
   static const IconData level_three_advanced =
       IconsFlutterData.rpgAwesome(0xea25);
   static const IconData level_three = IconsFlutterData.rpgAwesome(0xea26);
-  static const IconData level_two_advanced = IconsFlutterData.rpgAwesome(0xea27);
+  static const IconData level_two_advanced =
+      IconsFlutterData.rpgAwesome(0xea27);
   static const IconData level_two = IconsFlutterData.rpgAwesome(0xea28);
   static const IconData lever = IconsFlutterData.rpgAwesome(0xea29);
   static const IconData libra = IconsFlutterData.rpgAwesome(0xea2a);
@@ -405,7 +406,8 @@ class RpgAwesome {
   static const IconData ringing_bell = IconsFlutterData.rpgAwesome(0xea83);
   static const IconData roast_chicken = IconsFlutterData.rpgAwesome(0xea84);
   static const IconData robot_arm = IconsFlutterData.rpgAwesome(0xea85);
-  static const IconData round_bottom_flask = IconsFlutterData.rpgAwesome(0xea86);
+  static const IconData round_bottom_flask =
+      IconsFlutterData.rpgAwesome(0xea86);
   static const IconData round_shield = IconsFlutterData.rpgAwesome(0xea87);
   static const IconData rss = IconsFlutterData.rpgAwesome(0xea88);
   static const IconData rune_stone = IconsFlutterData.rpgAwesome(0xea89);

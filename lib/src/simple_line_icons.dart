@@ -8,7 +8,8 @@ class SimpleLineIcons {
   static const IconData people = IconsFlutterData.simpleLineIcons(57345);
   static const IconData user_female = IconsFlutterData.simpleLineIcons(57344);
   static const IconData user_follow = IconsFlutterData.simpleLineIcons(57346);
-  static const IconData user_following = IconsFlutterData.simpleLineIcons(57347);
+  static const IconData user_following =
+      IconsFlutterData.simpleLineIcons(57347);
   static const IconData user_unfollow = IconsFlutterData.simpleLineIcons(57348);
   static const IconData login = IconsFlutterData.simpleLineIcons(57446);
   static const IconData logout = IconsFlutterData.simpleLineIcons(57445);
@@ -51,7 +52,8 @@ class SimpleLineIcons {
   static const IconData trophy = IconsFlutterData.simpleLineIcons(57350);
   static const IconData screen_smartphone =
       IconsFlutterData.simpleLineIcons(57360);
-  static const IconData screen_desktop = IconsFlutterData.simpleLineIcons(57361);
+  static const IconData screen_desktop =
+      IconsFlutterData.simpleLineIcons(57361);
   static const IconData plane = IconsFlutterData.simpleLineIcons(57362);
   static const IconData notebook = IconsFlutterData.simpleLineIcons(57363);
   static const IconData mustache = IconsFlutterData.simpleLineIcons(57364);
@@ -133,7 +135,8 @@ class SimpleLineIcons {
   static const IconData grid = IconsFlutterData.simpleLineIcons(57450);
   static const IconData graph = IconsFlutterData.simpleLineIcons(57451);
   static const IconData microphone = IconsFlutterData.simpleLineIcons(57443);
-  static const IconData music_tone_alt = IconsFlutterData.simpleLineIcons(57441);
+  static const IconData music_tone_alt =
+      IconsFlutterData.simpleLineIcons(57441);
   static const IconData music_tone = IconsFlutterData.simpleLineIcons(57442);
   static const IconData earphones_alt = IconsFlutterData.simpleLineIcons(57404);
   static const IconData earphones = IconsFlutterData.simpleLineIcons(57405);
@@ -141,7 +144,8 @@ class SimpleLineIcons {
   static const IconData like = IconsFlutterData.simpleLineIcons(57448);
   static const IconData dislike = IconsFlutterData.simpleLineIcons(57453);
   static const IconData control_start = IconsFlutterData.simpleLineIcons(57455);
-  static const IconData control_rewind = IconsFlutterData.simpleLineIcons(57456);
+  static const IconData control_rewind =
+      IconsFlutterData.simpleLineIcons(57456);
   static const IconData control_play = IconsFlutterData.simpleLineIcons(57457);
   static const IconData control_pause = IconsFlutterData.simpleLineIcons(57458);
   static const IconData control_forward =
@@ -157,7 +161,8 @@ class SimpleLineIcons {
   static const IconData bubble = IconsFlutterData.simpleLineIcons(57469);
   static const IconData camrecorder = IconsFlutterData.simpleLineIcons(57470);
   static const IconData camera = IconsFlutterData.simpleLineIcons(57471);
-  static const IconData cloud_download = IconsFlutterData.simpleLineIcons(57475);
+  static const IconData cloud_download =
+      IconsFlutterData.simpleLineIcons(57475);
   static const IconData cloud_upload = IconsFlutterData.simpleLineIcons(57476);
   static const IconData envelope = IconsFlutterData.simpleLineIcons(57478);
   static const IconData eye = IconsFlutterData.simpleLineIcons(57479);
@@ -185,7 +190,8 @@ class SimpleLineIcons {
   static const IconData credit_card = IconsFlutterData.simpleLineIcons(57381);
   static const IconData paypal = IconsFlutterData.simpleLineIcons(58888);
   static const IconData social_tumblr = IconsFlutterData.simpleLineIcons(57354);
-  static const IconData social_twitter = IconsFlutterData.simpleLineIcons(57353);
+  static const IconData social_twitter =
+      IconsFlutterData.simpleLineIcons(57353);
   static const IconData social_facebook =
       IconsFlutterData.simpleLineIcons(57355);
   static const IconData social_instagram =
@@ -200,16 +206,20 @@ class SimpleLineIcons {
   static const IconData social_skype = IconsFlutterData.simpleLineIcons(58895);
   static const IconData social_dribbble =
       IconsFlutterData.simpleLineIcons(57357);
-  static const IconData social_behance = IconsFlutterData.simpleLineIcons(58896);
+  static const IconData social_behance =
+      IconsFlutterData.simpleLineIcons(58896);
   static const IconData social_foursqare =
       IconsFlutterData.simpleLineIcons(58897);
   static const IconData social_soundcloud =
       IconsFlutterData.simpleLineIcons(58898);
-  static const IconData social_spotify = IconsFlutterData.simpleLineIcons(58899);
+  static const IconData social_spotify =
+      IconsFlutterData.simpleLineIcons(58899);
   static const IconData social_stumbleupon =
       IconsFlutterData.simpleLineIcons(58900);
-  static const IconData social_youtube = IconsFlutterData.simpleLineIcons(57352);
-  static const IconData social_dropbox = IconsFlutterData.simpleLineIcons(57356);
+  static const IconData social_youtube =
+      IconsFlutterData.simpleLineIcons(57352);
+  static const IconData social_dropbox =
+      IconsFlutterData.simpleLineIcons(57356);
   static const IconData social_vkontakte =
       IconsFlutterData.simpleLineIcons(58904);
   static const IconData social_steam = IconsFlutterData.simpleLineIcons(58912);

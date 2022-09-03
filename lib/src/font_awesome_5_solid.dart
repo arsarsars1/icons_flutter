@@ -5,12 +5,15 @@ import 'icons_flutter_data.dart';
 class FontAwesome5Solid {
   FontAwesome5Solid._();
   static const IconData ad = IconsFlutterData.fontAwesome5Solid(63041);
-  static const IconData address_book = IconsFlutterData.fontAwesome5Solid(62137);
-  static const IconData address_card = IconsFlutterData.fontAwesome5Solid(62139);
+  static const IconData address_book =
+      IconsFlutterData.fontAwesome5Solid(62137);
+  static const IconData address_card =
+      IconsFlutterData.fontAwesome5Solid(62139);
   static const IconData adjust = IconsFlutterData.fontAwesome5Solid(61506);
   static const IconData air_freshener =
       IconsFlutterData.fontAwesome5Solid(62928);
-  static const IconData align_center = IconsFlutterData.fontAwesome5Solid(61495);
+  static const IconData align_center =
+      IconsFlutterData.fontAwesome5Solid(61495);
   static const IconData align_justify =
       IconsFlutterData.fontAwesome5Solid(61497);
   static const IconData align_left = IconsFlutterData.fontAwesome5Solid(61494);
@@ -57,8 +60,10 @@ class FontAwesome5Solid {
   static const IconData arrow_left = IconsFlutterData.fontAwesome5Solid(61536);
   static const IconData arrow_right = IconsFlutterData.fontAwesome5Solid(61537);
   static const IconData arrow_up = IconsFlutterData.fontAwesome5Solid(61538);
-  static const IconData arrows_alt_h = IconsFlutterData.fontAwesome5Solid(62263);
-  static const IconData arrows_alt_v = IconsFlutterData.fontAwesome5Solid(62264);
+  static const IconData arrows_alt_h =
+      IconsFlutterData.fontAwesome5Solid(62263);
+  static const IconData arrows_alt_v =
+      IconsFlutterData.fontAwesome5Solid(62264);
   static const IconData arrows_alt = IconsFlutterData.fontAwesome5Solid(61618);
   static const IconData assistive_listening_systems =
       IconsFlutterData.fontAwesome5Solid(62114);
@@ -88,8 +93,10 @@ class FontAwesome5Solid {
   static const IconData bath = IconsFlutterData.fontAwesome5Solid(62157);
   static const IconData battery_empty =
       IconsFlutterData.fontAwesome5Solid(62020);
-  static const IconData battery_full = IconsFlutterData.fontAwesome5Solid(62016);
-  static const IconData battery_half = IconsFlutterData.fontAwesome5Solid(62018);
+  static const IconData battery_full =
+      IconsFlutterData.fontAwesome5Solid(62016);
+  static const IconData battery_half =
+      IconsFlutterData.fontAwesome5Solid(62018);
   static const IconData battery_quarter =
       IconsFlutterData.fontAwesome5Solid(62019);
   static const IconData battery_three_quarters =
@@ -98,7 +105,8 @@ class FontAwesome5Solid {
   static const IconData beer = IconsFlutterData.fontAwesome5Solid(61692);
   static const IconData bell_slash = IconsFlutterData.fontAwesome5Solid(61942);
   static const IconData bell = IconsFlutterData.fontAwesome5Solid(61683);
-  static const IconData bezier_curve = IconsFlutterData.fontAwesome5Solid(62811);
+  static const IconData bezier_curve =
+      IconsFlutterData.fontAwesome5Solid(62811);
   static const IconData bible = IconsFlutterData.fontAwesome5Solid(63047);
   static const IconData bicycle = IconsFlutterData.fontAwesome5Solid(61958);
   static const IconData binoculars = IconsFlutterData.fontAwesome5Solid(61925);
@@ -116,12 +124,14 @@ class FontAwesome5Solid {
   static const IconData bone = IconsFlutterData.fontAwesome5Solid(62935);
   static const IconData bong = IconsFlutterData.fontAwesome5Solid(62812);
   static const IconData book_dead = IconsFlutterData.fontAwesome5Solid(63159);
-  static const IconData book_medical = IconsFlutterData.fontAwesome5Solid(63462);
+  static const IconData book_medical =
+      IconsFlutterData.fontAwesome5Solid(63462);
   static const IconData book_open = IconsFlutterData.fontAwesome5Solid(62744);
   static const IconData book_reader = IconsFlutterData.fontAwesome5Solid(62938);
   static const IconData book = IconsFlutterData.fontAwesome5Solid(61485);
   static const IconData bookmark = IconsFlutterData.fontAwesome5Solid(61486);
-  static const IconData bowling_ball = IconsFlutterData.fontAwesome5Solid(62518);
+  static const IconData bowling_ball =
+      IconsFlutterData.fontAwesome5Solid(62518);
   static const IconData box_open = IconsFlutterData.fontAwesome5Solid(62622);
   static const IconData box = IconsFlutterData.fontAwesome5Solid(62566);
   static const IconData boxes = IconsFlutterData.fontAwesome5Solid(62568);
@@ -145,10 +155,12 @@ class FontAwesome5Solid {
   static const IconData business_time =
       IconsFlutterData.fontAwesome5Solid(63050);
   static const IconData calculator = IconsFlutterData.fontAwesome5Solid(61932);
-  static const IconData calendar_alt = IconsFlutterData.fontAwesome5Solid(61555);
+  static const IconData calendar_alt =
+      IconsFlutterData.fontAwesome5Solid(61555);
   static const IconData calendar_check =
       IconsFlutterData.fontAwesome5Solid(62068);
-  static const IconData calendar_day = IconsFlutterData.fontAwesome5Solid(63363);
+  static const IconData calendar_day =
+      IconsFlutterData.fontAwesome5Solid(63363);
   static const IconData calendar_minus =
       IconsFlutterData.fontAwesome5Solid(62066);
   static const IconData calendar_plus =
@@ -158,7 +170,8 @@ class FontAwesome5Solid {
   static const IconData calendar_week =
       IconsFlutterData.fontAwesome5Solid(63364);
   static const IconData calendar = IconsFlutterData.fontAwesome5Solid(61747);
-  static const IconData camera_retro = IconsFlutterData.fontAwesome5Solid(61571);
+  static const IconData camera_retro =
+      IconsFlutterData.fontAwesome5Solid(61571);
   static const IconData camera = IconsFlutterData.fontAwesome5Solid(61488);
   static const IconData campground = IconsFlutterData.fontAwesome5Solid(63163);
   static const IconData candy_cane = IconsFlutterData.fontAwesome5Solid(63366);
@@ -199,15 +212,20 @@ class FontAwesome5Solid {
   static const IconData chart_bar = IconsFlutterData.fontAwesome5Solid(61568);
   static const IconData chart_line = IconsFlutterData.fontAwesome5Solid(61953);
   static const IconData chart_pie = IconsFlutterData.fontAwesome5Solid(61952);
-  static const IconData check_circle = IconsFlutterData.fontAwesome5Solid(61528);
-  static const IconData check_double = IconsFlutterData.fontAwesome5Solid(62816);
-  static const IconData check_square = IconsFlutterData.fontAwesome5Solid(61770);
+  static const IconData check_circle =
+      IconsFlutterData.fontAwesome5Solid(61528);
+  static const IconData check_double =
+      IconsFlutterData.fontAwesome5Solid(62816);
+  static const IconData check_square =
+      IconsFlutterData.fontAwesome5Solid(61770);
   static const IconData check = IconsFlutterData.fontAwesome5Solid(61452);
   static const IconData cheese = IconsFlutterData.fontAwesome5Solid(63471);
-  static const IconData chess_bishop = IconsFlutterData.fontAwesome5Solid(62522);
+  static const IconData chess_bishop =
+      IconsFlutterData.fontAwesome5Solid(62522);
   static const IconData chess_board = IconsFlutterData.fontAwesome5Solid(62524);
   static const IconData chess_king = IconsFlutterData.fontAwesome5Solid(62527);
-  static const IconData chess_knight = IconsFlutterData.fontAwesome5Solid(62529);
+  static const IconData chess_knight =
+      IconsFlutterData.fontAwesome5Solid(62529);
   static const IconData chess_pawn = IconsFlutterData.fontAwesome5Solid(62531);
   static const IconData chess_queen = IconsFlutterData.fontAwesome5Solid(62533);
   static const IconData chess_rook = IconsFlutterData.fontAwesome5Solid(62535);
@@ -220,14 +238,17 @@ class FontAwesome5Solid {
       IconsFlutterData.fontAwesome5Solid(61752);
   static const IconData chevron_circle_up =
       IconsFlutterData.fontAwesome5Solid(61753);
-  static const IconData chevron_down = IconsFlutterData.fontAwesome5Solid(61560);
-  static const IconData chevron_left = IconsFlutterData.fontAwesome5Solid(61523);
+  static const IconData chevron_down =
+      IconsFlutterData.fontAwesome5Solid(61560);
+  static const IconData chevron_left =
+      IconsFlutterData.fontAwesome5Solid(61523);
   static const IconData chevron_right =
       IconsFlutterData.fontAwesome5Solid(61524);
   static const IconData chevron_up = IconsFlutterData.fontAwesome5Solid(61559);
   static const IconData child = IconsFlutterData.fontAwesome5Solid(61870);
   static const IconData church = IconsFlutterData.fontAwesome5Solid(62749);
-  static const IconData circle_notch = IconsFlutterData.fontAwesome5Solid(61902);
+  static const IconData circle_notch =
+      IconsFlutterData.fontAwesome5Solid(61902);
   static const IconData circle = IconsFlutterData.fontAwesome5Solid(61713);
   static const IconData city = IconsFlutterData.fontAwesome5Solid(63055);
   static const IconData clinic_medical =
@@ -268,7 +289,8 @@ class FontAwesome5Solid {
   static const IconData comment_alt = IconsFlutterData.fontAwesome5Solid(62074);
   static const IconData comment_dollar =
       IconsFlutterData.fontAwesome5Solid(63057);
-  static const IconData comment_dots = IconsFlutterData.fontAwesome5Solid(62637);
+  static const IconData comment_dots =
+      IconsFlutterData.fontAwesome5Solid(62637);
   static const IconData comment_medical =
       IconsFlutterData.fontAwesome5Solid(63477);
   static const IconData comment_slash =
@@ -277,7 +299,8 @@ class FontAwesome5Solid {
   static const IconData comments_dollar =
       IconsFlutterData.fontAwesome5Solid(63059);
   static const IconData comments = IconsFlutterData.fontAwesome5Solid(61574);
-  static const IconData compact_disc = IconsFlutterData.fontAwesome5Solid(62751);
+  static const IconData compact_disc =
+      IconsFlutterData.fontAwesome5Solid(62751);
   static const IconData compass = IconsFlutterData.fontAwesome5Solid(61774);
   static const IconData compress_arrows_alt =
       IconsFlutterData.fontAwesome5Solid(63372);
@@ -304,7 +327,8 @@ class FontAwesome5Solid {
   static const IconData deaf = IconsFlutterData.fontAwesome5Solid(62116);
   static const IconData democrat = IconsFlutterData.fontAwesome5Solid(63303);
   static const IconData desktop = IconsFlutterData.fontAwesome5Solid(61704);
-  static const IconData dharmachakra = IconsFlutterData.fontAwesome5Solid(63061);
+  static const IconData dharmachakra =
+      IconsFlutterData.fontAwesome5Solid(63061);
   static const IconData diagnoses = IconsFlutterData.fontAwesome5Solid(62576);
   static const IconData dice_d20 = IconsFlutterData.fontAwesome5Solid(63183);
   static const IconData dice_d6 = IconsFlutterData.fontAwesome5Solid(63185);
@@ -335,7 +359,8 @@ class FontAwesome5Solid {
   static const IconData drafting_compass =
       IconsFlutterData.fontAwesome5Solid(62824);
   static const IconData dragon = IconsFlutterData.fontAwesome5Solid(63189);
-  static const IconData draw_polygon = IconsFlutterData.fontAwesome5Solid(62958);
+  static const IconData draw_polygon =
+      IconsFlutterData.fontAwesome5Solid(62958);
   static const IconData drum_steelpan =
       IconsFlutterData.fontAwesome5Solid(62826);
   static const IconData drum = IconsFlutterData.fontAwesome5Solid(62825);
@@ -362,7 +387,8 @@ class FontAwesome5Solid {
   static const IconData eraser = IconsFlutterData.fontAwesome5Solid(61741);
   static const IconData ethernet = IconsFlutterData.fontAwesome5Solid(63382);
   static const IconData euro_sign = IconsFlutterData.fontAwesome5Solid(61779);
-  static const IconData exchange_alt = IconsFlutterData.fontAwesome5Solid(62306);
+  static const IconData exchange_alt =
+      IconsFlutterData.fontAwesome5Solid(62306);
   static const IconData exclamation_circle =
       IconsFlutterData.fontAwesome5Solid(61546);
   static const IconData exclamation_triangle =
@@ -380,14 +406,16 @@ class FontAwesome5Solid {
   static const IconData eye = IconsFlutterData.fontAwesome5Solid(61550);
   static const IconData fast_backward =
       IconsFlutterData.fontAwesome5Solid(61513);
-  static const IconData fast_forward = IconsFlutterData.fontAwesome5Solid(61520);
+  static const IconData fast_forward =
+      IconsFlutterData.fontAwesome5Solid(61520);
   static const IconData fax = IconsFlutterData.fontAwesome5Solid(61868);
   static const IconData feather_alt = IconsFlutterData.fontAwesome5Solid(62827);
   static const IconData feather = IconsFlutterData.fontAwesome5Solid(62765);
   static const IconData female = IconsFlutterData.fontAwesome5Solid(61826);
   static const IconData fighter_jet = IconsFlutterData.fontAwesome5Solid(61691);
   static const IconData file_alt = IconsFlutterData.fontAwesome5Solid(61788);
-  static const IconData file_archive = IconsFlutterData.fontAwesome5Solid(61894);
+  static const IconData file_archive =
+      IconsFlutterData.fontAwesome5Solid(61894);
   static const IconData file_audio = IconsFlutterData.fontAwesome5Solid(61895);
   static const IconData file_code = IconsFlutterData.fontAwesome5Solid(61897);
   static const IconData file_contract =
@@ -401,10 +429,12 @@ class FontAwesome5Solid {
   static const IconData file_import = IconsFlutterData.fontAwesome5Solid(62831);
   static const IconData file_invoice_dollar =
       IconsFlutterData.fontAwesome5Solid(62833);
-  static const IconData file_invoice = IconsFlutterData.fontAwesome5Solid(62832);
+  static const IconData file_invoice =
+      IconsFlutterData.fontAwesome5Solid(62832);
   static const IconData file_medical_alt =
       IconsFlutterData.fontAwesome5Solid(62584);
-  static const IconData file_medical = IconsFlutterData.fontAwesome5Solid(62583);
+  static const IconData file_medical =
+      IconsFlutterData.fontAwesome5Solid(62583);
   static const IconData file_pdf = IconsFlutterData.fontAwesome5Solid(61889);
   static const IconData file_powerpoint =
       IconsFlutterData.fontAwesome5Solid(61892);
@@ -434,7 +464,8 @@ class FontAwesome5Solid {
   static const IconData flag = IconsFlutterData.fontAwesome5Solid(61476);
   static const IconData flask = IconsFlutterData.fontAwesome5Solid(61635);
   static const IconData flushed = IconsFlutterData.fontAwesome5Solid(62841);
-  static const IconData folder_minus = IconsFlutterData.fontAwesome5Solid(63069);
+  static const IconData folder_minus =
+      IconsFlutterData.fontAwesome5Solid(63069);
   static const IconData folder_open = IconsFlutterData.fontAwesome5Solid(61564);
   static const IconData folder_plus = IconsFlutterData.fontAwesome5Solid(63070);
   static const IconData folder = IconsFlutterData.fontAwesome5Solid(61563);
@@ -458,7 +489,8 @@ class FontAwesome5Solid {
   static const IconData ghost = IconsFlutterData.fontAwesome5Solid(63202);
   static const IconData gift = IconsFlutterData.fontAwesome5Solid(61547);
   static const IconData gifts = IconsFlutterData.fontAwesome5Solid(63388);
-  static const IconData glass_cheers = IconsFlutterData.fontAwesome5Solid(63391);
+  static const IconData glass_cheers =
+      IconsFlutterData.fontAwesome5Solid(63391);
   static const IconData glass_martini_alt =
       IconsFlutterData.fontAwesome5Solid(62843);
   static const IconData glass_martini =
@@ -466,11 +498,13 @@ class FontAwesome5Solid {
   static const IconData glass_whiskey =
       IconsFlutterData.fontAwesome5Solid(63392);
   static const IconData glasses = IconsFlutterData.fontAwesome5Solid(62768);
-  static const IconData globe_africa = IconsFlutterData.fontAwesome5Solid(62844);
+  static const IconData globe_africa =
+      IconsFlutterData.fontAwesome5Solid(62844);
   static const IconData globe_americas =
       IconsFlutterData.fontAwesome5Solid(62845);
   static const IconData globe_asia = IconsFlutterData.fontAwesome5Solid(62846);
-  static const IconData globe_europe = IconsFlutterData.fontAwesome5Solid(63394);
+  static const IconData globe_europe =
+      IconsFlutterData.fontAwesome5Solid(63394);
   static const IconData globe = IconsFlutterData.fontAwesome5Solid(61612);
   static const IconData golf_ball = IconsFlutterData.fontAwesome5Solid(62544);
   static const IconData gopuram = IconsFlutterData.fontAwesome5Solid(63076);
@@ -478,7 +512,8 @@ class FontAwesome5Solid {
       IconsFlutterData.fontAwesome5Solid(61853);
   static const IconData greater_than_equal =
       IconsFlutterData.fontAwesome5Solid(62770);
-  static const IconData greater_than = IconsFlutterData.fontAwesome5Solid(62769);
+  static const IconData greater_than =
+      IconsFlutterData.fontAwesome5Solid(62769);
   static const IconData grimace = IconsFlutterData.fontAwesome5Solid(62847);
   static const IconData grin_alt = IconsFlutterData.fontAwesome5Solid(62849);
   static const IconData grin_beam_sweat =
@@ -513,7 +548,8 @@ class FontAwesome5Solid {
       IconsFlutterData.fontAwesome5Solid(62654);
   static const IconData hand_holding_usd =
       IconsFlutterData.fontAwesome5Solid(62656);
-  static const IconData hand_holding = IconsFlutterData.fontAwesome5Solid(62653);
+  static const IconData hand_holding =
+      IconsFlutterData.fontAwesome5Solid(62653);
   static const IconData hand_lizard = IconsFlutterData.fontAwesome5Solid(62040);
   static const IconData hand_middle_finger =
       IconsFlutterData.fontAwesome5Solid(63494);
@@ -527,7 +563,8 @@ class FontAwesome5Solid {
       IconsFlutterData.fontAwesome5Solid(61604);
   static const IconData hand_point_up =
       IconsFlutterData.fontAwesome5Solid(61606);
-  static const IconData hand_pointer = IconsFlutterData.fontAwesome5Solid(62042);
+  static const IconData hand_pointer =
+      IconsFlutterData.fontAwesome5Solid(62042);
   static const IconData hand_rock = IconsFlutterData.fontAwesome5Solid(62037);
   static const IconData hand_scissors =
       IconsFlutterData.fontAwesome5Solid(62039);
@@ -547,7 +584,8 @@ class FontAwesome5Solid {
       IconsFlutterData.fontAwesome5Solid(62863);
   static const IconData headphones = IconsFlutterData.fontAwesome5Solid(61477);
   static const IconData headset = IconsFlutterData.fontAwesome5Solid(62864);
-  static const IconData heart_broken = IconsFlutterData.fontAwesome5Solid(63401);
+  static const IconData heart_broken =
+      IconsFlutterData.fontAwesome5Solid(63401);
   static const IconData heart = IconsFlutterData.fontAwesome5Solid(61444);
   static const IconData heartbeat = IconsFlutterData.fontAwesome5Solid(61982);
   static const IconData helicopter = IconsFlutterData.fontAwesome5Solid(62771);
@@ -560,7 +598,8 @@ class FontAwesome5Solid {
   static const IconData home = IconsFlutterData.fontAwesome5Solid(61461);
   static const IconData horse_head = IconsFlutterData.fontAwesome5Solid(63403);
   static const IconData horse = IconsFlutterData.fontAwesome5Solid(63216);
-  static const IconData hospital_alt = IconsFlutterData.fontAwesome5Solid(62589);
+  static const IconData hospital_alt =
+      IconsFlutterData.fontAwesome5Solid(62589);
   static const IconData hospital_symbol =
       IconsFlutterData.fontAwesome5Solid(62590);
   static const IconData hospital = IconsFlutterData.fontAwesome5Solid(61688);
@@ -574,7 +613,8 @@ class FontAwesome5Solid {
   static const IconData hourglass_start =
       IconsFlutterData.fontAwesome5Solid(62033);
   static const IconData hourglass = IconsFlutterData.fontAwesome5Solid(62036);
-  static const IconData house_damage = IconsFlutterData.fontAwesome5Solid(63217);
+  static const IconData house_damage =
+      IconsFlutterData.fontAwesome5Solid(63217);
   static const IconData hryvnia = IconsFlutterData.fontAwesome5Solid(63218);
   static const IconData i_cursor = IconsFlutterData.fontAwesome5Solid(62022);
   static const IconData ice_cream = IconsFlutterData.fontAwesome5Solid(63504);
@@ -612,7 +652,8 @@ class FontAwesome5Solid {
       IconsFlutterData.fontAwesome5Solid(63506);
   static const IconData laptop = IconsFlutterData.fontAwesome5Solid(61705);
   static const IconData laugh_beam = IconsFlutterData.fontAwesome5Solid(62874);
-  static const IconData laugh_squint = IconsFlutterData.fontAwesome5Solid(62875);
+  static const IconData laugh_squint =
+      IconsFlutterData.fontAwesome5Solid(62875);
   static const IconData laugh_wink = IconsFlutterData.fontAwesome5Solid(62876);
   static const IconData laugh = IconsFlutterData.fontAwesome5Solid(62873);
   static const IconData layer_group = IconsFlutterData.fontAwesome5Solid(62973);
@@ -623,7 +664,8 @@ class FontAwesome5Solid {
   static const IconData less_than = IconsFlutterData.fontAwesome5Solid(62774);
   static const IconData level_down_alt =
       IconsFlutterData.fontAwesome5Solid(62398);
-  static const IconData level_up_alt = IconsFlutterData.fontAwesome5Solid(62399);
+  static const IconData level_up_alt =
+      IconsFlutterData.fontAwesome5Solid(62399);
   static const IconData life_ring = IconsFlutterData.fontAwesome5Solid(61901);
   static const IconData lightbulb = IconsFlutterData.fontAwesome5Solid(61675);
   static const IconData link = IconsFlutterData.fontAwesome5Solid(61633);
@@ -645,7 +687,8 @@ class FontAwesome5Solid {
   static const IconData long_arrow_alt_up =
       IconsFlutterData.fontAwesome5Solid(62220);
   static const IconData low_vision = IconsFlutterData.fontAwesome5Solid(62120);
-  static const IconData luggage_cart = IconsFlutterData.fontAwesome5Solid(62877);
+  static const IconData luggage_cart =
+      IconsFlutterData.fontAwesome5Solid(62877);
   static const IconData magic = IconsFlutterData.fontAwesome5Solid(61648);
   static const IconData magnet = IconsFlutterData.fontAwesome5Solid(61558);
   static const IconData mail_bulk = IconsFlutterData.fontAwesome5Solid(63092);
@@ -687,8 +730,10 @@ class FontAwesome5Solid {
       IconsFlutterData.fontAwesome5Solid(61745);
   static const IconData microphone = IconsFlutterData.fontAwesome5Solid(61744);
   static const IconData microscope = IconsFlutterData.fontAwesome5Solid(62992);
-  static const IconData minus_circle = IconsFlutterData.fontAwesome5Solid(61526);
-  static const IconData minus_square = IconsFlutterData.fontAwesome5Solid(61766);
+  static const IconData minus_circle =
+      IconsFlutterData.fontAwesome5Solid(61526);
+  static const IconData minus_square =
+      IconsFlutterData.fontAwesome5Solid(61766);
   static const IconData minus = IconsFlutterData.fontAwesome5Solid(61544);
   static const IconData mitten = IconsFlutterData.fontAwesome5Solid(63413);
   static const IconData mobile_alt = IconsFlutterData.fontAwesome5Solid(62413);
@@ -721,7 +766,8 @@ class FontAwesome5Solid {
   static const IconData not_equal = IconsFlutterData.fontAwesome5Solid(62782);
   static const IconData notes_medical =
       IconsFlutterData.fontAwesome5Solid(62593);
-  static const IconData object_group = IconsFlutterData.fontAwesome5Solid(62023);
+  static const IconData object_group =
+      IconsFlutterData.fontAwesome5Solid(62023);
   static const IconData object_ungroup =
       IconsFlutterData.fontAwesome5Solid(62024);
   static const IconData oil_can = IconsFlutterData.fontAwesome5Solid(62995);
@@ -730,7 +776,8 @@ class FontAwesome5Solid {
   static const IconData outdent = IconsFlutterData.fontAwesome5Solid(61499);
   static const IconData pager = IconsFlutterData.fontAwesome5Solid(63509);
   static const IconData paint_brush = IconsFlutterData.fontAwesome5Solid(61948);
-  static const IconData paint_roller = IconsFlutterData.fontAwesome5Solid(62890);
+  static const IconData paint_roller =
+      IconsFlutterData.fontAwesome5Solid(62890);
   static const IconData palette = IconsFlutterData.fontAwesome5Solid(62783);
   static const IconData pallet = IconsFlutterData.fontAwesome5Solid(62594);
   static const IconData paper_plane = IconsFlutterData.fontAwesome5Solid(61912);
@@ -743,7 +790,8 @@ class FontAwesome5Solid {
   static const IconData pastafarianism =
       IconsFlutterData.fontAwesome5Solid(63099);
   static const IconData paste = IconsFlutterData.fontAwesome5Solid(61674);
-  static const IconData pause_circle = IconsFlutterData.fontAwesome5Solid(62091);
+  static const IconData pause_circle =
+      IconsFlutterData.fontAwesome5Solid(62091);
   static const IconData pause = IconsFlutterData.fontAwesome5Solid(61516);
   static const IconData paw = IconsFlutterData.fontAwesome5Solid(61872);
   static const IconData peace = IconsFlutterData.fontAwesome5Solid(63100);
@@ -753,15 +801,20 @@ class FontAwesome5Solid {
   static const IconData pen_square = IconsFlutterData.fontAwesome5Solid(61771);
   static const IconData pen = IconsFlutterData.fontAwesome5Solid(62212);
   static const IconData pencil_alt = IconsFlutterData.fontAwesome5Solid(62211);
-  static const IconData pencil_ruler = IconsFlutterData.fontAwesome5Solid(62894);
-  static const IconData people_carry = IconsFlutterData.fontAwesome5Solid(62670);
+  static const IconData pencil_ruler =
+      IconsFlutterData.fontAwesome5Solid(62894);
+  static const IconData people_carry =
+      IconsFlutterData.fontAwesome5Solid(62670);
   static const IconData pepper_hot = IconsFlutterData.fontAwesome5Solid(63510);
   static const IconData percent = IconsFlutterData.fontAwesome5Solid(62101);
   static const IconData percentage = IconsFlutterData.fontAwesome5Solid(62785);
-  static const IconData person_booth = IconsFlutterData.fontAwesome5Solid(63318);
+  static const IconData person_booth =
+      IconsFlutterData.fontAwesome5Solid(63318);
   static const IconData phone_slash = IconsFlutterData.fontAwesome5Solid(62429);
-  static const IconData phone_square = IconsFlutterData.fontAwesome5Solid(61592);
-  static const IconData phone_volume = IconsFlutterData.fontAwesome5Solid(62112);
+  static const IconData phone_square =
+      IconsFlutterData.fontAwesome5Solid(61592);
+  static const IconData phone_volume =
+      IconsFlutterData.fontAwesome5Solid(62112);
   static const IconData phone = IconsFlutterData.fontAwesome5Solid(61589);
   static const IconData piggy_bank = IconsFlutterData.fontAwesome5Solid(62675);
   static const IconData pills = IconsFlutterData.fontAwesome5Solid(62596);
@@ -795,12 +848,14 @@ class FontAwesome5Solid {
       IconsFlutterData.fontAwesome5Solid(62598);
   static const IconData prescription_bottle =
       IconsFlutterData.fontAwesome5Solid(62597);
-  static const IconData prescription = IconsFlutterData.fontAwesome5Solid(62897);
+  static const IconData prescription =
+      IconsFlutterData.fontAwesome5Solid(62897);
   static const IconData print = IconsFlutterData.fontAwesome5Solid(61487);
   static const IconData procedures = IconsFlutterData.fontAwesome5Solid(62599);
   static const IconData project_diagram =
       IconsFlutterData.fontAwesome5Solid(62786);
-  static const IconData puzzle_piece = IconsFlutterData.fontAwesome5Solid(61742);
+  static const IconData puzzle_piece =
+      IconsFlutterData.fontAwesome5Solid(61742);
   static const IconData qrcode = IconsFlutterData.fontAwesome5Solid(61481);
   static const IconData question_circle =
       IconsFlutterData.fontAwesome5Solid(61529);
@@ -856,7 +911,8 @@ class FontAwesome5Solid {
       IconsFlutterData.fontAwesome5Solid(63112);
   static const IconData search_location =
       IconsFlutterData.fontAwesome5Solid(63113);
-  static const IconData search_minus = IconsFlutterData.fontAwesome5Solid(61456);
+  static const IconData search_minus =
+      IconsFlutterData.fontAwesome5Solid(61456);
   static const IconData search_plus = IconsFlutterData.fontAwesome5Solid(61454);
   static const IconData search = IconsFlutterData.fontAwesome5Solid(61442);
   static const IconData seedling = IconsFlutterData.fontAwesome5Solid(62680);
@@ -865,7 +921,8 @@ class FontAwesome5Solid {
   static const IconData share_alt_square =
       IconsFlutterData.fontAwesome5Solid(61921);
   static const IconData share_alt = IconsFlutterData.fontAwesome5Solid(61920);
-  static const IconData share_square = IconsFlutterData.fontAwesome5Solid(61773);
+  static const IconData share_square =
+      IconsFlutterData.fontAwesome5Solid(61773);
   static const IconData share = IconsFlutterData.fontAwesome5Solid(61540);
   static const IconData shekel_sign = IconsFlutterData.fontAwesome5Solid(61963);
   static const IconData shield_alt = IconsFlutterData.fontAwesome5Solid(62445);
@@ -873,7 +930,8 @@ class FontAwesome5Solid {
   static const IconData shipping_fast =
       IconsFlutterData.fontAwesome5Solid(62603);
   static const IconData shoe_prints = IconsFlutterData.fontAwesome5Solid(62795);
-  static const IconData shopping_bag = IconsFlutterData.fontAwesome5Solid(62096);
+  static const IconData shopping_bag =
+      IconsFlutterData.fontAwesome5Solid(62096);
   static const IconData shopping_basket =
       IconsFlutterData.fontAwesome5Solid(62097);
   static const IconData shopping_cart =
@@ -883,7 +941,8 @@ class FontAwesome5Solid {
   static const IconData sign_in_alt = IconsFlutterData.fontAwesome5Solid(62198);
   static const IconData sign_language =
       IconsFlutterData.fontAwesome5Solid(62119);
-  static const IconData sign_out_alt = IconsFlutterData.fontAwesome5Solid(62197);
+  static const IconData sign_out_alt =
+      IconsFlutterData.fontAwesome5Solid(62197);
   static const IconData sign = IconsFlutterData.fontAwesome5Solid(62681);
   static const IconData signal = IconsFlutterData.fontAwesome5Solid(61458);
   static const IconData signature = IconsFlutterData.fontAwesome5Solid(62903);
@@ -906,7 +965,8 @@ class FontAwesome5Solid {
   static const IconData smoking_ban = IconsFlutterData.fontAwesome5Solid(62797);
   static const IconData smoking = IconsFlutterData.fontAwesome5Solid(62605);
   static const IconData sms = IconsFlutterData.fontAwesome5Solid(63437);
-  static const IconData snowboarding = IconsFlutterData.fontAwesome5Solid(63438);
+  static const IconData snowboarding =
+      IconsFlutterData.fontAwesome5Solid(63438);
   static const IconData snowflake = IconsFlutterData.fontAwesome5Solid(62172);
   static const IconData snowman = IconsFlutterData.fontAwesome5Solid(63440);
   static const IconData snowplow = IconsFlutterData.fontAwesome5Solid(63442);
@@ -946,11 +1006,13 @@ class FontAwesome5Solid {
   static const IconData star_half = IconsFlutterData.fontAwesome5Solid(61577);
   static const IconData star_of_david =
       IconsFlutterData.fontAwesome5Solid(63130);
-  static const IconData star_of_life = IconsFlutterData.fontAwesome5Solid(63009);
+  static const IconData star_of_life =
+      IconsFlutterData.fontAwesome5Solid(63009);
   static const IconData star = IconsFlutterData.fontAwesome5Solid(61445);
   static const IconData step_backward =
       IconsFlutterData.fontAwesome5Solid(61512);
-  static const IconData step_forward = IconsFlutterData.fontAwesome5Solid(61521);
+  static const IconData step_forward =
+      IconsFlutterData.fontAwesome5Solid(61521);
   static const IconData stethoscope = IconsFlutterData.fontAwesome5Solid(61681);
   static const IconData sticky_note = IconsFlutterData.fontAwesome5Solid(62025);
   static const IconData stop_circle = IconsFlutterData.fontAwesome5Solid(62093);
@@ -979,7 +1041,8 @@ class FontAwesome5Solid {
   static const IconData sync_alt = IconsFlutterData.fontAwesome5Solid(62193);
   static const IconData sync = IconsFlutterData.fontAwesome5Solid(61473);
   static const IconData syringe = IconsFlutterData.fontAwesome5Solid(62606);
-  static const IconData table_tennis = IconsFlutterData.fontAwesome5Solid(62557);
+  static const IconData table_tennis =
+      IconsFlutterData.fontAwesome5Solid(62557);
   static const IconData table = IconsFlutterData.fontAwesome5Solid(61646);
   static const IconData tablet_alt = IconsFlutterData.fontAwesome5Solid(62458);
   static const IconData tablet = IconsFlutterData.fontAwesome5Solid(61706);
@@ -1021,14 +1084,16 @@ class FontAwesome5Solid {
   static const IconData thumbs_up = IconsFlutterData.fontAwesome5Solid(61796);
   static const IconData thumbtack = IconsFlutterData.fontAwesome5Solid(61581);
   static const IconData ticket_alt = IconsFlutterData.fontAwesome5Solid(62463);
-  static const IconData times_circle = IconsFlutterData.fontAwesome5Solid(61527);
+  static const IconData times_circle =
+      IconsFlutterData.fontAwesome5Solid(61527);
   static const IconData times = IconsFlutterData.fontAwesome5Solid(61453);
   static const IconData tint_slash = IconsFlutterData.fontAwesome5Solid(62919);
   static const IconData tint = IconsFlutterData.fontAwesome5Solid(61507);
   static const IconData tired = IconsFlutterData.fontAwesome5Solid(62920);
   static const IconData toggle_off = IconsFlutterData.fontAwesome5Solid(61956);
   static const IconData toggle_on = IconsFlutterData.fontAwesome5Solid(61957);
-  static const IconData toilet_paper = IconsFlutterData.fontAwesome5Solid(63262);
+  static const IconData toilet_paper =
+      IconsFlutterData.fontAwesome5Solid(63262);
   static const IconData toilet = IconsFlutterData.fontAwesome5Solid(63448);
   static const IconData toolbox = IconsFlutterData.fontAwesome5Solid(62802);
   static const IconData tools = IconsFlutterData.fontAwesome5Solid(63449);
@@ -1056,8 +1121,10 @@ class FontAwesome5Solid {
       IconsFlutterData.fontAwesome5Solid(62686);
   static const IconData truck_monster =
       IconsFlutterData.fontAwesome5Solid(63035);
-  static const IconData truck_moving = IconsFlutterData.fontAwesome5Solid(62687);
-  static const IconData truck_pickup = IconsFlutterData.fontAwesome5Solid(63036);
+  static const IconData truck_moving =
+      IconsFlutterData.fontAwesome5Solid(62687);
+  static const IconData truck_pickup =
+      IconsFlutterData.fontAwesome5Solid(63036);
   static const IconData truck = IconsFlutterData.fontAwesome5Solid(61649);
   static const IconData tshirt = IconsFlutterData.fontAwesome5Solid(62803);
   static const IconData tty = IconsFlutterData.fontAwesome5Solid(61924);
@@ -1085,10 +1152,12 @@ class FontAwesome5Solid {
   static const IconData user_clock = IconsFlutterData.fontAwesome5Solid(62717);
   static const IconData user_cog = IconsFlutterData.fontAwesome5Solid(62718);
   static const IconData user_edit = IconsFlutterData.fontAwesome5Solid(62719);
-  static const IconData user_friends = IconsFlutterData.fontAwesome5Solid(62720);
+  static const IconData user_friends =
+      IconsFlutterData.fontAwesome5Solid(62720);
   static const IconData user_graduate =
       IconsFlutterData.fontAwesome5Solid(62721);
-  static const IconData user_injured = IconsFlutterData.fontAwesome5Solid(63272);
+  static const IconData user_injured =
+      IconsFlutterData.fontAwesome5Solid(63272);
   static const IconData user_lock = IconsFlutterData.fontAwesome5Solid(62722);
   static const IconData user_md = IconsFlutterData.fontAwesome5Solid(61680);
   static const IconData user_minus = IconsFlutterData.fontAwesome5Solid(62723);
@@ -1109,7 +1178,8 @@ class FontAwesome5Solid {
   static const IconData utensils = IconsFlutterData.fontAwesome5Solid(62183);
   static const IconData vector_square =
       IconsFlutterData.fontAwesome5Solid(62923);
-  static const IconData venus_double = IconsFlutterData.fontAwesome5Solid(61990);
+  static const IconData venus_double =
+      IconsFlutterData.fontAwesome5Solid(61990);
   static const IconData venus_mars = IconsFlutterData.fontAwesome5Solid(61992);
   static const IconData venus = IconsFlutterData.fontAwesome5Solid(61985);
   static const IconData vial = IconsFlutterData.fontAwesome5Solid(62610);
@@ -1124,7 +1194,8 @@ class FontAwesome5Solid {
   static const IconData volume_off = IconsFlutterData.fontAwesome5Solid(61478);
   static const IconData volume_up = IconsFlutterData.fontAwesome5Solid(61480);
   static const IconData vote_yea = IconsFlutterData.fontAwesome5Solid(63346);
-  static const IconData vr_cardboard = IconsFlutterData.fontAwesome5Solid(63273);
+  static const IconData vr_cardboard =
+      IconsFlutterData.fontAwesome5Solid(63273);
   static const IconData walking = IconsFlutterData.fontAwesome5Solid(62804);
   static const IconData wallet = IconsFlutterData.fontAwesome5Solid(62805);
   static const IconData warehouse = IconsFlutterData.fontAwesome5Solid(62612);
@@ -1135,7 +1206,8 @@ class FontAwesome5Solid {
   static const IconData wheelchair = IconsFlutterData.fontAwesome5Solid(61843);
   static const IconData wifi = IconsFlutterData.fontAwesome5Solid(61931);
   static const IconData wind = IconsFlutterData.fontAwesome5Solid(63278);
-  static const IconData window_close = IconsFlutterData.fontAwesome5Solid(62480);
+  static const IconData window_close =
+      IconsFlutterData.fontAwesome5Solid(62480);
   static const IconData window_maximize =
       IconsFlutterData.fontAwesome5Solid(62160);
   static const IconData window_minimize =

@@ -114,7 +114,8 @@ class FontAwesome {
   static const IconData plus = IconsFlutterData.fontAwesome(61543);
   static const IconData minus = IconsFlutterData.fontAwesome(61544);
   static const IconData asterisk = IconsFlutterData.fontAwesome(61545);
-  static const IconData exclamation_circle = IconsFlutterData.fontAwesome(61546);
+  static const IconData exclamation_circle =
+      IconsFlutterData.fontAwesome(61546);
   static const IconData gift = IconsFlutterData.fontAwesome(61547);
   static const IconData leaf = IconsFlutterData.fontAwesome(61548);
   static const IconData fire = IconsFlutterData.fontAwesome(61549);
@@ -179,7 +180,8 @@ class FontAwesome {
   static const IconData hand_o_up = IconsFlutterData.fontAwesome(61606);
   static const IconData hand_o_down = IconsFlutterData.fontAwesome(61607);
   static const IconData arrow_circle_left = IconsFlutterData.fontAwesome(61608);
-  static const IconData arrow_circle_right = IconsFlutterData.fontAwesome(61609);
+  static const IconData arrow_circle_right =
+      IconsFlutterData.fontAwesome(61609);
   static const IconData arrow_circle_up = IconsFlutterData.fontAwesome(61610);
   static const IconData arrow_circle_down = IconsFlutterData.fontAwesome(61611);
   static const IconData globe = IconsFlutterData.fontAwesome(61612);
@@ -214,7 +216,8 @@ class FontAwesome {
   static const IconData truck = IconsFlutterData.fontAwesome(61649);
   static const IconData pinterest = IconsFlutterData.fontAwesome(61650);
   static const IconData pinterest_square = IconsFlutterData.fontAwesome(61651);
-  static const IconData google_plus_square = IconsFlutterData.fontAwesome(61652);
+  static const IconData google_plus_square =
+      IconsFlutterData.fontAwesome(61652);
   static const IconData google_plus = IconsFlutterData.fontAwesome(61653);
   static const IconData money = IconsFlutterData.fontAwesome(61654);
   static const IconData caret_down = IconsFlutterData.fontAwesome(61655);
@@ -264,7 +267,8 @@ class FontAwesome {
   static const IconData h_square = IconsFlutterData.fontAwesome(61693);
   static const IconData plus_square = IconsFlutterData.fontAwesome(61694);
   static const IconData angle_double_left = IconsFlutterData.fontAwesome(61696);
-  static const IconData angle_double_right = IconsFlutterData.fontAwesome(61697);
+  static const IconData angle_double_right =
+      IconsFlutterData.fontAwesome(61697);
   static const IconData angle_double_up = IconsFlutterData.fontAwesome(61698);
   static const IconData angle_double_down = IconsFlutterData.fontAwesome(61699);
   static const IconData angle_left = IconsFlutterData.fontAwesome(61700);
@@ -448,7 +452,8 @@ class FontAwesome {
   static const IconData google = IconsFlutterData.fontAwesome(61856);
   static const IconData reddit = IconsFlutterData.fontAwesome(61857);
   static const IconData reddit_square = IconsFlutterData.fontAwesome(61858);
-  static const IconData stumbleupon_circle = IconsFlutterData.fontAwesome(61859);
+  static const IconData stumbleupon_circle =
+      IconsFlutterData.fontAwesome(61859);
   static const IconData stumbleupon = IconsFlutterData.fontAwesome(61860);
   static const IconData delicious = IconsFlutterData.fontAwesome(61861);
   static const IconData digg = IconsFlutterData.fontAwesome(61862);
@@ -748,7 +753,8 @@ class FontAwesome {
   static const IconData first_order = IconsFlutterData.fontAwesome(62128);
   static const IconData yoast = IconsFlutterData.fontAwesome(62129);
   static const IconData themeisle = IconsFlutterData.fontAwesome(62130);
-  static const IconData google_plus_circle = IconsFlutterData.fontAwesome(62131);
+  static const IconData google_plus_circle =
+      IconsFlutterData.fontAwesome(62131);
   static const IconData google_plus_official =
       IconsFlutterData.fontAwesome(62131);
   static const IconData fa = IconsFlutterData.fontAwesome(62132);

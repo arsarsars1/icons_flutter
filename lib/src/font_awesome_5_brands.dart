@@ -52,7 +52,8 @@ class FontAwesome5Brands {
   static const IconData blackberry = IconsFlutterData.fontAwesome5Brands(62331);
   static const IconData blogger_b = IconsFlutterData.fontAwesome5Brands(62333);
   static const IconData blogger = IconsFlutterData.fontAwesome5Brands(62332);
-  static const IconData bluetooth_b = IconsFlutterData.fontAwesome5Brands(62100);
+  static const IconData bluetooth_b =
+      IconsFlutterData.fontAwesome5Brands(62100);
   static const IconData bluetooth = IconsFlutterData.fontAwesome5Brands(62099);
   static const IconData btc = IconsFlutterData.fontAwesome5Brands(61786);
   static const IconData buromobelexperte =
@@ -67,7 +68,8 @@ class FontAwesome5Brands {
       IconsFlutterData.fontAwesome5Brands(62486);
   static const IconData cc_diners_club =
       IconsFlutterData.fontAwesome5Brands(62028);
-  static const IconData cc_discover = IconsFlutterData.fontAwesome5Brands(61938);
+  static const IconData cc_discover =
+      IconsFlutterData.fontAwesome5Brands(61938);
   static const IconData cc_jcb = IconsFlutterData.fontAwesome5Brands(62027);
   static const IconData cc_mastercard =
       IconsFlutterData.fontAwesome5Brands(61937);
@@ -174,7 +176,8 @@ class FontAwesome5Brands {
   static const IconData firefox = IconsFlutterData.fontAwesome5Brands(62057);
   static const IconData first_order_alt =
       IconsFlutterData.fontAwesome5Brands(62730);
-  static const IconData first_order = IconsFlutterData.fontAwesome5Brands(62128);
+  static const IconData first_order =
+      IconsFlutterData.fontAwesome5Brands(62128);
   static const IconData firstdraft = IconsFlutterData.fontAwesome5Brands(62369);
   static const IconData flickr = IconsFlutterData.fontAwesome5Brands(61806);
   static const IconData flipboard = IconsFlutterData.fontAwesome5Brands(62541);
@@ -219,16 +222,19 @@ class FontAwesome5Brands {
   static const IconData glide_g = IconsFlutterData.fontAwesome5Brands(62118);
   static const IconData glide = IconsFlutterData.fontAwesome5Brands(62117);
   static const IconData gofore = IconsFlutterData.fontAwesome5Brands(62375);
-  static const IconData goodreads_g = IconsFlutterData.fontAwesome5Brands(62377);
+  static const IconData goodreads_g =
+      IconsFlutterData.fontAwesome5Brands(62377);
   static const IconData goodreads = IconsFlutterData.fontAwesome5Brands(62376);
   static const IconData google_drive =
       IconsFlutterData.fontAwesome5Brands(62378);
-  static const IconData google_play = IconsFlutterData.fontAwesome5Brands(62379);
+  static const IconData google_play =
+      IconsFlutterData.fontAwesome5Brands(62379);
   static const IconData google_plus_g =
       IconsFlutterData.fontAwesome5Brands(61653);
   static const IconData google_plus_square =
       IconsFlutterData.fontAwesome5Brands(61652);
-  static const IconData google_plus = IconsFlutterData.fontAwesome5Brands(62131);
+  static const IconData google_plus =
+      IconsFlutterData.fontAwesome5Brands(62131);
   static const IconData google_wallet =
       IconsFlutterData.fontAwesome5Brands(61934);
   static const IconData google = IconsFlutterData.fontAwesome5Brands(61856);
@@ -239,7 +245,8 @@ class FontAwesome5Brands {
   static const IconData gulp = IconsFlutterData.fontAwesome5Brands(62382);
   static const IconData hacker_news_square =
       IconsFlutterData.fontAwesome5Brands(62383);
-  static const IconData hacker_news = IconsFlutterData.fontAwesome5Brands(61908);
+  static const IconData hacker_news =
+      IconsFlutterData.fontAwesome5Brands(61908);
   static const IconData hackerrank = IconsFlutterData.fontAwesome5Brands(62967);
   static const IconData hips = IconsFlutterData.fontAwesome5Brands(62546);
   static const IconData hire_a_helper =
@@ -257,7 +264,8 @@ class FontAwesome5Brands {
       IconsFlutterData.fontAwesome5Brands(62059);
   static const IconData invision = IconsFlutterData.fontAwesome5Brands(63408);
   static const IconData ioxhost = IconsFlutterData.fontAwesome5Brands(61960);
-  static const IconData itunes_note = IconsFlutterData.fontAwesome5Brands(62389);
+  static const IconData itunes_note =
+      IconsFlutterData.fontAwesome5Brands(62389);
   static const IconData itunes = IconsFlutterData.fontAwesome5Brands(62388);
   static const IconData java = IconsFlutterData.fontAwesome5Brands(62692);
   static const IconData jedi_order = IconsFlutterData.fontAwesome5Brands(62734);
@@ -273,7 +281,8 @@ class FontAwesome5Brands {
   static const IconData keycdn = IconsFlutterData.fontAwesome5Brands(62394);
   static const IconData kickstarter_k =
       IconsFlutterData.fontAwesome5Brands(62396);
-  static const IconData kickstarter = IconsFlutterData.fontAwesome5Brands(62395);
+  static const IconData kickstarter =
+      IconsFlutterData.fontAwesome5Brands(62395);
   static const IconData korvue = IconsFlutterData.fontAwesome5Brands(62511);
   static const IconData laravel = IconsFlutterData.fontAwesome5Brands(62397);
   static const IconData lastfm_square =
@@ -282,14 +291,16 @@ class FontAwesome5Brands {
   static const IconData leanpub = IconsFlutterData.fontAwesome5Brands(61970);
   static const IconData less = IconsFlutterData.fontAwesome5Brands(62493);
   static const IconData line = IconsFlutterData.fontAwesome5Brands(62400);
-  static const IconData linkedin_in = IconsFlutterData.fontAwesome5Brands(61665);
+  static const IconData linkedin_in =
+      IconsFlutterData.fontAwesome5Brands(61665);
   static const IconData linkedin = IconsFlutterData.fontAwesome5Brands(61580);
   static const IconData linode = IconsFlutterData.fontAwesome5Brands(62136);
   static const IconData linux = IconsFlutterData.fontAwesome5Brands(61820);
   static const IconData lyft = IconsFlutterData.fontAwesome5Brands(62403);
   static const IconData magento = IconsFlutterData.fontAwesome5Brands(62404);
   static const IconData mailchimp = IconsFlutterData.fontAwesome5Brands(62878);
-  static const IconData mandalorian = IconsFlutterData.fontAwesome5Brands(62735);
+  static const IconData mandalorian =
+      IconsFlutterData.fontAwesome5Brands(62735);
   static const IconData markdown = IconsFlutterData.fontAwesome5Brands(62991);
   static const IconData mastodon = IconsFlutterData.fontAwesome5Brands(62710);
   static const IconData maxcdn = IconsFlutterData.fontAwesome5Brands(61750);
@@ -315,7 +326,8 @@ class FontAwesome5Brands {
   static const IconData node = IconsFlutterData.fontAwesome5Brands(62489);
   static const IconData npm = IconsFlutterData.fontAwesome5Brands(62420);
   static const IconData ns8 = IconsFlutterData.fontAwesome5Brands(62421);
-  static const IconData nutritionix = IconsFlutterData.fontAwesome5Brands(62422);
+  static const IconData nutritionix =
+      IconsFlutterData.fontAwesome5Brands(62422);
   static const IconData odnoklassniki_square =
       IconsFlutterData.fontAwesome5Brands(62052);
   static const IconData odnoklassniki =
@@ -336,7 +348,8 @@ class FontAwesome5Brands {
   static const IconData penny_arcade =
       IconsFlutterData.fontAwesome5Brands(63236);
   static const IconData periscope = IconsFlutterData.fontAwesome5Brands(62426);
-  static const IconData phabricator = IconsFlutterData.fontAwesome5Brands(62427);
+  static const IconData phabricator =
+      IconsFlutterData.fontAwesome5Brands(62427);
   static const IconData phoenix_framework =
       IconsFlutterData.fontAwesome5Brands(62428);
   static const IconData phoenix_squadron =
@@ -349,11 +362,13 @@ class FontAwesome5Brands {
   static const IconData pied_piper_pp =
       IconsFlutterData.fontAwesome5Brands(61863);
   static const IconData pied_piper = IconsFlutterData.fontAwesome5Brands(62126);
-  static const IconData pinterest_p = IconsFlutterData.fontAwesome5Brands(62001);
+  static const IconData pinterest_p =
+      IconsFlutterData.fontAwesome5Brands(62001);
   static const IconData pinterest_square =
       IconsFlutterData.fontAwesome5Brands(61651);
   static const IconData pinterest = IconsFlutterData.fontAwesome5Brands(61650);
-  static const IconData playstation = IconsFlutterData.fontAwesome5Brands(62431);
+  static const IconData playstation =
+      IconsFlutterData.fontAwesome5Brands(62431);
   static const IconData product_hunt =
       IconsFlutterData.fontAwesome5Brands(62088);
   static const IconData pushed = IconsFlutterData.fontAwesome5Brands(62433);
@@ -366,7 +381,8 @@ class FontAwesome5Brands {
       IconsFlutterData.fontAwesome5Brands(63419);
   static const IconData ravelry = IconsFlutterData.fontAwesome5Brands(62169);
   static const IconData react = IconsFlutterData.fontAwesome5Brands(62491);
-  static const IconData reacteurope = IconsFlutterData.fontAwesome5Brands(63325);
+  static const IconData reacteurope =
+      IconsFlutterData.fontAwesome5Brands(63325);
   static const IconData readme = IconsFlutterData.fontAwesome5Brands(62677);
   static const IconData rebel = IconsFlutterData.fontAwesome5Brands(61904);
   static const IconData red_river = IconsFlutterData.fontAwesome5Brands(62435);
@@ -388,7 +404,8 @@ class FontAwesome5Brands {
   static const IconData sass = IconsFlutterData.fontAwesome5Brands(62494);
   static const IconData schlix = IconsFlutterData.fontAwesome5Brands(62442);
   static const IconData scribd = IconsFlutterData.fontAwesome5Brands(62090);
-  static const IconData searchengin = IconsFlutterData.fontAwesome5Brands(62443);
+  static const IconData searchengin =
+      IconsFlutterData.fontAwesome5Brands(62443);
   static const IconData sellcast = IconsFlutterData.fontAwesome5Brands(62170);
   static const IconData sellsy = IconsFlutterData.fontAwesome5Brands(61971);
   static const IconData servicestack =
@@ -396,7 +413,8 @@ class FontAwesome5Brands {
   static const IconData shirtsinbulk =
       IconsFlutterData.fontAwesome5Brands(61972);
   static const IconData shopware = IconsFlutterData.fontAwesome5Brands(62901);
-  static const IconData simplybuilt = IconsFlutterData.fontAwesome5Brands(61973);
+  static const IconData simplybuilt =
+      IconsFlutterData.fontAwesome5Brands(61973);
   static const IconData sistrix = IconsFlutterData.fontAwesome5Brands(62446);
   static const IconData sith = IconsFlutterData.fontAwesome5Brands(62738);
   static const IconData sketch = IconsFlutterData.fontAwesome5Brands(63430);
@@ -414,7 +432,8 @@ class FontAwesome5Brands {
   static const IconData sourcetree = IconsFlutterData.fontAwesome5Brands(63443);
   static const IconData speakap = IconsFlutterData.fontAwesome5Brands(62451);
   static const IconData spotify = IconsFlutterData.fontAwesome5Brands(61884);
-  static const IconData squarespace = IconsFlutterData.fontAwesome5Brands(62910);
+  static const IconData squarespace =
+      IconsFlutterData.fontAwesome5Brands(62910);
   static const IconData stack_exchange =
       IconsFlutterData.fontAwesome5Brands(61837);
   static const IconData stack_overflow =
@@ -434,8 +453,10 @@ class FontAwesome5Brands {
       IconsFlutterData.fontAwesome5Brands(62456);
   static const IconData stumbleupon_circle =
       IconsFlutterData.fontAwesome5Brands(61859);
-  static const IconData stumbleupon = IconsFlutterData.fontAwesome5Brands(61860);
-  static const IconData superpowers = IconsFlutterData.fontAwesome5Brands(62173);
+  static const IconData stumbleupon =
+      IconsFlutterData.fontAwesome5Brands(61860);
+  static const IconData superpowers =
+      IconsFlutterData.fontAwesome5Brands(62173);
   static const IconData supple = IconsFlutterData.fontAwesome5Brands(62457);
   static const IconData suse = IconsFlutterData.fontAwesome5Brands(63446);
   static const IconData teamspeak = IconsFlutterData.fontAwesome5Brands(62713);
@@ -448,11 +469,13 @@ class FontAwesome5Brands {
       IconsFlutterData.fontAwesome5Brands(63133);
   static const IconData themeco = IconsFlutterData.fontAwesome5Brands(62918);
   static const IconData themeisle = IconsFlutterData.fontAwesome5Brands(62130);
-  static const IconData think_peaks = IconsFlutterData.fontAwesome5Brands(63281);
+  static const IconData think_peaks =
+      IconsFlutterData.fontAwesome5Brands(63281);
   static const IconData trade_federation =
       IconsFlutterData.fontAwesome5Brands(62739);
   static const IconData trello = IconsFlutterData.fontAwesome5Brands(61825);
-  static const IconData tripadvisor = IconsFlutterData.fontAwesome5Brands(62050);
+  static const IconData tripadvisor =
+      IconsFlutterData.fontAwesome5Brands(62050);
   static const IconData tumblr_square =
       IconsFlutterData.fontAwesome5Brands(61812);
   static const IconData tumblr = IconsFlutterData.fontAwesome5Brands(61811);
@@ -464,7 +487,8 @@ class FontAwesome5Brands {
   static const IconData uber = IconsFlutterData.fontAwesome5Brands(62466);
   static const IconData ubuntu = IconsFlutterData.fontAwesome5Brands(63455);
   static const IconData uikit = IconsFlutterData.fontAwesome5Brands(62467);
-  static const IconData uniregistry = IconsFlutterData.fontAwesome5Brands(62468);
+  static const IconData uniregistry =
+      IconsFlutterData.fontAwesome5Brands(62468);
   static const IconData untappd = IconsFlutterData.fontAwesome5Brands(62469);
   static const IconData ups = IconsFlutterData.fontAwesome5Brands(63456);
   static const IconData usb = IconsFlutterData.fontAwesome5Brands(62087);
@@ -491,7 +515,8 @@ class FontAwesome5Brands {
       IconsFlutterData.fontAwesome5Brands(62476);
   static const IconData whatsapp = IconsFlutterData.fontAwesome5Brands(62002);
   static const IconData whmcs = IconsFlutterData.fontAwesome5Brands(62477);
-  static const IconData wikipedia_w = IconsFlutterData.fontAwesome5Brands(62054);
+  static const IconData wikipedia_w =
+      IconsFlutterData.fontAwesome5Brands(62054);
   static const IconData windows = IconsFlutterData.fontAwesome5Brands(61818);
   static const IconData wix = IconsFlutterData.fontAwesome5Brands(62927);
   static const IconData wizards_of_the_coast =
@@ -506,7 +531,8 @@ class FontAwesome5Brands {
   static const IconData wpforms = IconsFlutterData.fontAwesome5Brands(62104);
   static const IconData wpressr = IconsFlutterData.fontAwesome5Brands(62436);
   static const IconData xbox = IconsFlutterData.fontAwesome5Brands(62482);
-  static const IconData xing_square = IconsFlutterData.fontAwesome5Brands(61801);
+  static const IconData xing_square =
+      IconsFlutterData.fontAwesome5Brands(61801);
   static const IconData xing = IconsFlutterData.fontAwesome5Brands(61800);
   static const IconData y_combinator =
       IconsFlutterData.fontAwesome5Brands(62011);

@@ -37,7 +37,8 @@ class WeatherIcons {
   static const IconData wi_hot = IconsFlutterData.weatherIcons(61554);
   static const IconData wi_day_cloudy_high =
       IconsFlutterData.weatherIcons(61565);
-  static const IconData wi_day_light_wind = IconsFlutterData.weatherIcons(61636);
+  static const IconData wi_day_light_wind =
+      IconsFlutterData.weatherIcons(61636);
   static const IconData wi_night_clear = IconsFlutterData.weatherIcons(61486);
   static const IconData wi_night_alt_cloudy =
       IconsFlutterData.weatherIcons(61574);
@@ -45,10 +46,12 @@ class WeatherIcons {
       IconsFlutterData.weatherIcons(61474);
   static const IconData wi_night_alt_cloudy_windy =
       IconsFlutterData.weatherIcons(61475);
-  static const IconData wi_night_alt_hail = IconsFlutterData.weatherIcons(61476);
+  static const IconData wi_night_alt_hail =
+      IconsFlutterData.weatherIcons(61476);
   static const IconData wi_night_alt_lightning =
       IconsFlutterData.weatherIcons(61477);
-  static const IconData wi_night_alt_rain = IconsFlutterData.weatherIcons(61480);
+  static const IconData wi_night_alt_rain =
+      IconsFlutterData.weatherIcons(61480);
   static const IconData wi_night_alt_rain_mix =
       IconsFlutterData.weatherIcons(61478);
   static const IconData wi_night_alt_rain_wind =
@@ -59,7 +62,8 @@ class WeatherIcons {
       IconsFlutterData.weatherIcons(61620);
   static const IconData wi_night_alt_sleet_storm =
       IconsFlutterData.weatherIcons(61546);
-  static const IconData wi_night_alt_snow = IconsFlutterData.weatherIcons(61482);
+  static const IconData wi_night_alt_snow =
+      IconsFlutterData.weatherIcons(61482);
   static const IconData wi_night_alt_snow_thunderstorm =
       IconsFlutterData.weatherIcons(61549);
   static const IconData wi_night_alt_snow_wind =
@@ -82,7 +86,8 @@ class WeatherIcons {
   static const IconData wi_night_partly_cloudy =
       IconsFlutterData.weatherIcons(61571);
   static const IconData wi_night_rain = IconsFlutterData.weatherIcons(61494);
-  static const IconData wi_night_rain_mix = IconsFlutterData.weatherIcons(61492);
+  static const IconData wi_night_rain_mix =
+      IconsFlutterData.weatherIcons(61492);
   static const IconData wi_night_rain_wind =
       IconsFlutterData.weatherIcons(61493);
   static const IconData wi_night_showers = IconsFlutterData.weatherIcons(61495);
@@ -94,7 +99,8 @@ class WeatherIcons {
       IconsFlutterData.weatherIcons(61548);
   static const IconData wi_night_snow_wind =
       IconsFlutterData.weatherIcons(61542);
-  static const IconData wi_night_sprinkle = IconsFlutterData.weatherIcons(61497);
+  static const IconData wi_night_sprinkle =
+      IconsFlutterData.weatherIcons(61497);
   static const IconData wi_night_storm_showers =
       IconsFlutterData.weatherIcons(61498);
   static const IconData wi_night_thunderstorm =
@@ -129,7 +135,8 @@ class WeatherIcons {
   static const IconData wi_raindrops = IconsFlutterData.weatherIcons(61518);
   static const IconData wi_raindrop = IconsFlutterData.weatherIcons(61560);
   static const IconData wi_dust = IconsFlutterData.weatherIcons(61539);
-  static const IconData wi_snowflake_cold = IconsFlutterData.weatherIcons(61558);
+  static const IconData wi_snowflake_cold =
+      IconsFlutterData.weatherIcons(61558);
   static const IconData wi_windy = IconsFlutterData.weatherIcons(61473);
   static const IconData wi_strong_wind = IconsFlutterData.weatherIcons(61520);
   static const IconData wi_sandstorm = IconsFlutterData.weatherIcons(61570);
@@ -147,7 +154,8 @@ class WeatherIcons {
   static const IconData wi_storm_warning = IconsFlutterData.weatherIcons(61646);
   static const IconData wi_hurricane_warning =
       IconsFlutterData.weatherIcons(61647);
-  static const IconData wi_wind_direction = IconsFlutterData.weatherIcons(61617);
+  static const IconData wi_wind_direction =
+      IconsFlutterData.weatherIcons(61617);
   static const IconData wi_alien = IconsFlutterData.weatherIcons(61557);
   static const IconData wi_celsius = IconsFlutterData.weatherIcons(61500);
   static const IconData wi_fahrenheit = IconsFlutterData.weatherIcons(61509);
@@ -328,10 +336,12 @@ class WeatherIcons {
       IconsFlutterData.weatherIcons(61517);
   static const IconData wi_direction_down_right =
       IconsFlutterData.weatherIcons(61576);
-  static const IconData wi_direction_down = IconsFlutterData.weatherIcons(61508);
+  static const IconData wi_direction_down =
+      IconsFlutterData.weatherIcons(61508);
   static const IconData wi_direction_down_left =
       IconsFlutterData.weatherIcons(61507);
-  static const IconData wi_direction_left = IconsFlutterData.weatherIcons(61512);
+  static const IconData wi_direction_left =
+      IconsFlutterData.weatherIcons(61512);
   static const IconData wi_direction_up_left =
       IconsFlutterData.weatherIcons(61575);
   static const IconData wi_wind_beaufort_0 =
@@ -706,7 +716,8 @@ class WeatherIcons {
   static const IconData wi_wu_chanceflurries =
       IconsFlutterData.weatherIcons(61540);
   static const IconData wi_wu_chancerain = IconsFlutterData.weatherIcons(61465);
-  static const IconData wi_wu_chancesleat = IconsFlutterData.weatherIcons(61621);
+  static const IconData wi_wu_chancesleat =
+      IconsFlutterData.weatherIcons(61621);
   static const IconData wi_wu_chancesnow = IconsFlutterData.weatherIcons(61467);
   static const IconData wi_wu_chancetstorms =
       IconsFlutterData.weatherIcons(61470);
@@ -716,10 +727,12 @@ class WeatherIcons {
   static const IconData wi_wu_hazy = IconsFlutterData.weatherIcons(61622);
   static const IconData wi_wu_mostlycloudy =
       IconsFlutterData.weatherIcons(61442);
-  static const IconData wi_wu_mostlysunny = IconsFlutterData.weatherIcons(61453);
+  static const IconData wi_wu_mostlysunny =
+      IconsFlutterData.weatherIcons(61453);
   static const IconData wi_wu_partlycloudy =
       IconsFlutterData.weatherIcons(61442);
-  static const IconData wi_wu_partlysunny = IconsFlutterData.weatherIcons(61453);
+  static const IconData wi_wu_partlysunny =
+      IconsFlutterData.weatherIcons(61453);
   static const IconData wi_wu_rain = IconsFlutterData.weatherIcons(61466);
   static const IconData wi_wu_sleat = IconsFlutterData.weatherIcons(61621);
   static const IconData wi_wu_snow = IconsFlutterData.weatherIcons(61467);

@@ -12,7 +12,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(61443);
   static const IconData access_point_network_off =
       IconsFlutterData.materialCommunityIcons(64445);
-  static const IconData account = IconsFlutterData.materialCommunityIcons(61444);
+  static const IconData account =
+      IconsFlutterData.materialCommunityIcons(61444);
   static const IconData account_alert =
       IconsFlutterData.materialCommunityIcons(61445);
   static const IconData account_alert_outline =
@@ -168,8 +169,10 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(61470);
   static const IconData airplane_takeoff =
       IconsFlutterData.materialCommunityIcons(62933);
-  static const IconData airplay = IconsFlutterData.materialCommunityIcons(61471);
-  static const IconData airport = IconsFlutterData.materialCommunityIcons(63562);
+  static const IconData airplay =
+      IconsFlutterData.materialCommunityIcons(61471);
+  static const IconData airport =
+      IconsFlutterData.materialCommunityIcons(63562);
   static const IconData alarm = IconsFlutterData.materialCommunityIcons(61472);
   static const IconData alarm_bell =
       IconsFlutterData.materialCommunityIcons(63373);
@@ -471,7 +474,8 @@ class MaterialCommunityIcons {
   static const IconData amplifier =
       IconsFlutterData.materialCommunityIcons(61488);
   static const IconData anchor = IconsFlutterData.materialCommunityIcons(61489);
-  static const IconData android = IconsFlutterData.materialCommunityIcons(61490);
+  static const IconData android =
+      IconsFlutterData.materialCommunityIcons(61490);
   static const IconData android_auto =
       IconsFlutterData.materialCommunityIcons(64141);
   static const IconData android_debug_bridge =
@@ -488,7 +492,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63799);
   static const IconData angle_right =
       IconsFlutterData.materialCommunityIcons(63800);
-  static const IconData angular = IconsFlutterData.materialCommunityIcons(63153);
+  static const IconData angular =
+      IconsFlutterData.materialCommunityIcons(63153);
   static const IconData angularjs =
       IconsFlutterData.materialCommunityIcons(63166);
   static const IconData animation =
@@ -533,7 +538,8 @@ class MaterialCommunityIcons {
   static const IconData apps_box =
       IconsFlutterData.materialCommunityIcons(64802);
   static const IconData arch = IconsFlutterData.materialCommunityIcons(63686);
-  static const IconData archive = IconsFlutterData.materialCommunityIcons(61500);
+  static const IconData archive =
+      IconsFlutterData.materialCommunityIcons(61500);
   static const IconData arrange_bring_forward =
       IconsFlutterData.materialCommunityIcons(61501);
   static const IconData arrange_bring_to_front =
@@ -864,7 +870,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(65014);
   static const IconData baguette =
       IconsFlutterData.materialCommunityIcons(65371);
-  static const IconData balloon = IconsFlutterData.materialCommunityIcons(64037);
+  static const IconData balloon =
+      IconsFlutterData.materialCommunityIcons(64037);
   static const IconData ballot = IconsFlutterData.materialCommunityIcons(63944);
   static const IconData ballot_outline =
       IconsFlutterData.materialCommunityIcons(63945);
@@ -872,7 +879,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64533);
   static const IconData ballot_recount_outline =
       IconsFlutterData.materialCommunityIcons(64534);
-  static const IconData bandage = IconsFlutterData.materialCommunityIcons(64907);
+  static const IconData bandage =
+      IconsFlutterData.materialCommunityIcons(64907);
   static const IconData bandcamp =
       IconsFlutterData.materialCommunityIcons(63092);
   static const IconData bank = IconsFlutterData.materialCommunityIcons(61552);
@@ -890,7 +898,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64039);
   static const IconData bank_transfer_out =
       IconsFlutterData.materialCommunityIcons(64040);
-  static const IconData barcode = IconsFlutterData.materialCommunityIcons(61553);
+  static const IconData barcode =
+      IconsFlutterData.materialCommunityIcons(61553);
   static const IconData barcode_scan =
       IconsFlutterData.materialCommunityIcons(61554);
   static const IconData barley = IconsFlutterData.materialCommunityIcons(61555);
@@ -916,7 +925,8 @@ class MaterialCommunityIcons {
   static const IconData basketball_hoop_outline =
       IconsFlutterData.materialCommunityIcons(64536);
   static const IconData bat = IconsFlutterData.materialCommunityIcons(64315);
-  static const IconData battery = IconsFlutterData.materialCommunityIcons(61561);
+  static const IconData battery =
+      IconsFlutterData.materialCommunityIcons(61561);
   static const IconData battery_10 =
       IconsFlutterData.materialCommunityIcons(61562);
   static const IconData battery_10_bluetooth =
@@ -1036,7 +1046,8 @@ class MaterialCommunityIcons {
   static const IconData bee_flower =
       IconsFlutterData.materialCommunityIcons(65474);
   static const IconData beer = IconsFlutterData.materialCommunityIcons(61592);
-  static const IconData behance = IconsFlutterData.materialCommunityIcons(61593);
+  static const IconData behance =
+      IconsFlutterData.materialCommunityIcons(61593);
   static const IconData bell = IconsFlutterData.materialCommunityIcons(61594);
   static const IconData bell_alert =
       IconsFlutterData.materialCommunityIcons(64821);
@@ -1065,7 +1076,8 @@ class MaterialCommunityIcons {
   static const IconData bell_sleep_outline =
       IconsFlutterData.materialCommunityIcons(64146);
   static const IconData beta = IconsFlutterData.materialCommunityIcons(61601);
-  static const IconData betamax = IconsFlutterData.materialCommunityIcons(63946);
+  static const IconData betamax =
+      IconsFlutterData.materialCommunityIcons(63946);
   static const IconData biathlon =
       IconsFlutterData.materialCommunityIcons(65015);
   static const IconData bible = IconsFlutterData.materialCommunityIcons(61602);
@@ -1082,18 +1094,21 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(61607);
   static const IconData bitbucket =
       IconsFlutterData.materialCommunityIcons(61608);
-  static const IconData bitcoin = IconsFlutterData.materialCommunityIcons(63506);
+  static const IconData bitcoin =
+      IconsFlutterData.materialCommunityIcons(63506);
   static const IconData black_mesa =
       IconsFlutterData.materialCommunityIcons(61609);
   static const IconData blackberry =
       IconsFlutterData.materialCommunityIcons(61610);
-  static const IconData blender = IconsFlutterData.materialCommunityIcons(64711);
+  static const IconData blender =
+      IconsFlutterData.materialCommunityIcons(64711);
   static const IconData blender_software =
       IconsFlutterData.materialCommunityIcons(61611);
   static const IconData blinds = IconsFlutterData.materialCommunityIcons(61612);
   static const IconData block_helper =
       IconsFlutterData.materialCommunityIcons(61613);
-  static const IconData blogger = IconsFlutterData.materialCommunityIcons(61614);
+  static const IconData blogger =
+      IconsFlutterData.materialCommunityIcons(61614);
   static const IconData blood_bag =
       IconsFlutterData.materialCommunityIcons(64712);
   static const IconData bluetooth =
@@ -1205,7 +1220,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(65193);
   static const IconData boom_gate_up_outline =
       IconsFlutterData.materialCommunityIcons(65194);
-  static const IconData boombox = IconsFlutterData.materialCommunityIcons(62940);
+  static const IconData boombox =
+      IconsFlutterData.materialCommunityIcons(62940);
   static const IconData bootstrap =
       IconsFlutterData.materialCommunityIcons(63173);
   static const IconData border_all =
@@ -1246,9 +1262,11 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(61650);
   static const IconData bottle_wine =
       IconsFlutterData.materialCommunityIcons(63571);
-  static const IconData bow_tie = IconsFlutterData.materialCommunityIcons(63095);
+  static const IconData bow_tie =
+      IconsFlutterData.materialCommunityIcons(63095);
   static const IconData bowl = IconsFlutterData.materialCommunityIcons(62999);
-  static const IconData bowling = IconsFlutterData.materialCommunityIcons(61651);
+  static const IconData bowling =
+      IconsFlutterData.materialCommunityIcons(61651);
   static const IconData box = IconsFlutterData.materialCommunityIcons(61652);
   static const IconData box_cutter =
       IconsFlutterData.materialCommunityIcons(61653);
@@ -1256,7 +1274,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63031);
   static const IconData boxing_glove =
       IconsFlutterData.materialCommunityIcons(64321);
-  static const IconData braille = IconsFlutterData.materialCommunityIcons(63951);
+  static const IconData braille =
+      IconsFlutterData.materialCommunityIcons(63951);
   static const IconData brain = IconsFlutterData.materialCommunityIcons(63952);
   static const IconData bread_slice =
       IconsFlutterData.materialCommunityIcons(64714);
@@ -1559,12 +1578,14 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64327);
   static const IconData car_electric =
       IconsFlutterData.materialCommunityIcons(64328);
-  static const IconData car_esp = IconsFlutterData.materialCommunityIcons(64549);
+  static const IconData car_esp =
+      IconsFlutterData.materialCommunityIcons(64549);
   static const IconData car_estate =
       IconsFlutterData.materialCommunityIcons(63399);
   static const IconData car_hatchback =
       IconsFlutterData.materialCommunityIcons(63400);
-  static const IconData car_key = IconsFlutterData.materialCommunityIcons(64329);
+  static const IconData car_key =
+      IconsFlutterData.materialCommunityIcons(64329);
   static const IconData car_light_dimmed =
       IconsFlutterData.materialCommunityIcons(64550);
   static const IconData car_light_fog =
@@ -1575,7 +1596,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63692);
   static const IconData car_multiple =
       IconsFlutterData.materialCommunityIcons(64330);
-  static const IconData car_off = IconsFlutterData.materialCommunityIcons(65023);
+  static const IconData car_off =
+      IconsFlutterData.materialCommunityIcons(65023);
   static const IconData car_parking_lights =
       IconsFlutterData.materialCommunityIcons(64831);
   static const IconData car_pickup =
@@ -1598,7 +1620,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64832);
   static const IconData car_wash =
       IconsFlutterData.materialCommunityIcons(61710);
-  static const IconData caravan = IconsFlutterData.materialCommunityIcons(63404);
+  static const IconData caravan =
+      IconsFlutterData.materialCommunityIcons(63404);
   static const IconData card = IconsFlutterData.materialCommunityIcons(64331);
   static const IconData card_bulleted =
       IconsFlutterData.materialCommunityIcons(64332);
@@ -1730,7 +1753,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(65466);
   static const IconData chair_school =
       IconsFlutterData.materialCommunityIcons(61733);
-  static const IconData charity = IconsFlutterData.materialCommunityIcons(64555);
+  static const IconData charity =
+      IconsFlutterData.materialCommunityIcons(64555);
   static const IconData chart_arc =
       IconsFlutterData.materialCommunityIcons(61734);
   static const IconData chart_areaspline =
@@ -2136,7 +2160,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(61812);
   static const IconData code_tags_check =
       IconsFlutterData.materialCommunityIcons(63123);
-  static const IconData codepen = IconsFlutterData.materialCommunityIcons(61813);
+  static const IconData codepen =
+      IconsFlutterData.materialCommunityIcons(61813);
   static const IconData coffee = IconsFlutterData.materialCommunityIcons(61814);
   static const IconData coffee_off =
       IconsFlutterData.materialCommunityIcons(65482);
@@ -2150,7 +2175,8 @@ class MaterialCommunityIcons {
   static const IconData cogs = IconsFlutterData.materialCommunityIcons(63701);
   static const IconData coin = IconsFlutterData.materialCommunityIcons(61816);
   static const IconData coins = IconsFlutterData.materialCommunityIcons(63124);
-  static const IconData collage = IconsFlutterData.materialCommunityIcons(63040);
+  static const IconData collage =
+      IconsFlutterData.materialCommunityIcons(63040);
   static const IconData collapse_all =
       IconsFlutterData.materialCommunityIcons(64165);
   static const IconData collapse_all_outline =
@@ -2166,7 +2192,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(65143);
   static const IconData comma_circle_outline =
       IconsFlutterData.materialCommunityIcons(65144);
-  static const IconData comment = IconsFlutterData.materialCommunityIcons(61818);
+  static const IconData comment =
+      IconsFlutterData.materialCommunityIcons(61818);
   static const IconData comment_account =
       IconsFlutterData.materialCommunityIcons(61819);
   static const IconData comment_account_outline =
@@ -2225,15 +2252,18 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63584);
   static const IconData comment_text_outline =
       IconsFlutterData.materialCommunityIcons(61833);
-  static const IconData compare = IconsFlutterData.materialCommunityIcons(61834);
-  static const IconData compass = IconsFlutterData.materialCommunityIcons(61835);
+  static const IconData compare =
+      IconsFlutterData.materialCommunityIcons(61834);
+  static const IconData compass =
+      IconsFlutterData.materialCommunityIcons(61835);
   static const IconData compass_off =
       IconsFlutterData.materialCommunityIcons(64348);
   static const IconData compass_off_outline =
       IconsFlutterData.materialCommunityIcons(64349);
   static const IconData compass_outline =
       IconsFlutterData.materialCommunityIcons(61836);
-  static const IconData console = IconsFlutterData.materialCommunityIcons(61837);
+  static const IconData console =
+      IconsFlutterData.materialCommunityIcons(61837);
   static const IconData console_line =
       IconsFlutterData.materialCommunityIcons(63414);
   static const IconData console_network =
@@ -2252,7 +2282,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64838);
   static const IconData contacts =
       IconsFlutterData.materialCommunityIcons(63178);
-  static const IconData contain = IconsFlutterData.materialCommunityIcons(64061);
+  static const IconData contain =
+      IconsFlutterData.materialCommunityIcons(64061);
   static const IconData contain_end =
       IconsFlutterData.materialCommunityIcons(64062);
   static const IconData contain_start =
@@ -2304,9 +2335,11 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62408);
   static const IconData copyright =
       IconsFlutterData.materialCommunityIcons(62950);
-  static const IconData cordova = IconsFlutterData.materialCommunityIcons(63831);
+  static const IconData cordova =
+      IconsFlutterData.materialCommunityIcons(63831);
   static const IconData corn = IconsFlutterData.materialCommunityIcons(63415);
-  static const IconData counter = IconsFlutterData.materialCommunityIcons(61849);
+  static const IconData counter =
+      IconsFlutterData.materialCommunityIcons(61849);
   static const IconData cow = IconsFlutterData.materialCommunityIcons(61850);
   static const IconData cowboy = IconsFlutterData.materialCommunityIcons(65208);
   static const IconData cpu_32_bit =
@@ -2366,7 +2399,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63489);
   static const IconData credit_card_wireless_outline =
       IconsFlutterData.materialCommunityIcons(64840);
-  static const IconData cricket = IconsFlutterData.materialCommunityIcons(64841);
+  static const IconData cricket =
+      IconsFlutterData.materialCommunityIcons(64841);
   static const IconData crop = IconsFlutterData.materialCommunityIcons(61854);
   static const IconData crop_free =
       IconsFlutterData.materialCommunityIcons(61855);
@@ -2399,15 +2433,18 @@ class MaterialCommunityIcons {
   static const IconData cube_unfolded =
       IconsFlutterData.materialCommunityIcons(61865);
   static const IconData cup = IconsFlutterData.materialCommunityIcons(61866);
-  static const IconData cup_off = IconsFlutterData.materialCommunityIcons(62949);
+  static const IconData cup_off =
+      IconsFlutterData.materialCommunityIcons(62949);
   static const IconData cup_water =
       IconsFlutterData.materialCommunityIcons(61867);
   static const IconData cupboard =
       IconsFlutterData.materialCommunityIcons(65379);
   static const IconData cupboard_outline =
       IconsFlutterData.materialCommunityIcons(65380);
-  static const IconData cupcake = IconsFlutterData.materialCommunityIcons(63833);
-  static const IconData curling = IconsFlutterData.materialCommunityIcons(63586);
+  static const IconData cupcake =
+      IconsFlutterData.materialCommunityIcons(63833);
+  static const IconData curling =
+      IconsFlutterData.materialCommunityIcons(63586);
   static const IconData currency_bdt =
       IconsFlutterData.materialCommunityIcons(63587);
   static const IconData currency_brl =
@@ -2551,21 +2588,25 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(61893);
   static const IconData desktop_tower_monitor =
       IconsFlutterData.materialCommunityIcons(64170);
-  static const IconData details = IconsFlutterData.materialCommunityIcons(61894);
+  static const IconData details =
+      IconsFlutterData.materialCommunityIcons(61894);
   static const IconData dev_to = IconsFlutterData.materialCommunityIcons(64842);
   static const IconData developer_board =
       IconsFlutterData.materialCommunityIcons(63126);
   static const IconData deviantart =
       IconsFlutterData.materialCommunityIcons(61895);
-  static const IconData devices = IconsFlutterData.materialCommunityIcons(65488);
-  static const IconData dialpad = IconsFlutterData.materialCommunityIcons(63004);
+  static const IconData devices =
+      IconsFlutterData.materialCommunityIcons(65488);
+  static const IconData dialpad =
+      IconsFlutterData.materialCommunityIcons(63004);
   static const IconData diameter =
       IconsFlutterData.materialCommunityIcons(64575);
   static const IconData diameter_outline =
       IconsFlutterData.materialCommunityIcons(64576);
   static const IconData diameter_variant =
       IconsFlutterData.materialCommunityIcons(64577);
-  static const IconData diamond = IconsFlutterData.materialCommunityIcons(64358);
+  static const IconData diamond =
+      IconsFlutterData.materialCommunityIcons(64358);
   static const IconData diamond_outline =
       IconsFlutterData.materialCommunityIcons(64359);
   static const IconData diamond_stone =
@@ -2582,9 +2623,12 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63590);
   static const IconData dice_d20 =
       IconsFlutterData.materialCommunityIcons(62954);
-  static const IconData dice_d4 = IconsFlutterData.materialCommunityIcons(62955);
-  static const IconData dice_d6 = IconsFlutterData.materialCommunityIcons(62956);
-  static const IconData dice_d8 = IconsFlutterData.materialCommunityIcons(62957);
+  static const IconData dice_d4 =
+      IconsFlutterData.materialCommunityIcons(62955);
+  static const IconData dice_d6 =
+      IconsFlutterData.materialCommunityIcons(62956);
+  static const IconData dice_d8 =
+      IconsFlutterData.materialCommunityIcons(62957);
   static const IconData dice_multiple =
       IconsFlutterData.materialCommunityIcons(63341);
   static const IconData dictionary =
@@ -2600,7 +2644,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(61905);
   static const IconData disc_player =
       IconsFlutterData.materialCommunityIcons(63839);
-  static const IconData discord = IconsFlutterData.materialCommunityIcons(63087);
+  static const IconData discord =
+      IconsFlutterData.materialCommunityIcons(63087);
   static const IconData dishwasher =
       IconsFlutterData.materialCommunityIcons(64171);
   static const IconData disqus = IconsFlutterData.materialCommunityIcons(61906);
@@ -2653,7 +2698,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63515);
   static const IconData doorbell_video =
       IconsFlutterData.materialCommunityIcons(63592);
-  static const IconData dot_net = IconsFlutterData.materialCommunityIcons(64173);
+  static const IconData dot_net =
+      IconsFlutterData.materialCommunityIcons(64173);
   static const IconData dots_horizontal =
       IconsFlutterData.materialCommunityIcons(61912);
   static const IconData dots_horizontal_circle =
@@ -2687,10 +2733,12 @@ class MaterialCommunityIcons {
   static const IconData drama_masks =
       IconsFlutterData.materialCommunityIcons(64734);
   static const IconData draw = IconsFlutterData.materialCommunityIcons(65382);
-  static const IconData drawing = IconsFlutterData.materialCommunityIcons(61918);
+  static const IconData drawing =
+      IconsFlutterData.materialCommunityIcons(61918);
   static const IconData drawing_box =
       IconsFlutterData.materialCommunityIcons(61919);
-  static const IconData dresser = IconsFlutterData.materialCommunityIcons(65383);
+  static const IconData dresser =
+      IconsFlutterData.materialCommunityIcons(65383);
   static const IconData dresser_outline =
       IconsFlutterData.materialCommunityIcons(65384);
   static const IconData dribbble =
@@ -2698,7 +2746,8 @@ class MaterialCommunityIcons {
   static const IconData dribbble_box =
       IconsFlutterData.materialCommunityIcons(61921);
   static const IconData drone = IconsFlutterData.materialCommunityIcons(61922);
-  static const IconData dropbox = IconsFlutterData.materialCommunityIcons(61923);
+  static const IconData dropbox =
+      IconsFlutterData.materialCommunityIcons(61923);
   static const IconData drupal = IconsFlutterData.materialCommunityIcons(61924);
   static const IconData duck = IconsFlutterData.materialCommunityIcons(61925);
   static const IconData dumbbell =
@@ -2735,7 +2784,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(61932);
   static const IconData elevator =
       IconsFlutterData.materialCommunityIcons(61933);
-  static const IconData ellipse = IconsFlutterData.materialCommunityIcons(65213);
+  static const IconData ellipse =
+      IconsFlutterData.materialCommunityIcons(65213);
   static const IconData ellipse_outline =
       IconsFlutterData.materialCommunityIcons(65214);
   static const IconData email = IconsFlutterData.materialCommunityIcons(61934);
@@ -2913,7 +2963,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64368);
   static const IconData eye_circle_outline =
       IconsFlutterData.materialCommunityIcons(64369);
-  static const IconData eye_off = IconsFlutterData.materialCommunityIcons(61961);
+  static const IconData eye_off =
+      IconsFlutterData.materialCommunityIcons(61961);
   static const IconData eye_off_outline =
       IconsFlutterData.materialCommunityIcons(63184);
   static const IconData eye_outline =
@@ -2947,9 +2998,11 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(61966);
   static const IconData facebook_workplace =
       IconsFlutterData.materialCommunityIcons(64278);
-  static const IconData factory = IconsFlutterData.materialCommunityIcons(61967);
+  static const IconData factory =
+      IconsFlutterData.materialCommunityIcons(61967);
   static const IconData fan = IconsFlutterData.materialCommunityIcons(61968);
-  static const IconData fan_off = IconsFlutterData.materialCommunityIcons(63516);
+  static const IconData fan_off =
+      IconsFlutterData.materialCommunityIcons(63516);
   static const IconData fast_forward =
       IconsFlutterData.materialCommunityIcons(61969);
   static const IconData fast_forward_10 =
@@ -2959,7 +3012,8 @@ class MaterialCommunityIcons {
   static const IconData fast_forward_outline =
       IconsFlutterData.materialCommunityIcons(63185);
   static const IconData fax = IconsFlutterData.materialCommunityIcons(61970);
-  static const IconData feather = IconsFlutterData.materialCommunityIcons(63186);
+  static const IconData feather =
+      IconsFlutterData.materialCommunityIcons(63186);
   static const IconData feature_search =
       IconsFlutterData.materialCommunityIcons(64072);
   static const IconData feature_search_outline =
@@ -3157,7 +3211,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62005);
   static const IconData filter_variant =
       IconsFlutterData.materialCommunityIcons(62006);
-  static const IconData finance = IconsFlutterData.materialCommunityIcons(63518);
+  static const IconData finance =
+      IconsFlutterData.materialCommunityIcons(63518);
   static const IconData find_replace =
       IconsFlutterData.materialCommunityIcons(63187);
   static const IconData fingerprint =
@@ -3171,7 +3226,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63658);
   static const IconData firebase =
       IconsFlutterData.materialCommunityIcons(63846);
-  static const IconData firefox = IconsFlutterData.materialCommunityIcons(62009);
+  static const IconData firefox =
+      IconsFlutterData.materialCommunityIcons(62009);
   static const IconData fireplace =
       IconsFlutterData.materialCommunityIcons(65041);
   static const IconData fireplace_off =
@@ -3564,7 +3620,8 @@ class MaterialCommunityIcons {
   static const IconData forum = IconsFlutterData.materialCommunityIcons(62092);
   static const IconData forum_outline =
       IconsFlutterData.materialCommunityIcons(63521);
-  static const IconData forward = IconsFlutterData.materialCommunityIcons(62093);
+  static const IconData forward =
+      IconsFlutterData.materialCommunityIcons(62093);
   static const IconData forwardburger =
       IconsFlutterData.materialCommunityIcons(64849);
   static const IconData fountain =
@@ -3575,7 +3632,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64751);
   static const IconData foursquare =
       IconsFlutterData.materialCommunityIcons(62094);
-  static const IconData freebsd = IconsFlutterData.materialCommunityIcons(63711);
+  static const IconData freebsd =
+      IconsFlutterData.materialCommunityIcons(63711);
   static const IconData frequently_asked_questions =
       IconsFlutterData.materialCommunityIcons(65233);
   static const IconData fridge = IconsFlutterData.materialCommunityIcons(62096);
@@ -3597,7 +3655,8 @@ class MaterialCommunityIcons {
   static const IconData fuse = IconsFlutterData.materialCommunityIcons(64609);
   static const IconData fuse_blade =
       IconsFlutterData.materialCommunityIcons(64610);
-  static const IconData gamepad = IconsFlutterData.materialCommunityIcons(62102);
+  static const IconData gamepad =
+      IconsFlutterData.materialCommunityIcons(62102);
   static const IconData gamepad_circle =
       IconsFlutterData.materialCommunityIcons(65046);
   static const IconData gamepad_circle_down =
@@ -3660,7 +3719,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63714);
   static const IconData gate_not =
       IconsFlutterData.materialCommunityIcons(63715);
-  static const IconData gate_or = IconsFlutterData.materialCommunityIcons(63716);
+  static const IconData gate_or =
+      IconsFlutterData.materialCommunityIcons(63716);
   static const IconData gate_xnor =
       IconsFlutterData.materialCommunityIcons(63717);
   static const IconData gate_xor =
@@ -3683,7 +3743,8 @@ class MaterialCommunityIcons {
   static const IconData gender_transgender =
       IconsFlutterData.materialCommunityIcons(62111);
   static const IconData gentoo = IconsFlutterData.materialCommunityIcons(63719);
-  static const IconData gesture = IconsFlutterData.materialCommunityIcons(63434);
+  static const IconData gesture =
+      IconsFlutterData.materialCommunityIcons(63434);
   static const IconData gesture_double_tap =
       IconsFlutterData.materialCommunityIcons(63291);
   static const IconData gesture_pinch =
@@ -3741,17 +3802,20 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63605);
   static const IconData glassdoor =
       IconsFlutterData.materialCommunityIcons(62121);
-  static const IconData glasses = IconsFlutterData.materialCommunityIcons(62122);
+  static const IconData glasses =
+      IconsFlutterData.materialCommunityIcons(62122);
   static const IconData globe_model =
       IconsFlutterData.materialCommunityIcons(63720);
   static const IconData gmail = IconsFlutterData.materialCommunityIcons(62123);
   static const IconData gnome = IconsFlutterData.materialCommunityIcons(62124);
-  static const IconData go_kart = IconsFlutterData.materialCommunityIcons(64853);
+  static const IconData go_kart =
+      IconsFlutterData.materialCommunityIcons(64853);
   static const IconData go_kart_track =
       IconsFlutterData.materialCommunityIcons(64854);
   static const IconData gog = IconsFlutterData.materialCommunityIcons(64381);
   static const IconData golf = IconsFlutterData.materialCommunityIcons(63522);
-  static const IconData gondola = IconsFlutterData.materialCommunityIcons(63109);
+  static const IconData gondola =
+      IconsFlutterData.materialCommunityIcons(63109);
   static const IconData goodreads =
       IconsFlutterData.materialCommunityIcons(64855);
   static const IconData google = IconsFlutterData.materialCommunityIcons(62125);
@@ -3822,7 +3886,8 @@ class MaterialCommunityIcons {
   static const IconData gradient =
       IconsFlutterData.materialCommunityIcons(63135);
   static const IconData grain = IconsFlutterData.materialCommunityIcons(64856);
-  static const IconData graphql = IconsFlutterData.materialCommunityIcons(63606);
+  static const IconData graphql =
+      IconsFlutterData.materialCommunityIcons(63606);
   static const IconData grave_stone =
       IconsFlutterData.materialCommunityIcons(64382);
   static const IconData grease_pencil =
@@ -3889,7 +3954,8 @@ class MaterialCommunityIcons {
   static const IconData hazard_lights =
       IconsFlutterData.materialCommunityIcons(64613);
   static const IconData hdr = IconsFlutterData.materialCommunityIcons(64857);
-  static const IconData hdr_off = IconsFlutterData.materialCommunityIcons(64858);
+  static const IconData hdr_off =
+      IconsFlutterData.materialCommunityIcons(64858);
   static const IconData headphones =
       IconsFlutterData.materialCommunityIcons(62155);
   static const IconData headphones_bluetooth =
@@ -3900,7 +3966,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63437);
   static const IconData headphones_settings =
       IconsFlutterData.materialCommunityIcons(62157);
-  static const IconData headset = IconsFlutterData.materialCommunityIcons(62158);
+  static const IconData headset =
+      IconsFlutterData.materialCommunityIcons(62158);
   static const IconData headset_dock =
       IconsFlutterData.materialCommunityIcons(62159);
   static const IconData headset_off =
@@ -3953,7 +4020,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64385);
   static const IconData help_rhombus_outline =
       IconsFlutterData.materialCommunityIcons(64386);
-  static const IconData hexagon = IconsFlutterData.materialCommunityIcons(62168);
+  static const IconData hexagon =
+      IconsFlutterData.materialCommunityIcons(62168);
   static const IconData hexagon_multiple =
       IconsFlutterData.materialCommunityIcons(63200);
   static const IconData hexagon_outline =
@@ -3978,11 +4046,13 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63438);
   static const IconData high_definition_box =
       IconsFlutterData.materialCommunityIcons(63607);
-  static const IconData highway = IconsFlutterData.materialCommunityIcons(62967);
+  static const IconData highway =
+      IconsFlutterData.materialCommunityIcons(62967);
   static const IconData hiking = IconsFlutterData.materialCommunityIcons(64859);
   static const IconData hinduism =
       IconsFlutterData.materialCommunityIcons(63858);
-  static const IconData history = IconsFlutterData.materialCommunityIcons(62170);
+  static const IconData history =
+      IconsFlutterData.materialCommunityIcons(62170);
   static const IconData hockey_puck =
       IconsFlutterData.materialCommunityIcons(63608);
   static const IconData hockey_sticks =
@@ -4074,12 +4144,14 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62177);
   static const IconData hospital_marker =
       IconsFlutterData.materialCommunityIcons(62178);
-  static const IconData hot_tub = IconsFlutterData.materialCommunityIcons(63527);
+  static const IconData hot_tub =
+      IconsFlutterData.materialCommunityIcons(63527);
   static const IconData hotel = IconsFlutterData.materialCommunityIcons(62179);
   static const IconData houzz = IconsFlutterData.materialCommunityIcons(62180);
   static const IconData houzz_box =
       IconsFlutterData.materialCommunityIcons(62181);
-  static const IconData hubspot = IconsFlutterData.materialCommunityIcons(64755);
+  static const IconData hubspot =
+      IconsFlutterData.materialCommunityIcons(64755);
   static const IconData hulu = IconsFlutterData.materialCommunityIcons(63528);
   static const IconData human = IconsFlutterData.materialCommunityIcons(62182);
   static const IconData human_child =
@@ -4118,8 +4190,10 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63299);
   static const IconData ice_cream =
       IconsFlutterData.materialCommunityIcons(63529);
-  static const IconData ice_pop = IconsFlutterData.materialCommunityIcons(65306);
-  static const IconData id_card = IconsFlutterData.materialCommunityIcons(65504);
+  static const IconData ice_pop =
+      IconsFlutterData.materialCommunityIcons(65306);
+  static const IconData id_card =
+      IconsFlutterData.materialCommunityIcons(65504);
   static const IconData identifier =
       IconsFlutterData.materialCommunityIcons(65307);
   static const IconData iframe = IconsFlutterData.materialCommunityIcons(64615);
@@ -4223,7 +4297,8 @@ class MaterialCommunityIcons {
   static const IconData islam = IconsFlutterData.materialCommunityIcons(63864);
   static const IconData itunes = IconsFlutterData.materialCommunityIcons(63094);
   static const IconData jabber = IconsFlutterData.materialCommunityIcons(64945);
-  static const IconData jeepney = IconsFlutterData.materialCommunityIcons(62210);
+  static const IconData jeepney =
+      IconsFlutterData.materialCommunityIcons(62210);
   static const IconData jellyfish =
       IconsFlutterData.materialCommunityIcons(65310);
   static const IconData jellyfish_outline =
@@ -4233,8 +4308,10 @@ class MaterialCommunityIcons {
   static const IconData jsfiddle =
       IconsFlutterData.materialCommunityIcons(62212);
   static const IconData json = IconsFlutterData.materialCommunityIcons(63014);
-  static const IconData judaism = IconsFlutterData.materialCommunityIcons(63865);
-  static const IconData kabaddi = IconsFlutterData.materialCommunityIcons(64867);
+  static const IconData judaism =
+      IconsFlutterData.materialCommunityIcons(63865);
+  static const IconData kabaddi =
+      IconsFlutterData.materialCommunityIcons(64867);
   static const IconData karate = IconsFlutterData.materialCommunityIcons(63531);
   static const IconData keg = IconsFlutterData.materialCommunityIcons(62213);
   static const IconData kettle = IconsFlutterData.materialCommunityIcons(62970);
@@ -4296,7 +4373,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64204);
   static const IconData label_variant_outline =
       IconsFlutterData.materialCommunityIcons(64205);
-  static const IconData ladybug = IconsFlutterData.materialCommunityIcons(63532);
+  static const IconData ladybug =
+      IconsFlutterData.materialCommunityIcons(63532);
   static const IconData lambda = IconsFlutterData.materialCommunityIcons(63015);
   static const IconData lamp = IconsFlutterData.materialCommunityIcons(63156);
   static const IconData lan = IconsFlutterData.materialCommunityIcons(62231);
@@ -4349,7 +4427,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63206);
   static const IconData laptop_windows =
       IconsFlutterData.materialCommunityIcons(62245);
-  static const IconData laravel = IconsFlutterData.materialCommunityIcons(64207);
+  static const IconData laravel =
+      IconsFlutterData.materialCommunityIcons(64207);
   static const IconData lasso = IconsFlutterData.materialCommunityIcons(65312);
   static const IconData lastfm = IconsFlutterData.materialCommunityIcons(62246);
   static const IconData lastpass =
@@ -4384,7 +4463,8 @@ class MaterialCommunityIcons {
   static const IconData leak = IconsFlutterData.materialCommunityIcons(64947);
   static const IconData leak_off =
       IconsFlutterData.materialCommunityIcons(64948);
-  static const IconData led_off = IconsFlutterData.materialCommunityIcons(62251);
+  static const IconData led_off =
+      IconsFlutterData.materialCommunityIcons(62251);
   static const IconData led_on = IconsFlutterData.materialCommunityIcons(62252);
   static const IconData led_outline =
       IconsFlutterData.materialCommunityIcons(62253);
@@ -4400,7 +4480,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63867);
   static const IconData less_than_or_equal =
       IconsFlutterData.materialCommunityIcons(63868);
-  static const IconData library = IconsFlutterData.materialCommunityIcons(62257);
+  static const IconData library =
+      IconsFlutterData.materialCommunityIcons(62257);
   static const IconData library_books =
       IconsFlutterData.materialCommunityIcons(62258);
   static const IconData library_movie =
@@ -4415,7 +4496,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64389);
   static const IconData library_video =
       IconsFlutterData.materialCommunityIcons(64757);
-  static const IconData license = IconsFlutterData.materialCommunityIcons(65507);
+  static const IconData license =
+      IconsFlutterData.materialCommunityIcons(65507);
   static const IconData lifebuoy =
       IconsFlutterData.materialCommunityIcons(63613);
   static const IconData light_switch =
@@ -4462,7 +4544,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63724);
   static const IconData litecoin =
       IconsFlutterData.materialCommunityIcons(64096);
-  static const IconData loading = IconsFlutterData.materialCommunityIcons(63345);
+  static const IconData loading =
+      IconsFlutterData.materialCommunityIcons(63345);
   static const IconData location_enter =
       IconsFlutterData.materialCommunityIcons(65508);
   static const IconData location_exit =
@@ -4510,7 +4593,8 @@ class MaterialCommunityIcons {
   static const IconData magnet = IconsFlutterData.materialCommunityIcons(62279);
   static const IconData magnet_on =
       IconsFlutterData.materialCommunityIcons(62280);
-  static const IconData magnify = IconsFlutterData.materialCommunityIcons(62281);
+  static const IconData magnify =
+      IconsFlutterData.materialCommunityIcons(62281);
   static const IconData magnify_close =
       IconsFlutterData.materialCommunityIcons(63871);
   static const IconData magnify_minus =
@@ -4526,8 +4610,10 @@ class MaterialCommunityIcons {
   static const IconData magnify_plus_outline =
       IconsFlutterData.materialCommunityIcons(63212);
   static const IconData mail = IconsFlutterData.materialCommunityIcons(65240);
-  static const IconData mail_ru = IconsFlutterData.materialCommunityIcons(62284);
-  static const IconData mailbox = IconsFlutterData.materialCommunityIcons(63213);
+  static const IconData mail_ru =
+      IconsFlutterData.materialCommunityIcons(62284);
+  static const IconData mailbox =
+      IconsFlutterData.materialCommunityIcons(63213);
   static const IconData mailbox_open =
       IconsFlutterData.materialCommunityIcons(64868);
   static const IconData mailbox_open_outline =
@@ -4659,11 +4745,13 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64099);
   static const IconData menu_swap_outline =
       IconsFlutterData.materialCommunityIcons(64100);
-  static const IconData menu_up = IconsFlutterData.materialCommunityIcons(62304);
+  static const IconData menu_up =
+      IconsFlutterData.materialCommunityIcons(62304);
   static const IconData menu_up_outline =
       IconsFlutterData.materialCommunityIcons(63158);
   static const IconData merge = IconsFlutterData.materialCommunityIcons(65401);
-  static const IconData message = IconsFlutterData.materialCommunityIcons(62305);
+  static const IconData message =
+      IconsFlutterData.materialCommunityIcons(62305);
   static const IconData message_alert =
       IconsFlutterData.materialCommunityIcons(62306);
   static const IconData message_alert_outline =
@@ -4741,7 +4829,8 @@ class MaterialCommunityIcons {
   static const IconData mine = IconsFlutterData.materialCommunityIcons(64950);
   static const IconData minecraft =
       IconsFlutterData.materialCommunityIcons(62323);
-  static const IconData mini_sd = IconsFlutterData.materialCommunityIcons(64004);
+  static const IconData mini_sd =
+      IconsFlutterData.materialCommunityIcons(64004);
   static const IconData minidisc =
       IconsFlutterData.materialCommunityIcons(64005);
   static const IconData minus = IconsFlutterData.materialCommunityIcons(62324);
@@ -4766,7 +4855,8 @@ class MaterialCommunityIcons {
   static const IconData mixer = IconsFlutterData.materialCommunityIcons(63452);
   static const IconData molecule =
       IconsFlutterData.materialCommunityIcons(64392);
-  static const IconData monitor = IconsFlutterData.materialCommunityIcons(62329);
+  static const IconData monitor =
+      IconsFlutterData.materialCommunityIcons(62329);
   static const IconData monitor_cellphone =
       IconsFlutterData.materialCommunityIcons(63880);
   static const IconData monitor_cellphone_star =
@@ -4921,12 +5011,15 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62351);
   static const IconData navigation =
       IconsFlutterData.materialCommunityIcons(62352);
-  static const IconData near_me = IconsFlutterData.materialCommunityIcons(62925);
+  static const IconData near_me =
+      IconsFlutterData.materialCommunityIcons(62925);
   static const IconData necklace =
       IconsFlutterData.materialCommunityIcons(65320);
   static const IconData needle = IconsFlutterData.materialCommunityIcons(62353);
-  static const IconData netflix = IconsFlutterData.materialCommunityIcons(63301);
-  static const IconData network = IconsFlutterData.materialCommunityIcons(63218);
+  static const IconData netflix =
+      IconsFlutterData.materialCommunityIcons(63301);
+  static const IconData network =
+      IconsFlutterData.materialCommunityIcons(63218);
   static const IconData network_off =
       IconsFlutterData.materialCommunityIcons(64631);
   static const IconData network_off_outline =
@@ -4955,7 +5048,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63740);
   static const IconData network_strength_outline =
       IconsFlutterData.materialCommunityIcons(63741);
-  static const IconData new_box = IconsFlutterData.materialCommunityIcons(62356);
+  static const IconData new_box =
+      IconsFlutterData.materialCommunityIcons(62356);
   static const IconData newspaper =
       IconsFlutterData.materialCommunityIcons(62357);
   static const IconData newspaper_minus =
@@ -4971,10 +5065,12 @@ class MaterialCommunityIcons {
   static const IconData newspaper_variant_outline =
       IconsFlutterData.materialCommunityIcons(983078);
   static const IconData nfc = IconsFlutterData.materialCommunityIcons(62358);
-  static const IconData nfc_off = IconsFlutterData.materialCommunityIcons(65077);
+  static const IconData nfc_off =
+      IconsFlutterData.materialCommunityIcons(65077);
   static const IconData nfc_search_variant =
       IconsFlutterData.materialCommunityIcons(65078);
-  static const IconData nfc_tap = IconsFlutterData.materialCommunityIcons(62359);
+  static const IconData nfc_tap =
+      IconsFlutterData.materialCommunityIcons(62359);
   static const IconData nfc_variant =
       IconsFlutterData.materialCommunityIcons(62360);
   static const IconData nfc_variant_off =
@@ -5015,7 +5111,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63887);
   static const IconData nuke = IconsFlutterData.materialCommunityIcons(63139);
   static const IconData null_ = IconsFlutterData.materialCommunityIcons(63457);
-  static const IconData numeric = IconsFlutterData.materialCommunityIcons(62368);
+  static const IconData numeric =
+      IconsFlutterData.materialCommunityIcons(62368);
   static const IconData numeric_0 = IconsFlutterData.materialCommunityIcons(48);
   static const IconData numeric_0_box =
       IconsFlutterData.materialCommunityIcons(62369);
@@ -5178,8 +5275,10 @@ class MaterialCommunityIcons {
   static const IconData nutrition =
       IconsFlutterData.materialCommunityIcons(62402);
   static const IconData oar = IconsFlutterData.materialCommunityIcons(63099);
-  static const IconData ocarina = IconsFlutterData.materialCommunityIcons(64956);
-  static const IconData octagon = IconsFlutterData.materialCommunityIcons(62403);
+  static const IconData ocarina =
+      IconsFlutterData.materialCommunityIcons(64956);
+  static const IconData octagon =
+      IconsFlutterData.materialCommunityIcons(62403);
   static const IconData octagon_outline =
       IconsFlutterData.materialCommunityIcons(62404);
   static const IconData octagram =
@@ -5200,10 +5299,12 @@ class MaterialCommunityIcons {
   static const IconData one_up = IconsFlutterData.materialCommunityIcons(64393);
   static const IconData onedrive =
       IconsFlutterData.materialCommunityIcons(62410);
-  static const IconData onenote = IconsFlutterData.materialCommunityIcons(63302);
+  static const IconData onenote =
+      IconsFlutterData.materialCommunityIcons(63302);
   static const IconData onepassword =
       IconsFlutterData.materialCommunityIcons(63616);
-  static const IconData opacity = IconsFlutterData.materialCommunityIcons(62924);
+  static const IconData opacity =
+      IconsFlutterData.materialCommunityIcons(62924);
   static const IconData open_in_app =
       IconsFlutterData.materialCommunityIcons(62411);
   static const IconData open_in_new =
@@ -5218,12 +5319,15 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62415);
   static const IconData ornament_variant =
       IconsFlutterData.materialCommunityIcons(62416);
-  static const IconData outlook = IconsFlutterData.materialCommunityIcons(64766);
+  static const IconData outlook =
+      IconsFlutterData.materialCommunityIcons(64766);
   static const IconData overscan =
       IconsFlutterData.materialCommunityIcons(983079);
   static const IconData owl = IconsFlutterData.materialCommunityIcons(62418);
-  static const IconData pac_man = IconsFlutterData.materialCommunityIcons(64395);
-  static const IconData package = IconsFlutterData.materialCommunityIcons(62419);
+  static const IconData pac_man =
+      IconsFlutterData.materialCommunityIcons(64395);
+  static const IconData package =
+      IconsFlutterData.materialCommunityIcons(62419);
   static const IconData package_down =
       IconsFlutterData.materialCommunityIcons(62420);
   static const IconData package_up =
@@ -5256,7 +5360,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64398);
   static const IconData page_previous_outline =
       IconsFlutterData.materialCommunityIcons(64399);
-  static const IconData palette = IconsFlutterData.materialCommunityIcons(62424);
+  static const IconData palette =
+      IconsFlutterData.materialCommunityIcons(62424);
   static const IconData palette_advanced =
       IconsFlutterData.materialCommunityIcons(62425);
   static const IconData palette_outline =
@@ -5284,7 +5389,8 @@ class MaterialCommunityIcons {
   static const IconData pan_vertical =
       IconsFlutterData.materialCommunityIcons(64410);
   static const IconData panda = IconsFlutterData.materialCommunityIcons(62426);
-  static const IconData pandora = IconsFlutterData.materialCommunityIcons(62427);
+  static const IconData pandora =
+      IconsFlutterData.materialCommunityIcons(62427);
   static const IconData panorama =
       IconsFlutterData.materialCommunityIcons(62428);
   static const IconData panorama_fisheye =
@@ -5303,14 +5409,16 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64656);
   static const IconData parachute_outline =
       IconsFlutterData.materialCommunityIcons(64657);
-  static const IconData parking = IconsFlutterData.materialCommunityIcons(62435);
+  static const IconData parking =
+      IconsFlutterData.materialCommunityIcons(62435);
   static const IconData passport =
       IconsFlutterData.materialCommunityIcons(63458);
   static const IconData passport_biometric =
       IconsFlutterData.materialCommunityIcons(64957);
   static const IconData patio_heater =
       IconsFlutterData.materialCommunityIcons(65437);
-  static const IconData patreon = IconsFlutterData.materialCommunityIcons(63617);
+  static const IconData patreon =
+      IconsFlutterData.materialCommunityIcons(63617);
   static const IconData pause = IconsFlutterData.materialCommunityIcons(62436);
   static const IconData pause_circle =
       IconsFlutterData.materialCommunityIcons(62437);
@@ -5321,11 +5429,14 @@ class MaterialCommunityIcons {
   static const IconData pause_octagon_outline =
       IconsFlutterData.materialCommunityIcons(62440);
   static const IconData paw = IconsFlutterData.materialCommunityIcons(62441);
-  static const IconData paw_off = IconsFlutterData.materialCommunityIcons(63063);
+  static const IconData paw_off =
+      IconsFlutterData.materialCommunityIcons(63063);
   static const IconData paypal = IconsFlutterData.materialCommunityIcons(63618);
-  static const IconData pdf_box = IconsFlutterData.materialCommunityIcons(65081);
+  static const IconData pdf_box =
+      IconsFlutterData.materialCommunityIcons(65081);
   static const IconData peace = IconsFlutterData.materialCommunityIcons(63619);
-  static const IconData peanut = IconsFlutterData.materialCommunityIcons(983070);
+  static const IconData peanut =
+      IconsFlutterData.materialCommunityIcons(983070);
   static const IconData peanut_off =
       IconsFlutterData.materialCommunityIcons(983071);
   static const IconData peanut_off_outline =
@@ -5337,7 +5448,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64958);
   static const IconData pen_minus =
       IconsFlutterData.materialCommunityIcons(64959);
-  static const IconData pen_off = IconsFlutterData.materialCommunityIcons(64960);
+  static const IconData pen_off =
+      IconsFlutterData.materialCommunityIcons(64960);
   static const IconData pen_plus =
       IconsFlutterData.materialCommunityIcons(64961);
   static const IconData pen_remove =
@@ -5373,12 +5485,14 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64969);
   static const IconData pencil_remove_outline =
       IconsFlutterData.materialCommunityIcons(64970);
-  static const IconData penguin = IconsFlutterData.materialCommunityIcons(65245);
+  static const IconData penguin =
+      IconsFlutterData.materialCommunityIcons(65245);
   static const IconData pentagon =
       IconsFlutterData.materialCommunityIcons(63231);
   static const IconData pentagon_outline =
       IconsFlutterData.materialCommunityIcons(63232);
-  static const IconData percent = IconsFlutterData.materialCommunityIcons(62448);
+  static const IconData percent =
+      IconsFlutterData.materialCommunityIcons(62448);
   static const IconData periodic_table =
       IconsFlutterData.materialCommunityIcons(63669);
   static const IconData periodic_table_co2 =
@@ -5436,9 +5550,11 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62462);
   static const IconData pi = IconsFlutterData.materialCommunityIcons(62463);
   static const IconData pi_box = IconsFlutterData.materialCommunityIcons(62464);
-  static const IconData pi_hole = IconsFlutterData.materialCommunityIcons(64973);
+  static const IconData pi_hole =
+      IconsFlutterData.materialCommunityIcons(64973);
   static const IconData piano = IconsFlutterData.materialCommunityIcons(63100);
-  static const IconData pickaxe = IconsFlutterData.materialCommunityIcons(63670);
+  static const IconData pickaxe =
+      IconsFlutterData.materialCommunityIcons(63670);
   static const IconData picture_in_picture_bottom_right =
       IconsFlutterData.materialCommunityIcons(65082);
   static const IconData picture_in_picture_bottom_right_outline =
@@ -5458,7 +5574,8 @@ class MaterialCommunityIcons {
   static const IconData pill = IconsFlutterData.materialCommunityIcons(62466);
   static const IconData pillar = IconsFlutterData.materialCommunityIcons(63233);
   static const IconData pin = IconsFlutterData.materialCommunityIcons(62467);
-  static const IconData pin_off = IconsFlutterData.materialCommunityIcons(62468);
+  static const IconData pin_off =
+      IconsFlutterData.materialCommunityIcons(62468);
   static const IconData pin_off_outline =
       IconsFlutterData.materialCommunityIcons(63791);
   static const IconData pin_outline =
@@ -5548,7 +5665,8 @@ class MaterialCommunityIcons {
   static const IconData plus_outline =
       IconsFlutterData.materialCommunityIcons(63236);
   static const IconData pocket = IconsFlutterData.materialCommunityIcons(62492);
-  static const IconData podcast = IconsFlutterData.materialCommunityIcons(63891);
+  static const IconData podcast =
+      IconsFlutterData.materialCommunityIcons(63891);
   static const IconData podium = IconsFlutterData.materialCommunityIcons(64769);
   static const IconData podium_bronze =
       IconsFlutterData.materialCommunityIcons(64770);
@@ -5569,16 +5687,19 @@ class MaterialCommunityIcons {
   static const IconData poll = IconsFlutterData.materialCommunityIcons(62495);
   static const IconData poll_box =
       IconsFlutterData.materialCommunityIcons(62496);
-  static const IconData polymer = IconsFlutterData.materialCommunityIcons(62497);
+  static const IconData polymer =
+      IconsFlutterData.materialCommunityIcons(62497);
   static const IconData pool = IconsFlutterData.materialCommunityIcons(62982);
-  static const IconData popcorn = IconsFlutterData.materialCommunityIcons(62498);
+  static const IconData popcorn =
+      IconsFlutterData.materialCommunityIcons(62498);
   static const IconData post = IconsFlutterData.materialCommunityIcons(983082);
   static const IconData post_outline =
       IconsFlutterData.materialCommunityIcons(983083);
   static const IconData postage_stamp =
       IconsFlutterData.materialCommunityIcons(64663);
   static const IconData pot = IconsFlutterData.materialCommunityIcons(63066);
-  static const IconData pot_mix = IconsFlutterData.materialCommunityIcons(63067);
+  static const IconData pot_mix =
+      IconsFlutterData.materialCommunityIcons(63067);
   static const IconData pound = IconsFlutterData.materialCommunityIcons(62499);
   static const IconData pound_box =
       IconsFlutterData.materialCommunityIcons(62500);
@@ -5617,7 +5738,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62504);
   static const IconData presentation_play =
       IconsFlutterData.materialCommunityIcons(62505);
-  static const IconData printer = IconsFlutterData.materialCommunityIcons(62506);
+  static const IconData printer =
+      IconsFlutterData.materialCommunityIcons(62506);
   static const IconData printer_3d =
       IconsFlutterData.materialCommunityIcons(62507);
   static const IconData printer_3d_nozzle =
@@ -5656,9 +5778,11 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62511);
   static const IconData protocol =
       IconsFlutterData.materialCommunityIcons(65529);
-  static const IconData publish = IconsFlutterData.materialCommunityIcons(63142);
+  static const IconData publish =
+      IconsFlutterData.materialCommunityIcons(63142);
   static const IconData pulse = IconsFlutterData.materialCommunityIcons(62512);
-  static const IconData pumpkin = IconsFlutterData.materialCommunityIcons(64411);
+  static const IconData pumpkin =
+      IconsFlutterData.materialCommunityIcons(64411);
   static const IconData purse = IconsFlutterData.materialCommunityIcons(65337);
   static const IconData purse_outline =
       IconsFlutterData.materialCommunityIcons(65338);
@@ -5719,7 +5843,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(65339);
   static const IconData raspberry_pi =
       IconsFlutterData.materialCommunityIcons(62527);
-  static const IconData ray_end = IconsFlutterData.materialCommunityIcons(62528);
+  static const IconData ray_end =
+      IconsFlutterData.materialCommunityIcons(62528);
   static const IconData ray_end_arrow =
       IconsFlutterData.materialCommunityIcons(62529);
   static const IconData ray_start =
@@ -5732,7 +5857,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62533);
   static const IconData react = IconsFlutterData.materialCommunityIcons(63239);
   static const IconData read = IconsFlutterData.materialCommunityIcons(62535);
-  static const IconData receipt = IconsFlutterData.materialCommunityIcons(62537);
+  static const IconData receipt =
+      IconsFlutterData.materialCommunityIcons(62537);
   static const IconData record = IconsFlutterData.materialCommunityIcons(62538);
   static const IconData record_circle =
       IconsFlutterData.materialCommunityIcons(65247);
@@ -5746,7 +5872,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(65089);
   static const IconData rectangle_outline =
       IconsFlutterData.materialCommunityIcons(65090);
-  static const IconData recycle = IconsFlutterData.materialCommunityIcons(62540);
+  static const IconData recycle =
+      IconsFlutterData.materialCommunityIcons(62540);
   static const IconData reddit = IconsFlutterData.materialCommunityIcons(62541);
   static const IconData redo = IconsFlutterData.materialCommunityIcons(62542);
   static const IconData redo_variant =
@@ -5755,7 +5882,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64013);
   static const IconData reflect_vertical =
       IconsFlutterData.materialCommunityIcons(64014);
-  static const IconData refresh = IconsFlutterData.materialCommunityIcons(62544);
+  static const IconData refresh =
+      IconsFlutterData.materialCommunityIcons(62544);
   static const IconData regex = IconsFlutterData.materialCommunityIcons(62545);
   static const IconData registered_trademark =
       IconsFlutterData.materialCommunityIcons(64102);
@@ -5803,10 +5931,12 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62557);
   static const IconData responsive =
       IconsFlutterData.materialCommunityIcons(62558);
-  static const IconData restart = IconsFlutterData.materialCommunityIcons(63240);
+  static const IconData restart =
+      IconsFlutterData.materialCommunityIcons(63240);
   static const IconData restart_off =
       IconsFlutterData.materialCommunityIcons(64881);
-  static const IconData restore = IconsFlutterData.materialCommunityIcons(63898);
+  static const IconData restore =
+      IconsFlutterData.materialCommunityIcons(63898);
   static const IconData rewind = IconsFlutterData.materialCommunityIcons(62559);
   static const IconData rewind_10 =
       IconsFlutterData.materialCommunityIcons(64774);
@@ -5814,7 +5944,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64882);
   static const IconData rewind_outline =
       IconsFlutterData.materialCommunityIcons(63241);
-  static const IconData rhombus = IconsFlutterData.materialCommunityIcons(63242);
+  static const IconData rhombus =
+      IconsFlutterData.materialCommunityIcons(63242);
   static const IconData rhombus_medium =
       IconsFlutterData.materialCommunityIcons(64015);
   static const IconData rhombus_outline =
@@ -5869,8 +6000,10 @@ class MaterialCommunityIcons {
   static const IconData routes = IconsFlutterData.materialCommunityIcons(62570);
   static const IconData rowing = IconsFlutterData.materialCommunityIcons(62984);
   static const IconData rss = IconsFlutterData.materialCommunityIcons(62571);
-  static const IconData rss_box = IconsFlutterData.materialCommunityIcons(62572);
-  static const IconData rss_off = IconsFlutterData.materialCommunityIcons(65342);
+  static const IconData rss_box =
+      IconsFlutterData.materialCommunityIcons(62572);
+  static const IconData rss_off =
+      IconsFlutterData.materialCommunityIcons(65342);
   static const IconData ruby = IconsFlutterData.materialCommunityIcons(64777);
   static const IconData rugby = IconsFlutterData.materialCommunityIcons(64885);
   static const IconData ruler = IconsFlutterData.materialCommunityIcons(62573);
@@ -5887,7 +6020,8 @@ class MaterialCommunityIcons {
   static const IconData safe = IconsFlutterData.materialCommunityIcons(64105);
   static const IconData safety_goggles =
       IconsFlutterData.materialCommunityIcons(64780);
-  static const IconData sailing = IconsFlutterData.materialCommunityIcons(65253);
+  static const IconData sailing =
+      IconsFlutterData.materialCommunityIcons(65253);
   static const IconData sale = IconsFlutterData.materialCommunityIcons(62575);
   static const IconData salesforce =
       IconsFlutterData.materialCommunityIcons(63629);
@@ -5898,7 +6032,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63752);
   static const IconData satellite_variant =
       IconsFlutterData.materialCommunityIcons(62577);
-  static const IconData sausage = IconsFlutterData.materialCommunityIcons(63673);
+  static const IconData sausage =
+      IconsFlutterData.materialCommunityIcons(63673);
   static const IconData saw_blade =
       IconsFlutterData.materialCommunityIcons(65092);
   static const IconData saxophone =
@@ -5908,7 +6043,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62929);
   static const IconData scale_bathroom =
       IconsFlutterData.materialCommunityIcons(62579);
-  static const IconData scanner = IconsFlutterData.materialCommunityIcons(63146);
+  static const IconData scanner =
+      IconsFlutterData.materialCommunityIcons(63146);
   static const IconData scanner_off =
       IconsFlutterData.materialCommunityIcons(63753);
   static const IconData scatter_plot =
@@ -5975,7 +6111,8 @@ class MaterialCommunityIcons {
   static const IconData seed = IconsFlutterData.materialCommunityIcons(65093);
   static const IconData seed_outline =
       IconsFlutterData.materialCommunityIcons(65094);
-  static const IconData segment = IconsFlutterData.materialCommunityIcons(65256);
+  static const IconData segment =
+      IconsFlutterData.materialCommunityIcons(65256);
   static const IconData select = IconsFlutterData.materialCommunityIcons(62597);
   static const IconData select_all =
       IconsFlutterData.materialCommunityIcons(62598);
@@ -6027,7 +6164,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62609);
   static const IconData server_security =
       IconsFlutterData.materialCommunityIcons(62610);
-  static const IconData set_all = IconsFlutterData.materialCommunityIcons(63351);
+  static const IconData set_all =
+      IconsFlutterData.materialCommunityIcons(63351);
   static const IconData set_center =
       IconsFlutterData.materialCommunityIcons(63352);
   static const IconData set_center_right =
@@ -6140,7 +6278,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64291);
   static const IconData shoe_print =
       IconsFlutterData.materialCommunityIcons(65114);
-  static const IconData shopify = IconsFlutterData.materialCommunityIcons(64221);
+  static const IconData shopify =
+      IconsFlutterData.materialCommunityIcons(64221);
   static const IconData shopping =
       IconsFlutterData.materialCommunityIcons(62618);
   static const IconData shopping_music =
@@ -6155,7 +6294,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63904);
   static const IconData shredder =
       IconsFlutterData.materialCommunityIcons(62620);
-  static const IconData shuffle = IconsFlutterData.materialCommunityIcons(62621);
+  static const IconData shuffle =
+      IconsFlutterData.materialCommunityIcons(62621);
   static const IconData shuffle_disabled =
       IconsFlutterData.materialCommunityIcons(62622);
   static const IconData shuffle_variant =
@@ -6226,10 +6366,12 @@ class MaterialCommunityIcons {
   static const IconData sim = IconsFlutterData.materialCommunityIcons(62631);
   static const IconData sim_alert =
       IconsFlutterData.materialCommunityIcons(62632);
-  static const IconData sim_off = IconsFlutterData.materialCommunityIcons(62633);
+  static const IconData sim_off =
+      IconsFlutterData.materialCommunityIcons(62633);
   static const IconData sina_weibo =
       IconsFlutterData.materialCommunityIcons(64222);
-  static const IconData sitemap = IconsFlutterData.materialCommunityIcons(62634);
+  static const IconData sitemap =
+      IconsFlutterData.materialCommunityIcons(62634);
   static const IconData skate = IconsFlutterData.materialCommunityIcons(64785);
   static const IconData skew_less =
       IconsFlutterData.materialCommunityIcons(64786);
@@ -6286,7 +6428,8 @@ class MaterialCommunityIcons {
   static const IconData smog = IconsFlutterData.materialCommunityIcons(64112);
   static const IconData smoke_detector =
       IconsFlutterData.materialCommunityIcons(62354);
-  static const IconData smoking = IconsFlutterData.materialCommunityIcons(62644);
+  static const IconData smoking =
+      IconsFlutterData.materialCommunityIcons(62644);
   static const IconData smoking_off =
       IconsFlutterData.materialCommunityIcons(62645);
   static const IconData snapchat =
@@ -6297,7 +6440,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(65350);
   static const IconData snowflake_variant =
       IconsFlutterData.materialCommunityIcons(65351);
-  static const IconData snowman = IconsFlutterData.materialCommunityIcons(62647);
+  static const IconData snowman =
+      IconsFlutterData.materialCommunityIcons(62647);
   static const IconData soccer = IconsFlutterData.materialCommunityIcons(62648);
   static const IconData soccer_field =
       IconsFlutterData.materialCommunityIcons(63539);
@@ -6360,7 +6504,8 @@ class MaterialCommunityIcons {
   static const IconData space_invaders =
       IconsFlutterData.materialCommunityIcons(64421);
   static const IconData spade = IconsFlutterData.materialCommunityIcons(65096);
-  static const IconData speaker = IconsFlutterData.materialCommunityIcons(62659);
+  static const IconData speaker =
+      IconsFlutterData.materialCommunityIcons(62659);
   static const IconData speaker_bluetooth =
       IconsFlutterData.materialCommunityIcons(63905);
   static const IconData speaker_multiple =
@@ -6379,7 +6524,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62662);
   static const IconData spider_web =
       IconsFlutterData.materialCommunityIcons(64422);
-  static const IconData spotify = IconsFlutterData.materialCommunityIcons(62663);
+  static const IconData spotify =
+      IconsFlutterData.materialCommunityIcons(62663);
   static const IconData spotlight =
       IconsFlutterData.materialCommunityIcons(62664);
   static const IconData spotlight_beam =
@@ -6421,7 +6567,8 @@ class MaterialCommunityIcons {
   static const IconData stadium_variant =
       IconsFlutterData.materialCommunityIcons(63263);
   static const IconData stairs = IconsFlutterData.materialCommunityIcons(62669);
-  static const IconData stamper = IconsFlutterData.materialCommunityIcons(64789);
+  static const IconData stamper =
+      IconsFlutterData.materialCommunityIcons(64789);
   static const IconData standard_definition =
       IconsFlutterData.materialCommunityIcons(63470);
   static const IconData star = IconsFlutterData.materialCommunityIcons(62670);
@@ -6466,7 +6613,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62680);
   static const IconData stethoscope =
       IconsFlutterData.materialCommunityIcons(62681);
-  static const IconData sticker = IconsFlutterData.materialCommunityIcons(62928);
+  static const IconData sticker =
+      IconsFlutterData.materialCommunityIcons(62928);
   static const IconData sticker_emoji =
       IconsFlutterData.materialCommunityIcons(63364);
   static const IconData stocking =
@@ -6533,11 +6681,13 @@ class MaterialCommunityIcons {
   static const IconData swap_vertical_variant =
       IconsFlutterData.materialCommunityIcons(63681);
   static const IconData swim = IconsFlutterData.materialCommunityIcons(62691);
-  static const IconData switch_ = IconsFlutterData.materialCommunityIcons(62692);
+  static const IconData switch_ =
+      IconsFlutterData.materialCommunityIcons(62692);
   static const IconData sword = IconsFlutterData.materialCommunityIcons(62693);
   static const IconData sword_cross =
       IconsFlutterData.materialCommunityIcons(63366);
-  static const IconData symfony = IconsFlutterData.materialCommunityIcons(64229);
+  static const IconData symfony =
+      IconsFlutterData.materialCommunityIcons(64229);
   static const IconData sync = IconsFlutterData.materialCommunityIcons(62694);
   static const IconData sync_alert =
       IconsFlutterData.materialCommunityIcons(62695);
@@ -6675,7 +6825,8 @@ class MaterialCommunityIcons {
   static const IconData tennis_ball =
       IconsFlutterData.materialCommunityIcons(62727);
   static const IconData tent = IconsFlutterData.materialCommunityIcons(62728);
-  static const IconData terrain = IconsFlutterData.materialCommunityIcons(62729);
+  static const IconData terrain =
+      IconsFlutterData.materialCommunityIcons(62729);
   static const IconData test_tube =
       IconsFlutterData.materialCommunityIcons(63080);
   static const IconData test_tube_empty =
@@ -6693,13 +6844,16 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62730);
   static const IconData text_to_speech_off =
       IconsFlutterData.materialCommunityIcons(62731);
-  static const IconData textbox = IconsFlutterData.materialCommunityIcons(62990);
+  static const IconData textbox =
+      IconsFlutterData.materialCommunityIcons(62990);
   static const IconData textbox_password =
       IconsFlutterData.materialCommunityIcons(63476);
-  static const IconData texture = IconsFlutterData.materialCommunityIcons(62732);
+  static const IconData texture =
+      IconsFlutterData.materialCommunityIcons(62732);
   static const IconData texture_box =
       IconsFlutterData.materialCommunityIcons(983047);
-  static const IconData theater = IconsFlutterData.materialCommunityIcons(62733);
+  static const IconData theater =
+      IconsFlutterData.materialCommunityIcons(62733);
   static const IconData theme_light_dark =
       IconsFlutterData.materialCommunityIcons(62734);
   static const IconData thermometer =
@@ -6770,7 +6924,8 @@ class MaterialCommunityIcons {
   static const IconData timer = IconsFlutterData.materialCommunityIcons(62747);
   static const IconData timer_10 =
       IconsFlutterData.materialCommunityIcons(62748);
-  static const IconData timer_3 = IconsFlutterData.materialCommunityIcons(62749);
+  static const IconData timer_3 =
+      IconsFlutterData.materialCommunityIcons(62749);
   static const IconData timer_off =
       IconsFlutterData.materialCommunityIcons(62750);
   static const IconData timer_sand =
@@ -6792,10 +6947,12 @@ class MaterialCommunityIcons {
   static const IconData toggle_switch_outline =
       IconsFlutterData.materialCommunityIcons(64025);
   static const IconData toilet = IconsFlutterData.materialCommunityIcons(63914);
-  static const IconData toolbox = IconsFlutterData.materialCommunityIcons(63915);
+  static const IconData toolbox =
+      IconsFlutterData.materialCommunityIcons(63915);
   static const IconData toolbox_outline =
       IconsFlutterData.materialCommunityIcons(63916);
-  static const IconData tooltip = IconsFlutterData.materialCommunityIcons(62755);
+  static const IconData tooltip =
+      IconsFlutterData.materialCommunityIcons(62755);
   static const IconData tooltip_account =
       IconsFlutterData.materialCommunityIcons(61452);
   static const IconData tooltip_edit =
@@ -6833,7 +6990,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(63479);
   static const IconData trackpad_lock =
       IconsFlutterData.materialCommunityIcons(63794);
-  static const IconData tractor = IconsFlutterData.materialCommunityIcons(63633);
+  static const IconData tractor =
+      IconsFlutterData.materialCommunityIcons(63633);
   static const IconData trademark =
       IconsFlutterData.materialCommunityIcons(64119);
   static const IconData traffic_light =
@@ -6942,7 +7100,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64690);
   static const IconData turtle = IconsFlutterData.materialCommunityIcons(64691);
   static const IconData twitch = IconsFlutterData.materialCommunityIcons(62787);
-  static const IconData twitter = IconsFlutterData.materialCommunityIcons(62788);
+  static const IconData twitter =
+      IconsFlutterData.materialCommunityIcons(62788);
   static const IconData twitter_box =
       IconsFlutterData.materialCommunityIcons(62789);
   static const IconData twitter_circle =
@@ -6954,11 +7113,13 @@ class MaterialCommunityIcons {
   static const IconData typewriter =
       IconsFlutterData.materialCommunityIcons(65354);
   static const IconData uber = IconsFlutterData.materialCommunityIcons(63304);
-  static const IconData ubisoft = IconsFlutterData.materialCommunityIcons(64438);
+  static const IconData ubisoft =
+      IconsFlutterData.materialCommunityIcons(64438);
   static const IconData ubuntu = IconsFlutterData.materialCommunityIcons(62792);
   static const IconData ultra_high_definition =
       IconsFlutterData.materialCommunityIcons(63480);
-  static const IconData umbraco = IconsFlutterData.materialCommunityIcons(62793);
+  static const IconData umbraco =
+      IconsFlutterData.materialCommunityIcons(62793);
   static const IconData umbrella =
       IconsFlutterData.materialCommunityIcons(62794);
   static const IconData umbrella_closed =
@@ -6976,11 +7137,14 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62799);
   static const IconData unfold_more_vertical =
       IconsFlutterData.materialCommunityIcons(63328);
-  static const IconData ungroup = IconsFlutterData.materialCommunityIcons(62800);
-  static const IconData unicode = IconsFlutterData.materialCommunityIcons(65261);
+  static const IconData ungroup =
+      IconsFlutterData.materialCommunityIcons(62800);
+  static const IconData unicode =
+      IconsFlutterData.materialCommunityIcons(65261);
   static const IconData unity = IconsFlutterData.materialCommunityIcons(63150);
   static const IconData unreal = IconsFlutterData.materialCommunityIcons(63920);
-  static const IconData untappd = IconsFlutterData.materialCommunityIcons(62801);
+  static const IconData untappd =
+      IconsFlutterData.materialCommunityIcons(62801);
   static const IconData update = IconsFlutterData.materialCommunityIcons(63151);
   static const IconData upload = IconsFlutterData.materialCommunityIcons(62802);
   static const IconData upload_multiple =
@@ -7047,7 +7211,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62820);
   static const IconData venmo = IconsFlutterData.materialCommunityIcons(62840);
   static const IconData vhs = IconsFlutterData.materialCommunityIcons(64026);
-  static const IconData vibrate = IconsFlutterData.materialCommunityIcons(62822);
+  static const IconData vibrate =
+      IconsFlutterData.materialCommunityIcons(62822);
   static const IconData vibrate_off =
       IconsFlutterData.materialCommunityIcons(64693);
   static const IconData video = IconsFlutterData.materialCommunityIcons(62823);
@@ -7178,7 +7343,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64031);
   static const IconData vpn = IconsFlutterData.materialCommunityIcons(62850);
   static const IconData vuejs = IconsFlutterData.materialCommunityIcons(63555);
-  static const IconData vuetify = IconsFlutterData.materialCommunityIcons(65104);
+  static const IconData vuetify =
+      IconsFlutterData.materialCommunityIcons(65104);
   static const IconData walk = IconsFlutterData.materialCommunityIcons(62851);
   static const IconData wall = IconsFlutterData.materialCommunityIcons(63485);
   static const IconData wall_sconce =
@@ -7303,10 +7469,13 @@ class MaterialCommunityIcons {
   static const IconData weather_windy_variant =
       IconsFlutterData.materialCommunityIcons(62878);
   static const IconData web = IconsFlutterData.materialCommunityIcons(62879);
-  static const IconData web_box = IconsFlutterData.materialCommunityIcons(65457);
+  static const IconData web_box =
+      IconsFlutterData.materialCommunityIcons(65457);
   static const IconData webcam = IconsFlutterData.materialCommunityIcons(62880);
-  static const IconData webhook = IconsFlutterData.materialCommunityIcons(63023);
-  static const IconData webpack = IconsFlutterData.materialCommunityIcons(63274);
+  static const IconData webhook =
+      IconsFlutterData.materialCommunityIcons(63023);
+  static const IconData webpack =
+      IconsFlutterData.materialCommunityIcons(63274);
   static const IconData wechat = IconsFlutterData.materialCommunityIcons(62993);
   static const IconData weight = IconsFlutterData.materialCommunityIcons(62881);
   static const IconData weight_gram =
@@ -7319,7 +7488,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62883);
   static const IconData wheelchair_accessibility =
       IconsFlutterData.materialCommunityIcons(62884);
-  static const IconData whistle = IconsFlutterData.materialCommunityIcons(63925);
+  static const IconData whistle =
+      IconsFlutterData.materialCommunityIcons(63925);
   static const IconData white_balance_auto =
       IconsFlutterData.materialCommunityIcons(62885);
   static const IconData white_balance_incandescent =
@@ -7328,7 +7498,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62887);
   static const IconData white_balance_sunny =
       IconsFlutterData.materialCommunityIcons(62888);
-  static const IconData widgets = IconsFlutterData.materialCommunityIcons(63275);
+  static const IconData widgets =
+      IconsFlutterData.materialCommunityIcons(63275);
   static const IconData wifi = IconsFlutterData.materialCommunityIcons(62889);
   static const IconData wifi_off =
       IconsFlutterData.materialCommunityIcons(62890);
@@ -7386,7 +7557,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(62897);
   static const IconData window_restore =
       IconsFlutterData.materialCommunityIcons(62898);
-  static const IconData windows = IconsFlutterData.materialCommunityIcons(62899);
+  static const IconData windows =
+      IconsFlutterData.materialCommunityIcons(62899);
   static const IconData windows_classic =
       IconsFlutterData.materialCommunityIcons(64032);
   static const IconData wiper = IconsFlutterData.materialCommunityIcons(64232);
@@ -7403,7 +7575,8 @@ class MaterialCommunityIcons {
       IconsFlutterData.materialCommunityIcons(64444);
   static const IconData wunderlist =
       IconsFlutterData.materialCommunityIcons(62904);
-  static const IconData xamarin = IconsFlutterData.materialCommunityIcons(63556);
+  static const IconData xamarin =
+      IconsFlutterData.materialCommunityIcons(63556);
   static const IconData xamarin_outline =
       IconsFlutterData.materialCommunityIcons(63557);
   static const IconData xaml = IconsFlutterData.materialCommunityIcons(63091);
@@ -7444,7 +7617,8 @@ class MaterialCommunityIcons {
   static const IconData yelp = IconsFlutterData.materialCommunityIcons(62914);
   static const IconData yin_yang =
       IconsFlutterData.materialCommunityIcons(63103);
-  static const IconData youtube = IconsFlutterData.materialCommunityIcons(62915);
+  static const IconData youtube =
+      IconsFlutterData.materialCommunityIcons(62915);
   static const IconData youtube_creator_studio =
       IconsFlutterData.materialCommunityIcons(63558);
   static const IconData youtube_gaming =
@@ -7456,7 +7630,8 @@ class MaterialCommunityIcons {
   static const IconData z_wave = IconsFlutterData.materialCommunityIcons(64233);
   static const IconData zend = IconsFlutterData.materialCommunityIcons(64234);
   static const IconData zigbee = IconsFlutterData.materialCommunityIcons(64797);
-  static const IconData zip_box = IconsFlutterData.materialCommunityIcons(62916);
+  static const IconData zip_box =
+      IconsFlutterData.materialCommunityIcons(62916);
   static const IconData zip_box_outline =
       IconsFlutterData.materialCommunityIcons(983067);
   static const IconData zip_disk =

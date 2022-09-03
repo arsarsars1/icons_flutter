@@ -15,7 +15,8 @@ class Entypo {
   static const IconData aircraft_landing = IconsFlutterData.enTypo(61704);
   static const IconData aircraft_take_off = IconsFlutterData.enTypo(61705);
   static const IconData align_bottom = IconsFlutterData.enTypo(61706);
-  static const IconData align_horizontal_middle = IconsFlutterData.enTypo(61707);
+  static const IconData align_horizontal_middle =
+      IconsFlutterData.enTypo(61707);
   static const IconData align_left = IconsFlutterData.enTypo(61708);
   static const IconData align_right = IconsFlutterData.enTypo(61709);
   static const IconData align_top = IconsFlutterData.enTypo(61710);
@@ -37,7 +38,8 @@ class Entypo {
   static const IconData arrow_up = IconsFlutterData.enTypo(61726);
   static const IconData arrow_with_circle_down = IconsFlutterData.enTypo(61727);
   static const IconData arrow_with_circle_left = IconsFlutterData.enTypo(61728);
-  static const IconData arrow_with_circle_right = IconsFlutterData.enTypo(61729);
+  static const IconData arrow_with_circle_right =
+      IconsFlutterData.enTypo(61729);
   static const IconData arrow_with_circle_up = IconsFlutterData.enTypo(61730);
   static const IconData attachment = IconsFlutterData.enTypo(61731);
   static const IconData awareness_ribbon = IconsFlutterData.enTypo(61732);
@@ -104,7 +106,8 @@ class Entypo {
   static const IconData compass = IconsFlutterData.enTypo(61790);
   static const IconData controller_fast_backward =
       IconsFlutterData.enTypo(61791);
-  static const IconData controller_fast_forward = IconsFlutterData.enTypo(61792);
+  static const IconData controller_fast_forward =
+      IconsFlutterData.enTypo(61792);
   static const IconData controller_jump_to_start =
       IconsFlutterData.enTypo(61793);
   static const IconData controller_next = IconsFlutterData.enTypo(61794);
@@ -362,7 +365,8 @@ class Entypo {
   static const IconData star_outlined = IconsFlutterData.enTypo(62040);
   static const IconData stopwatch = IconsFlutterData.enTypo(62041);
   static const IconData stumbleupon = IconsFlutterData.enTypo(62042);
-  static const IconData stumbleupon_with_circle = IconsFlutterData.enTypo(62043);
+  static const IconData stumbleupon_with_circle =
+      IconsFlutterData.enTypo(62043);
   static const IconData suitcase = IconsFlutterData.enTypo(62044);
   static const IconData swap = IconsFlutterData.enTypo(62045);
   static const IconData swarm = IconsFlutterData.enTypo(62046);

@@ -12,7 +12,8 @@ class Ionicons {
   static const IconData ios_alarm = IconsFlutterData.ionicons(62408);
   static const IconData ios_albums = IconsFlutterData.ionicons(62410);
   static const IconData ios_alert = IconsFlutterData.ionicons(61700);
-  static const IconData ios_american_football = IconsFlutterData.ionicons(61702);
+  static const IconData ios_american_football =
+      IconsFlutterData.ionicons(61702);
   static const IconData ios_analytics = IconsFlutterData.ionicons(62414);
   static const IconData ios_aperture = IconsFlutterData.ionicons(61704);
   static const IconData ios_apps = IconsFlutterData.ionicons(61706);
@@ -217,7 +218,8 @@ class Ionicons {
   static const IconData ios_musical_notes = IconsFlutterData.ionicons(62572);
   static const IconData ios_navigate = IconsFlutterData.ionicons(62574);
   static const IconData ios_notifications = IconsFlutterData.ionicons(61907);
-  static const IconData ios_notifications_off = IconsFlutterData.ionicons(61905);
+  static const IconData ios_notifications_off =
+      IconsFlutterData.ionicons(61905);
   static const IconData ios_notifications_outline =
       IconsFlutterData.ionicons(61747);
   static const IconData ios_nuclear = IconsFlutterData.ionicons(61909);
@@ -401,7 +403,8 @@ class Ionicons {
   static const IconData logo_youtube = IconsFlutterData.ionicons(62287);
   static const IconData md_add = IconsFlutterData.ionicons(62067);
   static const IconData md_add_circle = IconsFlutterData.ionicons(62066);
-  static const IconData md_add_circle_outline = IconsFlutterData.ionicons(61784);
+  static const IconData md_add_circle_outline =
+      IconsFlutterData.ionicons(61784);
   static const IconData md_airplane = IconsFlutterData.ionicons(61786);
   static const IconData md_alarm = IconsFlutterData.ionicons(62068);
   static const IconData md_albums = IconsFlutterData.ionicons(62069);
@@ -572,7 +575,8 @@ class Ionicons {
   static const IconData md_images = IconsFlutterData.ionicons(62223);
   static const IconData md_infinite = IconsFlutterData.ionicons(62224);
   static const IconData md_information = IconsFlutterData.ionicons(62226);
-  static const IconData md_information_circle = IconsFlutterData.ionicons(62225);
+  static const IconData md_information_circle =
+      IconsFlutterData.ionicons(62225);
   static const IconData md_information_circle_outline =
       IconsFlutterData.ionicons(61807);
   static const IconData md_jet = IconsFlutterData.ionicons(62229);

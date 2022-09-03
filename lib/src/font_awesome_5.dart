@@ -25,8 +25,10 @@ class FontAwesome5 {
   static const IconData calendar_plus = IconsFlutterData.fontAwesome5(62065);
   static const IconData calendar_times = IconsFlutterData.fontAwesome5(62067);
   static const IconData calendar = IconsFlutterData.fontAwesome5(61747);
-  static const IconData caret_square_down = IconsFlutterData.fontAwesome5(61776);
-  static const IconData caret_square_left = IconsFlutterData.fontAwesome5(61841);
+  static const IconData caret_square_down =
+      IconsFlutterData.fontAwesome5(61776);
+  static const IconData caret_square_left =
+      IconsFlutterData.fontAwesome5(61841);
   static const IconData caret_square_right =
       IconsFlutterData.fontAwesome5(61778);
   static const IconData caret_square_up = IconsFlutterData.fontAwesome5(61777);
@@ -37,7 +39,8 @@ class FontAwesome5 {
   static const IconData clipboard = IconsFlutterData.fontAwesome5(62248);
   static const IconData clock = IconsFlutterData.fontAwesome5(61463);
   static const IconData clone = IconsFlutterData.fontAwesome5(62029);
-  static const IconData closed_captioning = IconsFlutterData.fontAwesome5(61962);
+  static const IconData closed_captioning =
+      IconsFlutterData.fontAwesome5(61962);
   static const IconData comment_alt = IconsFlutterData.fontAwesome5(62074);
   static const IconData comment_dots = IconsFlutterData.fontAwesome5(62637);
   static const IconData comment = IconsFlutterData.fontAwesome5(61557);
@@ -79,7 +82,8 @@ class FontAwesome5 {
   static const IconData grin_beam_sweat = IconsFlutterData.fontAwesome5(62851);
   static const IconData grin_beam = IconsFlutterData.fontAwesome5(62850);
   static const IconData grin_hearts = IconsFlutterData.fontAwesome5(62852);
-  static const IconData grin_squint_tears = IconsFlutterData.fontAwesome5(62854);
+  static const IconData grin_squint_tears =
+      IconsFlutterData.fontAwesome5(62854);
   static const IconData grin_squint = IconsFlutterData.fontAwesome5(62853);
   static const IconData grin_stars = IconsFlutterData.fontAwesome5(62855);
   static const IconData grin_tears = IconsFlutterData.fontAwesome5(62856);
