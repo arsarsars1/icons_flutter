@@ -18,7 +18,8 @@ class FlutterIcons {
   static const IconData arrow_left_fou = IconsFlutterData.foundation(61706);
   static const IconData arrow_right_fou = IconsFlutterData.foundation(61707);
   static const IconData arrow_up_fou = IconsFlutterData.foundation(61708);
-  static const IconData arrows_compress_fou = IconsFlutterData.foundation(61709);
+  static const IconData arrows_compress_fou =
+      IconsFlutterData.foundation(61709);
   static const IconData arrows_expand_fou = IconsFlutterData.foundation(61710);
   static const IconData arrows_in_fou = IconsFlutterData.foundation(61711);
   static const IconData arrows_out_fou = IconsFlutterData.foundation(61712);
@@ -46,7 +47,8 @@ class FlutterIcons {
   static const IconData camera_fou = IconsFlutterData.foundation(61733);
   static const IconData check_fou = IconsFlutterData.foundation(61734);
   static const IconData checkbox_fou = IconsFlutterData.foundation(61735);
-  static const IconData clipboard_notes_fou = IconsFlutterData.foundation(61736);
+  static const IconData clipboard_notes_fou =
+      IconsFlutterData.foundation(61736);
   static const IconData clipboard_pencil_fou =
       IconsFlutterData.foundation(61737);
   static const IconData clipboard_fou = IconsFlutterData.foundation(61738);
@@ -112,7 +114,8 @@ class FlutterIcons {
   static const IconData link_fou = IconsFlutterData.foundation(61797);
   static const IconData list_bullet_fou = IconsFlutterData.foundation(61798);
   static const IconData list_number_fou = IconsFlutterData.foundation(61799);
-  static const IconData list_thumbnails_fou = IconsFlutterData.foundation(61800);
+  static const IconData list_thumbnails_fou =
+      IconsFlutterData.foundation(61800);
   static const IconData list_fou = IconsFlutterData.foundation(61801);
   static const IconData lock_fou = IconsFlutterData.foundation(61802);
   static const IconData loop_fou = IconsFlutterData.foundation(61803);
@@ -142,9 +145,12 @@ class FlutterIcons {
   static const IconData page_delete_fou = IconsFlutterData.foundation(61826);
   static const IconData page_doc_fou = IconsFlutterData.foundation(61827);
   static const IconData page_edit_fou = IconsFlutterData.foundation(61828);
-  static const IconData page_export_csv_fou = IconsFlutterData.foundation(61829);
-  static const IconData page_export_doc_fou = IconsFlutterData.foundation(61830);
-  static const IconData page_export_pdf_fou = IconsFlutterData.foundation(61831);
+  static const IconData page_export_csv_fou =
+      IconsFlutterData.foundation(61829);
+  static const IconData page_export_doc_fou =
+      IconsFlutterData.foundation(61830);
+  static const IconData page_export_pdf_fou =
+      IconsFlutterData.foundation(61831);
   static const IconData page_export_fou = IconsFlutterData.foundation(61832);
   static const IconData page_filled_fou = IconsFlutterData.foundation(61833);
   static const IconData page_multiple_fou = IconsFlutterData.foundation(61834);
@@ -207,11 +213,14 @@ class FlutterIcons {
   static const IconData social_deviant_art_fou =
       IconsFlutterData.foundation(61886);
   static const IconData social_digg_fou = IconsFlutterData.foundation(61887);
-  static const IconData social_dribbble_fou = IconsFlutterData.foundation(61888);
+  static const IconData social_dribbble_fou =
+      IconsFlutterData.foundation(61888);
   static const IconData social_drive_fou = IconsFlutterData.foundation(61889);
   static const IconData social_dropbox_fou = IconsFlutterData.foundation(61890);
-  static const IconData social_evernote_fou = IconsFlutterData.foundation(61891);
-  static const IconData social_facebook_fou = IconsFlutterData.foundation(61892);
+  static const IconData social_evernote_fou =
+      IconsFlutterData.foundation(61891);
+  static const IconData social_facebook_fou =
+      IconsFlutterData.foundation(61892);
   static const IconData social_flickr_fou = IconsFlutterData.foundation(61893);
   static const IconData social_forrst_fou = IconsFlutterData.foundation(61894);
   static const IconData social_foursquare_fou =
@@ -228,7 +237,8 @@ class FlutterIcons {
       IconsFlutterData.foundation(61901);
   static const IconData social_joomla_fou = IconsFlutterData.foundation(61902);
   static const IconData social_lastfm_fou = IconsFlutterData.foundation(61903);
-  static const IconData social_linkedin_fou = IconsFlutterData.foundation(61904);
+  static const IconData social_linkedin_fou =
+      IconsFlutterData.foundation(61904);
   static const IconData social_medium_fou = IconsFlutterData.foundation(61905);
   static const IconData social_myspace_fou = IconsFlutterData.foundation(61906);
   static const IconData social_orkut_fou = IconsFlutterData.foundation(61907);
@@ -243,7 +253,8 @@ class FlutterIcons {
   static const IconData social_skype_fou = IconsFlutterData.foundation(61914);
   static const IconData social_smashing_mag_fou =
       IconsFlutterData.foundation(61915);
-  static const IconData social_snapchat_fou = IconsFlutterData.foundation(61916);
+  static const IconData social_snapchat_fou =
+      IconsFlutterData.foundation(61916);
   static const IconData social_spotify_fou = IconsFlutterData.foundation(61917);
   static const IconData social_squidoo_fou = IconsFlutterData.foundation(61918);
   static const IconData social_stack_overflow_fou =
@@ -271,7 +282,8 @@ class FlutterIcons {
   static const IconData superscript_fou = IconsFlutterData.foundation(61938);
   static const IconData tablet_landscape_fou =
       IconsFlutterData.foundation(61939);
-  static const IconData tablet_portrait_fou = IconsFlutterData.foundation(61940);
+  static const IconData tablet_portrait_fou =
+      IconsFlutterData.foundation(61940);
   static const IconData target_two_fou = IconsFlutterData.foundation(61941);
   static const IconData target_fou = IconsFlutterData.foundation(61942);
   static const IconData telephone_accessible_fou =
@@ -415,8 +427,10 @@ class FlutterIcons {
   static const IconData ycombinator_zoc = IconsFlutterData.zocial(61793);
   static const IconData yelp_zoc = IconsFlutterData.zocial(61794);
   static const IconData youtube_zoc = IconsFlutterData.zocial(61795);
-  static const IconData address_book_faw5 = IconsFlutterData.fontAwesome5(62137);
-  static const IconData address_card_faw5 = IconsFlutterData.fontAwesome5(62139);
+  static const IconData address_book_faw5 =
+      IconsFlutterData.fontAwesome5(62137);
+  static const IconData address_card_faw5 =
+      IconsFlutterData.fontAwesome5(62139);
   static const IconData angry_faw5 = IconsFlutterData.fontAwesome5(62806);
   static const IconData arrow_alt_circle_down_faw5 =
       IconsFlutterData.fontAwesome5(62296);
@@ -430,7 +444,8 @@ class FlutterIcons {
   static const IconData bell_faw5 = IconsFlutterData.fontAwesome5(61683);
   static const IconData bookmark_faw5 = IconsFlutterData.fontAwesome5(61486);
   static const IconData building_faw5 = IconsFlutterData.fontAwesome5(61869);
-  static const IconData calendar_alt_faw5 = IconsFlutterData.fontAwesome5(61555);
+  static const IconData calendar_alt_faw5 =
+      IconsFlutterData.fontAwesome5(61555);
   static const IconData calendar_check_faw5 =
       IconsFlutterData.fontAwesome5(62068);
   static const IconData calendar_minus_faw5 =
@@ -449,8 +464,10 @@ class FlutterIcons {
   static const IconData caret_square_up_faw5 =
       IconsFlutterData.fontAwesome5(61777);
   static const IconData chart_bar_faw5 = IconsFlutterData.fontAwesome5(61568);
-  static const IconData check_circle_faw5 = IconsFlutterData.fontAwesome5(61528);
-  static const IconData check_square_faw5 = IconsFlutterData.fontAwesome5(61770);
+  static const IconData check_circle_faw5 =
+      IconsFlutterData.fontAwesome5(61528);
+  static const IconData check_square_faw5 =
+      IconsFlutterData.fontAwesome5(61770);
   static const IconData circle_faw5 = IconsFlutterData.fontAwesome5(61713);
   static const IconData clipboard_faw5 = IconsFlutterData.fontAwesome5(62248);
   static const IconData clock_faw5 = IconsFlutterData.fontAwesome5(61463);
@@ -458,7 +475,8 @@ class FlutterIcons {
   static const IconData closed_captioning_faw5 =
       IconsFlutterData.fontAwesome5(61962);
   static const IconData comment_alt_faw5 = IconsFlutterData.fontAwesome5(62074);
-  static const IconData comment_dots_faw5 = IconsFlutterData.fontAwesome5(62637);
+  static const IconData comment_dots_faw5 =
+      IconsFlutterData.fontAwesome5(62637);
   static const IconData comment_faw5 = IconsFlutterData.fontAwesome5(61557);
   static const IconData comments_faw5 = IconsFlutterData.fontAwesome5(61574);
   static const IconData compass_faw5 = IconsFlutterData.fontAwesome5(61774);
@@ -474,7 +492,8 @@ class FlutterIcons {
   static const IconData eye_slash_faw5 = IconsFlutterData.fontAwesome5(61552);
   static const IconData eye_faw5 = IconsFlutterData.fontAwesome5(61550);
   static const IconData file_alt_faw5 = IconsFlutterData.fontAwesome5(61788);
-  static const IconData file_archive_faw5 = IconsFlutterData.fontAwesome5(61894);
+  static const IconData file_archive_faw5 =
+      IconsFlutterData.fontAwesome5(61894);
   static const IconData file_audio_faw5 = IconsFlutterData.fontAwesome5(61895);
   static const IconData file_code_faw5 = IconsFlutterData.fontAwesome5(61897);
   static const IconData file_excel_faw5 = IconsFlutterData.fontAwesome5(61891);
@@ -524,7 +543,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5(61604);
   static const IconData hand_point_up_faw5 =
       IconsFlutterData.fontAwesome5(61606);
-  static const IconData hand_pointer_faw5 = IconsFlutterData.fontAwesome5(62042);
+  static const IconData hand_pointer_faw5 =
+      IconsFlutterData.fontAwesome5(62042);
   static const IconData hand_rock_faw5 = IconsFlutterData.fontAwesome5(62037);
   static const IconData hand_scissors_faw5 =
       IconsFlutterData.fontAwesome5(62039);
@@ -544,7 +564,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5(62872);
   static const IconData kiss_faw5 = IconsFlutterData.fontAwesome5(62870);
   static const IconData laugh_beam_faw5 = IconsFlutterData.fontAwesome5(62874);
-  static const IconData laugh_squint_faw5 = IconsFlutterData.fontAwesome5(62875);
+  static const IconData laugh_squint_faw5 =
+      IconsFlutterData.fontAwesome5(62875);
   static const IconData laugh_wink_faw5 = IconsFlutterData.fontAwesome5(62876);
   static const IconData laugh_faw5 = IconsFlutterData.fontAwesome5(62873);
   static const IconData lemon_faw5 = IconsFlutterData.fontAwesome5(61588);
@@ -556,16 +577,19 @@ class FlutterIcons {
   static const IconData meh_rolling_eyes_faw5 =
       IconsFlutterData.fontAwesome5(62885);
   static const IconData meh_faw5 = IconsFlutterData.fontAwesome5(61722);
-  static const IconData minus_square_faw5 = IconsFlutterData.fontAwesome5(61766);
+  static const IconData minus_square_faw5 =
+      IconsFlutterData.fontAwesome5(61766);
   static const IconData money_bill_alt_faw5 =
       IconsFlutterData.fontAwesome5(62417);
   static const IconData moon_faw5 = IconsFlutterData.fontAwesome5(61830);
   static const IconData newspaper_faw5 = IconsFlutterData.fontAwesome5(61930);
-  static const IconData object_group_faw5 = IconsFlutterData.fontAwesome5(62023);
+  static const IconData object_group_faw5 =
+      IconsFlutterData.fontAwesome5(62023);
   static const IconData object_ungroup_faw5 =
       IconsFlutterData.fontAwesome5(62024);
   static const IconData paper_plane_faw5 = IconsFlutterData.fontAwesome5(61912);
-  static const IconData pause_circle_faw5 = IconsFlutterData.fontAwesome5(62091);
+  static const IconData pause_circle_faw5 =
+      IconsFlutterData.fontAwesome5(62091);
   static const IconData play_circle_faw5 = IconsFlutterData.fontAwesome5(61764);
   static const IconData plus_square_faw5 = IconsFlutterData.fontAwesome5(61694);
   static const IconData question_circle_faw5 =
@@ -574,7 +598,8 @@ class FlutterIcons {
   static const IconData sad_cry_faw5 = IconsFlutterData.fontAwesome5(62899);
   static const IconData sad_tear_faw5 = IconsFlutterData.fontAwesome5(62900);
   static const IconData save_faw5 = IconsFlutterData.fontAwesome5(61639);
-  static const IconData share_square_faw5 = IconsFlutterData.fontAwesome5(61773);
+  static const IconData share_square_faw5 =
+      IconsFlutterData.fontAwesome5(61773);
   static const IconData smile_beam_faw5 = IconsFlutterData.fontAwesome5(62904);
   static const IconData smile_wink_faw5 = IconsFlutterData.fontAwesome5(62682);
   static const IconData smile_faw5 = IconsFlutterData.fontAwesome5(61720);
@@ -588,12 +613,14 @@ class FlutterIcons {
   static const IconData surprise_faw5 = IconsFlutterData.fontAwesome5(62914);
   static const IconData thumbs_down_faw5 = IconsFlutterData.fontAwesome5(61797);
   static const IconData thumbs_up_faw5 = IconsFlutterData.fontAwesome5(61796);
-  static const IconData times_circle_faw5 = IconsFlutterData.fontAwesome5(61527);
+  static const IconData times_circle_faw5 =
+      IconsFlutterData.fontAwesome5(61527);
   static const IconData tired_faw5 = IconsFlutterData.fontAwesome5(62920);
   static const IconData trash_alt_faw5 = IconsFlutterData.fontAwesome5(62189);
   static const IconData user_circle_faw5 = IconsFlutterData.fontAwesome5(62141);
   static const IconData user_faw5 = IconsFlutterData.fontAwesome5(61447);
-  static const IconData window_close_faw5 = IconsFlutterData.fontAwesome5(62480);
+  static const IconData window_close_faw5 =
+      IconsFlutterData.fontAwesome5(62480);
   static const IconData window_maximize_faw5 =
       IconsFlutterData.fontAwesome5(62160);
   static const IconData window_minimize_faw5 =
@@ -619,7 +646,8 @@ class FlutterIcons {
   static const IconData arrow_left_fea = IconsFlutterData.feather(59664);
   static const IconData arrow_left_circle_fea = IconsFlutterData.feather(59665);
   static const IconData arrow_right_fea = IconsFlutterData.feather(59666);
-  static const IconData arrow_right_circle_fea = IconsFlutterData.feather(59667);
+  static const IconData arrow_right_circle_fea =
+      IconsFlutterData.feather(59667);
   static const IconData arrow_up_fea = IconsFlutterData.feather(59668);
   static const IconData arrow_up_circle_fea = IconsFlutterData.feather(59669);
   static const IconData arrow_up_left_fea = IconsFlutterData.feather(59670);
@@ -1242,7 +1270,8 @@ class FlutterIcons {
   static const IconData chevron_right_ent = IconsFlutterData.enTypo(61763);
   static const IconData chevron_small_down_ent = IconsFlutterData.enTypo(61764);
   static const IconData chevron_small_left_ent = IconsFlutterData.enTypo(61765);
-  static const IconData chevron_small_right_ent = IconsFlutterData.enTypo(61766);
+  static const IconData chevron_small_right_ent =
+      IconsFlutterData.enTypo(61766);
   static const IconData chevron_small_up_ent = IconsFlutterData.enTypo(61767);
   static const IconData chevron_thin_down_ent = IconsFlutterData.enTypo(61768);
   static const IconData chevron_thin_left_ent = IconsFlutterData.enTypo(61769);
@@ -1318,8 +1347,10 @@ class FlutterIcons {
   static const IconData dot_single_ent = IconsFlutterData.enTypo(61824);
   static const IconData dots_three_horizontal_ent =
       IconsFlutterData.enTypo(61825);
-  static const IconData dots_three_vertical_ent = IconsFlutterData.enTypo(61826);
-  static const IconData dots_two_horizontal_ent = IconsFlutterData.enTypo(61827);
+  static const IconData dots_three_vertical_ent =
+      IconsFlutterData.enTypo(61826);
+  static const IconData dots_two_horizontal_ent =
+      IconsFlutterData.enTypo(61827);
   static const IconData dots_two_vertical_ent = IconsFlutterData.enTypo(61828);
   static const IconData download_ent = IconsFlutterData.enTypo(61829);
   static const IconData dribbble_ent = IconsFlutterData.enTypo(61830);
@@ -1372,7 +1403,8 @@ class FlutterIcons {
   static const IconData github_with_circle_ent = IconsFlutterData.enTypo(61875);
   static const IconData globe_ent = IconsFlutterData.enTypo(61876);
   static const IconData google__ent = IconsFlutterData.enTypo(61877);
-  static const IconData google__with_circle_ent = IconsFlutterData.enTypo(61878);
+  static const IconData google__with_circle_ent =
+      IconsFlutterData.enTypo(61878);
   static const IconData google_drive_ent = IconsFlutterData.enTypo(61879);
   static const IconData google_hangouts_ent = IconsFlutterData.enTypo(61880);
   static const IconData google_play_ent = IconsFlutterData.enTypo(61881);
@@ -1531,7 +1563,8 @@ class FlutterIcons {
   static const IconData soundcloud_ent = IconsFlutterData.enTypo(62031);
   static const IconData sports_club_ent = IconsFlutterData.enTypo(62032);
   static const IconData spotify_ent = IconsFlutterData.enTypo(62033);
-  static const IconData spotify_with_circle_ent = IconsFlutterData.enTypo(62034);
+  static const IconData spotify_with_circle_ent =
+      IconsFlutterData.enTypo(62034);
   static const IconData spreadsheet_ent = IconsFlutterData.enTypo(62035);
   static const IconData squared_cross_ent = IconsFlutterData.enTypo(62036);
   static const IconData squared_minus_ent = IconsFlutterData.enTypo(62037);
@@ -1548,7 +1581,8 @@ class FlutterIcons {
   static const IconData sweden_ent = IconsFlutterData.enTypo(62047);
   static const IconData switch__ent = IconsFlutterData.enTypo(62048);
   static const IconData tablet_ent = IconsFlutterData.enTypo(62049);
-  static const IconData tablet_mobile_combo_ent = IconsFlutterData.enTypo(62050);
+  static const IconData tablet_mobile_combo_ent =
+      IconsFlutterData.enTypo(62050);
   static const IconData tag_ent = IconsFlutterData.enTypo(62051);
   static const IconData text_ent = IconsFlutterData.enTypo(62052);
   static const IconData text_document_ent = IconsFlutterData.enTypo(62053);
@@ -1574,7 +1608,8 @@ class FlutterIcons {
   static const IconData tumblr_with_circle_ent = IconsFlutterData.enTypo(62072);
   static const IconData tv_ent = IconsFlutterData.enTypo(62073);
   static const IconData twitter_ent = IconsFlutterData.enTypo(62074);
-  static const IconData twitter_with_circle_ent = IconsFlutterData.enTypo(62075);
+  static const IconData twitter_with_circle_ent =
+      IconsFlutterData.enTypo(62075);
   static const IconData typing_ent = IconsFlutterData.enTypo(62076);
   static const IconData uninstall_ent = IconsFlutterData.enTypo(62077);
   static const IconData unread_ent = IconsFlutterData.enTypo(62078);
@@ -1605,13 +1640,15 @@ class FlutterIcons {
   static const IconData youko_ent = IconsFlutterData.enTypo(62103);
   static const IconData youko_with_circle_ent = IconsFlutterData.enTypo(62104);
   static const IconData youtube_ent = IconsFlutterData.enTypo(62105);
-  static const IconData youtube_with_circle_ent = IconsFlutterData.enTypo(62106);
+  static const IconData youtube_with_circle_ent =
+      IconsFlutterData.enTypo(62106);
   static const IconData ad_faw5s = IconsFlutterData.fontAwesome5Solid(63041);
   static const IconData address_book_faw5s =
       IconsFlutterData.fontAwesome5Solid(62137);
   static const IconData address_card_faw5s =
       IconsFlutterData.fontAwesome5Solid(62139);
-  static const IconData adjust_faw5s = IconsFlutterData.fontAwesome5Solid(61506);
+  static const IconData adjust_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61506);
   static const IconData air_freshener_faw5s =
       IconsFlutterData.fontAwesome5Solid(62928);
   static const IconData align_center_faw5s =
@@ -1628,7 +1665,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(61689);
   static const IconData american_sign_language_interpreting_faw5s =
       IconsFlutterData.fontAwesome5Solid(62115);
-  static const IconData anchor_faw5s = IconsFlutterData.fontAwesome5Solid(61757);
+  static const IconData anchor_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61757);
   static const IconData angle_double_down_faw5s =
       IconsFlutterData.fontAwesome5Solid(61699);
   static const IconData angle_double_left_faw5s =
@@ -1814,7 +1852,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(61747);
   static const IconData camera_retro_faw5s =
       IconsFlutterData.fontAwesome5Solid(61571);
-  static const IconData camera_faw5s = IconsFlutterData.fontAwesome5Solid(61488);
+  static const IconData camera_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61488);
   static const IconData campground_faw5s =
       IconsFlutterData.fontAwesome5Solid(63163);
   static const IconData candy_cane_faw5s =
@@ -1848,7 +1887,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(61777);
   static const IconData caret_up_faw5s =
       IconsFlutterData.fontAwesome5Solid(61656);
-  static const IconData carrot_faw5s = IconsFlutterData.fontAwesome5Solid(63367);
+  static const IconData carrot_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63367);
   static const IconData cart_arrow_down_faw5s =
       IconsFlutterData.fontAwesome5Solid(61976);
   static const IconData cart_plus_faw5s =
@@ -1880,7 +1920,8 @@ class FlutterIcons {
   static const IconData check_square_faw5s =
       IconsFlutterData.fontAwesome5Solid(61770);
   static const IconData check_faw5s = IconsFlutterData.fontAwesome5Solid(61452);
-  static const IconData cheese_faw5s = IconsFlutterData.fontAwesome5Solid(63471);
+  static const IconData cheese_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63471);
   static const IconData chess_bishop_faw5s =
       IconsFlutterData.fontAwesome5Solid(62522);
   static const IconData chess_board_faw5s =
@@ -1913,10 +1954,12 @@ class FlutterIcons {
   static const IconData chevron_up_faw5s =
       IconsFlutterData.fontAwesome5Solid(61559);
   static const IconData child_faw5s = IconsFlutterData.fontAwesome5Solid(61870);
-  static const IconData church_faw5s = IconsFlutterData.fontAwesome5Solid(62749);
+  static const IconData church_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62749);
   static const IconData circle_notch_faw5s =
       IconsFlutterData.fontAwesome5Solid(61902);
-  static const IconData circle_faw5s = IconsFlutterData.fontAwesome5Solid(61713);
+  static const IconData circle_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61713);
   static const IconData city_faw5s = IconsFlutterData.fontAwesome5Solid(63055);
   static const IconData clinic_medical_faw5s =
       IconsFlutterData.fontAwesome5Solid(63474);
@@ -1954,7 +1997,8 @@ class FlutterIcons {
   static const IconData code_branch_faw5s =
       IconsFlutterData.fontAwesome5Solid(61734);
   static const IconData code_faw5s = IconsFlutterData.fontAwesome5Solid(61729);
-  static const IconData coffee_faw5s = IconsFlutterData.fontAwesome5Solid(61684);
+  static const IconData coffee_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61684);
   static const IconData cog_faw5s = IconsFlutterData.fontAwesome5Solid(61459);
   static const IconData cogs_faw5s = IconsFlutterData.fontAwesome5Solid(61573);
   static const IconData coins_faw5s = IconsFlutterData.fontAwesome5Solid(62750);
@@ -1988,7 +2032,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62818);
   static const IconData cookie_bite_faw5s =
       IconsFlutterData.fontAwesome5Solid(62820);
-  static const IconData cookie_faw5s = IconsFlutterData.fontAwesome5Solid(62819);
+  static const IconData cookie_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62819);
   static const IconData copy_faw5s = IconsFlutterData.fontAwesome5Solid(61637);
   static const IconData copyright_faw5s =
       IconsFlutterData.fontAwesome5Solid(61945);
@@ -2003,7 +2048,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(61531);
   static const IconData crow_faw5s = IconsFlutterData.fontAwesome5Solid(62752);
   static const IconData crown_faw5s = IconsFlutterData.fontAwesome5Solid(62753);
-  static const IconData crutch_faw5s = IconsFlutterData.fontAwesome5Solid(63479);
+  static const IconData crutch_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63479);
   static const IconData cube_faw5s = IconsFlutterData.fontAwesome5Solid(61874);
   static const IconData cubes_faw5s = IconsFlutterData.fontAwesome5Solid(61875);
   static const IconData cut_faw5s = IconsFlutterData.fontAwesome5Solid(61636);
@@ -2039,7 +2085,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62822);
   static const IconData directions_faw5s =
       IconsFlutterData.fontAwesome5Solid(62955);
-  static const IconData divide_faw5s = IconsFlutterData.fontAwesome5Solid(62761);
+  static const IconData divide_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62761);
   static const IconData dizzy_faw5s = IconsFlutterData.fontAwesome5Solid(62823);
   static const IconData dna_faw5s = IconsFlutterData.fontAwesome5Solid(62577);
   static const IconData dog_faw5s = IconsFlutterData.fontAwesome5Solid(63187);
@@ -2048,7 +2095,8 @@ class FlutterIcons {
   static const IconData dolly_flatbed_faw5s =
       IconsFlutterData.fontAwesome5Solid(62580);
   static const IconData dolly_faw5s = IconsFlutterData.fontAwesome5Solid(62578);
-  static const IconData donate_faw5s = IconsFlutterData.fontAwesome5Solid(62649);
+  static const IconData donate_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62649);
   static const IconData door_closed_faw5s =
       IconsFlutterData.fontAwesome5Solid(62762);
   static const IconData door_open_faw5s =
@@ -2060,7 +2108,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(61465);
   static const IconData drafting_compass_faw5s =
       IconsFlutterData.fontAwesome5Solid(62824);
-  static const IconData dragon_faw5s = IconsFlutterData.fontAwesome5Solid(63189);
+  static const IconData dragon_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63189);
   static const IconData draw_polygon_faw5s =
       IconsFlutterData.fontAwesome5Solid(62958);
   static const IconData drum_steelpan_faw5s =
@@ -2091,8 +2140,10 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(61849);
   static const IconData envelope_faw5s =
       IconsFlutterData.fontAwesome5Solid(61664);
-  static const IconData equals_faw5s = IconsFlutterData.fontAwesome5Solid(62764);
-  static const IconData eraser_faw5s = IconsFlutterData.fontAwesome5Solid(61741);
+  static const IconData equals_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62764);
+  static const IconData eraser_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61741);
   static const IconData ethernet_faw5s =
       IconsFlutterData.fontAwesome5Solid(63382);
   static const IconData euro_sign_faw5s =
@@ -2107,7 +2158,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(61738);
   static const IconData expand_arrows_alt_faw5s =
       IconsFlutterData.fontAwesome5Solid(62238);
-  static const IconData expand_faw5s = IconsFlutterData.fontAwesome5Solid(61541);
+  static const IconData expand_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61541);
   static const IconData external_link_alt_faw5s =
       IconsFlutterData.fontAwesome5Solid(62301);
   static const IconData external_link_square_alt_faw5s =
@@ -2126,7 +2178,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62827);
   static const IconData feather_faw5s =
       IconsFlutterData.fontAwesome5Solid(62765);
-  static const IconData female_faw5s = IconsFlutterData.fontAwesome5Solid(61826);
+  static const IconData female_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61826);
   static const IconData fighter_jet_faw5s =
       IconsFlutterData.fontAwesome5Solid(61691);
   static const IconData file_alt_faw5s =
@@ -2178,7 +2231,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62838);
   static const IconData fill_faw5s = IconsFlutterData.fontAwesome5Solid(62837);
   static const IconData film_faw5s = IconsFlutterData.fontAwesome5Solid(61448);
-  static const IconData filter_faw5s = IconsFlutterData.fontAwesome5Solid(61616);
+  static const IconData filter_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61616);
   static const IconData fingerprint_faw5s =
       IconsFlutterData.fontAwesome5Solid(62839);
   static const IconData fire_alt_faw5s =
@@ -2205,7 +2259,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(61564);
   static const IconData folder_plus_faw5s =
       IconsFlutterData.fontAwesome5Solid(63070);
-  static const IconData folder_faw5s = IconsFlutterData.fontAwesome5Solid(61563);
+  static const IconData folder_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61563);
   static const IconData font_awesome_logo_full_faw5s =
       IconsFlutterData.fontAwesome5Solid(62694);
   static const IconData font_faw5s = IconsFlutterData.fontAwesome5Solid(61489);
@@ -2219,7 +2274,8 @@ class FlutterIcons {
   static const IconData frown_faw5s = IconsFlutterData.fontAwesome5Solid(61721);
   static const IconData funnel_dollar_faw5s =
       IconsFlutterData.fontAwesome5Solid(63074);
-  static const IconData futbol_faw5s = IconsFlutterData.fontAwesome5Solid(61923);
+  static const IconData futbol_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61923);
   static const IconData gamepad_faw5s =
       IconsFlutterData.fontAwesome5Solid(61723);
   static const IconData gas_pump_faw5s =
@@ -2295,12 +2351,14 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(63396);
   static const IconData grip_vertical_faw5s =
       IconsFlutterData.fontAwesome5Solid(62862);
-  static const IconData guitar_faw5s = IconsFlutterData.fontAwesome5Solid(63398);
+  static const IconData guitar_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63398);
   static const IconData h_square_faw5s =
       IconsFlutterData.fontAwesome5Solid(61693);
   static const IconData hamburger_faw5s =
       IconsFlutterData.fontAwesome5Solid(63493);
-  static const IconData hammer_faw5s = IconsFlutterData.fontAwesome5Solid(63203);
+  static const IconData hammer_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63203);
   static const IconData hamsa_faw5s = IconsFlutterData.fontAwesome5Solid(63077);
   static const IconData hand_holding_heart_faw5s =
       IconsFlutterData.fontAwesome5Solid(62654);
@@ -2345,7 +2403,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62098);
   static const IconData hat_wizard_faw5s =
       IconsFlutterData.fontAwesome5Solid(63208);
-  static const IconData haykal_faw5s = IconsFlutterData.fontAwesome5Solid(63078);
+  static const IconData haykal_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63078);
   static const IconData hdd_faw5s = IconsFlutterData.fontAwesome5Solid(61600);
   static const IconData heading_faw5s =
       IconsFlutterData.fontAwesome5Solid(61916);
@@ -2364,7 +2423,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62771);
   static const IconData highlighter_faw5s =
       IconsFlutterData.fontAwesome5Solid(62865);
-  static const IconData hiking_faw5s = IconsFlutterData.fontAwesome5Solid(63212);
+  static const IconData hiking_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63212);
   static const IconData hippo_faw5s = IconsFlutterData.fontAwesome5Solid(63213);
   static const IconData history_faw5s =
       IconsFlutterData.fontAwesome5Solid(61914);
@@ -2384,7 +2444,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(61688);
   static const IconData hot_tub_faw5s =
       IconsFlutterData.fontAwesome5Solid(62867);
-  static const IconData hotdog_faw5s = IconsFlutterData.fontAwesome5Solid(63503);
+  static const IconData hotdog_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63503);
   static const IconData hotel_faw5s = IconsFlutterData.fontAwesome5Solid(62868);
   static const IconData hourglass_end_faw5s =
       IconsFlutterData.fontAwesome5Solid(62035);
@@ -2412,9 +2473,11 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62146);
   static const IconData igloo_faw5s = IconsFlutterData.fontAwesome5Solid(63406);
   static const IconData image_faw5s = IconsFlutterData.fontAwesome5Solid(61502);
-  static const IconData images_faw5s = IconsFlutterData.fontAwesome5Solid(62210);
+  static const IconData images_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62210);
   static const IconData inbox_faw5s = IconsFlutterData.fontAwesome5Solid(61468);
-  static const IconData indent_faw5s = IconsFlutterData.fontAwesome5Solid(61500);
+  static const IconData indent_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61500);
   static const IconData industry_faw5s =
       IconsFlutterData.fontAwesome5Solid(62069);
   static const IconData infinity_faw5s =
@@ -2422,7 +2485,8 @@ class FlutterIcons {
   static const IconData info_circle_faw5s =
       IconsFlutterData.fontAwesome5Solid(61530);
   static const IconData info_faw5s = IconsFlutterData.fontAwesome5Solid(61737);
-  static const IconData italic_faw5s = IconsFlutterData.fontAwesome5Solid(61491);
+  static const IconData italic_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61491);
   static const IconData jedi_faw5s = IconsFlutterData.fontAwesome5Solid(63081);
   static const IconData joint_faw5s = IconsFlutterData.fontAwesome5Solid(62869);
   static const IconData journal_whills_faw5s =
@@ -2431,7 +2495,8 @@ class FlutterIcons {
   static const IconData key_faw5s = IconsFlutterData.fontAwesome5Solid(61572);
   static const IconData keyboard_faw5s =
       IconsFlutterData.fontAwesome5Solid(61724);
-  static const IconData khanda_faw5s = IconsFlutterData.fontAwesome5Solid(63085);
+  static const IconData khanda_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63085);
   static const IconData kiss_beam_faw5s =
       IconsFlutterData.fontAwesome5Solid(62871);
   static const IconData kiss_wink_heart_faw5s =
@@ -2447,7 +2512,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62972);
   static const IconData laptop_medical_faw5s =
       IconsFlutterData.fontAwesome5Solid(63506);
-  static const IconData laptop_faw5s = IconsFlutterData.fontAwesome5Solid(61705);
+  static const IconData laptop_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61705);
   static const IconData laugh_beam_faw5s =
       IconsFlutterData.fontAwesome5Solid(62874);
   static const IconData laugh_squint_faw5s =
@@ -2499,7 +2565,8 @@ class FlutterIcons {
   static const IconData luggage_cart_faw5s =
       IconsFlutterData.fontAwesome5Solid(62877);
   static const IconData magic_faw5s = IconsFlutterData.fontAwesome5Solid(61648);
-  static const IconData magnet_faw5s = IconsFlutterData.fontAwesome5Solid(61558);
+  static const IconData magnet_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61558);
   static const IconData mail_bulk_faw5s =
       IconsFlutterData.fontAwesome5Solid(63092);
   static const IconData male_faw5s = IconsFlutterData.fontAwesome5Solid(61827);
@@ -2516,7 +2583,8 @@ class FlutterIcons {
   static const IconData map_signs_faw5s =
       IconsFlutterData.fontAwesome5Solid(62071);
   static const IconData map_faw5s = IconsFlutterData.fontAwesome5Solid(62073);
-  static const IconData marker_faw5s = IconsFlutterData.fontAwesome5Solid(62881);
+  static const IconData marker_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62881);
   static const IconData mars_double_faw5s =
       IconsFlutterData.fontAwesome5Solid(61991);
   static const IconData mars_stroke_h_faw5s =
@@ -2528,18 +2596,21 @@ class FlutterIcons {
   static const IconData mars_faw5s = IconsFlutterData.fontAwesome5Solid(61986);
   static const IconData mask_faw5s = IconsFlutterData.fontAwesome5Solid(63226);
   static const IconData medal_faw5s = IconsFlutterData.fontAwesome5Solid(62882);
-  static const IconData medkit_faw5s = IconsFlutterData.fontAwesome5Solid(61690);
+  static const IconData medkit_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61690);
   static const IconData meh_blank_faw5s =
       IconsFlutterData.fontAwesome5Solid(62884);
   static const IconData meh_rolling_eyes_faw5s =
       IconsFlutterData.fontAwesome5Solid(62885);
   static const IconData meh_faw5s = IconsFlutterData.fontAwesome5Solid(61722);
-  static const IconData memory_faw5s = IconsFlutterData.fontAwesome5Solid(62776);
+  static const IconData memory_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62776);
   static const IconData menorah_faw5s =
       IconsFlutterData.fontAwesome5Solid(63094);
   static const IconData mercury_faw5s =
       IconsFlutterData.fontAwesome5Solid(61987);
-  static const IconData meteor_faw5s = IconsFlutterData.fontAwesome5Solid(63315);
+  static const IconData meteor_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63315);
   static const IconData microchip_faw5s =
       IconsFlutterData.fontAwesome5Solid(62171);
   static const IconData microphone_alt_slash_faw5s =
@@ -2557,10 +2628,12 @@ class FlutterIcons {
   static const IconData minus_square_faw5s =
       IconsFlutterData.fontAwesome5Solid(61766);
   static const IconData minus_faw5s = IconsFlutterData.fontAwesome5Solid(61544);
-  static const IconData mitten_faw5s = IconsFlutterData.fontAwesome5Solid(63413);
+  static const IconData mitten_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63413);
   static const IconData mobile_alt_faw5s =
       IconsFlutterData.fontAwesome5Solid(62413);
-  static const IconData mobile_faw5s = IconsFlutterData.fontAwesome5Solid(61707);
+  static const IconData mobile_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61707);
   static const IconData money_bill_alt_faw5s =
       IconsFlutterData.fontAwesome5Solid(62417);
   static const IconData money_bill_wave_alt_faw5s =
@@ -2578,7 +2651,8 @@ class FlutterIcons {
   static const IconData moon_faw5s = IconsFlutterData.fontAwesome5Solid(61830);
   static const IconData mortar_pestle_faw5s =
       IconsFlutterData.fontAwesome5Solid(62887);
-  static const IconData mosque_faw5s = IconsFlutterData.fontAwesome5Solid(63096);
+  static const IconData mosque_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63096);
   static const IconData motorcycle_faw5s =
       IconsFlutterData.fontAwesome5Solid(61980);
   static const IconData mountain_faw5s =
@@ -2590,7 +2664,8 @@ class FlutterIcons {
   static const IconData music_faw5s = IconsFlutterData.fontAwesome5Solid(61441);
   static const IconData network_wired_faw5s =
       IconsFlutterData.fontAwesome5Solid(63231);
-  static const IconData neuter_faw5s = IconsFlutterData.fontAwesome5Solid(61996);
+  static const IconData neuter_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61996);
   static const IconData newspaper_faw5s =
       IconsFlutterData.fontAwesome5Solid(61930);
   static const IconData not_equal_faw5s =
@@ -2614,7 +2689,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62890);
   static const IconData palette_faw5s =
       IconsFlutterData.fontAwesome5Solid(62783);
-  static const IconData pallet_faw5s = IconsFlutterData.fontAwesome5Solid(62594);
+  static const IconData pallet_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62594);
   static const IconData paper_plane_faw5s =
       IconsFlutterData.fontAwesome5Solid(61912);
   static const IconData paperclip_faw5s =
@@ -2688,7 +2764,8 @@ class FlutterIcons {
   static const IconData plus_faw5s = IconsFlutterData.fontAwesome5Solid(61543);
   static const IconData podcast_faw5s =
       IconsFlutterData.fontAwesome5Solid(62158);
-  static const IconData poll_h_faw5s = IconsFlutterData.fontAwesome5Solid(63106);
+  static const IconData poll_h_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63106);
   static const IconData poll_faw5s = IconsFlutterData.fontAwesome5Solid(63105);
   static const IconData poo_storm_faw5s =
       IconsFlutterData.fontAwesome5Solid(63322);
@@ -2716,7 +2793,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62786);
   static const IconData puzzle_piece_faw5s =
       IconsFlutterData.fontAwesome5Solid(61742);
-  static const IconData qrcode_faw5s = IconsFlutterData.fontAwesome5Solid(61481);
+  static const IconData qrcode_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61481);
   static const IconData question_circle_faw5s =
       IconsFlutterData.fontAwesome5Solid(61529);
   static const IconData question_faw5s =
@@ -2734,7 +2812,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(63417);
   static const IconData rainbow_faw5s =
       IconsFlutterData.fontAwesome5Solid(63323);
-  static const IconData random_faw5s = IconsFlutterData.fontAwesome5Solid(61556);
+  static const IconData random_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61556);
   static const IconData receipt_faw5s =
       IconsFlutterData.fontAwesome5Solid(62787);
   static const IconData recycle_faw5s =
@@ -2753,11 +2832,13 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(63421);
   static const IconData retweet_faw5s =
       IconsFlutterData.fontAwesome5Solid(61561);
-  static const IconData ribbon_faw5s = IconsFlutterData.fontAwesome5Solid(62678);
+  static const IconData ribbon_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62678);
   static const IconData ring_faw5s = IconsFlutterData.fontAwesome5Solid(63243);
   static const IconData road_faw5s = IconsFlutterData.fontAwesome5Solid(61464);
   static const IconData robot_faw5s = IconsFlutterData.fontAwesome5Solid(62788);
-  static const IconData rocket_faw5s = IconsFlutterData.fontAwesome5Solid(61749);
+  static const IconData rocket_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61749);
   static const IconData route_faw5s = IconsFlutterData.fontAwesome5Solid(62679);
   static const IconData rss_square_faw5s =
       IconsFlutterData.fontAwesome5Solid(61763);
@@ -2784,10 +2865,12 @@ class FlutterIcons {
   static const IconData satellite_faw5s =
       IconsFlutterData.fontAwesome5Solid(63423);
   static const IconData save_faw5s = IconsFlutterData.fontAwesome5Solid(61639);
-  static const IconData school_faw5s = IconsFlutterData.fontAwesome5Solid(62793);
+  static const IconData school_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62793);
   static const IconData screwdriver_faw5s =
       IconsFlutterData.fontAwesome5Solid(62794);
-  static const IconData scroll_faw5s = IconsFlutterData.fontAwesome5Solid(63246);
+  static const IconData scroll_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63246);
   static const IconData sd_card_faw5s =
       IconsFlutterData.fontAwesome5Solid(63426);
   static const IconData search_dollar_faw5s =
@@ -2798,11 +2881,14 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(61456);
   static const IconData search_plus_faw5s =
       IconsFlutterData.fontAwesome5Solid(61454);
-  static const IconData search_faw5s = IconsFlutterData.fontAwesome5Solid(61442);
+  static const IconData search_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61442);
   static const IconData seedling_faw5s =
       IconsFlutterData.fontAwesome5Solid(62680);
-  static const IconData server_faw5s = IconsFlutterData.fontAwesome5Solid(62003);
-  static const IconData shapes_faw5s = IconsFlutterData.fontAwesome5Solid(63007);
+  static const IconData server_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62003);
+  static const IconData shapes_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63007);
   static const IconData share_alt_square_faw5s =
       IconsFlutterData.fontAwesome5Solid(61921);
   static const IconData share_alt_faw5s =
@@ -2825,7 +2911,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62097);
   static const IconData shopping_cart_faw5s =
       IconsFlutterData.fontAwesome5Solid(61562);
-  static const IconData shower_faw5s = IconsFlutterData.fontAwesome5Solid(62156);
+  static const IconData shower_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62156);
   static const IconData shuttle_van_faw5s =
       IconsFlutterData.fontAwesome5Solid(62902);
   static const IconData sign_in_alt_faw5s =
@@ -2835,7 +2922,8 @@ class FlutterIcons {
   static const IconData sign_out_alt_faw5s =
       IconsFlutterData.fontAwesome5Solid(62197);
   static const IconData sign_faw5s = IconsFlutterData.fontAwesome5Solid(62681);
-  static const IconData signal_faw5s = IconsFlutterData.fontAwesome5Solid(61458);
+  static const IconData signal_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61458);
   static const IconData signature_faw5s =
       IconsFlutterData.fontAwesome5Solid(62903);
   static const IconData sim_card_faw5s =
@@ -2846,12 +2934,14 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(63429);
   static const IconData skiing_nordic_faw5s =
       IconsFlutterData.fontAwesome5Solid(63434);
-  static const IconData skiing_faw5s = IconsFlutterData.fontAwesome5Solid(63433);
+  static const IconData skiing_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63433);
   static const IconData skull_crossbones_faw5s =
       IconsFlutterData.fontAwesome5Solid(63252);
   static const IconData skull_faw5s = IconsFlutterData.fontAwesome5Solid(62796);
   static const IconData slash_faw5s = IconsFlutterData.fontAwesome5Solid(63253);
-  static const IconData sleigh_faw5s = IconsFlutterData.fontAwesome5Solid(63436);
+  static const IconData sleigh_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63436);
   static const IconData sliders_h_faw5s =
       IconsFlutterData.fontAwesome5Solid(61918);
   static const IconData smile_beam_faw5s =
@@ -2896,7 +2986,8 @@ class FlutterIcons {
   static const IconData spa_faw5s = IconsFlutterData.fontAwesome5Solid(62907);
   static const IconData space_shuttle_faw5s =
       IconsFlutterData.fontAwesome5Solid(61847);
-  static const IconData spider_faw5s = IconsFlutterData.fontAwesome5Solid(63255);
+  static const IconData spider_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63255);
   static const IconData spinner_faw5s =
       IconsFlutterData.fontAwesome5Solid(61712);
   static const IconData splotch_faw5s =
@@ -2907,7 +2998,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62556);
   static const IconData square_root_alt_faw5s =
       IconsFlutterData.fontAwesome5Solid(63128);
-  static const IconData square_faw5s = IconsFlutterData.fontAwesome5Solid(61640);
+  static const IconData square_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61640);
   static const IconData stamp_faw5s = IconsFlutterData.fontAwesome5Solid(62911);
   static const IconData star_and_crescent_faw5s =
       IconsFlutterData.fontAwesome5Solid(63129);
@@ -2936,7 +3028,8 @@ class FlutterIcons {
   static const IconData store_alt_faw5s =
       IconsFlutterData.fontAwesome5Solid(62799);
   static const IconData store_faw5s = IconsFlutterData.fontAwesome5Solid(62798);
-  static const IconData stream_faw5s = IconsFlutterData.fontAwesome5Solid(62800);
+  static const IconData stream_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62800);
   static const IconData street_view_faw5s =
       IconsFlutterData.fontAwesome5Solid(61981);
   static const IconData strikethrough_faw5s =
@@ -2945,7 +3038,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62801);
   static const IconData subscript_faw5s =
       IconsFlutterData.fontAwesome5Solid(61740);
-  static const IconData subway_faw5s = IconsFlutterData.fontAwesome5Solid(62009);
+  static const IconData subway_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62009);
   static const IconData suitcase_rolling_faw5s =
       IconsFlutterData.fontAwesome5Solid(62913);
   static const IconData suitcase_faw5s =
@@ -2973,7 +3067,8 @@ class FlutterIcons {
   static const IconData table_faw5s = IconsFlutterData.fontAwesome5Solid(61646);
   static const IconData tablet_alt_faw5s =
       IconsFlutterData.fontAwesome5Solid(62458);
-  static const IconData tablet_faw5s = IconsFlutterData.fontAwesome5Solid(61706);
+  static const IconData tablet_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61706);
   static const IconData tablets_faw5s =
       IconsFlutterData.fontAwesome5Solid(62608);
   static const IconData tachometer_alt_faw5s =
@@ -3037,7 +3132,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(61957);
   static const IconData toilet_paper_faw5s =
       IconsFlutterData.fontAwesome5Solid(63262);
-  static const IconData toilet_faw5s = IconsFlutterData.fontAwesome5Solid(63448);
+  static const IconData toilet_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63448);
   static const IconData toolbox_faw5s =
       IconsFlutterData.fontAwesome5Solid(62802);
   static const IconData tools_faw5s = IconsFlutterData.fontAwesome5Solid(63449);
@@ -3065,7 +3161,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(63529);
   static const IconData trash_faw5s = IconsFlutterData.fontAwesome5Solid(61944);
   static const IconData tree_faw5s = IconsFlutterData.fontAwesome5Solid(61883);
-  static const IconData trophy_faw5s = IconsFlutterData.fontAwesome5Solid(61585);
+  static const IconData trophy_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61585);
   static const IconData truck_loading_faw5s =
       IconsFlutterData.fontAwesome5Solid(62686);
   static const IconData truck_monster_faw5s =
@@ -3075,7 +3172,8 @@ class FlutterIcons {
   static const IconData truck_pickup_faw5s =
       IconsFlutterData.fontAwesome5Solid(63036);
   static const IconData truck_faw5s = IconsFlutterData.fontAwesome5Solid(61649);
-  static const IconData tshirt_faw5s = IconsFlutterData.fontAwesome5Solid(62803);
+  static const IconData tshirt_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62803);
   static const IconData tty_faw5s = IconsFlutterData.fontAwesome5Solid(61924);
   static const IconData tv_faw5s = IconsFlutterData.fontAwesome5Solid(62060);
   static const IconData umbrella_beach_faw5s =
@@ -3091,11 +3189,14 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62106);
   static const IconData university_faw5s =
       IconsFlutterData.fontAwesome5Solid(61852);
-  static const IconData unlink_faw5s = IconsFlutterData.fontAwesome5Solid(61735);
+  static const IconData unlink_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61735);
   static const IconData unlock_alt_faw5s =
       IconsFlutterData.fontAwesome5Solid(61758);
-  static const IconData unlock_faw5s = IconsFlutterData.fontAwesome5Solid(61596);
-  static const IconData upload_faw5s = IconsFlutterData.fontAwesome5Solid(61587);
+  static const IconData unlock_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61596);
+  static const IconData upload_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61587);
   static const IconData user_alt_slash_faw5s =
       IconsFlutterData.fontAwesome5Solid(62714);
   static const IconData user_alt_faw5s =
@@ -3162,7 +3263,8 @@ class FlutterIcons {
   static const IconData video_slash_faw5s =
       IconsFlutterData.fontAwesome5Solid(62690);
   static const IconData video_faw5s = IconsFlutterData.fontAwesome5Solid(61501);
-  static const IconData vihara_faw5s = IconsFlutterData.fontAwesome5Solid(63143);
+  static const IconData vihara_faw5s =
+      IconsFlutterData.fontAwesome5Solid(63143);
   static const IconData volleyball_ball_faw5s =
       IconsFlutterData.fontAwesome5Solid(62559);
   static const IconData volume_down_faw5s =
@@ -3179,13 +3281,15 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(63273);
   static const IconData walking_faw5s =
       IconsFlutterData.fontAwesome5Solid(62804);
-  static const IconData wallet_faw5s = IconsFlutterData.fontAwesome5Solid(62805);
+  static const IconData wallet_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62805);
   static const IconData warehouse_faw5s =
       IconsFlutterData.fontAwesome5Solid(62612);
   static const IconData water_faw5s = IconsFlutterData.fontAwesome5Solid(63347);
   static const IconData weight_hanging_faw5s =
       IconsFlutterData.fontAwesome5Solid(62925);
-  static const IconData weight_faw5s = IconsFlutterData.fontAwesome5Solid(62614);
+  static const IconData weight_faw5s =
+      IconsFlutterData.fontAwesome5Solid(62614);
   static const IconData wheelchair_faw5s =
       IconsFlutterData.fontAwesome5Solid(61843);
   static const IconData wifi_faw5s = IconsFlutterData.fontAwesome5Solid(61931);
@@ -3206,7 +3310,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Solid(62691);
   static const IconData won_sign_faw5s =
       IconsFlutterData.fontAwesome5Solid(61785);
-  static const IconData wrench_faw5s = IconsFlutterData.fontAwesome5Solid(61613);
+  static const IconData wrench_faw5s =
+      IconsFlutterData.fontAwesome5Solid(61613);
   static const IconData x_ray_faw5s = IconsFlutterData.fontAwesome5Solid(62615);
   static const IconData yen_sign_faw5s =
       IconsFlutterData.fontAwesome5Solid(61783);
@@ -3259,7 +3364,8 @@ class FlutterIcons {
   static const IconData sc_google_plus_evi = IconsFlutterData.evilIcons(61740);
   static const IconData sc_instagram_evi = IconsFlutterData.evilIcons(61741);
   static const IconData sc_linkedin_evi = IconsFlutterData.evilIcons(61742);
-  static const IconData sc_odnoklassniki_evi = IconsFlutterData.evilIcons(61743);
+  static const IconData sc_odnoklassniki_evi =
+      IconsFlutterData.evilIcons(61743);
   static const IconData sc_pinterest_evi = IconsFlutterData.evilIcons(61744);
   static const IconData sc_skype_evi = IconsFlutterData.evilIcons(61745);
   static const IconData sc_soundcloud_evi = IconsFlutterData.evilIcons(61746);
@@ -3289,7 +3395,8 @@ class FlutterIcons {
   static const IconData arrow_right_oct = IconsFlutterData.octiCons(61700);
   static const IconData arrow_small_down_oct = IconsFlutterData.octiCons(61701);
   static const IconData arrow_small_left_oct = IconsFlutterData.octiCons(61702);
-  static const IconData arrow_small_right_oct = IconsFlutterData.octiCons(61703);
+  static const IconData arrow_small_right_oct =
+      IconsFlutterData.octiCons(61703);
   static const IconData arrow_small_up_oct = IconsFlutterData.octiCons(61704);
   static const IconData arrow_up_oct = IconsFlutterData.octiCons(61705);
   static const IconData beaker_oct = IconsFlutterData.octiCons(61706);
@@ -3345,7 +3452,8 @@ class FlutterIcons {
   static const IconData file_submodule_oct = IconsFlutterData.octiCons(61754);
   static const IconData file_symlink_directory_oct =
       IconsFlutterData.octiCons(61755);
-  static const IconData file_symlink_file_oct = IconsFlutterData.octiCons(61756);
+  static const IconData file_symlink_file_oct =
+      IconsFlutterData.octiCons(61756);
   static const IconData file_zip_oct = IconsFlutterData.octiCons(61757);
   static const IconData flame_oct = IconsFlutterData.octiCons(61758);
   static const IconData fold_oct = IconsFlutterData.octiCons(61759);
@@ -3471,7 +3579,8 @@ class FlutterIcons {
   static const IconData acquisitions_incorporated_faw5d =
       IconsFlutterData.fontAwesome5Brands(63151);
   static const IconData adn_faw5d = IconsFlutterData.fontAwesome5Brands(61808);
-  static const IconData adobe_faw5d = IconsFlutterData.fontAwesome5Brands(63352);
+  static const IconData adobe_faw5d =
+      IconsFlutterData.fontAwesome5Brands(63352);
   static const IconData adversal_faw5d =
       IconsFlutterData.fontAwesome5Brands(62314);
   static const IconData affiliatetheme_faw5d =
@@ -3498,10 +3607,12 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Brands(62320);
   static const IconData app_store_faw5d =
       IconsFlutterData.fontAwesome5Brands(62319);
-  static const IconData apper_faw5d = IconsFlutterData.fontAwesome5Brands(62321);
+  static const IconData apper_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62321);
   static const IconData apple_pay_faw5d =
       IconsFlutterData.fontAwesome5Brands(62485);
-  static const IconData apple_faw5d = IconsFlutterData.fontAwesome5Brands(61817);
+  static const IconData apple_faw5d =
+      IconsFlutterData.fontAwesome5Brands(61817);
   static const IconData artstation_faw5d =
       IconsFlutterData.fontAwesome5Brands(63354);
   static const IconData asymmetrik_faw5d =
@@ -3676,7 +3787,8 @@ class FlutterIcons {
   static const IconData elementor_faw5d =
       IconsFlutterData.fontAwesome5Brands(62512);
   static const IconData ello_faw5d = IconsFlutterData.fontAwesome5Brands(62961);
-  static const IconData ember_faw5d = IconsFlutterData.fontAwesome5Brands(62499);
+  static const IconData ember_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62499);
   static const IconData empire_faw5d =
       IconsFlutterData.fontAwesome5Brands(61905);
   static const IconData envira_faw5d =
@@ -3698,10 +3810,12 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Brands(61594);
   static const IconData fantasy_flight_games_faw5d =
       IconsFlutterData.fontAwesome5Brands(63196);
-  static const IconData fedex_faw5d = IconsFlutterData.fontAwesome5Brands(63383);
+  static const IconData fedex_faw5d =
+      IconsFlutterData.fontAwesome5Brands(63383);
   static const IconData fedora_faw5d =
       IconsFlutterData.fontAwesome5Brands(63384);
-  static const IconData figma_faw5d = IconsFlutterData.fontAwesome5Brands(63385);
+  static const IconData figma_faw5d =
+      IconsFlutterData.fontAwesome5Brands(63385);
   static const IconData firefox_faw5d =
       IconsFlutterData.fontAwesome5Brands(62057);
   static const IconData first_order_alt_faw5d =
@@ -3767,7 +3881,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Brands(62502);
   static const IconData glide_g_faw5d =
       IconsFlutterData.fontAwesome5Brands(62118);
-  static const IconData glide_faw5d = IconsFlutterData.fontAwesome5Brands(62117);
+  static const IconData glide_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62117);
   static const IconData gofore_faw5d =
       IconsFlutterData.fontAwesome5Brands(62375);
   static const IconData goodreads_g_faw5d =
@@ -3793,7 +3908,8 @@ class FlutterIcons {
   static const IconData grav_faw5d = IconsFlutterData.fontAwesome5Brands(62166);
   static const IconData gripfire_faw5d =
       IconsFlutterData.fontAwesome5Brands(62380);
-  static const IconData grunt_faw5d = IconsFlutterData.fontAwesome5Brands(62381);
+  static const IconData grunt_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62381);
   static const IconData gulp_faw5d = IconsFlutterData.fontAwesome5Brands(62382);
   static const IconData hacker_news_square_faw5d =
       IconsFlutterData.fontAwesome5Brands(62383);
@@ -3804,13 +3920,16 @@ class FlutterIcons {
   static const IconData hips_faw5d = IconsFlutterData.fontAwesome5Brands(62546);
   static const IconData hire_a_helper_faw5d =
       IconsFlutterData.fontAwesome5Brands(62384);
-  static const IconData hooli_faw5d = IconsFlutterData.fontAwesome5Brands(62503);
+  static const IconData hooli_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62503);
   static const IconData hornbill_faw5d =
       IconsFlutterData.fontAwesome5Brands(62866);
   static const IconData hotjar_faw5d =
       IconsFlutterData.fontAwesome5Brands(62385);
-  static const IconData houzz_faw5d = IconsFlutterData.fontAwesome5Brands(62076);
-  static const IconData html5_faw5d = IconsFlutterData.fontAwesome5Brands(61755);
+  static const IconData houzz_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62076);
+  static const IconData html5_faw5d =
+      IconsFlutterData.fontAwesome5Brands(61755);
   static const IconData hubspot_faw5d =
       IconsFlutterData.fontAwesome5Brands(62386);
   static const IconData imdb_faw5d = IconsFlutterData.fontAwesome5Brands(62168);
@@ -3834,7 +3953,8 @@ class FlutterIcons {
   static const IconData jenkins_faw5d =
       IconsFlutterData.fontAwesome5Brands(62390);
   static const IconData jira_faw5d = IconsFlutterData.fontAwesome5Brands(63409);
-  static const IconData joget_faw5d = IconsFlutterData.fontAwesome5Brands(62391);
+  static const IconData joget_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62391);
   static const IconData joomla_faw5d =
       IconsFlutterData.fontAwesome5Brands(61866);
   static const IconData js_square_faw5d =
@@ -3870,7 +3990,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Brands(61580);
   static const IconData linode_faw5d =
       IconsFlutterData.fontAwesome5Brands(62136);
-  static const IconData linux_faw5d = IconsFlutterData.fontAwesome5Brands(61820);
+  static const IconData linux_faw5d =
+      IconsFlutterData.fontAwesome5Brands(61820);
   static const IconData lyft_faw5d = IconsFlutterData.fontAwesome5Brands(62403);
   static const IconData magento_faw5d =
       IconsFlutterData.fontAwesome5Brands(62404);
@@ -3890,7 +4011,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Brands(62407);
   static const IconData medium_faw5d =
       IconsFlutterData.fontAwesome5Brands(62010);
-  static const IconData medrt_faw5d = IconsFlutterData.fontAwesome5Brands(62408);
+  static const IconData medrt_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62408);
   static const IconData meetup_faw5d =
       IconsFlutterData.fontAwesome5Brands(62176);
   static const IconData megaport_faw5d =
@@ -3931,11 +4053,13 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Brands(62013);
   static const IconData openid_faw5d =
       IconsFlutterData.fontAwesome5Brands(61851);
-  static const IconData opera_faw5d = IconsFlutterData.fontAwesome5Brands(62058);
+  static const IconData opera_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62058);
   static const IconData optin_monster_faw5d =
       IconsFlutterData.fontAwesome5Brands(62012);
   static const IconData osi_faw5d = IconsFlutterData.fontAwesome5Brands(62490);
-  static const IconData page4_faw5d = IconsFlutterData.fontAwesome5Brands(62423);
+  static const IconData page4_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62423);
   static const IconData pagelines_faw5d =
       IconsFlutterData.fontAwesome5Brands(61836);
   static const IconData palfed_faw5d =
@@ -3980,19 +4104,22 @@ class FlutterIcons {
   static const IconData qq_faw5d = IconsFlutterData.fontAwesome5Brands(61910);
   static const IconData quinscape_faw5d =
       IconsFlutterData.fontAwesome5Brands(62553);
-  static const IconData quora_faw5d = IconsFlutterData.fontAwesome5Brands(62148);
+  static const IconData quora_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62148);
   static const IconData r_project_faw5d =
       IconsFlutterData.fontAwesome5Brands(62711);
   static const IconData raspberry_pi_faw5d =
       IconsFlutterData.fontAwesome5Brands(63419);
   static const IconData ravelry_faw5d =
       IconsFlutterData.fontAwesome5Brands(62169);
-  static const IconData react_faw5d = IconsFlutterData.fontAwesome5Brands(62491);
+  static const IconData react_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62491);
   static const IconData reacteurope_faw5d =
       IconsFlutterData.fontAwesome5Brands(63325);
   static const IconData readme_faw5d =
       IconsFlutterData.fontAwesome5Brands(62677);
-  static const IconData rebel_faw5d = IconsFlutterData.fontAwesome5Brands(61904);
+  static const IconData rebel_faw5d =
+      IconsFlutterData.fontAwesome5Brands(61904);
   static const IconData red_river_faw5d =
       IconsFlutterData.fontAwesome5Brands(62435);
   static const IconData reddit_alien_faw5d =
@@ -4044,10 +4171,12 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Brands(63430);
   static const IconData skyatlas_faw5d =
       IconsFlutterData.fontAwesome5Brands(61974);
-  static const IconData skype_faw5d = IconsFlutterData.fontAwesome5Brands(61822);
+  static const IconData skype_faw5d =
+      IconsFlutterData.fontAwesome5Brands(61822);
   static const IconData slack_hash_faw5d =
       IconsFlutterData.fontAwesome5Brands(62447);
-  static const IconData slack_faw5d = IconsFlutterData.fontAwesome5Brands(61848);
+  static const IconData slack_faw5d =
+      IconsFlutterData.fontAwesome5Brands(61848);
   static const IconData slideshare_faw5d =
       IconsFlutterData.fontAwesome5Brands(61927);
   static const IconData snapchat_ghost_faw5d =
@@ -4076,7 +4205,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Brands(61879);
   static const IconData steam_symbol_faw5d =
       IconsFlutterData.fontAwesome5Brands(62454);
-  static const IconData steam_faw5d = IconsFlutterData.fontAwesome5Brands(61878);
+  static const IconData steam_faw5d =
+      IconsFlutterData.fontAwesome5Brands(61878);
   static const IconData sticker_mule_faw5d =
       IconsFlutterData.fontAwesome5Brands(62455);
   static const IconData strava_faw5d =
@@ -4128,11 +4258,13 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Brands(61569);
   static const IconData twitter_faw5d =
       IconsFlutterData.fontAwesome5Brands(61593);
-  static const IconData typo3_faw5d = IconsFlutterData.fontAwesome5Brands(62507);
+  static const IconData typo3_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62507);
   static const IconData uber_faw5d = IconsFlutterData.fontAwesome5Brands(62466);
   static const IconData ubuntu_faw5d =
       IconsFlutterData.fontAwesome5Brands(63455);
-  static const IconData uikit_faw5d = IconsFlutterData.fontAwesome5Brands(62467);
+  static const IconData uikit_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62467);
   static const IconData uniregistry_faw5d =
       IconsFlutterData.fontAwesome5Brands(62468);
   static const IconData untappd_faw5d =
@@ -4150,26 +4282,31 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome5Brands(62122);
   static const IconData viadeo_faw5d =
       IconsFlutterData.fontAwesome5Brands(62121);
-  static const IconData viber_faw5d = IconsFlutterData.fontAwesome5Brands(62473);
+  static const IconData viber_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62473);
   static const IconData vimeo_square_faw5d =
       IconsFlutterData.fontAwesome5Brands(61844);
   static const IconData vimeo_v_faw5d =
       IconsFlutterData.fontAwesome5Brands(62077);
-  static const IconData vimeo_faw5d = IconsFlutterData.fontAwesome5Brands(62474);
+  static const IconData vimeo_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62474);
   static const IconData vine_faw5d = IconsFlutterData.fontAwesome5Brands(61898);
   static const IconData vk_faw5d = IconsFlutterData.fontAwesome5Brands(61833);
   static const IconData vnv_faw5d = IconsFlutterData.fontAwesome5Brands(62475);
-  static const IconData vuejs_faw5d = IconsFlutterData.fontAwesome5Brands(62495);
+  static const IconData vuejs_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62495);
   static const IconData weebly_faw5d =
       IconsFlutterData.fontAwesome5Brands(62924);
-  static const IconData weibo_faw5d = IconsFlutterData.fontAwesome5Brands(61834);
+  static const IconData weibo_faw5d =
+      IconsFlutterData.fontAwesome5Brands(61834);
   static const IconData weixin_faw5d =
       IconsFlutterData.fontAwesome5Brands(61911);
   static const IconData whatsapp_square_faw5d =
       IconsFlutterData.fontAwesome5Brands(62476);
   static const IconData whatsapp_faw5d =
       IconsFlutterData.fontAwesome5Brands(62002);
-  static const IconData whmcs_faw5d = IconsFlutterData.fontAwesome5Brands(62477);
+  static const IconData whmcs_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62477);
   static const IconData wikipedia_w_faw5d =
       IconsFlutterData.fontAwesome5Brands(62054);
   static const IconData windows_faw5d =
@@ -4197,22 +4334,27 @@ class FlutterIcons {
   static const IconData xing_faw5d = IconsFlutterData.fontAwesome5Brands(61800);
   static const IconData y_combinator_faw5d =
       IconsFlutterData.fontAwesome5Brands(62011);
-  static const IconData yahoo_faw5d = IconsFlutterData.fontAwesome5Brands(61854);
+  static const IconData yahoo_faw5d =
+      IconsFlutterData.fontAwesome5Brands(61854);
   static const IconData yandex_international_faw5d =
       IconsFlutterData.fontAwesome5Brands(62484);
   static const IconData yandex_faw5d =
       IconsFlutterData.fontAwesome5Brands(62483);
   static const IconData yarn_faw5d = IconsFlutterData.fontAwesome5Brands(63459);
   static const IconData yelp_faw5d = IconsFlutterData.fontAwesome5Brands(61929);
-  static const IconData yoast_faw5d = IconsFlutterData.fontAwesome5Brands(62129);
+  static const IconData yoast_faw5d =
+      IconsFlutterData.fontAwesome5Brands(62129);
   static const IconData youtube_square_faw5d =
       IconsFlutterData.fontAwesome5Brands(62513);
   static const IconData youtube_faw5d =
       IconsFlutterData.fontAwesome5Brands(61799);
-  static const IconData zhihu_faw5d = IconsFlutterData.fontAwesome5Brands(63039);
-  static const IconData $3d_rotation_mdi = IconsFlutterData.materialIcons(59469);
+  static const IconData zhihu_faw5d =
+      IconsFlutterData.fontAwesome5Brands(63039);
+  static const IconData $3d_rotation_mdi =
+      IconsFlutterData.materialIcons(59469);
   static const IconData ac_unit_mdi = IconsFlutterData.materialIcons(60219);
-  static const IconData access_alarm_mdi = IconsFlutterData.materialIcons(57744);
+  static const IconData access_alarm_mdi =
+      IconsFlutterData.materialIcons(57744);
   static const IconData access_alarms_mdi =
       IconsFlutterData.materialIcons(57745);
   static const IconData access_time_mdi = IconsFlutterData.materialIcons(57746);
@@ -4235,12 +4377,14 @@ class FlutterIcons {
   static const IconData add_circle_mdi = IconsFlutterData.materialIcons(57671);
   static const IconData add_circle_outline_mdi =
       IconsFlutterData.materialIcons(57672);
-  static const IconData add_location_mdi = IconsFlutterData.materialIcons(58727);
+  static const IconData add_location_mdi =
+      IconsFlutterData.materialIcons(58727);
   static const IconData add_shopping_cart_mdi =
       IconsFlutterData.materialIcons(59476);
   static const IconData add_to_photos_mdi =
       IconsFlutterData.materialIcons(58269);
-  static const IconData add_to_queue_mdi = IconsFlutterData.materialIcons(57436);
+  static const IconData add_to_queue_mdi =
+      IconsFlutterData.materialIcons(57436);
   static const IconData adjust_mdi = IconsFlutterData.materialIcons(58270);
   static const IconData airline_seat_flat_mdi =
       IconsFlutterData.materialIcons(58928);
@@ -4274,7 +4418,8 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(60221);
   static const IconData all_out_mdi = IconsFlutterData.materialIcons(59659);
   static const IconData android_mdi = IconsFlutterData.materialIcons(59481);
-  static const IconData announcement_mdi = IconsFlutterData.materialIcons(59482);
+  static const IconData announcement_mdi =
+      IconsFlutterData.materialIcons(59482);
   static const IconData apps_mdi = IconsFlutterData.materialIcons(58819);
   static const IconData archive_mdi = IconsFlutterData.materialIcons(57673);
   static const IconData arrow_back_mdi = IconsFlutterData.materialIcons(58820);
@@ -4288,9 +4433,11 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(58823);
   static const IconData arrow_forward_mdi =
       IconsFlutterData.materialIcons(58824);
-  static const IconData arrow_upward_mdi = IconsFlutterData.materialIcons(58840);
+  static const IconData arrow_upward_mdi =
+      IconsFlutterData.materialIcons(58840);
   static const IconData art_track_mdi = IconsFlutterData.materialIcons(57440);
-  static const IconData aspect_ratio_mdi = IconsFlutterData.materialIcons(59483);
+  static const IconData aspect_ratio_mdi =
+      IconsFlutterData.materialIcons(59483);
   static const IconData assessment_mdi = IconsFlutterData.materialIcons(59484);
   static const IconData assignment_mdi = IconsFlutterData.materialIcons(59485);
   static const IconData assignment_ind_mdi =
@@ -4307,7 +4454,8 @@ class FlutterIcons {
   static const IconData assistant_photo_mdi =
       IconsFlutterData.materialIcons(58272);
   static const IconData attach_file_mdi = IconsFlutterData.materialIcons(57894);
-  static const IconData attach_money_mdi = IconsFlutterData.materialIcons(57895);
+  static const IconData attach_money_mdi =
+      IconsFlutterData.materialIcons(57895);
   static const IconData attachment_mdi = IconsFlutterData.materialIcons(58044);
   static const IconData audiotrack_mdi = IconsFlutterData.materialIcons(58273);
   static const IconData autorenew_mdi = IconsFlutterData.materialIcons(59491);
@@ -4318,11 +4466,13 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(57756);
   static const IconData battery_charging_full_mdi =
       IconsFlutterData.materialIcons(57763);
-  static const IconData battery_full_mdi = IconsFlutterData.materialIcons(57764);
+  static const IconData battery_full_mdi =
+      IconsFlutterData.materialIcons(57764);
   static const IconData battery_std_mdi = IconsFlutterData.materialIcons(57765);
   static const IconData battery_unknown_mdi =
       IconsFlutterData.materialIcons(57766);
-  static const IconData beach_access_mdi = IconsFlutterData.materialIcons(60222);
+  static const IconData beach_access_mdi =
+      IconsFlutterData.materialIcons(60222);
   static const IconData beenhere_mdi = IconsFlutterData.materialIcons(58669);
   static const IconData block_mdi = IconsFlutterData.materialIcons(57675);
   static const IconData bluetooth_mdi = IconsFlutterData.materialIcons(57767);
@@ -4346,27 +4496,40 @@ class FlutterIcons {
   static const IconData border_all_mdi = IconsFlutterData.materialIcons(57896);
   static const IconData border_bottom_mdi =
       IconsFlutterData.materialIcons(57897);
-  static const IconData border_clear_mdi = IconsFlutterData.materialIcons(57898);
-  static const IconData border_color_mdi = IconsFlutterData.materialIcons(57899);
+  static const IconData border_clear_mdi =
+      IconsFlutterData.materialIcons(57898);
+  static const IconData border_color_mdi =
+      IconsFlutterData.materialIcons(57899);
   static const IconData border_horizontal_mdi =
       IconsFlutterData.materialIcons(57900);
-  static const IconData border_inner_mdi = IconsFlutterData.materialIcons(57901);
+  static const IconData border_inner_mdi =
+      IconsFlutterData.materialIcons(57901);
   static const IconData border_left_mdi = IconsFlutterData.materialIcons(57902);
-  static const IconData border_outer_mdi = IconsFlutterData.materialIcons(57903);
-  static const IconData border_right_mdi = IconsFlutterData.materialIcons(57904);
-  static const IconData border_style_mdi = IconsFlutterData.materialIcons(57905);
+  static const IconData border_outer_mdi =
+      IconsFlutterData.materialIcons(57903);
+  static const IconData border_right_mdi =
+      IconsFlutterData.materialIcons(57904);
+  static const IconData border_style_mdi =
+      IconsFlutterData.materialIcons(57905);
   static const IconData border_top_mdi = IconsFlutterData.materialIcons(57906);
   static const IconData border_vertical_mdi =
       IconsFlutterData.materialIcons(57907);
   static const IconData branding_watermark_mdi =
       IconsFlutterData.materialIcons(57451);
-  static const IconData brightness_1_mdi = IconsFlutterData.materialIcons(58278);
-  static const IconData brightness_2_mdi = IconsFlutterData.materialIcons(58279);
-  static const IconData brightness_3_mdi = IconsFlutterData.materialIcons(58280);
-  static const IconData brightness_4_mdi = IconsFlutterData.materialIcons(58281);
-  static const IconData brightness_5_mdi = IconsFlutterData.materialIcons(58282);
-  static const IconData brightness_6_mdi = IconsFlutterData.materialIcons(58283);
-  static const IconData brightness_7_mdi = IconsFlutterData.materialIcons(58284);
+  static const IconData brightness_1_mdi =
+      IconsFlutterData.materialIcons(58278);
+  static const IconData brightness_2_mdi =
+      IconsFlutterData.materialIcons(58279);
+  static const IconData brightness_3_mdi =
+      IconsFlutterData.materialIcons(58280);
+  static const IconData brightness_4_mdi =
+      IconsFlutterData.materialIcons(58281);
+  static const IconData brightness_5_mdi =
+      IconsFlutterData.materialIcons(58282);
+  static const IconData brightness_6_mdi =
+      IconsFlutterData.materialIcons(58283);
+  static const IconData brightness_7_mdi =
+      IconsFlutterData.materialIcons(58284);
   static const IconData brightness_auto_mdi =
       IconsFlutterData.materialIcons(57771);
   static const IconData brightness_high_mdi =
@@ -4375,9 +4538,11 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(57773);
   static const IconData brightness_medium_mdi =
       IconsFlutterData.materialIcons(57774);
-  static const IconData broken_image_mdi = IconsFlutterData.materialIcons(58285);
+  static const IconData broken_image_mdi =
+      IconsFlutterData.materialIcons(58285);
   static const IconData brush_mdi = IconsFlutterData.materialIcons(58286);
-  static const IconData bubble_chart_mdi = IconsFlutterData.materialIcons(59101);
+  static const IconData bubble_chart_mdi =
+      IconsFlutterData.materialIcons(59101);
   static const IconData bug_report_mdi = IconsFlutterData.materialIcons(59496);
   static const IconData build_mdi = IconsFlutterData.materialIcons(59497);
   static const IconData burst_mode_mdi = IconsFlutterData.materialIcons(58428);
@@ -4402,7 +4567,8 @@ class FlutterIcons {
   static const IconData camera_alt_mdi = IconsFlutterData.materialIcons(58288);
   static const IconData camera_enhance_mdi =
       IconsFlutterData.materialIcons(59644);
-  static const IconData camera_front_mdi = IconsFlutterData.materialIcons(58289);
+  static const IconData camera_front_mdi =
+      IconsFlutterData.materialIcons(58289);
   static const IconData camera_rear_mdi = IconsFlutterData.materialIcons(58290);
   static const IconData camera_roll_mdi = IconsFlutterData.materialIcons(58291);
   static const IconData cancel_mdi = IconsFlutterData.materialIcons(58825);
@@ -4429,8 +4595,10 @@ class FlutterIcons {
   static const IconData check_box_mdi = IconsFlutterData.materialIcons(59444);
   static const IconData check_box_outline_blank_mdi =
       IconsFlutterData.materialIcons(59445);
-  static const IconData check_circle_mdi = IconsFlutterData.materialIcons(59500);
-  static const IconData chevron_left_mdi = IconsFlutterData.materialIcons(58827);
+  static const IconData check_circle_mdi =
+      IconsFlutterData.materialIcons(59500);
+  static const IconData chevron_left_mdi =
+      IconsFlutterData.materialIcons(58827);
   static const IconData chevron_right_mdi =
       IconsFlutterData.materialIcons(58828);
   static const IconData child_care_mdi = IconsFlutterData.materialIcons(60225);
@@ -4445,13 +4613,15 @@ class FlutterIcons {
   static const IconData closed_caption_mdi =
       IconsFlutterData.materialIcons(57372);
   static const IconData cloud_mdi = IconsFlutterData.materialIcons(58045);
-  static const IconData cloud_circle_mdi = IconsFlutterData.materialIcons(58046);
+  static const IconData cloud_circle_mdi =
+      IconsFlutterData.materialIcons(58046);
   static const IconData cloud_done_mdi = IconsFlutterData.materialIcons(58047);
   static const IconData cloud_download_mdi =
       IconsFlutterData.materialIcons(58048);
   static const IconData cloud_off_mdi = IconsFlutterData.materialIcons(58049);
   static const IconData cloud_queue_mdi = IconsFlutterData.materialIcons(58050);
-  static const IconData cloud_upload_mdi = IconsFlutterData.materialIcons(58051);
+  static const IconData cloud_upload_mdi =
+      IconsFlutterData.materialIcons(58051);
   static const IconData code_mdi = IconsFlutterData.materialIcons(59503);
   static const IconData collections_mdi = IconsFlutterData.materialIcons(58294);
   static const IconData collections_bookmark_mdi =
@@ -4465,11 +4635,13 @@ class FlutterIcons {
   static const IconData computer_mdi = IconsFlutterData.materialIcons(58122);
   static const IconData confirmation_number_mdi =
       IconsFlutterData.materialIcons(58936);
-  static const IconData contact_mail_mdi = IconsFlutterData.materialIcons(57552);
+  static const IconData contact_mail_mdi =
+      IconsFlutterData.materialIcons(57552);
   static const IconData contact_phone_mdi =
       IconsFlutterData.materialIcons(57551);
   static const IconData contacts_mdi = IconsFlutterData.materialIcons(57530);
-  static const IconData content_copy_mdi = IconsFlutterData.materialIcons(57677);
+  static const IconData content_copy_mdi =
+      IconsFlutterData.materialIcons(57677);
   static const IconData content_cut_mdi = IconsFlutterData.materialIcons(57678);
   static const IconData content_paste_mdi =
       IconsFlutterData.materialIcons(57679);
@@ -4504,7 +4676,8 @@ class FlutterIcons {
   static const IconData delete_mdi = IconsFlutterData.materialIcons(59506);
   static const IconData delete_forever_mdi =
       IconsFlutterData.materialIcons(59691);
-  static const IconData delete_sweep_mdi = IconsFlutterData.materialIcons(57708);
+  static const IconData delete_sweep_mdi =
+      IconsFlutterData.materialIcons(57708);
   static const IconData description_mdi = IconsFlutterData.materialIcons(59507);
   static const IconData desktop_mac_mdi = IconsFlutterData.materialIcons(58123);
   static const IconData desktop_windows_mdi =
@@ -4596,7 +4769,8 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(58319);
   static const IconData extension_mdi = IconsFlutterData.materialIcons(59515);
   static const IconData face_mdi = IconsFlutterData.materialIcons(59516);
-  static const IconData fast_forward_mdi = IconsFlutterData.materialIcons(57375);
+  static const IconData fast_forward_mdi =
+      IconsFlutterData.materialIcons(57375);
   static const IconData fast_rewind_mdi = IconsFlutterData.materialIcons(57376);
   static const IconData favorite_mdi = IconsFlutterData.materialIcons(59517);
   static const IconData favorite_border_mdi =
@@ -4632,7 +4806,8 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(58331);
   static const IconData filter_center_focus_mdi =
       IconsFlutterData.materialIcons(58332);
-  static const IconData filter_drama_mdi = IconsFlutterData.materialIcons(58333);
+  static const IconData filter_drama_mdi =
+      IconsFlutterData.materialIcons(58333);
   static const IconData filter_frames_mdi =
       IconsFlutterData.materialIcons(58334);
   static const IconData filter_hdr_mdi = IconsFlutterData.materialIcons(58335);
@@ -4642,8 +4817,10 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(58338);
   static const IconData filter_vintage_mdi =
       IconsFlutterData.materialIcons(58339);
-  static const IconData find_in_page_mdi = IconsFlutterData.materialIcons(59520);
-  static const IconData find_replace_mdi = IconsFlutterData.materialIcons(59521);
+  static const IconData find_in_page_mdi =
+      IconsFlutterData.materialIcons(59520);
+  static const IconData find_replace_mdi =
+      IconsFlutterData.materialIcons(59521);
   static const IconData fingerprint_mdi = IconsFlutterData.materialIcons(59661);
   static const IconData first_page_mdi = IconsFlutterData.materialIcons(58844);
   static const IconData fitness_center_mdi =
@@ -4658,7 +4835,8 @@ class FlutterIcons {
   static const IconData flight_takeoff_mdi =
       IconsFlutterData.materialIcons(59653);
   static const IconData flip_mdi = IconsFlutterData.materialIcons(58344);
-  static const IconData flip_to_back_mdi = IconsFlutterData.materialIcons(59522);
+  static const IconData flip_to_back_mdi =
+      IconsFlutterData.materialIcons(59522);
   static const IconData flip_to_front_mdi =
       IconsFlutterData.materialIcons(59523);
   static const IconData folder_mdi = IconsFlutterData.materialIcons(58055);
@@ -4678,7 +4856,8 @@ class FlutterIcons {
   static const IconData format_align_right_mdi =
       IconsFlutterData.materialIcons(57911);
   static const IconData format_bold_mdi = IconsFlutterData.materialIcons(57912);
-  static const IconData format_clear_mdi = IconsFlutterData.materialIcons(57913);
+  static const IconData format_clear_mdi =
+      IconsFlutterData.materialIcons(57913);
   static const IconData format_color_fill_mdi =
       IconsFlutterData.materialIcons(57914);
   static const IconData format_color_reset_mdi =
@@ -4697,8 +4876,10 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(57921);
   static const IconData format_list_numbered_mdi =
       IconsFlutterData.materialIcons(57922);
-  static const IconData format_paint_mdi = IconsFlutterData.materialIcons(57923);
-  static const IconData format_quote_mdi = IconsFlutterData.materialIcons(57924);
+  static const IconData format_paint_mdi =
+      IconsFlutterData.materialIcons(57923);
+  static const IconData format_quote_mdi =
+      IconsFlutterData.materialIcons(57924);
   static const IconData format_shapes_mdi =
       IconsFlutterData.materialIcons(57950);
   static const IconData format_size_mdi = IconsFlutterData.materialIcons(57925);
@@ -4752,8 +4933,10 @@ class FlutterIcons {
   static const IconData healing_mdi = IconsFlutterData.materialIcons(58355);
   static const IconData hearing_mdi = IconsFlutterData.materialIcons(57379);
   static const IconData help_mdi = IconsFlutterData.materialIcons(59527);
-  static const IconData help_outline_mdi = IconsFlutterData.materialIcons(59645);
-  static const IconData high_quality_mdi = IconsFlutterData.materialIcons(57380);
+  static const IconData help_outline_mdi =
+      IconsFlutterData.materialIcons(59645);
+  static const IconData high_quality_mdi =
+      IconsFlutterData.materialIcons(57380);
   static const IconData highlight_mdi = IconsFlutterData.materialIcons(57951);
   static const IconData highlight_off_mdi =
       IconsFlutterData.materialIcons(59528);
@@ -4780,9 +4963,11 @@ class FlutterIcons {
   static const IconData indeterminate_check_box_mdi =
       IconsFlutterData.materialIcons(59657);
   static const IconData info_mdi = IconsFlutterData.materialIcons(59534);
-  static const IconData info_outline_mdi = IconsFlutterData.materialIcons(59535);
+  static const IconData info_outline_mdi =
+      IconsFlutterData.materialIcons(59535);
   static const IconData input_mdi = IconsFlutterData.materialIcons(59536);
-  static const IconData insert_chart_mdi = IconsFlutterData.materialIcons(57931);
+  static const IconData insert_chart_mdi =
+      IconsFlutterData.materialIcons(57931);
   static const IconData insert_comment_mdi =
       IconsFlutterData.materialIcons(57932);
   static const IconData insert_drive_file_mdi =
@@ -4792,7 +4977,8 @@ class FlutterIcons {
   static const IconData insert_invitation_mdi =
       IconsFlutterData.materialIcons(57935);
   static const IconData insert_link_mdi = IconsFlutterData.materialIcons(57936);
-  static const IconData insert_photo_mdi = IconsFlutterData.materialIcons(57937);
+  static const IconData insert_photo_mdi =
+      IconsFlutterData.materialIcons(57937);
   static const IconData invert_colors_mdi =
       IconsFlutterData.materialIcons(59537);
   static const IconData invert_colors_off_mdi =
@@ -4815,7 +5001,8 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(58138);
   static const IconData keyboard_return_mdi =
       IconsFlutterData.materialIcons(58139);
-  static const IconData keyboard_tab_mdi = IconsFlutterData.materialIcons(58140);
+  static const IconData keyboard_tab_mdi =
+      IconsFlutterData.materialIcons(58140);
   static const IconData keyboard_voice_mdi =
       IconsFlutterData.materialIcons(58141);
   static const IconData kitchen_mdi = IconsFlutterData.materialIcons(60231);
@@ -4833,7 +5020,8 @@ class FlutterIcons {
   static const IconData last_page_mdi = IconsFlutterData.materialIcons(58845);
   static const IconData launch_mdi = IconsFlutterData.materialIcons(59541);
   static const IconData layers_mdi = IconsFlutterData.materialIcons(58683);
-  static const IconData layers_clear_mdi = IconsFlutterData.materialIcons(58684);
+  static const IconData layers_clear_mdi =
+      IconsFlutterData.materialIcons(58684);
   static const IconData leak_add_mdi = IconsFlutterData.materialIcons(58360);
   static const IconData leak_remove_mdi = IconsFlutterData.materialIcons(58361);
   static const IconData lens_mdi = IconsFlutterData.materialIcons(58362);
@@ -4846,7 +5034,8 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(59663);
   static const IconData line_style_mdi = IconsFlutterData.materialIcons(59673);
   static const IconData line_weight_mdi = IconsFlutterData.materialIcons(59674);
-  static const IconData linear_scale_mdi = IconsFlutterData.materialIcons(57952);
+  static const IconData linear_scale_mdi =
+      IconsFlutterData.materialIcons(57952);
   static const IconData link_mdi = IconsFlutterData.materialIcons(57687);
   static const IconData linked_camera_mdi =
       IconsFlutterData.materialIcons(58424);
@@ -4864,7 +5053,8 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(58690);
   static const IconData local_convenience_store_mdi =
       IconsFlutterData.materialIcons(58691);
-  static const IconData local_dining_mdi = IconsFlutterData.materialIcons(58710);
+  static const IconData local_dining_mdi =
+      IconsFlutterData.materialIcons(58710);
   static const IconData local_drink_mdi = IconsFlutterData.materialIcons(58692);
   static const IconData local_florist_mdi =
       IconsFlutterData.materialIcons(58693);
@@ -4880,7 +5070,8 @@ class FlutterIcons {
   static const IconData local_library_mdi =
       IconsFlutterData.materialIcons(58699);
   static const IconData local_mall_mdi = IconsFlutterData.materialIcons(58700);
-  static const IconData local_movies_mdi = IconsFlutterData.materialIcons(58701);
+  static const IconData local_movies_mdi =
+      IconsFlutterData.materialIcons(58701);
   static const IconData local_offer_mdi = IconsFlutterData.materialIcons(58702);
   static const IconData local_parking_mdi =
       IconsFlutterData.materialIcons(58703);
@@ -4901,13 +5092,15 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(59377);
   static const IconData location_disabled_mdi =
       IconsFlutterData.materialIcons(57782);
-  static const IconData location_off_mdi = IconsFlutterData.materialIcons(57543);
+  static const IconData location_off_mdi =
+      IconsFlutterData.materialIcons(57543);
   static const IconData location_on_mdi = IconsFlutterData.materialIcons(57544);
   static const IconData location_searching_mdi =
       IconsFlutterData.materialIcons(57783);
   static const IconData lock_mdi = IconsFlutterData.materialIcons(59543);
   static const IconData lock_open_mdi = IconsFlutterData.materialIcons(59544);
-  static const IconData lock_outline_mdi = IconsFlutterData.materialIcons(59545);
+  static const IconData lock_outline_mdi =
+      IconsFlutterData.materialIcons(59545);
   static const IconData looks_mdi = IconsFlutterData.materialIcons(58364);
   static const IconData looks_3_mdi = IconsFlutterData.materialIcons(58363);
   static const IconData looks_4_mdi = IconsFlutterData.materialIcons(58365);
@@ -4917,10 +5110,12 @@ class FlutterIcons {
   static const IconData looks_two_mdi = IconsFlutterData.materialIcons(58369);
   static const IconData loop_mdi = IconsFlutterData.materialIcons(57384);
   static const IconData loupe_mdi = IconsFlutterData.materialIcons(58370);
-  static const IconData low_priority_mdi = IconsFlutterData.materialIcons(57709);
+  static const IconData low_priority_mdi =
+      IconsFlutterData.materialIcons(57709);
   static const IconData loyalty_mdi = IconsFlutterData.materialIcons(59546);
   static const IconData mail_mdi = IconsFlutterData.materialIcons(57688);
-  static const IconData mail_outline_mdi = IconsFlutterData.materialIcons(57569);
+  static const IconData mail_outline_mdi =
+      IconsFlutterData.materialIcons(57569);
   static const IconData map_mdi = IconsFlutterData.materialIcons(58715);
   static const IconData markunread_mdi = IconsFlutterData.materialIcons(57689);
   static const IconData markunread_mailbox_mdi =
@@ -4933,7 +5128,8 @@ class FlutterIcons {
   static const IconData mic_none_mdi = IconsFlutterData.materialIcons(57386);
   static const IconData mic_off_mdi = IconsFlutterData.materialIcons(57387);
   static const IconData mms_mdi = IconsFlutterData.materialIcons(58904);
-  static const IconData mode_comment_mdi = IconsFlutterData.materialIcons(57939);
+  static const IconData mode_comment_mdi =
+      IconsFlutterData.materialIcons(57939);
   static const IconData mode_edit_mdi = IconsFlutterData.materialIcons(57940);
   static const IconData monetization_on_mdi =
       IconsFlutterData.materialIcons(57955);
@@ -4952,7 +5148,8 @@ class FlutterIcons {
   static const IconData movie_mdi = IconsFlutterData.materialIcons(57388);
   static const IconData movie_creation_mdi =
       IconsFlutterData.materialIcons(58372);
-  static const IconData movie_filter_mdi = IconsFlutterData.materialIcons(58426);
+  static const IconData movie_filter_mdi =
+      IconsFlutterData.materialIcons(58426);
   static const IconData multiline_chart_mdi =
       IconsFlutterData.materialIcons(59103);
   static const IconData music_note_mdi = IconsFlutterData.materialIcons(58373);
@@ -4967,13 +5164,16 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(58377);
   static const IconData navigation_mdi = IconsFlutterData.materialIcons(58717);
   static const IconData near_me_mdi = IconsFlutterData.materialIcons(58729);
-  static const IconData network_cell_mdi = IconsFlutterData.materialIcons(57785);
+  static const IconData network_cell_mdi =
+      IconsFlutterData.materialIcons(57785);
   static const IconData network_check_mdi =
       IconsFlutterData.materialIcons(58944);
   static const IconData network_locked_mdi =
       IconsFlutterData.materialIcons(58906);
-  static const IconData network_wifi_mdi = IconsFlutterData.materialIcons(57786);
-  static const IconData new_releases_mdi = IconsFlutterData.materialIcons(57393);
+  static const IconData network_wifi_mdi =
+      IconsFlutterData.materialIcons(57786);
+  static const IconData new_releases_mdi =
+      IconsFlutterData.materialIcons(57393);
   static const IconData next_week_mdi = IconsFlutterData.materialIcons(57706);
   static const IconData nfc_mdi = IconsFlutterData.materialIcons(57787);
   static const IconData no_encryption_mdi =
@@ -5058,10 +5258,14 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(58908);
   static const IconData phone_in_talk_mdi =
       IconsFlutterData.materialIcons(58909);
-  static const IconData phone_iphone_mdi = IconsFlutterData.materialIcons(58149);
-  static const IconData phone_locked_mdi = IconsFlutterData.materialIcons(58910);
-  static const IconData phone_missed_mdi = IconsFlutterData.materialIcons(58911);
-  static const IconData phone_paused_mdi = IconsFlutterData.materialIcons(58912);
+  static const IconData phone_iphone_mdi =
+      IconsFlutterData.materialIcons(58149);
+  static const IconData phone_locked_mdi =
+      IconsFlutterData.materialIcons(58910);
+  static const IconData phone_missed_mdi =
+      IconsFlutterData.materialIcons(58911);
+  static const IconData phone_paused_mdi =
+      IconsFlutterData.materialIcons(58912);
   static const IconData phonelink_mdi = IconsFlutterData.materialIcons(58150);
   static const IconData phonelink_erase_mdi =
       IconsFlutterData.materialIcons(57563);
@@ -5075,8 +5279,10 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(57566);
   static const IconData photo_mdi = IconsFlutterData.materialIcons(58384);
   static const IconData photo_album_mdi = IconsFlutterData.materialIcons(58385);
-  static const IconData photo_camera_mdi = IconsFlutterData.materialIcons(58386);
-  static const IconData photo_filter_mdi = IconsFlutterData.materialIcons(58427);
+  static const IconData photo_camera_mdi =
+      IconsFlutterData.materialIcons(58386);
+  static const IconData photo_filter_mdi =
+      IconsFlutterData.materialIcons(58427);
   static const IconData photo_library_mdi =
       IconsFlutterData.materialIcons(58387);
   static const IconData photo_size_select_actual_mdi =
@@ -5103,7 +5309,8 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(57401);
   static const IconData play_for_work_mdi =
       IconsFlutterData.materialIcons(59654);
-  static const IconData playlist_add_mdi = IconsFlutterData.materialIcons(57403);
+  static const IconData playlist_add_mdi =
+      IconsFlutterData.materialIcons(57403);
   static const IconData playlist_add_check_mdi =
       IconsFlutterData.materialIcons(57445);
   static const IconData playlist_play_mdi =
@@ -5177,14 +5384,17 @@ class FlutterIcons {
   static const IconData restaurant_menu_mdi =
       IconsFlutterData.materialIcons(58721);
   static const IconData restore_mdi = IconsFlutterData.materialIcons(59571);
-  static const IconData restore_page_mdi = IconsFlutterData.materialIcons(59689);
+  static const IconData restore_page_mdi =
+      IconsFlutterData.materialIcons(59689);
   static const IconData ring_volume_mdi = IconsFlutterData.materialIcons(57553);
   static const IconData room_mdi = IconsFlutterData.materialIcons(59572);
-  static const IconData room_service_mdi = IconsFlutterData.materialIcons(60233);
+  static const IconData room_service_mdi =
+      IconsFlutterData.materialIcons(60233);
   static const IconData rotate_90_degrees_ccw_mdi =
       IconsFlutterData.materialIcons(58392);
   static const IconData rotate_left_mdi = IconsFlutterData.materialIcons(58393);
-  static const IconData rotate_right_mdi = IconsFlutterData.materialIcons(58394);
+  static const IconData rotate_right_mdi =
+      IconsFlutterData.materialIcons(58394);
   static const IconData rounded_corner_mdi =
       IconsFlutterData.materialIcons(59680);
   static const IconData router_mdi = IconsFlutterData.materialIcons(58152);
@@ -5204,7 +5414,8 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(57792);
   static const IconData screen_rotation_mdi =
       IconsFlutterData.materialIcons(57793);
-  static const IconData screen_share_mdi = IconsFlutterData.materialIcons(57570);
+  static const IconData screen_share_mdi =
+      IconsFlutterData.materialIcons(57570);
   static const IconData sd_card_mdi = IconsFlutterData.materialIcons(58915);
   static const IconData sd_storage_mdi = IconsFlutterData.materialIcons(57794);
   static const IconData search_mdi = IconsFlutterData.materialIcons(59574);
@@ -5357,11 +5568,13 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(59606);
   static const IconData switch_camera_mdi =
       IconsFlutterData.materialIcons(58398);
-  static const IconData switch_video_mdi = IconsFlutterData.materialIcons(58399);
+  static const IconData switch_video_mdi =
+      IconsFlutterData.materialIcons(58399);
   static const IconData sync_mdi = IconsFlutterData.materialIcons(58919);
   static const IconData sync_disabled_mdi =
       IconsFlutterData.materialIcons(58920);
-  static const IconData sync_problem_mdi = IconsFlutterData.materialIcons(58921);
+  static const IconData sync_problem_mdi =
+      IconsFlutterData.materialIcons(58921);
   static const IconData system_update_mdi =
       IconsFlutterData.materialIcons(58922);
   static const IconData system_update_alt_mdi =
@@ -5374,7 +5587,8 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(58160);
   static const IconData tablet_mac_mdi = IconsFlutterData.materialIcons(58161);
   static const IconData tag_faces_mdi = IconsFlutterData.materialIcons(58400);
-  static const IconData tap_and_play_mdi = IconsFlutterData.materialIcons(58923);
+  static const IconData tap_and_play_mdi =
+      IconsFlutterData.materialIcons(58923);
   static const IconData terrain_mdi = IconsFlutterData.materialIcons(58724);
   static const IconData text_fields_mdi = IconsFlutterData.materialIcons(57954);
   static const IconData text_format_mdi = IconsFlutterData.materialIcons(57701);
@@ -5439,7 +5653,8 @@ class FlutterIcons {
   static const IconData video_library_mdi =
       IconsFlutterData.materialIcons(57418);
   static const IconData videocam_mdi = IconsFlutterData.materialIcons(57419);
-  static const IconData videocam_off_mdi = IconsFlutterData.materialIcons(57420);
+  static const IconData videocam_off_mdi =
+      IconsFlutterData.materialIcons(57420);
   static const IconData videogame_asset_mdi =
       IconsFlutterData.materialIcons(58168);
   static const IconData view_agenda_mdi = IconsFlutterData.materialIcons(59625);
@@ -5448,7 +5663,8 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(59627);
   static const IconData view_column_mdi = IconsFlutterData.materialIcons(59628);
   static const IconData view_comfy_mdi = IconsFlutterData.materialIcons(58410);
-  static const IconData view_compact_mdi = IconsFlutterData.materialIcons(58411);
+  static const IconData view_compact_mdi =
+      IconsFlutterData.materialIcons(58411);
   static const IconData view_day_mdi = IconsFlutterData.materialIcons(59629);
   static const IconData view_headline_mdi =
       IconsFlutterData.materialIcons(59630);
@@ -5496,9 +5712,11 @@ class FlutterIcons {
       IconsFlutterData.materialIcons(59642);
   static const IconData zoom_in_mdi = IconsFlutterData.materialIcons(59647);
   static const IconData zoom_out_mdi = IconsFlutterData.materialIcons(59648);
-  static const IconData zoom_out_map_mdi = IconsFlutterData.materialIcons(58731);
+  static const IconData zoom_out_map_mdi =
+      IconsFlutterData.materialIcons(58731);
   static const IconData wi_day_sunny_wea = IconsFlutterData.weatherIcons(61453);
-  static const IconData wi_day_cloudy_wea = IconsFlutterData.weatherIcons(61442);
+  static const IconData wi_day_cloudy_wea =
+      IconsFlutterData.weatherIcons(61442);
   static const IconData wi_day_cloudy_gusts_wea =
       IconsFlutterData.weatherIcons(61440);
   static const IconData wi_day_cloudy_windy_wea =
@@ -5582,12 +5800,14 @@ class FlutterIcons {
   static const IconData wi_night_cloudy_windy_wea =
       IconsFlutterData.weatherIcons(61488);
   static const IconData wi_night_fog_wea = IconsFlutterData.weatherIcons(61514);
-  static const IconData wi_night_hail_wea = IconsFlutterData.weatherIcons(61490);
+  static const IconData wi_night_hail_wea =
+      IconsFlutterData.weatherIcons(61490);
   static const IconData wi_night_lightning_wea =
       IconsFlutterData.weatherIcons(61491);
   static const IconData wi_night_partly_cloudy_wea =
       IconsFlutterData.weatherIcons(61571);
-  static const IconData wi_night_rain_wea = IconsFlutterData.weatherIcons(61494);
+  static const IconData wi_night_rain_wea =
+      IconsFlutterData.weatherIcons(61494);
   static const IconData wi_night_rain_mix_wea =
       IconsFlutterData.weatherIcons(61492);
   static const IconData wi_night_rain_wind_wea =
@@ -5598,7 +5818,8 @@ class FlutterIcons {
       IconsFlutterData.weatherIcons(61619);
   static const IconData wi_night_sleet_storm_wea =
       IconsFlutterData.weatherIcons(61545);
-  static const IconData wi_night_snow_wea = IconsFlutterData.weatherIcons(61496);
+  static const IconData wi_night_snow_wea =
+      IconsFlutterData.weatherIcons(61496);
   static const IconData wi_night_snow_thunderstorm_wea =
       IconsFlutterData.weatherIcons(61548);
   static const IconData wi_night_snow_wind_wea =
@@ -5650,7 +5871,8 @@ class FlutterIcons {
   static const IconData wi_strong_wind_wea =
       IconsFlutterData.weatherIcons(61520);
   static const IconData wi_sandstorm_wea = IconsFlutterData.weatherIcons(61570);
-  static const IconData wi_earthquake_wea = IconsFlutterData.weatherIcons(61638);
+  static const IconData wi_earthquake_wea =
+      IconsFlutterData.weatherIcons(61638);
   static const IconData wi_fire_wea = IconsFlutterData.weatherIcons(61639);
   static const IconData wi_flood_wea = IconsFlutterData.weatherIcons(61564);
   static const IconData wi_meteor_wea = IconsFlutterData.weatherIcons(61553);
@@ -5670,7 +5892,8 @@ class FlutterIcons {
       IconsFlutterData.weatherIcons(61617);
   static const IconData wi_alien_wea = IconsFlutterData.weatherIcons(61557);
   static const IconData wi_celsius_wea = IconsFlutterData.weatherIcons(61500);
-  static const IconData wi_fahrenheit_wea = IconsFlutterData.weatherIcons(61509);
+  static const IconData wi_fahrenheit_wea =
+      IconsFlutterData.weatherIcons(61509);
   static const IconData wi_degrees_wea = IconsFlutterData.weatherIcons(61506);
   static const IconData wi_thermometer_wea =
       IconsFlutterData.weatherIcons(61525);
@@ -5678,7 +5901,8 @@ class FlutterIcons {
       IconsFlutterData.weatherIcons(61523);
   static const IconData wi_thermometer_internal_wea =
       IconsFlutterData.weatherIcons(61524);
-  static const IconData wi_cloud_down_wea = IconsFlutterData.weatherIcons(61501);
+  static const IconData wi_cloud_down_wea =
+      IconsFlutterData.weatherIcons(61501);
   static const IconData wi_cloud_up_wea = IconsFlutterData.weatherIcons(61504);
   static const IconData wi_cloud_refresh_wea =
       IconsFlutterData.weatherIcons(61502);
@@ -5937,7 +6161,8 @@ class FlutterIcons {
   static const IconData wi_yahoo_45_wea = IconsFlutterData.weatherIcons(61454);
   static const IconData wi_yahoo_46_wea = IconsFlutterData.weatherIcons(61467);
   static const IconData wi_yahoo_47_wea = IconsFlutterData.weatherIcons(61454);
-  static const IconData wi_yahoo_3200_wea = IconsFlutterData.weatherIcons(61559);
+  static const IconData wi_yahoo_3200_wea =
+      IconsFlutterData.weatherIcons(61559);
   static const IconData wi_forecast_io_clear_day_wea =
       IconsFlutterData.weatherIcons(61453);
   static const IconData wi_forecast_io_clear_night_wea =
@@ -5965,90 +6190,169 @@ class FlutterIcons {
   static const IconData wi_forecast_io_tornado_wea =
       IconsFlutterData.weatherIcons(61526);
   static const IconData wi_wmo4680_0_wea = IconsFlutterData.weatherIcons(61525);
-  static const IconData wi_wmo4680_00_wea = IconsFlutterData.weatherIcons(61525);
+  static const IconData wi_wmo4680_00_wea =
+      IconsFlutterData.weatherIcons(61525);
   static const IconData wi_wmo4680_1_wea = IconsFlutterData.weatherIcons(61459);
-  static const IconData wi_wmo4680_01_wea = IconsFlutterData.weatherIcons(61459);
+  static const IconData wi_wmo4680_01_wea =
+      IconsFlutterData.weatherIcons(61459);
   static const IconData wi_wmo4680_2_wea = IconsFlutterData.weatherIcons(61525);
-  static const IconData wi_wmo4680_02_wea = IconsFlutterData.weatherIcons(61525);
+  static const IconData wi_wmo4680_02_wea =
+      IconsFlutterData.weatherIcons(61525);
   static const IconData wi_wmo4680_3_wea = IconsFlutterData.weatherIcons(61459);
-  static const IconData wi_wmo4680_03_wea = IconsFlutterData.weatherIcons(61459);
+  static const IconData wi_wmo4680_03_wea =
+      IconsFlutterData.weatherIcons(61459);
   static const IconData wi_wmo4680_4_wea = IconsFlutterData.weatherIcons(61460);
-  static const IconData wi_wmo4680_04_wea = IconsFlutterData.weatherIcons(61460);
+  static const IconData wi_wmo4680_04_wea =
+      IconsFlutterData.weatherIcons(61460);
   static const IconData wi_wmo4680_5_wea = IconsFlutterData.weatherIcons(61460);
-  static const IconData wi_wmo4680_05_wea = IconsFlutterData.weatherIcons(61460);
-  static const IconData wi_wmo4680_10_wea = IconsFlutterData.weatherIcons(61460);
-  static const IconData wi_wmo4680_11_wea = IconsFlutterData.weatherIcons(61460);
-  static const IconData wi_wmo4680_12_wea = IconsFlutterData.weatherIcons(61462);
-  static const IconData wi_wmo4680_18_wea = IconsFlutterData.weatherIcons(61520);
-  static const IconData wi_wmo4680_20_wea = IconsFlutterData.weatherIcons(61460);
-  static const IconData wi_wmo4680_21_wea = IconsFlutterData.weatherIcons(61463);
-  static const IconData wi_wmo4680_22_wea = IconsFlutterData.weatherIcons(61463);
-  static const IconData wi_wmo4680_23_wea = IconsFlutterData.weatherIcons(61465);
-  static const IconData wi_wmo4680_24_wea = IconsFlutterData.weatherIcons(61467);
-  static const IconData wi_wmo4680_25_wea = IconsFlutterData.weatherIcons(61461);
-  static const IconData wi_wmo4680_26_wea = IconsFlutterData.weatherIcons(61470);
-  static const IconData wi_wmo4680_27_wea = IconsFlutterData.weatherIcons(61539);
-  static const IconData wi_wmo4680_28_wea = IconsFlutterData.weatherIcons(61539);
-  static const IconData wi_wmo4680_29_wea = IconsFlutterData.weatherIcons(61539);
-  static const IconData wi_wmo4680_30_wea = IconsFlutterData.weatherIcons(61460);
-  static const IconData wi_wmo4680_31_wea = IconsFlutterData.weatherIcons(61460);
-  static const IconData wi_wmo4680_32_wea = IconsFlutterData.weatherIcons(61460);
-  static const IconData wi_wmo4680_33_wea = IconsFlutterData.weatherIcons(61460);
-  static const IconData wi_wmo4680_34_wea = IconsFlutterData.weatherIcons(61460);
-  static const IconData wi_wmo4680_35_wea = IconsFlutterData.weatherIcons(61460);
-  static const IconData wi_wmo4680_40_wea = IconsFlutterData.weatherIcons(61463);
-  static const IconData wi_wmo4680_41_wea = IconsFlutterData.weatherIcons(61468);
-  static const IconData wi_wmo4680_42_wea = IconsFlutterData.weatherIcons(61465);
-  static const IconData wi_wmo4680_43_wea = IconsFlutterData.weatherIcons(61468);
-  static const IconData wi_wmo4680_44_wea = IconsFlutterData.weatherIcons(61465);
-  static const IconData wi_wmo4680_45_wea = IconsFlutterData.weatherIcons(61461);
-  static const IconData wi_wmo4680_46_wea = IconsFlutterData.weatherIcons(61461);
-  static const IconData wi_wmo4680_47_wea = IconsFlutterData.weatherIcons(61467);
-  static const IconData wi_wmo4680_48_wea = IconsFlutterData.weatherIcons(61467);
-  static const IconData wi_wmo4680_50_wea = IconsFlutterData.weatherIcons(61468);
-  static const IconData wi_wmo4680_51_wea = IconsFlutterData.weatherIcons(61468);
-  static const IconData wi_wmo4680_52_wea = IconsFlutterData.weatherIcons(61465);
-  static const IconData wi_wmo4680_53_wea = IconsFlutterData.weatherIcons(61465);
-  static const IconData wi_wmo4680_54_wea = IconsFlutterData.weatherIcons(61558);
-  static const IconData wi_wmo4680_55_wea = IconsFlutterData.weatherIcons(61558);
-  static const IconData wi_wmo4680_56_wea = IconsFlutterData.weatherIcons(61558);
-  static const IconData wi_wmo4680_57_wea = IconsFlutterData.weatherIcons(61468);
-  static const IconData wi_wmo4680_58_wea = IconsFlutterData.weatherIcons(61465);
-  static const IconData wi_wmo4680_60_wea = IconsFlutterData.weatherIcons(61468);
-  static const IconData wi_wmo4680_61_wea = IconsFlutterData.weatherIcons(61468);
-  static const IconData wi_wmo4680_62_wea = IconsFlutterData.weatherIcons(61465);
-  static const IconData wi_wmo4680_63_wea = IconsFlutterData.weatherIcons(61465);
-  static const IconData wi_wmo4680_64_wea = IconsFlutterData.weatherIcons(61461);
-  static const IconData wi_wmo4680_65_wea = IconsFlutterData.weatherIcons(61461);
-  static const IconData wi_wmo4680_66_wea = IconsFlutterData.weatherIcons(61461);
-  static const IconData wi_wmo4680_67_wea = IconsFlutterData.weatherIcons(61463);
-  static const IconData wi_wmo4680_68_wea = IconsFlutterData.weatherIcons(61463);
-  static const IconData wi_wmo4680_70_wea = IconsFlutterData.weatherIcons(61467);
-  static const IconData wi_wmo4680_71_wea = IconsFlutterData.weatherIcons(61467);
-  static const IconData wi_wmo4680_72_wea = IconsFlutterData.weatherIcons(61467);
-  static const IconData wi_wmo4680_73_wea = IconsFlutterData.weatherIcons(61467);
-  static const IconData wi_wmo4680_74_wea = IconsFlutterData.weatherIcons(61558);
-  static const IconData wi_wmo4680_75_wea = IconsFlutterData.weatherIcons(61558);
-  static const IconData wi_wmo4680_76_wea = IconsFlutterData.weatherIcons(61558);
-  static const IconData wi_wmo4680_77_wea = IconsFlutterData.weatherIcons(61467);
-  static const IconData wi_wmo4680_78_wea = IconsFlutterData.weatherIcons(61558);
-  static const IconData wi_wmo4680_80_wea = IconsFlutterData.weatherIcons(61465);
-  static const IconData wi_wmo4680_81_wea = IconsFlutterData.weatherIcons(61468);
-  static const IconData wi_wmo4680_82_wea = IconsFlutterData.weatherIcons(61465);
-  static const IconData wi_wmo4680_83_wea = IconsFlutterData.weatherIcons(61465);
-  static const IconData wi_wmo4680_84_wea = IconsFlutterData.weatherIcons(61469);
-  static const IconData wi_wmo4680_85_wea = IconsFlutterData.weatherIcons(61463);
-  static const IconData wi_wmo4680_86_wea = IconsFlutterData.weatherIcons(61463);
-  static const IconData wi_wmo4680_87_wea = IconsFlutterData.weatherIcons(61463);
-  static const IconData wi_wmo4680_89_wea = IconsFlutterData.weatherIcons(61461);
-  static const IconData wi_wmo4680_90_wea = IconsFlutterData.weatherIcons(61462);
-  static const IconData wi_wmo4680_91_wea = IconsFlutterData.weatherIcons(61469);
-  static const IconData wi_wmo4680_92_wea = IconsFlutterData.weatherIcons(61470);
-  static const IconData wi_wmo4680_93_wea = IconsFlutterData.weatherIcons(61470);
-  static const IconData wi_wmo4680_94_wea = IconsFlutterData.weatherIcons(61462);
-  static const IconData wi_wmo4680_95_wea = IconsFlutterData.weatherIcons(61470);
-  static const IconData wi_wmo4680_96_wea = IconsFlutterData.weatherIcons(61470);
-  static const IconData wi_wmo4680_99_wea = IconsFlutterData.weatherIcons(61526);
+  static const IconData wi_wmo4680_05_wea =
+      IconsFlutterData.weatherIcons(61460);
+  static const IconData wi_wmo4680_10_wea =
+      IconsFlutterData.weatherIcons(61460);
+  static const IconData wi_wmo4680_11_wea =
+      IconsFlutterData.weatherIcons(61460);
+  static const IconData wi_wmo4680_12_wea =
+      IconsFlutterData.weatherIcons(61462);
+  static const IconData wi_wmo4680_18_wea =
+      IconsFlutterData.weatherIcons(61520);
+  static const IconData wi_wmo4680_20_wea =
+      IconsFlutterData.weatherIcons(61460);
+  static const IconData wi_wmo4680_21_wea =
+      IconsFlutterData.weatherIcons(61463);
+  static const IconData wi_wmo4680_22_wea =
+      IconsFlutterData.weatherIcons(61463);
+  static const IconData wi_wmo4680_23_wea =
+      IconsFlutterData.weatherIcons(61465);
+  static const IconData wi_wmo4680_24_wea =
+      IconsFlutterData.weatherIcons(61467);
+  static const IconData wi_wmo4680_25_wea =
+      IconsFlutterData.weatherIcons(61461);
+  static const IconData wi_wmo4680_26_wea =
+      IconsFlutterData.weatherIcons(61470);
+  static const IconData wi_wmo4680_27_wea =
+      IconsFlutterData.weatherIcons(61539);
+  static const IconData wi_wmo4680_28_wea =
+      IconsFlutterData.weatherIcons(61539);
+  static const IconData wi_wmo4680_29_wea =
+      IconsFlutterData.weatherIcons(61539);
+  static const IconData wi_wmo4680_30_wea =
+      IconsFlutterData.weatherIcons(61460);
+  static const IconData wi_wmo4680_31_wea =
+      IconsFlutterData.weatherIcons(61460);
+  static const IconData wi_wmo4680_32_wea =
+      IconsFlutterData.weatherIcons(61460);
+  static const IconData wi_wmo4680_33_wea =
+      IconsFlutterData.weatherIcons(61460);
+  static const IconData wi_wmo4680_34_wea =
+      IconsFlutterData.weatherIcons(61460);
+  static const IconData wi_wmo4680_35_wea =
+      IconsFlutterData.weatherIcons(61460);
+  static const IconData wi_wmo4680_40_wea =
+      IconsFlutterData.weatherIcons(61463);
+  static const IconData wi_wmo4680_41_wea =
+      IconsFlutterData.weatherIcons(61468);
+  static const IconData wi_wmo4680_42_wea =
+      IconsFlutterData.weatherIcons(61465);
+  static const IconData wi_wmo4680_43_wea =
+      IconsFlutterData.weatherIcons(61468);
+  static const IconData wi_wmo4680_44_wea =
+      IconsFlutterData.weatherIcons(61465);
+  static const IconData wi_wmo4680_45_wea =
+      IconsFlutterData.weatherIcons(61461);
+  static const IconData wi_wmo4680_46_wea =
+      IconsFlutterData.weatherIcons(61461);
+  static const IconData wi_wmo4680_47_wea =
+      IconsFlutterData.weatherIcons(61467);
+  static const IconData wi_wmo4680_48_wea =
+      IconsFlutterData.weatherIcons(61467);
+  static const IconData wi_wmo4680_50_wea =
+      IconsFlutterData.weatherIcons(61468);
+  static const IconData wi_wmo4680_51_wea =
+      IconsFlutterData.weatherIcons(61468);
+  static const IconData wi_wmo4680_52_wea =
+      IconsFlutterData.weatherIcons(61465);
+  static const IconData wi_wmo4680_53_wea =
+      IconsFlutterData.weatherIcons(61465);
+  static const IconData wi_wmo4680_54_wea =
+      IconsFlutterData.weatherIcons(61558);
+  static const IconData wi_wmo4680_55_wea =
+      IconsFlutterData.weatherIcons(61558);
+  static const IconData wi_wmo4680_56_wea =
+      IconsFlutterData.weatherIcons(61558);
+  static const IconData wi_wmo4680_57_wea =
+      IconsFlutterData.weatherIcons(61468);
+  static const IconData wi_wmo4680_58_wea =
+      IconsFlutterData.weatherIcons(61465);
+  static const IconData wi_wmo4680_60_wea =
+      IconsFlutterData.weatherIcons(61468);
+  static const IconData wi_wmo4680_61_wea =
+      IconsFlutterData.weatherIcons(61468);
+  static const IconData wi_wmo4680_62_wea =
+      IconsFlutterData.weatherIcons(61465);
+  static const IconData wi_wmo4680_63_wea =
+      IconsFlutterData.weatherIcons(61465);
+  static const IconData wi_wmo4680_64_wea =
+      IconsFlutterData.weatherIcons(61461);
+  static const IconData wi_wmo4680_65_wea =
+      IconsFlutterData.weatherIcons(61461);
+  static const IconData wi_wmo4680_66_wea =
+      IconsFlutterData.weatherIcons(61461);
+  static const IconData wi_wmo4680_67_wea =
+      IconsFlutterData.weatherIcons(61463);
+  static const IconData wi_wmo4680_68_wea =
+      IconsFlutterData.weatherIcons(61463);
+  static const IconData wi_wmo4680_70_wea =
+      IconsFlutterData.weatherIcons(61467);
+  static const IconData wi_wmo4680_71_wea =
+      IconsFlutterData.weatherIcons(61467);
+  static const IconData wi_wmo4680_72_wea =
+      IconsFlutterData.weatherIcons(61467);
+  static const IconData wi_wmo4680_73_wea =
+      IconsFlutterData.weatherIcons(61467);
+  static const IconData wi_wmo4680_74_wea =
+      IconsFlutterData.weatherIcons(61558);
+  static const IconData wi_wmo4680_75_wea =
+      IconsFlutterData.weatherIcons(61558);
+  static const IconData wi_wmo4680_76_wea =
+      IconsFlutterData.weatherIcons(61558);
+  static const IconData wi_wmo4680_77_wea =
+      IconsFlutterData.weatherIcons(61467);
+  static const IconData wi_wmo4680_78_wea =
+      IconsFlutterData.weatherIcons(61558);
+  static const IconData wi_wmo4680_80_wea =
+      IconsFlutterData.weatherIcons(61465);
+  static const IconData wi_wmo4680_81_wea =
+      IconsFlutterData.weatherIcons(61468);
+  static const IconData wi_wmo4680_82_wea =
+      IconsFlutterData.weatherIcons(61465);
+  static const IconData wi_wmo4680_83_wea =
+      IconsFlutterData.weatherIcons(61465);
+  static const IconData wi_wmo4680_84_wea =
+      IconsFlutterData.weatherIcons(61469);
+  static const IconData wi_wmo4680_85_wea =
+      IconsFlutterData.weatherIcons(61463);
+  static const IconData wi_wmo4680_86_wea =
+      IconsFlutterData.weatherIcons(61463);
+  static const IconData wi_wmo4680_87_wea =
+      IconsFlutterData.weatherIcons(61463);
+  static const IconData wi_wmo4680_89_wea =
+      IconsFlutterData.weatherIcons(61461);
+  static const IconData wi_wmo4680_90_wea =
+      IconsFlutterData.weatherIcons(61462);
+  static const IconData wi_wmo4680_91_wea =
+      IconsFlutterData.weatherIcons(61469);
+  static const IconData wi_wmo4680_92_wea =
+      IconsFlutterData.weatherIcons(61470);
+  static const IconData wi_wmo4680_93_wea =
+      IconsFlutterData.weatherIcons(61470);
+  static const IconData wi_wmo4680_94_wea =
+      IconsFlutterData.weatherIcons(61462);
+  static const IconData wi_wmo4680_95_wea =
+      IconsFlutterData.weatherIcons(61470);
+  static const IconData wi_wmo4680_96_wea =
+      IconsFlutterData.weatherIcons(61470);
+  static const IconData wi_wmo4680_99_wea =
+      IconsFlutterData.weatherIcons(61526);
   static const IconData wi_owm_200_wea = IconsFlutterData.weatherIcons(61470);
   static const IconData wi_owm_201_wea = IconsFlutterData.weatherIcons(61470);
   static const IconData wi_owm_202_wea = IconsFlutterData.weatherIcons(61470);
@@ -6381,8 +6685,10 @@ class FlutterIcons {
   static const IconData wi_wu_sleat_wea = IconsFlutterData.weatherIcons(61621);
   static const IconData wi_wu_snow_wea = IconsFlutterData.weatherIcons(61467);
   static const IconData wi_wu_sunny_wea = IconsFlutterData.weatherIcons(61453);
-  static const IconData wi_wu_tstorms_wea = IconsFlutterData.weatherIcons(61470);
-  static const IconData wi_wu_unknown_wea = IconsFlutterData.weatherIcons(61453);
+  static const IconData wi_wu_tstorms_wea =
+      IconsFlutterData.weatherIcons(61470);
+  static const IconData wi_wu_unknown_wea =
+      IconsFlutterData.weatherIcons(61453);
   static const IconData user_sli = IconsFlutterData.simpleLineIcons(57349);
   static const IconData people_sli = IconsFlutterData.simpleLineIcons(57345);
   static const IconData user_female_sli =
@@ -6404,7 +6710,8 @@ class FlutterIcons {
   static const IconData location_pin_sli =
       IconsFlutterData.simpleLineIcons(57494);
   static const IconData direction_sli = IconsFlutterData.simpleLineIcons(57410);
-  static const IconData directions_sli = IconsFlutterData.simpleLineIcons(57409);
+  static const IconData directions_sli =
+      IconsFlutterData.simpleLineIcons(57409);
   static const IconData compass_sli = IconsFlutterData.simpleLineIcons(57413);
   static const IconData layers_sli = IconsFlutterData.simpleLineIcons(57396);
   static const IconData menu_sli = IconsFlutterData.simpleLineIcons(58881);
@@ -6412,8 +6719,10 @@ class FlutterIcons {
   static const IconData options_vertical_sli =
       IconsFlutterData.simpleLineIcons(58882);
   static const IconData options_sli = IconsFlutterData.simpleLineIcons(58883);
-  static const IconData arrow_down_sli = IconsFlutterData.simpleLineIcons(58884);
-  static const IconData arrow_left_sli = IconsFlutterData.simpleLineIcons(58885);
+  static const IconData arrow_down_sli =
+      IconsFlutterData.simpleLineIcons(58884);
+  static const IconData arrow_left_sli =
+      IconsFlutterData.simpleLineIcons(58885);
   static const IconData arrow_right_sli =
       IconsFlutterData.simpleLineIcons(58886);
   static const IconData arrow_up_sli = IconsFlutterData.simpleLineIcons(58887);
@@ -6457,9 +6766,11 @@ class FlutterIcons {
   static const IconData shield_sli = IconsFlutterData.simpleLineIcons(57358);
   static const IconData screen_tablet_sli =
       IconsFlutterData.simpleLineIcons(57359);
-  static const IconData magic_wand_sli = IconsFlutterData.simpleLineIcons(57367);
+  static const IconData magic_wand_sli =
+      IconsFlutterData.simpleLineIcons(57367);
   static const IconData hourglass_sli = IconsFlutterData.simpleLineIcons(57368);
-  static const IconData graduation_sli = IconsFlutterData.simpleLineIcons(57369);
+  static const IconData graduation_sli =
+      IconsFlutterData.simpleLineIcons(57369);
   static const IconData ghost_sli = IconsFlutterData.simpleLineIcons(57370);
   static const IconData game_controller_sli =
       IconsFlutterData.simpleLineIcons(57371);
@@ -6484,7 +6795,8 @@ class FlutterIcons {
   static const IconData handbag_sli = IconsFlutterData.simpleLineIcons(57397);
   static const IconData globe_alt_sli = IconsFlutterData.simpleLineIcons(57398);
   static const IconData globe_sli = IconsFlutterData.simpleLineIcons(57399);
-  static const IconData folder_alt_sli = IconsFlutterData.simpleLineIcons(57401);
+  static const IconData folder_alt_sli =
+      IconsFlutterData.simpleLineIcons(57401);
   static const IconData folder_sli = IconsFlutterData.simpleLineIcons(57481);
   static const IconData film_sli = IconsFlutterData.simpleLineIcons(57402);
   static const IconData feed_sli = IconsFlutterData.simpleLineIcons(57403);
@@ -6494,7 +6806,8 @@ class FlutterIcons {
   static const IconData doc_sli = IconsFlutterData.simpleLineIcons(57477);
   static const IconData diamond_sli = IconsFlutterData.simpleLineIcons(57411);
   static const IconData cup_sli = IconsFlutterData.simpleLineIcons(57412);
-  static const IconData calculator_sli = IconsFlutterData.simpleLineIcons(57417);
+  static const IconData calculator_sli =
+      IconsFlutterData.simpleLineIcons(57417);
   static const IconData bubbles_sli = IconsFlutterData.simpleLineIcons(57418);
   static const IconData briefcase_sli = IconsFlutterData.simpleLineIcons(57419);
   static const IconData book_open_sli = IconsFlutterData.simpleLineIcons(57420);
@@ -6528,10 +6841,12 @@ class FlutterIcons {
   static const IconData home_sli = IconsFlutterData.simpleLineIcons(57449);
   static const IconData grid_sli = IconsFlutterData.simpleLineIcons(57450);
   static const IconData graph_sli = IconsFlutterData.simpleLineIcons(57451);
-  static const IconData microphone_sli = IconsFlutterData.simpleLineIcons(57443);
+  static const IconData microphone_sli =
+      IconsFlutterData.simpleLineIcons(57443);
   static const IconData music_tone_alt_sli =
       IconsFlutterData.simpleLineIcons(57441);
-  static const IconData music_tone_sli = IconsFlutterData.simpleLineIcons(57442);
+  static const IconData music_tone_sli =
+      IconsFlutterData.simpleLineIcons(57442);
   static const IconData earphones_alt_sli =
       IconsFlutterData.simpleLineIcons(57404);
   static const IconData earphones_sli = IconsFlutterData.simpleLineIcons(57405);
@@ -6552,7 +6867,8 @@ class FlutterIcons {
       IconsFlutterData.simpleLineIcons(57460);
   static const IconData volume_1_sli = IconsFlutterData.simpleLineIcons(57503);
   static const IconData volume_2_sli = IconsFlutterData.simpleLineIcons(57504);
-  static const IconData volume_off_sli = IconsFlutterData.simpleLineIcons(57505);
+  static const IconData volume_off_sli =
+      IconsFlutterData.simpleLineIcons(57505);
   static const IconData calendar_sli = IconsFlutterData.simpleLineIcons(57461);
   static const IconData bulb_sli = IconsFlutterData.simpleLineIcons(57462);
   static const IconData chart_sli = IconsFlutterData.simpleLineIcons(57463);
@@ -6579,7 +6895,8 @@ class FlutterIcons {
       IconsFlutterData.simpleLineIcons(57489);
   static const IconData magnifier_remove_sli =
       IconsFlutterData.simpleLineIcons(57490);
-  static const IconData paper_clip_sli = IconsFlutterData.simpleLineIcons(57491);
+  static const IconData paper_clip_sli =
+      IconsFlutterData.simpleLineIcons(57491);
   static const IconData paper_plane_sli =
       IconsFlutterData.simpleLineIcons(57492);
   static const IconData power_sli = IconsFlutterData.simpleLineIcons(57495);
@@ -6711,8 +7028,10 @@ class FlutterIcons {
   static const IconData edit_faw = IconsFlutterData.fontAwesome(61508);
   static const IconData pencil_square_o_faw =
       IconsFlutterData.fontAwesome(61508);
-  static const IconData share_square_o_faw = IconsFlutterData.fontAwesome(61509);
-  static const IconData check_square_o_faw = IconsFlutterData.fontAwesome(61510);
+  static const IconData share_square_o_faw =
+      IconsFlutterData.fontAwesome(61509);
+  static const IconData check_square_o_faw =
+      IconsFlutterData.fontAwesome(61510);
   static const IconData arrows_faw = IconsFlutterData.fontAwesome(61511);
   static const IconData step_backward_faw = IconsFlutterData.fontAwesome(61512);
   static const IconData fast_backward_faw = IconsFlutterData.fontAwesome(61513);
@@ -6734,8 +7053,10 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome(61529);
   static const IconData info_circle_faw = IconsFlutterData.fontAwesome(61530);
   static const IconData crosshairs_faw = IconsFlutterData.fontAwesome(61531);
-  static const IconData times_circle_o_faw = IconsFlutterData.fontAwesome(61532);
-  static const IconData check_circle_o_faw = IconsFlutterData.fontAwesome(61533);
+  static const IconData times_circle_o_faw =
+      IconsFlutterData.fontAwesome(61532);
+  static const IconData check_circle_o_faw =
+      IconsFlutterData.fontAwesome(61533);
   static const IconData ban_faw = IconsFlutterData.fontAwesome(61534);
   static const IconData arrow_left_faw = IconsFlutterData.fontAwesome(61536);
   static const IconData arrow_right_faw = IconsFlutterData.fontAwesome(61537);
@@ -6773,7 +7094,8 @@ class FlutterIcons {
   static const IconData arrows_h_faw = IconsFlutterData.fontAwesome(61566);
   static const IconData bar_chart_o_faw = IconsFlutterData.fontAwesome(61568);
   static const IconData bar_chart_faw = IconsFlutterData.fontAwesome(61568);
-  static const IconData twitter_square_faw = IconsFlutterData.fontAwesome(61569);
+  static const IconData twitter_square_faw =
+      IconsFlutterData.fontAwesome(61569);
   static const IconData facebook_square_faw =
       IconsFlutterData.fontAwesome(61570);
   static const IconData camera_retro_faw = IconsFlutterData.fontAwesome(61571);
@@ -6889,7 +7211,8 @@ class FlutterIcons {
   static const IconData clipboard_faw = IconsFlutterData.fontAwesome(61674);
   static const IconData lightbulb_o_faw = IconsFlutterData.fontAwesome(61675);
   static const IconData exchange_faw = IconsFlutterData.fontAwesome(61676);
-  static const IconData cloud_download_faw = IconsFlutterData.fontAwesome(61677);
+  static const IconData cloud_download_faw =
+      IconsFlutterData.fontAwesome(61677);
   static const IconData cloud_upload_faw = IconsFlutterData.fontAwesome(61678);
   static const IconData user_md_faw = IconsFlutterData.fontAwesome(61680);
   static const IconData stethoscope_faw = IconsFlutterData.fontAwesome(61681);
@@ -6939,16 +7262,20 @@ class FlutterIcons {
   static const IconData gamepad_faw = IconsFlutterData.fontAwesome(61723);
   static const IconData keyboard_o_faw = IconsFlutterData.fontAwesome(61724);
   static const IconData flag_o_faw = IconsFlutterData.fontAwesome(61725);
-  static const IconData flag_checkered_faw = IconsFlutterData.fontAwesome(61726);
+  static const IconData flag_checkered_faw =
+      IconsFlutterData.fontAwesome(61726);
   static const IconData terminal_faw = IconsFlutterData.fontAwesome(61728);
   static const IconData code_faw = IconsFlutterData.fontAwesome(61729);
-  static const IconData mail_reply_all_faw = IconsFlutterData.fontAwesome(61730);
+  static const IconData mail_reply_all_faw =
+      IconsFlutterData.fontAwesome(61730);
   static const IconData reply_all_faw = IconsFlutterData.fontAwesome(61730);
   static const IconData star_half_empty_faw =
       IconsFlutterData.fontAwesome(61731);
-  static const IconData star_half_full_faw = IconsFlutterData.fontAwesome(61731);
+  static const IconData star_half_full_faw =
+      IconsFlutterData.fontAwesome(61731);
   static const IconData star_half_o_faw = IconsFlutterData.fontAwesome(61731);
-  static const IconData location_arrow_faw = IconsFlutterData.fontAwesome(61732);
+  static const IconData location_arrow_faw =
+      IconsFlutterData.fontAwesome(61732);
   static const IconData crop_faw = IconsFlutterData.fontAwesome(61733);
   static const IconData code_fork_faw = IconsFlutterData.fontAwesome(61734);
   static const IconData unlink_faw = IconsFlutterData.fontAwesome(61735);
@@ -6988,7 +7315,8 @@ class FlutterIcons {
   static const IconData play_circle_faw = IconsFlutterData.fontAwesome(61764);
   static const IconData ticket_faw = IconsFlutterData.fontAwesome(61765);
   static const IconData minus_square_faw = IconsFlutterData.fontAwesome(61766);
-  static const IconData minus_square_o_faw = IconsFlutterData.fontAwesome(61767);
+  static const IconData minus_square_o_faw =
+      IconsFlutterData.fontAwesome(61767);
   static const IconData level_up_faw = IconsFlutterData.fontAwesome(61768);
   static const IconData level_down_faw = IconsFlutterData.fontAwesome(61769);
   static const IconData check_square_faw = IconsFlutterData.fontAwesome(61770);
@@ -7026,7 +7354,8 @@ class FlutterIcons {
   static const IconData btc_faw = IconsFlutterData.fontAwesome(61786);
   static const IconData file_faw = IconsFlutterData.fontAwesome(61787);
   static const IconData file_text_faw = IconsFlutterData.fontAwesome(61788);
-  static const IconData sort_alpha_asc_faw = IconsFlutterData.fontAwesome(61789);
+  static const IconData sort_alpha_asc_faw =
+      IconsFlutterData.fontAwesome(61789);
   static const IconData sort_alpha_desc_faw =
       IconsFlutterData.fontAwesome(61790);
   static const IconData sort_amount_asc_faw =
@@ -7039,13 +7368,15 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome(61795);
   static const IconData thumbs_up_faw = IconsFlutterData.fontAwesome(61796);
   static const IconData thumbs_down_faw = IconsFlutterData.fontAwesome(61797);
-  static const IconData youtube_square_faw = IconsFlutterData.fontAwesome(61798);
+  static const IconData youtube_square_faw =
+      IconsFlutterData.fontAwesome(61798);
   static const IconData youtube_faw = IconsFlutterData.fontAwesome(61799);
   static const IconData xing_faw = IconsFlutterData.fontAwesome(61800);
   static const IconData xing_square_faw = IconsFlutterData.fontAwesome(61801);
   static const IconData youtube_play_faw = IconsFlutterData.fontAwesome(61802);
   static const IconData dropbox_faw = IconsFlutterData.fontAwesome(61803);
-  static const IconData stack_overflow_faw = IconsFlutterData.fontAwesome(61804);
+  static const IconData stack_overflow_faw =
+      IconsFlutterData.fontAwesome(61804);
   static const IconData instagram_faw = IconsFlutterData.fontAwesome(61805);
   static const IconData flickr_faw = IconsFlutterData.fontAwesome(61806);
   static const IconData adn_faw = IconsFlutterData.fontAwesome(61808);
@@ -7081,7 +7412,8 @@ class FlutterIcons {
   static const IconData weibo_faw = IconsFlutterData.fontAwesome(61834);
   static const IconData renren_faw = IconsFlutterData.fontAwesome(61835);
   static const IconData pagelines_faw = IconsFlutterData.fontAwesome(61836);
-  static const IconData stack_exchange_faw = IconsFlutterData.fontAwesome(61837);
+  static const IconData stack_exchange_faw =
+      IconsFlutterData.fontAwesome(61837);
   static const IconData arrow_circle_o_right_faw =
       IconsFlutterData.fontAwesome(61838);
   static const IconData arrow_circle_o_left_faw =
@@ -7105,7 +7437,8 @@ class FlutterIcons {
   static const IconData bank_faw = IconsFlutterData.fontAwesome(61852);
   static const IconData university_faw = IconsFlutterData.fontAwesome(61852);
   static const IconData mortar_board_faw = IconsFlutterData.fontAwesome(61853);
-  static const IconData graduation_cap_faw = IconsFlutterData.fontAwesome(61853);
+  static const IconData graduation_cap_faw =
+      IconsFlutterData.fontAwesome(61853);
   static const IconData yahoo_faw = IconsFlutterData.fontAwesome(61854);
   static const IconData google_faw = IconsFlutterData.fontAwesome(61856);
   static const IconData reddit_faw = IconsFlutterData.fontAwesome(61857);
@@ -7116,7 +7449,8 @@ class FlutterIcons {
   static const IconData delicious_faw = IconsFlutterData.fontAwesome(61861);
   static const IconData digg_faw = IconsFlutterData.fontAwesome(61862);
   static const IconData pied_piper_pp_faw = IconsFlutterData.fontAwesome(61863);
-  static const IconData pied_piper_alt_faw = IconsFlutterData.fontAwesome(61864);
+  static const IconData pied_piper_alt_faw =
+      IconsFlutterData.fontAwesome(61864);
   static const IconData drupal_faw = IconsFlutterData.fontAwesome(61865);
   static const IconData joomla_faw = IconsFlutterData.fontAwesome(61866);
   static const IconData language_faw = IconsFlutterData.fontAwesome(61867);
@@ -7128,7 +7462,8 @@ class FlutterIcons {
   static const IconData cube_faw = IconsFlutterData.fontAwesome(61874);
   static const IconData cubes_faw = IconsFlutterData.fontAwesome(61875);
   static const IconData behance_faw = IconsFlutterData.fontAwesome(61876);
-  static const IconData behance_square_faw = IconsFlutterData.fontAwesome(61877);
+  static const IconData behance_square_faw =
+      IconsFlutterData.fontAwesome(61877);
   static const IconData steam_faw = IconsFlutterData.fontAwesome(61878);
   static const IconData steam_square_faw = IconsFlutterData.fontAwesome(61879);
   static const IconData recycle_faw = IconsFlutterData.fontAwesome(61880);
@@ -7147,10 +7482,12 @@ class FlutterIcons {
   static const IconData file_powerpoint_o_faw =
       IconsFlutterData.fontAwesome(61892);
   static const IconData file_photo_o_faw = IconsFlutterData.fontAwesome(61893);
-  static const IconData file_picture_o_faw = IconsFlutterData.fontAwesome(61893);
+  static const IconData file_picture_o_faw =
+      IconsFlutterData.fontAwesome(61893);
   static const IconData file_image_o_faw = IconsFlutterData.fontAwesome(61893);
   static const IconData file_zip_o_faw = IconsFlutterData.fontAwesome(61894);
-  static const IconData file_archive_o_faw = IconsFlutterData.fontAwesome(61894);
+  static const IconData file_archive_o_faw =
+      IconsFlutterData.fontAwesome(61894);
   static const IconData file_sound_o_faw = IconsFlutterData.fontAwesome(61895);
   static const IconData file_audio_o_faw = IconsFlutterData.fontAwesome(61895);
   static const IconData file_movie_o_faw = IconsFlutterData.fontAwesome(61896);
@@ -7164,7 +7501,8 @@ class FlutterIcons {
   static const IconData life_saver_faw = IconsFlutterData.fontAwesome(61901);
   static const IconData support_faw = IconsFlutterData.fontAwesome(61901);
   static const IconData life_ring_faw = IconsFlutterData.fontAwesome(61901);
-  static const IconData circle_o_notch_faw = IconsFlutterData.fontAwesome(61902);
+  static const IconData circle_o_notch_faw =
+      IconsFlutterData.fontAwesome(61902);
   static const IconData ra_faw = IconsFlutterData.fontAwesome(61904);
   static const IconData resistance_faw = IconsFlutterData.fontAwesome(61904);
   static const IconData rebel_faw = IconsFlutterData.fontAwesome(61904);
@@ -7237,7 +7575,8 @@ class FlutterIcons {
   static const IconData ils_faw = IconsFlutterData.fontAwesome(61963);
   static const IconData meanpath_faw = IconsFlutterData.fontAwesome(61964);
   static const IconData buysellads_faw = IconsFlutterData.fontAwesome(61965);
-  static const IconData connectdevelop_faw = IconsFlutterData.fontAwesome(61966);
+  static const IconData connectdevelop_faw =
+      IconsFlutterData.fontAwesome(61966);
   static const IconData dashcube_faw = IconsFlutterData.fontAwesome(61968);
   static const IconData forumbee_faw = IconsFlutterData.fontAwesome(61969);
   static const IconData leanpub_faw = IconsFlutterData.fontAwesome(61970);
@@ -7303,11 +7642,13 @@ class FlutterIcons {
   static const IconData mouse_pointer_faw = IconsFlutterData.fontAwesome(62021);
   static const IconData i_cursor_faw = IconsFlutterData.fontAwesome(62022);
   static const IconData object_group_faw = IconsFlutterData.fontAwesome(62023);
-  static const IconData object_ungroup_faw = IconsFlutterData.fontAwesome(62024);
+  static const IconData object_ungroup_faw =
+      IconsFlutterData.fontAwesome(62024);
   static const IconData sticky_note_faw = IconsFlutterData.fontAwesome(62025);
   static const IconData sticky_note_o_faw = IconsFlutterData.fontAwesome(62026);
   static const IconData cc_jcb_faw = IconsFlutterData.fontAwesome(62027);
-  static const IconData cc_diners_club_faw = IconsFlutterData.fontAwesome(62028);
+  static const IconData cc_diners_club_faw =
+      IconsFlutterData.fontAwesome(62028);
   static const IconData clone_faw = IconsFlutterData.fontAwesome(62029);
   static const IconData balance_scale_faw = IconsFlutterData.fontAwesome(62030);
   static const IconData hourglass_o_faw = IconsFlutterData.fontAwesome(62032);
@@ -7315,7 +7656,8 @@ class FlutterIcons {
   static const IconData hourglass_start_faw =
       IconsFlutterData.fontAwesome(62033);
   static const IconData hourglass_2_faw = IconsFlutterData.fontAwesome(62034);
-  static const IconData hourglass_half_faw = IconsFlutterData.fontAwesome(62034);
+  static const IconData hourglass_half_faw =
+      IconsFlutterData.fontAwesome(62034);
   static const IconData hourglass_3_faw = IconsFlutterData.fontAwesome(62035);
   static const IconData hourglass_end_faw = IconsFlutterData.fontAwesome(62035);
   static const IconData hourglass_faw = IconsFlutterData.fontAwesome(62036);
@@ -7327,7 +7669,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome(62039);
   static const IconData hand_lizard_o_faw = IconsFlutterData.fontAwesome(62040);
   static const IconData hand_spock_o_faw = IconsFlutterData.fontAwesome(62041);
-  static const IconData hand_pointer_o_faw = IconsFlutterData.fontAwesome(62042);
+  static const IconData hand_pointer_o_faw =
+      IconsFlutterData.fontAwesome(62042);
   static const IconData hand_peace_o_faw = IconsFlutterData.fontAwesome(62043);
   static const IconData trademark_faw = IconsFlutterData.fontAwesome(62044);
   static const IconData registered_faw = IconsFlutterData.fontAwesome(62045);
@@ -7383,7 +7726,8 @@ class FlutterIcons {
   static const IconData mixcloud_faw = IconsFlutterData.fontAwesome(62089);
   static const IconData scribd_faw = IconsFlutterData.fontAwesome(62090);
   static const IconData pause_circle_faw = IconsFlutterData.fontAwesome(62091);
-  static const IconData pause_circle_o_faw = IconsFlutterData.fontAwesome(62092);
+  static const IconData pause_circle_o_faw =
+      IconsFlutterData.fontAwesome(62092);
   static const IconData stop_circle_faw = IconsFlutterData.fontAwesome(62093);
   static const IconData stop_circle_o_faw = IconsFlutterData.fontAwesome(62094);
   static const IconData shopping_bag_faw = IconsFlutterData.fontAwesome(62096);
@@ -7399,7 +7743,8 @@ class FlutterIcons {
   static const IconData envira_faw = IconsFlutterData.fontAwesome(62105);
   static const IconData universal_access_faw =
       IconsFlutterData.fontAwesome(62106);
-  static const IconData wheelchair_alt_faw = IconsFlutterData.fontAwesome(62107);
+  static const IconData wheelchair_alt_faw =
+      IconsFlutterData.fontAwesome(62107);
   static const IconData question_circle_o_faw =
       IconsFlutterData.fontAwesome(62108);
   static const IconData blind_faw = IconsFlutterData.fontAwesome(62109);
@@ -7426,7 +7771,8 @@ class FlutterIcons {
   static const IconData viadeo_faw = IconsFlutterData.fontAwesome(62121);
   static const IconData viadeo_square_faw = IconsFlutterData.fontAwesome(62122);
   static const IconData snapchat_faw = IconsFlutterData.fontAwesome(62123);
-  static const IconData snapchat_ghost_faw = IconsFlutterData.fontAwesome(62124);
+  static const IconData snapchat_ghost_faw =
+      IconsFlutterData.fontAwesome(62124);
   static const IconData snapchat_square_faw =
       IconsFlutterData.fontAwesome(62125);
   static const IconData pied_piper_faw = IconsFlutterData.fontAwesome(62126);
@@ -7445,11 +7791,13 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome(62135);
   static const IconData linode_faw = IconsFlutterData.fontAwesome(62136);
   static const IconData address_book_faw = IconsFlutterData.fontAwesome(62137);
-  static const IconData address_book_o_faw = IconsFlutterData.fontAwesome(62138);
+  static const IconData address_book_o_faw =
+      IconsFlutterData.fontAwesome(62138);
   static const IconData vcard_faw = IconsFlutterData.fontAwesome(62139);
   static const IconData address_card_faw = IconsFlutterData.fontAwesome(62139);
   static const IconData vcard_o_faw = IconsFlutterData.fontAwesome(62140);
-  static const IconData address_card_o_faw = IconsFlutterData.fontAwesome(62140);
+  static const IconData address_card_o_faw =
+      IconsFlutterData.fontAwesome(62140);
   static const IconData user_circle_faw = IconsFlutterData.fontAwesome(62141);
   static const IconData user_circle_o_faw = IconsFlutterData.fontAwesome(62142);
   static const IconData user_o_faw = IconsFlutterData.fontAwesome(62144);
@@ -7461,7 +7809,8 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome(62147);
   static const IconData id_card_o_faw = IconsFlutterData.fontAwesome(62147);
   static const IconData quora_faw = IconsFlutterData.fontAwesome(62148);
-  static const IconData free_code_camp_faw = IconsFlutterData.fontAwesome(62149);
+  static const IconData free_code_camp_faw =
+      IconsFlutterData.fontAwesome(62149);
   static const IconData telegram_faw = IconsFlutterData.fontAwesome(62150);
   static const IconData thermometer_4_faw = IconsFlutterData.fontAwesome(62151);
   static const IconData thermometer_faw = IconsFlutterData.fontAwesome(62151);
@@ -7488,13 +7837,15 @@ class FlutterIcons {
       IconsFlutterData.fontAwesome(62160);
   static const IconData window_minimize_faw =
       IconsFlutterData.fontAwesome(62161);
-  static const IconData window_restore_faw = IconsFlutterData.fontAwesome(62162);
+  static const IconData window_restore_faw =
+      IconsFlutterData.fontAwesome(62162);
   static const IconData times_rectangle_faw =
       IconsFlutterData.fontAwesome(62163);
   static const IconData window_close_faw = IconsFlutterData.fontAwesome(62163);
   static const IconData times_rectangle_o_faw =
       IconsFlutterData.fontAwesome(62164);
-  static const IconData window_close_o_faw = IconsFlutterData.fontAwesome(62164);
+  static const IconData window_close_o_faw =
+      IconsFlutterData.fontAwesome(62164);
   static const IconData bandcamp_faw = IconsFlutterData.fontAwesome(62165);
   static const IconData grav_faw = IconsFlutterData.fontAwesome(62166);
   static const IconData etsy_faw = IconsFlutterData.fontAwesome(62167);
@@ -8307,7 +8658,8 @@ class FlutterIcons {
   static const IconData at_mco = IconsFlutterData.materialCommunityIcons(61541);
   static const IconData atlassian_mco =
       IconsFlutterData.materialCommunityIcons(63491);
-  static const IconData atm_mco = IconsFlutterData.materialCommunityIcons(64803);
+  static const IconData atm_mco =
+      IconsFlutterData.materialCommunityIcons(64803);
   static const IconData atom_mco =
       IconsFlutterData.materialCommunityIcons(63335);
   static const IconData atom_variant_mco =
@@ -8328,8 +8680,10 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(61546);
   static const IconData av_timer_mco =
       IconsFlutterData.materialCommunityIcons(61547);
-  static const IconData aws_mco = IconsFlutterData.materialCommunityIcons(65010);
-  static const IconData axe_mco = IconsFlutterData.materialCommunityIcons(63687);
+  static const IconData aws_mco =
+      IconsFlutterData.materialCommunityIcons(65010);
+  static const IconData axe_mco =
+      IconsFlutterData.materialCommunityIcons(63687);
   static const IconData axis_mco =
       IconsFlutterData.materialCommunityIcons(64804);
   static const IconData axis_arrow_mco =
@@ -8478,7 +8832,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64535);
   static const IconData basketball_hoop_outline_mco =
       IconsFlutterData.materialCommunityIcons(64536);
-  static const IconData bat_mco = IconsFlutterData.materialCommunityIcons(64315);
+  static const IconData bat_mco =
+      IconsFlutterData.materialCommunityIcons(64315);
   static const IconData battery_mco =
       IconsFlutterData.materialCommunityIcons(61561);
   static const IconData battery_10_mco =
@@ -8599,7 +8954,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(61591);
   static const IconData bed_empty_mco =
       IconsFlutterData.materialCommunityIcons(63647);
-  static const IconData bee_mco = IconsFlutterData.materialCommunityIcons(65473);
+  static const IconData bee_mco =
+      IconsFlutterData.materialCommunityIcons(65473);
   static const IconData bee_flower_mco =
       IconsFlutterData.materialCommunityIcons(65474);
   static const IconData beer_mco =
@@ -8652,7 +9008,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(61604);
   static const IconData binoculars_mco =
       IconsFlutterData.materialCommunityIcons(61605);
-  static const IconData bio_mco = IconsFlutterData.materialCommunityIcons(61606);
+  static const IconData bio_mco =
+      IconsFlutterData.materialCommunityIcons(61606);
   static const IconData biohazard_mco =
       IconsFlutterData.materialCommunityIcons(61607);
   static const IconData bitbucket_mco =
@@ -8837,7 +9194,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62999);
   static const IconData bowling_mco =
       IconsFlutterData.materialCommunityIcons(61651);
-  static const IconData box_mco = IconsFlutterData.materialCommunityIcons(61652);
+  static const IconData box_mco =
+      IconsFlutterData.materialCommunityIcons(61652);
   static const IconData box_cutter_mco =
       IconsFlutterData.materialCommunityIcons(61653);
   static const IconData box_shadow_mco =
@@ -8918,7 +9276,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(63818);
   static const IconData buffer_mco =
       IconsFlutterData.materialCommunityIcons(63001);
-  static const IconData bug_mco = IconsFlutterData.materialCommunityIcons(61668);
+  static const IconData bug_mco =
+      IconsFlutterData.materialCommunityIcons(61668);
   static const IconData bug_check_mco =
       IconsFlutterData.materialCommunityIcons(64045);
   static const IconData bug_check_outline_mco =
@@ -8941,7 +9300,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62941);
   static const IconData bullseye_arrow_mco =
       IconsFlutterData.materialCommunityIcons(63688);
-  static const IconData bus_mco = IconsFlutterData.materialCommunityIcons(61671);
+  static const IconData bus_mco =
+      IconsFlutterData.materialCommunityIcons(61671);
   static const IconData bus_alert_mco =
       IconsFlutterData.materialCommunityIcons(64152);
   static const IconData bus_articulated_end_mco =
@@ -9132,7 +9492,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(63397);
   static const IconData caps_lock_mco =
       IconsFlutterData.materialCommunityIcons(64154);
-  static const IconData car_mco = IconsFlutterData.materialCommunityIcons(61707);
+  static const IconData car_mco =
+      IconsFlutterData.materialCommunityIcons(61707);
   static const IconData car_back_mco =
       IconsFlutterData.materialCommunityIcons(65022);
   static const IconData car_battery_mco =
@@ -9289,7 +9650,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(63369);
   static const IconData castle_mco =
       IconsFlutterData.materialCommunityIcons(61722);
-  static const IconData cat_mco = IconsFlutterData.materialCommunityIcons(61723);
+  static const IconData cat_mco =
+      IconsFlutterData.materialCommunityIcons(61723);
   static const IconData cctv_mco =
       IconsFlutterData.materialCommunityIcons(63405);
   static const IconData ceiling_light_mco =
@@ -9950,7 +10312,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(63415);
   static const IconData counter_mco =
       IconsFlutterData.materialCommunityIcons(61849);
-  static const IconData cow_mco = IconsFlutterData.materialCommunityIcons(61850);
+  static const IconData cow_mco =
+      IconsFlutterData.materialCommunityIcons(61850);
   static const IconData cowboy_mco =
       IconsFlutterData.materialCommunityIcons(65208);
   static const IconData cpu_32_bit_mco =
@@ -10047,7 +10410,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(61864);
   static const IconData cube_unfolded_mco =
       IconsFlutterData.materialCommunityIcons(61865);
-  static const IconData cup_mco = IconsFlutterData.materialCommunityIcons(61866);
+  static const IconData cup_mco =
+      IconsFlutterData.materialCommunityIcons(61866);
   static const IconData cup_off_mco =
       IconsFlutterData.materialCommunityIcons(62949);
   static const IconData cup_water_mco =
@@ -10298,8 +10662,10 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(61909);
   static const IconData dlna_mco =
       IconsFlutterData.materialCommunityIcons(64064);
-  static const IconData dna_mco = IconsFlutterData.materialCommunityIcons(63107);
-  static const IconData dns_mco = IconsFlutterData.materialCommunityIcons(61910);
+  static const IconData dna_mco =
+      IconsFlutterData.materialCommunityIcons(63107);
+  static const IconData dns_mco =
+      IconsFlutterData.materialCommunityIcons(61910);
   static const IconData dns_outline_mco =
       IconsFlutterData.materialCommunityIcons(64360);
   static const IconData do_not_disturb_mco =
@@ -10310,7 +10676,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(63591);
   static const IconData doctor_mco =
       IconsFlutterData.materialCommunityIcons(64065);
-  static const IconData dog_mco = IconsFlutterData.materialCommunityIcons(64066);
+  static const IconData dog_mco =
+      IconsFlutterData.materialCommunityIcons(64066);
   static const IconData dog_service_mco =
       IconsFlutterData.materialCommunityIcons(64172);
   static const IconData dog_side_mco =
@@ -10409,7 +10776,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(61928);
   static const IconData edge_mco =
       IconsFlutterData.materialCommunityIcons(61929);
-  static const IconData egg_mco = IconsFlutterData.materialCommunityIcons(64174);
+  static const IconData egg_mco =
+      IconsFlutterData.materialCommunityIcons(64174);
   static const IconData egg_easter_mco =
       IconsFlutterData.materialCommunityIcons(64175);
   static const IconData eight_track_mco =
@@ -10607,7 +10975,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(61959);
   static const IconData export_variant_mco =
       IconsFlutterData.materialCommunityIcons(64367);
-  static const IconData eye_mco = IconsFlutterData.materialCommunityIcons(61960);
+  static const IconData eye_mco =
+      IconsFlutterData.materialCommunityIcons(61960);
   static const IconData eye_check_mco =
       IconsFlutterData.materialCommunityIcons(64736);
   static const IconData eye_check_outline_mco =
@@ -10654,7 +11023,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64278);
   static const IconData factory_mco =
       IconsFlutterData.materialCommunityIcons(61967);
-  static const IconData fan_mco = IconsFlutterData.materialCommunityIcons(61968);
+  static const IconData fan_mco =
+      IconsFlutterData.materialCommunityIcons(61968);
   static const IconData fan_off_mco =
       IconsFlutterData.materialCommunityIcons(63516);
   static const IconData fast_forward_mco =
@@ -10665,7 +11035,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64738);
   static const IconData fast_forward_outline_mco =
       IconsFlutterData.materialCommunityIcons(63185);
-  static const IconData fax_mco = IconsFlutterData.materialCommunityIcons(61970);
+  static const IconData fax_mco =
+      IconsFlutterData.materialCommunityIcons(61970);
   static const IconData feather_mco =
       IconsFlutterData.materialCommunityIcons(63186);
   static const IconData feature_search_mco =
@@ -11458,12 +11829,14 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62112);
   static const IconData ghost_off_mco =
       IconsFlutterData.materialCommunityIcons(63988);
-  static const IconData gif_mco = IconsFlutterData.materialCommunityIcons(64852);
+  static const IconData gif_mco =
+      IconsFlutterData.materialCommunityIcons(64852);
   static const IconData gift_mco =
       IconsFlutterData.materialCommunityIcons(65157);
   static const IconData gift_outline_mco =
       IconsFlutterData.materialCommunityIcons(62113);
-  static const IconData git_mco = IconsFlutterData.materialCommunityIcons(62114);
+  static const IconData git_mco =
+      IconsFlutterData.materialCommunityIcons(62114);
   static const IconData github_box_mco =
       IconsFlutterData.materialCommunityIcons(62115);
   static const IconData github_circle_mco =
@@ -11498,7 +11871,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64853);
   static const IconData go_kart_track_mco =
       IconsFlutterData.materialCommunityIcons(64854);
-  static const IconData gog_mco = IconsFlutterData.materialCommunityIcons(64381);
+  static const IconData gog_mco =
+      IconsFlutterData.materialCommunityIcons(64381);
   static const IconData golf_mco =
       IconsFlutterData.materialCommunityIcons(63522);
   static const IconData gondola_mco =
@@ -11649,7 +12023,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64384);
   static const IconData hazard_lights_mco =
       IconsFlutterData.materialCommunityIcons(64613);
-  static const IconData hdr_mco = IconsFlutterData.materialCommunityIcons(64857);
+  static const IconData hdr_mco =
+      IconsFlutterData.materialCommunityIcons(64857);
   static const IconData hdr_off_mco =
       IconsFlutterData.materialCommunityIcons(64858);
   static const IconData headphones_mco =
@@ -12031,12 +12406,14 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64867);
   static const IconData karate_mco =
       IconsFlutterData.materialCommunityIcons(63531);
-  static const IconData keg_mco = IconsFlutterData.materialCommunityIcons(62213);
+  static const IconData keg_mco =
+      IconsFlutterData.materialCommunityIcons(62213);
   static const IconData kettle_mco =
       IconsFlutterData.materialCommunityIcons(62970);
   static const IconData kettle_outline_mco =
       IconsFlutterData.materialCommunityIcons(65395);
-  static const IconData key_mco = IconsFlutterData.materialCommunityIcons(62214);
+  static const IconData key_mco =
+      IconsFlutterData.materialCommunityIcons(62214);
   static const IconData key_change_mco =
       IconsFlutterData.materialCommunityIcons(62215);
   static const IconData key_minus_mco =
@@ -12101,7 +12478,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(63015);
   static const IconData lamp_mco =
       IconsFlutterData.materialCommunityIcons(63156);
-  static const IconData lan_mco = IconsFlutterData.materialCommunityIcons(62231);
+  static const IconData lan_mco =
+      IconsFlutterData.materialCommunityIcons(62231);
   static const IconData lan_connect_mco =
       IconsFlutterData.materialCommunityIcons(62232);
   static const IconData lan_disconnect_mco =
@@ -12372,7 +12750,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64873);
   static const IconData mailbox_up_outline_mco =
       IconsFlutterData.materialCommunityIcons(64874);
-  static const IconData map_mco = IconsFlutterData.materialCommunityIcons(62285);
+  static const IconData map_mco =
+      IconsFlutterData.materialCommunityIcons(62285);
   static const IconData map_check_mco =
       IconsFlutterData.materialCommunityIcons(65241);
   static const IconData map_check_outline_mco =
@@ -12769,7 +13148,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(65433);
   static const IconData nail_mco =
       IconsFlutterData.materialCommunityIcons(64955);
-  static const IconData nas_mco = IconsFlutterData.materialCommunityIcons(63730);
+  static const IconData nas_mco =
+      IconsFlutterData.materialCommunityIcons(63730);
   static const IconData nativescript_mco =
       IconsFlutterData.materialCommunityIcons(63615);
   static const IconData nature_mco =
@@ -12832,7 +13212,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(983077);
   static const IconData newspaper_variant_outline_mco =
       IconsFlutterData.materialCommunityIcons(983078);
-  static const IconData nfc_mco = IconsFlutterData.materialCommunityIcons(62358);
+  static const IconData nfc_mco =
+      IconsFlutterData.materialCommunityIcons(62358);
   static const IconData nfc_off_mco =
       IconsFlutterData.materialCommunityIcons(65077);
   static const IconData nfc_search_variant_mco =
@@ -12875,7 +13256,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(65244);
   static const IconData notification_clear_all_mco =
       IconsFlutterData.materialCommunityIcons(62367);
-  static const IconData npm_mco = IconsFlutterData.materialCommunityIcons(63222);
+  static const IconData npm_mco =
+      IconsFlutterData.materialCommunityIcons(63222);
   static const IconData npm_variant_mco =
       IconsFlutterData.materialCommunityIcons(63886);
   static const IconData npm_variant_outline_mco =
@@ -13054,10 +13436,12 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64654);
   static const IconData numeric_9_plus_circle_outline_mco =
       IconsFlutterData.materialCommunityIcons(64655);
-  static const IconData nut_mco = IconsFlutterData.materialCommunityIcons(63223);
+  static const IconData nut_mco =
+      IconsFlutterData.materialCommunityIcons(63223);
   static const IconData nutrition_mco =
       IconsFlutterData.materialCommunityIcons(62402);
-  static const IconData oar_mco = IconsFlutterData.materialCommunityIcons(63099);
+  static const IconData oar_mco =
+      IconsFlutterData.materialCommunityIcons(63099);
   static const IconData ocarina_mco =
       IconsFlutterData.materialCommunityIcons(64956);
   static const IconData octagon_mco =
@@ -13074,7 +13458,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62406);
   static const IconData office_building_mco =
       IconsFlutterData.materialCommunityIcons(63888);
-  static const IconData oil_mco = IconsFlutterData.materialCommunityIcons(62407);
+  static const IconData oil_mco =
+      IconsFlutterData.materialCommunityIcons(62407);
   static const IconData oil_lamp_mco =
       IconsFlutterData.materialCommunityIcons(65334);
   static const IconData oil_temperature_mco =
@@ -13113,7 +13498,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64766);
   static const IconData overscan_mco =
       IconsFlutterData.materialCommunityIcons(983079);
-  static const IconData owl_mco = IconsFlutterData.materialCommunityIcons(62418);
+  static const IconData owl_mco =
+      IconsFlutterData.materialCommunityIcons(62418);
   static const IconData pac_man_mco =
       IconsFlutterData.materialCommunityIcons(64395);
   static const IconData package_mco =
@@ -13158,7 +13544,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(65132);
   static const IconData palette_swatch_mco =
       IconsFlutterData.materialCommunityIcons(63668);
-  static const IconData pan_mco = IconsFlutterData.materialCommunityIcons(64400);
+  static const IconData pan_mco =
+      IconsFlutterData.materialCommunityIcons(64400);
   static const IconData pan_bottom_left_mco =
       IconsFlutterData.materialCommunityIcons(64401);
   static const IconData pan_bottom_right_mco =
@@ -13221,7 +13608,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62439);
   static const IconData pause_octagon_outline_mco =
       IconsFlutterData.materialCommunityIcons(62440);
-  static const IconData paw_mco = IconsFlutterData.materialCommunityIcons(62441);
+  static const IconData paw_mco =
+      IconsFlutterData.materialCommunityIcons(62441);
   static const IconData paw_off_mco =
       IconsFlutterData.materialCommunityIcons(63063);
   static const IconData paypal_mco =
@@ -13238,7 +13626,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(983073);
   static const IconData peanut_outline_mco =
       IconsFlutterData.materialCommunityIcons(983072);
-  static const IconData pen_mco = IconsFlutterData.materialCommunityIcons(62442);
+  static const IconData pen_mco =
+      IconsFlutterData.materialCommunityIcons(62442);
   static const IconData pen_lock_mco =
       IconsFlutterData.materialCommunityIcons(64958);
   static const IconData pen_minus_mco =
@@ -13366,7 +13755,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(63622);
   static const IconData pier_crane_mco =
       IconsFlutterData.materialCommunityIcons(63623);
-  static const IconData pig_mco = IconsFlutterData.materialCommunityIcons(62465);
+  static const IconData pig_mco =
+      IconsFlutterData.materialCommunityIcons(62465);
   static const IconData pig_variant_mco =
       IconsFlutterData.materialCommunityIcons(983080);
   static const IconData piggy_bank_mco =
@@ -13375,7 +13765,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62466);
   static const IconData pillar_mco =
       IconsFlutterData.materialCommunityIcons(63233);
-  static const IconData pin_mco = IconsFlutterData.materialCommunityIcons(62467);
+  static const IconData pin_mco =
+      IconsFlutterData.materialCommunityIcons(62467);
   static const IconData pin_off_mco =
       IconsFlutterData.materialCommunityIcons(62468);
   static const IconData pin_off_outline_mco =
@@ -13512,7 +13903,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(983083);
   static const IconData postage_stamp_mco =
       IconsFlutterData.materialCommunityIcons(64663);
-  static const IconData pot_mco = IconsFlutterData.materialCommunityIcons(63066);
+  static const IconData pot_mco =
+      IconsFlutterData.materialCommunityIcons(63066);
   static const IconData pot_mix_mco =
       IconsFlutterData.materialCommunityIcons(63067);
   static const IconData pound_mco =
@@ -13848,7 +14240,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62570);
   static const IconData rowing_mco =
       IconsFlutterData.materialCommunityIcons(62984);
-  static const IconData rss_mco = IconsFlutterData.materialCommunityIcons(62571);
+  static const IconData rss_mco =
+      IconsFlutterData.materialCommunityIcons(62571);
   static const IconData rss_box_mco =
       IconsFlutterData.materialCommunityIcons(62572);
   static const IconData rss_off_mco =
@@ -13863,7 +14256,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64670);
   static const IconData ruler_square_compass_mco =
       IconsFlutterData.materialCommunityIcons(65243);
-  static const IconData run_mco = IconsFlutterData.materialCommunityIcons(63245);
+  static const IconData run_mco =
+      IconsFlutterData.materialCommunityIcons(63245);
   static const IconData run_fast_mco =
       IconsFlutterData.materialCommunityIcons(62574);
   static const IconData sack_mco =
@@ -14237,7 +14631,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62629);
   static const IconData silverware_variant_mco =
       IconsFlutterData.materialCommunityIcons(62630);
-  static const IconData sim_mco = IconsFlutterData.materialCommunityIcons(62631);
+  static const IconData sim_mco =
+      IconsFlutterData.materialCommunityIcons(62631);
   static const IconData sim_alert_mco =
       IconsFlutterData.materialCommunityIcons(62632);
   static const IconData sim_off_mco =
@@ -14382,7 +14777,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64684);
   static const IconData soy_sauce_mco =
       IconsFlutterData.materialCommunityIcons(63469);
-  static const IconData spa_mco = IconsFlutterData.materialCommunityIcons(64685);
+  static const IconData spa_mco =
+      IconsFlutterData.materialCommunityIcons(64685);
   static const IconData spa_outline_mco =
       IconsFlutterData.materialCommunityIcons(64686);
   static const IconData space_invaders_mco =
@@ -14445,7 +14841,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64020);
   static const IconData squeegee_mco =
       IconsFlutterData.materialCommunityIcons(64224);
-  static const IconData ssh_mco = IconsFlutterData.materialCommunityIcons(63679);
+  static const IconData ssh_mco =
+      IconsFlutterData.materialCommunityIcons(63679);
   static const IconData stack_exchange_mco =
       IconsFlutterData.materialCommunityIcons(62987);
   static const IconData stack_overflow_mco =
@@ -14556,7 +14953,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(63473);
   static const IconData surround_sound_7_1_mco =
       IconsFlutterData.materialCommunityIcons(63474);
-  static const IconData svg_mco = IconsFlutterData.materialCommunityIcons(63264);
+  static const IconData svg_mco =
+      IconsFlutterData.materialCommunityIcons(63264);
   static const IconData swap_horizontal_mco =
       IconsFlutterData.materialCommunityIcons(62689);
   static const IconData swap_horizontal_bold_mco =
@@ -14593,7 +14991,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62695);
   static const IconData sync_off_mco =
       IconsFlutterData.materialCommunityIcons(62696);
-  static const IconData tab_mco = IconsFlutterData.materialCommunityIcons(62697);
+  static const IconData tab_mco =
+      IconsFlutterData.materialCommunityIcons(62697);
   static const IconData tab_minus_mco =
       IconsFlutterData.materialCommunityIcons(64294);
   static const IconData tab_plus_mco =
@@ -14660,7 +15059,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62712);
   static const IconData taco_mco =
       IconsFlutterData.materialCommunityIcons(63329);
-  static const IconData tag_mco = IconsFlutterData.materialCommunityIcons(62713);
+  static const IconData tag_mco =
+      IconsFlutterData.materialCommunityIcons(62713);
   static const IconData tag_faces_mco =
       IconsFlutterData.materialCommunityIcons(62714);
   static const IconData tag_heart_mco =
@@ -14693,7 +15093,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64118);
   static const IconData taxi_mco =
       IconsFlutterData.materialCommunityIcons(62719);
-  static const IconData tea_mco = IconsFlutterData.materialCommunityIcons(64890);
+  static const IconData tea_mco =
+      IconsFlutterData.materialCommunityIcons(64890);
   static const IconData tea_outline_mco =
       IconsFlutterData.materialCommunityIcons(64891);
   static const IconData teach_mco =
@@ -14808,7 +15209,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(63762);
   static const IconData ticket_percent_mco =
       IconsFlutterData.materialCommunityIcons(63267);
-  static const IconData tie_mco = IconsFlutterData.materialCommunityIcons(62745);
+  static const IconData tie_mco =
+      IconsFlutterData.materialCommunityIcons(62745);
   static const IconData tilde_mco =
       IconsFlutterData.materialCommunityIcons(63268);
   static const IconData timelapse_mco =
@@ -14889,7 +15291,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(63682);
   static const IconData tooth_outline_mco =
       IconsFlutterData.materialCommunityIcons(62761);
-  static const IconData tor_mco = IconsFlutterData.materialCommunityIcons(62762);
+  static const IconData tor_mco =
+      IconsFlutterData.materialCommunityIcons(62762);
   static const IconData tortoise_mco =
       IconsFlutterData.materialCommunityIcons(64791);
   static const IconData tournament_mco =
@@ -15088,7 +15491,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64692);
   static const IconData upload_outline_mco =
       IconsFlutterData.materialCommunityIcons(65127);
-  static const IconData usb_mco = IconsFlutterData.materialCommunityIcons(62803);
+  static const IconData usb_mco =
+      IconsFlutterData.materialCommunityIcons(62803);
   static const IconData van_passenger_mco =
       IconsFlutterData.materialCommunityIcons(63481);
   static const IconData van_utility_mco =
@@ -15145,7 +15549,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62820);
   static const IconData venmo_mco =
       IconsFlutterData.materialCommunityIcons(62840);
-  static const IconData vhs_mco = IconsFlutterData.materialCommunityIcons(64026);
+  static const IconData vhs_mco =
+      IconsFlutterData.materialCommunityIcons(64026);
   static const IconData vibrate_mco =
       IconsFlutterData.materialCommunityIcons(62822);
   static const IconData vibrate_off_mco =
@@ -15253,7 +15658,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62842);
   static const IconData vk_circle_mco =
       IconsFlutterData.materialCommunityIcons(62843);
-  static const IconData vlc_mco = IconsFlutterData.materialCommunityIcons(62844);
+  static const IconData vlc_mco =
+      IconsFlutterData.materialCommunityIcons(62844);
   static const IconData voice_mco =
       IconsFlutterData.materialCommunityIcons(62923);
   static const IconData voice_off_mco =
@@ -15282,7 +15688,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(64030);
   static const IconData vote_outline_mco =
       IconsFlutterData.materialCommunityIcons(64031);
-  static const IconData vpn_mco = IconsFlutterData.materialCommunityIcons(62850);
+  static const IconData vpn_mco =
+      IconsFlutterData.materialCommunityIcons(62850);
   static const IconData vuejs_mco =
       IconsFlutterData.materialCommunityIcons(63555);
   static const IconData vuetify_mco =
@@ -15313,7 +15720,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62855);
   static const IconData wallpaper_mco =
       IconsFlutterData.materialCommunityIcons(65129);
-  static const IconData wan_mco = IconsFlutterData.materialCommunityIcons(62856);
+  static const IconData wan_mco =
+      IconsFlutterData.materialCommunityIcons(62856);
   static const IconData wardrobe_mco =
       IconsFlutterData.materialCommunityIcons(65453);
   static const IconData wardrobe_outline_mco =
@@ -15418,7 +15826,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62877);
   static const IconData weather_windy_variant_mco =
       IconsFlutterData.materialCommunityIcons(62878);
-  static const IconData web_mco = IconsFlutterData.materialCommunityIcons(62879);
+  static const IconData web_mco =
+      IconsFlutterData.materialCommunityIcons(62879);
   static const IconData web_box_mco =
       IconsFlutterData.materialCommunityIcons(65457);
   static const IconData webcam_mco =
@@ -15493,7 +15902,8 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(63789);
   static const IconData wifi_strength_outline_mco =
       IconsFlutterData.materialCommunityIcons(63790);
-  static const IconData wii_mco = IconsFlutterData.materialCommunityIcons(62891);
+  static const IconData wii_mco =
+      IconsFlutterData.materialCommunityIcons(62891);
   static const IconData wiiu_mco =
       IconsFlutterData.materialCommunityIcons(63276);
   static const IconData wikipedia_mco =
@@ -15564,14 +15974,16 @@ class FlutterIcons {
       IconsFlutterData.materialCommunityIcons(62907);
   static const IconData xbox_controller_view_mco =
       IconsFlutterData.materialCommunityIcons(65107);
-  static const IconData xda_mco = IconsFlutterData.materialCommunityIcons(62908);
+  static const IconData xda_mco =
+      IconsFlutterData.materialCommunityIcons(62908);
   static const IconData xing_mco =
       IconsFlutterData.materialCommunityIcons(62909);
   static const IconData xing_box_mco =
       IconsFlutterData.materialCommunityIcons(62910);
   static const IconData xing_circle_mco =
       IconsFlutterData.materialCommunityIcons(62911);
-  static const IconData xml_mco = IconsFlutterData.materialCommunityIcons(62912);
+  static const IconData xml_mco =
+      IconsFlutterData.materialCommunityIcons(62912);
   static const IconData xmpp_mco =
       IconsFlutterData.materialCommunityIcons(63486);
   static const IconData yahoo_mco =
@@ -15664,7 +16076,8 @@ class FlutterIcons {
   static const IconData ios_arrow_dropup_ion = IconsFlutterData.ionicons(61718);
   static const IconData ios_arrow_dropup_circle_ion =
       IconsFlutterData.ionicons(61741);
-  static const IconData ios_arrow_forward_ion = IconsFlutterData.ionicons(62417);
+  static const IconData ios_arrow_forward_ion =
+      IconsFlutterData.ionicons(62417);
   static const IconData ios_arrow_round_back_ion =
       IconsFlutterData.ionicons(61719);
   static const IconData ios_arrow_round_down_ion =
@@ -15736,17 +16149,20 @@ class FlutterIcons {
   static const IconData ios_cloud_done_ion = IconsFlutterData.ionicons(61780);
   static const IconData ios_cloud_download_ion =
       IconsFlutterData.ionicons(62472);
-  static const IconData ios_cloud_outline_ion = IconsFlutterData.ionicons(62473);
+  static const IconData ios_cloud_outline_ion =
+      IconsFlutterData.ionicons(62473);
   static const IconData ios_cloud_upload_ion = IconsFlutterData.ionicons(62475);
   static const IconData ios_cloudy_ion = IconsFlutterData.ionicons(62480);
   static const IconData ios_cloudy_night_ion = IconsFlutterData.ionicons(62478);
   static const IconData ios_code_ion = IconsFlutterData.ionicons(61783);
-  static const IconData ios_code_download_ion = IconsFlutterData.ionicons(61781);
+  static const IconData ios_code_download_ion =
+      IconsFlutterData.ionicons(61781);
   static const IconData ios_code_working_ion = IconsFlutterData.ionicons(61782);
   static const IconData ios_cog_ion = IconsFlutterData.ionicons(62482);
   static const IconData ios_color_fill_ion = IconsFlutterData.ionicons(61785);
   static const IconData ios_color_filter_ion = IconsFlutterData.ionicons(62484);
-  static const IconData ios_color_palette_ion = IconsFlutterData.ionicons(61787);
+  static const IconData ios_color_palette_ion =
+      IconsFlutterData.ionicons(61787);
   static const IconData ios_color_wand_ion = IconsFlutterData.ionicons(62486);
   static const IconData ios_compass_ion = IconsFlutterData.ionicons(61789);
   static const IconData ios_construct_ion = IconsFlutterData.ionicons(61791);
@@ -15803,7 +16219,8 @@ class FlutterIcons {
   static const IconData ios_happy_ion = IconsFlutterData.ionicons(61842);
   static const IconData ios_headset_ion = IconsFlutterData.ionicons(61844);
   static const IconData ios_heart_ion = IconsFlutterData.ionicons(62531);
-  static const IconData ios_heart_dislike_ion = IconsFlutterData.ionicons(61759);
+  static const IconData ios_heart_dislike_ion =
+      IconsFlutterData.ionicons(61759);
   static const IconData ios_heart_empty_ion = IconsFlutterData.ionicons(61851);
   static const IconData ios_heart_half_ion = IconsFlutterData.ionicons(61853);
   static const IconData ios_help_ion = IconsFlutterData.ionicons(62534);
@@ -15854,9 +16271,11 @@ class FlutterIcons {
   static const IconData ios_more_ion = IconsFlutterData.ionicons(61896);
   static const IconData ios_move_ion = IconsFlutterData.ionicons(61899);
   static const IconData ios_musical_note_ion = IconsFlutterData.ionicons(62571);
-  static const IconData ios_musical_notes_ion = IconsFlutterData.ionicons(62572);
+  static const IconData ios_musical_notes_ion =
+      IconsFlutterData.ionicons(62572);
   static const IconData ios_navigate_ion = IconsFlutterData.ionicons(62574);
-  static const IconData ios_notifications_ion = IconsFlutterData.ionicons(61907);
+  static const IconData ios_notifications_ion =
+      IconsFlutterData.ionicons(61907);
   static const IconData ios_notifications_off_ion =
       IconsFlutterData.ionicons(61905);
   static const IconData ios_notifications_outline_ion =
@@ -15906,7 +16325,8 @@ class FlutterIcons {
   static const IconData ios_refresh_circle_ion =
       IconsFlutterData.ionicons(61749);
   static const IconData ios_remove_ion = IconsFlutterData.ionicons(61948);
-  static const IconData ios_remove_circle_ion = IconsFlutterData.ionicons(61947);
+  static const IconData ios_remove_circle_ion =
+      IconsFlutterData.ionicons(61947);
   static const IconData ios_remove_circle_outline_ion =
       IconsFlutterData.ionicons(61946);
   static const IconData ios_reorder_ion = IconsFlutterData.ionicons(61949);
@@ -15931,7 +16351,8 @@ class FlutterIcons {
   static const IconData ios_share_alt_ion = IconsFlutterData.ionicons(61967);
   static const IconData ios_shirt_ion = IconsFlutterData.ionicons(61971);
   static const IconData ios_shuffle_ion = IconsFlutterData.ionicons(62633);
-  static const IconData ios_skip_backward_ion = IconsFlutterData.ionicons(61973);
+  static const IconData ios_skip_backward_ion =
+      IconsFlutterData.ionicons(61973);
   static const IconData ios_skip_forward_ion = IconsFlutterData.ionicons(61975);
   static const IconData ios_snow_ion = IconsFlutterData.ionicons(61976);
   static const IconData ios_speedometer_ion = IconsFlutterData.ionicons(62640);
@@ -15964,7 +16385,8 @@ class FlutterIcons {
   static const IconData ios_train_ion = IconsFlutterData.ionicons(62040);
   static const IconData ios_transgender_ion = IconsFlutterData.ionicons(62041);
   static const IconData ios_trash_ion = IconsFlutterData.ionicons(62661);
-  static const IconData ios_trending_down_ion = IconsFlutterData.ionicons(62042);
+  static const IconData ios_trending_down_ion =
+      IconsFlutterData.ionicons(62042);
   static const IconData ios_trending_up_ion = IconsFlutterData.ionicons(62043);
   static const IconData ios_trophy_ion = IconsFlutterData.ionicons(62045);
   static const IconData ios_tv_ion = IconsFlutterData.ionicons(61717);
@@ -15995,7 +16417,8 @@ class FlutterIcons {
       IconsFlutterData.ionicons(61701);
   static const IconData logo_codepen_ion = IconsFlutterData.ionicons(62000);
   static const IconData logo_css3_ion = IconsFlutterData.ionicons(62001);
-  static const IconData logo_designernews_ion = IconsFlutterData.ionicons(62002);
+  static const IconData logo_designernews_ion =
+      IconsFlutterData.ionicons(62002);
   static const IconData logo_dribbble_ion = IconsFlutterData.ionicons(62003);
   static const IconData logo_dropbox_ion = IconsFlutterData.ionicons(62004);
   static const IconData logo_euro_ion = IconsFlutterData.ionicons(62005);
@@ -16067,10 +16490,12 @@ class FlutterIcons {
   static const IconData md_archive_ion = IconsFlutterData.ionicons(62076);
   static const IconData md_arrow_back_ion = IconsFlutterData.ionicons(62077);
   static const IconData md_arrow_down_ion = IconsFlutterData.ionicons(62078);
-  static const IconData md_arrow_dropdown_ion = IconsFlutterData.ionicons(62080);
+  static const IconData md_arrow_dropdown_ion =
+      IconsFlutterData.ionicons(62080);
   static const IconData md_arrow_dropdown_circle_ion =
       IconsFlutterData.ionicons(62079);
-  static const IconData md_arrow_dropleft_ion = IconsFlutterData.ionicons(62082);
+  static const IconData md_arrow_dropleft_ion =
+      IconsFlutterData.ionicons(62082);
   static const IconData md_arrow_dropleft_circle_ion =
       IconsFlutterData.ionicons(62081);
   static const IconData md_arrow_dropright_ion =
@@ -16087,7 +16512,8 @@ class FlutterIcons {
       IconsFlutterData.ionicons(62089);
   static const IconData md_arrow_round_forward_ion =
       IconsFlutterData.ionicons(62090);
-  static const IconData md_arrow_round_up_ion = IconsFlutterData.ionicons(62091);
+  static const IconData md_arrow_round_up_ion =
+      IconsFlutterData.ionicons(62091);
   static const IconData md_arrow_up_ion = IconsFlutterData.ionicons(62092);
   static const IconData md_at_ion = IconsFlutterData.ionicons(62093);
   static const IconData md_attach_ion = IconsFlutterData.ionicons(62094);
@@ -16149,7 +16575,8 @@ class FlutterIcons {
   static const IconData md_cloud_ion = IconsFlutterData.ionicons(62153);
   static const IconData md_cloud_circle_ion = IconsFlutterData.ionicons(62146);
   static const IconData md_cloud_done_ion = IconsFlutterData.ionicons(62147);
-  static const IconData md_cloud_download_ion = IconsFlutterData.ionicons(62150);
+  static const IconData md_cloud_download_ion =
+      IconsFlutterData.ionicons(62150);
   static const IconData md_cloud_outline_ion = IconsFlutterData.ionicons(62151);
   static const IconData md_cloud_upload_ion = IconsFlutterData.ionicons(62152);
   static const IconData md_cloudy_ion = IconsFlutterData.ionicons(62155);
@@ -16290,7 +16717,8 @@ class FlutterIcons {
   static const IconData md_person_add_ion = IconsFlutterData.ionicons(62276);
   static const IconData md_phone_landscape_ion =
       IconsFlutterData.ionicons(62278);
-  static const IconData md_phone_portrait_ion = IconsFlutterData.ionicons(62279);
+  static const IconData md_phone_portrait_ion =
+      IconsFlutterData.ionicons(62279);
   static const IconData md_photos_ion = IconsFlutterData.ionicons(62280);
   static const IconData md_pie_ion = IconsFlutterData.ionicons(62281);
   static const IconData md_pin_ion = IconsFlutterData.ionicons(62282);
@@ -16316,7 +16744,8 @@ class FlutterIcons {
   static const IconData md_recording_ion = IconsFlutterData.ionicons(62308);
   static const IconData md_redo_ion = IconsFlutterData.ionicons(62309);
   static const IconData md_refresh_ion = IconsFlutterData.ionicons(62310);
-  static const IconData md_refresh_circle_ion = IconsFlutterData.ionicons(61992);
+  static const IconData md_refresh_circle_ion =
+      IconsFlutterData.ionicons(61992);
   static const IconData md_remove_ion = IconsFlutterData.ionicons(62312);
   static const IconData md_remove_circle_ion = IconsFlutterData.ionicons(62311);
   static const IconData md_remove_circle_outline_ion =
@@ -16327,7 +16756,8 @@ class FlutterIcons {
   static const IconData md_restaurant_ion = IconsFlutterData.ionicons(62316);
   static const IconData md_return_left_ion = IconsFlutterData.ionicons(62317);
   static const IconData md_return_right_ion = IconsFlutterData.ionicons(62318);
-  static const IconData md_reverse_camera_ion = IconsFlutterData.ionicons(62319);
+  static const IconData md_reverse_camera_ion =
+      IconsFlutterData.ionicons(62319);
   static const IconData md_rewind_ion = IconsFlutterData.ionicons(62320);
   static const IconData md_ribbon_ion = IconsFlutterData.ionicons(62321);
   static const IconData md_rocket_ion = IconsFlutterData.ionicons(61817);
@@ -16347,7 +16777,8 @@ class FlutterIcons {
   static const IconData md_snow_ion = IconsFlutterData.ionicons(62334);
   static const IconData md_speedometer_ion = IconsFlutterData.ionicons(62335);
   static const IconData md_square_ion = IconsFlutterData.ionicons(62337);
-  static const IconData md_square_outline_ion = IconsFlutterData.ionicons(62336);
+  static const IconData md_square_outline_ion =
+      IconsFlutterData.ionicons(62336);
   static const IconData md_star_ion = IconsFlutterData.ionicons(62340);
   static const IconData md_star_half_ion = IconsFlutterData.ionicons(62338);
   static const IconData md_star_outline_ion = IconsFlutterData.ionicons(62339);

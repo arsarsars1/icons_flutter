@@ -10,3 +10,8 @@
 * Example added
 * code improvements
 * fixes
+
+## 0.0.3
+
+* Package analyzed updated
+* Code refactored
