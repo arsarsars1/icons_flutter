@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class IconsFlutterData extends IconData {
   const IconsFlutterData(int codePoint, String fontFamily)
-      : super(codePoint, fontFamily: fontFamily, fontPackage: "flutter_icon");
+      : super(codePoint, fontFamily: fontFamily, fontPackage: "icons_flutter");
 
   const IconsFlutterData.ionicons(int codePoint) : this(codePoint, "Ionicons");
 

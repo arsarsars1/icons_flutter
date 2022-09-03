@@ -1,7 +1,7 @@
 name: icons_flutter
 description: The Flutter icon package provides you 14k+ additional icons to use in your apps.
 version: 0.0.1
-homepage: https://github.com/arsarsars1/flutter_icon.git
+homepage: https://github.com/arsarsars1/icons_flutter.git
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
