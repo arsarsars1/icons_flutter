@@ -1,3 +1,6 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* This IconsFlutter library contains several icon libraries.
+* The IconsFlutter class is provided to access all Icons.
+* Refactored to support the latest flutter version.
+* Fixed to have the better performance
