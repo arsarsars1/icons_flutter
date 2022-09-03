@@ -1,0 +1,109 @@
+name: icons_flutter
+description: The Flutter icon package provides you 14k+ additional icons to use in your apps.
+version: 0.0.1
+homepage: https://github.com/arsarsars1/flutter_icon.git
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+  recase: ^4.0.0
+
+flutter:
+  fonts:
+    - family: Ionicons
+      fonts:
+        - asset: fonts/Ionicons.ttf
+    - family: AntDesign
+      fonts:
+        - asset: fonts/AntDesign.ttf
+    - family: FontAwesome
+      fonts:
+        - asset: fonts/FontAwesome.ttf
+    - family: MaterialIcons
+      fonts:
+        - asset: fonts/MaterialIcons.ttf
+    - family: Entypo
+      fonts:
+        - asset: fonts/Entypo.ttf
+    - family: EvilIcons
+      fonts:
+        - asset: fonts/EvilIcons.ttf
+    - family: Feather
+      fonts:
+        - asset: fonts/Feather.ttf
+    - family: Foundation
+      fonts:
+        - asset: fonts/Foundation.ttf
+    - family: MaterialCommunityIcons
+      fonts:
+        - asset: fonts/MaterialCommunityIcons.ttf
+    - family: Octicons
+      fonts:
+        - asset: fonts/Octicons.ttf
+    - family: SimpleLineIcons
+      fonts:
+        - asset: fonts/SimpleLineIcons.ttf
+    - family: Zocial
+      fonts:
+        - asset: fonts/Zocial.ttf
+    - family: FontAwesome5
+      fonts:
+        - asset: fonts/FontAwesome5_Regular.ttf
+    - family: FontAwesome5_Brands
+      fonts:
+        - asset: fonts/FontAwesome5_Brands.ttf
+    - family: FontAwesome5_Solid
+      fonts:
+        - asset: fonts/FontAwesome5_Solid.ttf
+    - family: WeatherIcons
+      fonts:
+        - asset: fonts/weathericons.ttf
+    - family: Brandico
+      fonts:
+        - asset: fonts/Brandico.ttf
+    - family: Elusive
+      fonts:
+        - asset: fonts/Elusive.ttf
+    - family: FontAwesome5Icon
+      fonts:
+        - asset: fonts/FontAwesome5.ttf
+    - family: Fontelico
+      fonts:
+        - asset: fonts/Fontelico.ttf
+    - family: LineariconsFree
+      fonts:
+        - asset: fonts/LineariconsFree.ttf
+    - family: Linecons
+      fonts:
+        - asset: fonts/Linecons.ttf
+    - family: Maki
+      fonts:
+        - asset: fonts/Maki.ttf
+    - family: Meteocons
+      fonts:
+        - asset: fonts/Meteocons.ttf
+    - family: MfgLabs
+      fonts:
+        - asset: fonts/MfgLabs.ttf
+    - family: ModernPictograms
+      fonts:
+        - asset: fonts/ModernPictograms.ttf
+    - family: Typicons
+      fonts:
+        - asset: fonts/Typicons.ttf
+    - family: WebSymbols
+      fonts:
+        - asset: fonts/WebSymbols.ttf
+    - family: RpgAwesome
+      fonts:
+        - asset: fonts/RpgAwesome.ttf
+
