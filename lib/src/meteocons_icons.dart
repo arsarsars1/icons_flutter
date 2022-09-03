@@ -1,0 +1,54 @@
+import 'package:flutter/widgets.dart';
+import 'package:icons_flutter/src/icons_flutter_data.dart';
+
+class Meteocons {
+  Meteocons._();
+
+  static const IconData windy_rain_inv = IconsFlutterData.meteoCons(0xe800);
+  static const IconData snow_inv = IconsFlutterData.meteoCons(0xe801);
+  static const IconData snow_heavy_inv = IconsFlutterData.meteoCons(0xe802);
+  static const IconData hail_inv = IconsFlutterData.meteoCons(0xe803);
+  static const IconData clouds_inv = IconsFlutterData.meteoCons(0xe804);
+  static const IconData clouds_flash_inv = IconsFlutterData.meteoCons(0xe805);
+  static const IconData temperature = IconsFlutterData.meteoCons(0xe806);
+  static const IconData compass = IconsFlutterData.meteoCons(0xe807);
+  static const IconData na = IconsFlutterData.meteoCons(0xe808);
+  static const IconData celcius = IconsFlutterData.meteoCons(0xe809);
+  static const IconData fahrenheit = IconsFlutterData.meteoCons(0xe80a);
+  static const IconData clouds_flash_alt = IconsFlutterData.meteoCons(0xe80b);
+  static const IconData sun_inv = IconsFlutterData.meteoCons(0xe80c);
+  static const IconData moon_inv = IconsFlutterData.meteoCons(0xe80d);
+  static const IconData cloud_sun_inv = IconsFlutterData.meteoCons(0xe80e);
+  static const IconData cloud_moon_inv = IconsFlutterData.meteoCons(0xe80f);
+  static const IconData cloud_inv = IconsFlutterData.meteoCons(0xe810);
+  static const IconData cloud_flash_inv = IconsFlutterData.meteoCons(0xe811);
+  static const IconData drizzle_inv = IconsFlutterData.meteoCons(0xe812);
+  static const IconData rain_inv = IconsFlutterData.meteoCons(0xe813);
+  static const IconData windy_inv = IconsFlutterData.meteoCons(0xe814);
+  static const IconData sunrise = IconsFlutterData.meteoCons(0xe815);
+  static const IconData sun = IconsFlutterData.meteoCons(0xe816);
+  static const IconData moon = IconsFlutterData.meteoCons(0xe817);
+  static const IconData eclipse = IconsFlutterData.meteoCons(0xe818);
+  static const IconData mist = IconsFlutterData.meteoCons(0xe819);
+  static const IconData wind = IconsFlutterData.meteoCons(0xe81a);
+  static const IconData snowflake = IconsFlutterData.meteoCons(0xe81b);
+  static const IconData cloud_sun = IconsFlutterData.meteoCons(0xe81c);
+  static const IconData cloud_moon = IconsFlutterData.meteoCons(0xe81d);
+  static const IconData fog_sun = IconsFlutterData.meteoCons(0xe81e);
+  static const IconData fog_moon = IconsFlutterData.meteoCons(0xe81f);
+  static const IconData fog_cloud = IconsFlutterData.meteoCons(0xe820);
+  static const IconData fog = IconsFlutterData.meteoCons(0xe821);
+  static const IconData cloud = IconsFlutterData.meteoCons(0xe822);
+  static const IconData cloud_flash = IconsFlutterData.meteoCons(0xe823);
+  static const IconData cloud_flash_alt = IconsFlutterData.meteoCons(0xe824);
+  static const IconData drizzle = IconsFlutterData.meteoCons(0xe825);
+  static const IconData rain = IconsFlutterData.meteoCons(0xe826);
+  static const IconData windy = IconsFlutterData.meteoCons(0xe827);
+  static const IconData windy_rain = IconsFlutterData.meteoCons(0xe828);
+  static const IconData snow = IconsFlutterData.meteoCons(0xe829);
+  static const IconData snow_alt = IconsFlutterData.meteoCons(0xe82a);
+  static const IconData snow_heavy = IconsFlutterData.meteoCons(0xe82b);
+  static const IconData hail = IconsFlutterData.meteoCons(0xe82c);
+  static const IconData clouds = IconsFlutterData.meteoCons(0xe82d);
+  static const IconData clouds_flash = IconsFlutterData.meteoCons(0xe82e);
+}

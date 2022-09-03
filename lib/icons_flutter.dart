@@ -1,7 +1,34 @@
 library icons_flutter;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/ant_design.dart';
+export 'src/brandico_icons.dart';
+export 'src/elusive_icons.dart';
+export 'src/entypo.dart';
+export 'src/evil_icons.dart';
+export 'src/feather.dart';
+export 'src/flutter_icons.dart';
+export 'src/icons_flutter_data.dart';
+export 'src/font_awesome.dart';
+export 'src/font_awesome5_icons.dart';
+export 'src/font_awesome_5.dart';
+export 'src/font_awesome_5_brands.dart';
+export 'src/font_awesome_5_solid.dart';
+export 'src/font_elico_icons.dart';
+export 'src/foundation.dart';
+export 'src/icon_toggle.dart';
+export 'src/ionicons.dart';
+export 'src/linearicons_free_icons.dart';
+export 'src/linecons_icons.dart';
+export 'src/maki_icons.dart';
+export 'src/material_community_icons.dart';
+export 'src/material_icons.dart';
+export 'src/meteocons_icons.dart';
+export 'src/mfg_labs_icons.dart';
+export 'src/modern_pictograms_icons.dart';
+export 'src/octicons.dart';
+export 'src/rpg_awesome_icons.dart';
+export 'src/simple_line_icons.dart';
+export 'src/typicons_icons.dart';
+export 'src/weather_icons.dart';
+export 'src/web_symbols_icons.dart';
+export 'src/zocial.dart';

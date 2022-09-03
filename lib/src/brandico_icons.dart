@@ -1,0 +1,52 @@
+import 'package:flutter/widgets.dart';
+import 'package:icons_flutter/src/icons_flutter_data.dart';
+
+class Brandico {
+  Brandico._();
+
+  static const IconData facebook_1 = IconsFlutterData.brandico(0xf300);
+  static const IconData facebook_rect = IconsFlutterData.brandico(0xf301);
+  static const IconData twitter_1 = IconsFlutterData.brandico(0xf302);
+  static const IconData twitter_bird = IconsFlutterData.brandico(0xf303);
+  static const IconData icq = IconsFlutterData.brandico(0xf304);
+  static const IconData yandex = IconsFlutterData.brandico(0xf305);
+  static const IconData yandex_rect = IconsFlutterData.brandico(0xf306);
+  static const IconData github_text = IconsFlutterData.brandico(0xf307);
+  static const IconData github_1 = IconsFlutterData.brandico(0xf308);
+  static const IconData googleplus_rect = IconsFlutterData.brandico(0xf309);
+  static const IconData vkontakte_rect = IconsFlutterData.brandico(0xf30a);
+  static const IconData skype_1 = IconsFlutterData.brandico(0xf30b);
+  static const IconData odnoklassniki = IconsFlutterData.brandico(0xf30c);
+  static const IconData odnoklassniki_rect = IconsFlutterData.brandico(0xf30d);
+  static const IconData vimeo_rect = IconsFlutterData.brandico(0xf30e);
+  static const IconData vimeo_1 = IconsFlutterData.brandico(0xf30f);
+  static const IconData tumblr_rect = IconsFlutterData.brandico(0xf310);
+  static const IconData tumblr_1 = IconsFlutterData.brandico(0xf311);
+  static const IconData friendfeed = IconsFlutterData.brandico(0xf312);
+  static const IconData friendfeed_rect = IconsFlutterData.brandico(0xf313);
+  static const IconData blogger_1 = IconsFlutterData.brandico(0xf314);
+  static const IconData blogger_rect = IconsFlutterData.brandico(0xf315);
+  static const IconData deviantart = IconsFlutterData.brandico(0xf316);
+  static const IconData jabber = IconsFlutterData.brandico(0xf317);
+  static const IconData lastfm_1 = IconsFlutterData.brandico(0xf318);
+  static const IconData lastfm_rect = IconsFlutterData.brandico(0xf319);
+  static const IconData linkedin_1 = IconsFlutterData.brandico(0xf31a);
+  static const IconData linkedin_rect = IconsFlutterData.brandico(0xf31b);
+  static const IconData picasa = IconsFlutterData.brandico(0xf31c);
+  static const IconData wordpress_1 = IconsFlutterData.brandico(0xf31d);
+  static const IconData instagram_1 = IconsFlutterData.brandico(0xf31e);
+  static const IconData instagram_filled = IconsFlutterData.brandico(0xf31f);
+  static const IconData diigo = IconsFlutterData.brandico(0xf320);
+  static const IconData box = IconsFlutterData.brandico(0xf321);
+  static const IconData box_rect = IconsFlutterData.brandico(0xf322);
+  static const IconData tudou = IconsFlutterData.brandico(0xf323);
+  static const IconData youku = IconsFlutterData.brandico(0xf324);
+  static const IconData win8 = IconsFlutterData.brandico(0xf325);
+  static const IconData amex = IconsFlutterData.brandico(0xf326);
+  static const IconData discover = IconsFlutterData.brandico(0xf327);
+  static const IconData visa = IconsFlutterData.brandico(0xf328);
+  static const IconData mastercard = IconsFlutterData.brandico(0xf329);
+  static const IconData houzz = IconsFlutterData.brandico(0xf32a);
+  static const IconData bandcamp = IconsFlutterData.brandico(0xf32b);
+  static const IconData codepen = IconsFlutterData.brandico(0xf32c);
+}

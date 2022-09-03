@@ -1,0 +1,80 @@
+import 'package:flutter/material.dart';
+
+import 'icons_flutter_data.dart';
+
+/// all Icons under EvilIcons
+///
+/// http://evil-icons.io
+class EvilIcons {
+  EvilIcons._();
+  static const IconData archive = IconsFlutterData.evilIcons(61696);
+  static const IconData arrow_down = IconsFlutterData.evilIcons(61697);
+  static const IconData arrow_left = IconsFlutterData.evilIcons(61698);
+  static const IconData arrow_right = IconsFlutterData.evilIcons(61699);
+  static const IconData arrow_up = IconsFlutterData.evilIcons(61700);
+  static const IconData bell = IconsFlutterData.evilIcons(61701);
+  static const IconData calendar = IconsFlutterData.evilIcons(61702);
+  static const IconData camera = IconsFlutterData.evilIcons(61703);
+  static const IconData cart = IconsFlutterData.evilIcons(61704);
+  static const IconData chart = IconsFlutterData.evilIcons(61705);
+  static const IconData check = IconsFlutterData.evilIcons(61706);
+  static const IconData chevron_down = IconsFlutterData.evilIcons(61707);
+  static const IconData chevron_left = IconsFlutterData.evilIcons(61708);
+  static const IconData chevron_right = IconsFlutterData.evilIcons(61709);
+  static const IconData chevron_up = IconsFlutterData.evilIcons(61710);
+  static const IconData clock = IconsFlutterData.evilIcons(61711);
+  static const IconData close = IconsFlutterData.evilIcons(61712);
+  static const IconData close_o = IconsFlutterData.evilIcons(61713);
+  static const IconData comment = IconsFlutterData.evilIcons(61714);
+  static const IconData credit_card = IconsFlutterData.evilIcons(61715);
+  static const IconData envelope = IconsFlutterData.evilIcons(61716);
+  static const IconData exclamation = IconsFlutterData.evilIcons(61717);
+  static const IconData external_link = IconsFlutterData.evilIcons(61718);
+  static const IconData eye = IconsFlutterData.evilIcons(61719);
+  static const IconData gear = IconsFlutterData.evilIcons(61720);
+  static const IconData heart = IconsFlutterData.evilIcons(61721);
+  static const IconData image = IconsFlutterData.evilIcons(61722);
+  static const IconData like = IconsFlutterData.evilIcons(61723);
+  static const IconData link = IconsFlutterData.evilIcons(61724);
+  static const IconData location = IconsFlutterData.evilIcons(61725);
+  static const IconData lock = IconsFlutterData.evilIcons(61726);
+  static const IconData minus = IconsFlutterData.evilIcons(61727);
+  static const IconData navicon = IconsFlutterData.evilIcons(61728);
+  static const IconData paperclip = IconsFlutterData.evilIcons(61729);
+  static const IconData pencil = IconsFlutterData.evilIcons(61730);
+  static const IconData play = IconsFlutterData.evilIcons(61731);
+  static const IconData plus = IconsFlutterData.evilIcons(61732);
+  static const IconData pointer = IconsFlutterData.evilIcons(61733);
+  static const IconData question = IconsFlutterData.evilIcons(61734);
+  static const IconData redo = IconsFlutterData.evilIcons(61735);
+  static const IconData refresh = IconsFlutterData.evilIcons(61736);
+  static const IconData retweet = IconsFlutterData.evilIcons(61737);
+  static const IconData sc_facebook = IconsFlutterData.evilIcons(61738);
+  static const IconData sc_github = IconsFlutterData.evilIcons(61739);
+  static const IconData sc_google_plus = IconsFlutterData.evilIcons(61740);
+  static const IconData sc_instagram = IconsFlutterData.evilIcons(61741);
+  static const IconData sc_linkedin = IconsFlutterData.evilIcons(61742);
+  static const IconData sc_odnoklassniki = IconsFlutterData.evilIcons(61743);
+  static const IconData sc_pinterest = IconsFlutterData.evilIcons(61744);
+  static const IconData sc_skype = IconsFlutterData.evilIcons(61745);
+  static const IconData sc_soundcloud = IconsFlutterData.evilIcons(61746);
+  static const IconData sc_telegram = IconsFlutterData.evilIcons(61747);
+  static const IconData sc_tumblr = IconsFlutterData.evilIcons(61748);
+  static const IconData sc_twitter = IconsFlutterData.evilIcons(61749);
+  static const IconData sc_vimeo = IconsFlutterData.evilIcons(61750);
+  static const IconData sc_vk = IconsFlutterData.evilIcons(61751);
+  static const IconData sc_youtube = IconsFlutterData.evilIcons(61752);
+  static const IconData search = IconsFlutterData.evilIcons(61753);
+  static const IconData share_apple = IconsFlutterData.evilIcons(61754);
+  static const IconData share_google = IconsFlutterData.evilIcons(61755);
+  static const IconData spinner = IconsFlutterData.evilIcons(61756);
+  static const IconData spinner_2 = IconsFlutterData.evilIcons(61757);
+  static const IconData spinner_3 = IconsFlutterData.evilIcons(61758);
+  static const IconData star = IconsFlutterData.evilIcons(61759);
+  static const IconData tag = IconsFlutterData.evilIcons(61760);
+  static const IconData trash = IconsFlutterData.evilIcons(61761);
+  static const IconData trophy = IconsFlutterData.evilIcons(61762);
+  static const IconData undo = IconsFlutterData.evilIcons(61763);
+  static const IconData unlock = IconsFlutterData.evilIcons(61764);
+  static const IconData user = IconsFlutterData.evilIcons(61765);
+}
