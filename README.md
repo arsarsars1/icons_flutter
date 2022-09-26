@@ -14,32 +14,32 @@ The Flutter icon package provides you 14k+ additional icons to use in your apps.
 
 * [`AntDesign`](https://ant.design/) by AntFinance (**297** icons)
 * [`Brandico`](https://scripts.sil.org/OFL) by Vitaly Puzrin **Author:** Crowdsourced, for Fontello project (**44** icons) [`License:`](https://scripts.sil.org/OFL)
-* [`Elusive`](http://aristeides.com/) by Aristeides Stathopoulos (**270** icons) [`License:`](https://scripts.sil.org/OFL)
-* [`Entypo`](http://entypo.com) by Daniel Bruce (**411** icons)
-* [`EvilIcons`](http://evil-icons.io) by Alexander Madyankin & Roman Shamin (v1.10.1, **70** icons)
-* [`Feather`](http://feathericons.com) by Cole Bemis & Contributors (v4.7.0, **266** icons)
-* [`FontAwesome`](http://fortawesome.github.io/Font-Awesome/icons/) by Dave Gandy (v4.7.0, **675** icons)
+* [`Elusive`](https://aristeides.com/) by Aristeides Stathopoulos (**270** icons) [`License:`](https://scripts.sil.org/OFL)
+* [`Entypo`](https://entypo.com) by Daniel Bruce (**411** icons)
+* [`EvilIcons`](https://evil-icons.io) by Alexander Madyankin & Roman Shamin (v1.10.1, **70** icons)
+* [`Feather`](https://feathericons.com) by Cole Bemis & Contributors (v4.7.0, **266** icons)
+* [`FontAwesome`](https://fortawesome.github.io/Font-Awesome/icons/) by Dave Gandy (v4.7.0, **675** icons)
 * [`FontAwesome 5`](https://fontawesome.com) by Fonticons, Inc. (v5.7.0, **1500** (free))
-* [`Foundation`](http://zurb.com/playground/foundation-icon-fonts-3) by ZURB, Inc. (v3.0, **283** icons)
+* [`Foundation`](https://zurb.com/playground/foundation-icon-fonts-3) by ZURB, Inc. (v3.0, **283** icons)
 * [`Ionicons`](https://ionicons.com/) by Ben Sperry (v4.2.4, **696** icons)
 * [`MaterialIcons`](https://www.google.com/design/icons/) by Google, Inc. (v3.0.1, **932** icons)
 * [`MaterialCommunityIcons`](https://materialdesignicons.com/) by MaterialDesignIcons.com  (v4.0.96, **4416** icons)
-* [`Octicons`](http://octicons.github.com) by Github, Inc. (v8.0.0, **177** icons)
-* [`Zocial`](http://zocial.smcllns.com/) by Sam Collins (v1.0, **100** icons)
+* [`Octicons`](https://octicons.github.com) by Github, Inc. (v8.0.0, **177** icons)
+* [`Zocial`](https://zocial.smcllns.com/) by Sam Collins (v1.0, **100** icons)
 * [`SimpleLineIcons`](https://simplelineicons.github.io/) by Sabbir & Contributors (v2.4.1, **189** icons)
 * [`Weather Icons`](https://erikflowers.github.io/weather-icons/) by erikflowers (v2.0.10, **596** icons)
-* [`Entypo`](http://entypo.com/) by Entypo (**411** icons) [`License:`](https://scripts.sil.org/OFL)
-* [`Font Awesome 5`](http://fortawesome.github.com/Font-Awesome/) by Dave Gandy (**1437** icons) [`License:`](https://scripts.sil.org/OFL)
-* [`Fontelico`](http://fontello.com/) by Crowdsourced, for Fontello project (**34** icons) [`License:`](https://scripts.sil.org/OFL)
+* [`Entypo`](https://entypo.com/) by Entypo (**411** icons) [`License:`](https://scripts.sil.org/OFL)
+* [`Font Awesome 5`](https://fortawesome.github.com/Font-Awesome/) by Dave Gandy (**1437** icons) [`License:`](https://scripts.sil.org/OFL)
+* [`Fontelico`](https://fontello.com/) by Crowdsourced, for Fontello project (**34** icons) [`License:`](https://scripts.sil.org/OFL)
 * [`Linearicons`](https://linearicons.com/) by Perxis (**175** icons) [`License:`](https://creativecommons.org/licenses/by-sa/4.0/)
-* [`Linecons`](http://designmodo.com/linecons-free/) by Designmodo for Smashing Magazine (**48** icons) [`License:`](https://scripts.sil.org/OFL)
-* [`Maki`](http://mapbox.com/maki/) by http://mapbox.com/maki/ (**63** icons) [`License:`](https://github.com/mapbox/maki/blob/gh-pages/LICENSE.txt)
-* [`Meteocons`](http://www.alessioatzeni.com/) by Alessio Atzeni (**47** icons) [`License:`](https://scripts.sil.org/OFL)
-* [`MFG Labs`](http://www.mfglabs.com/) by Daniel Bruce **Author:** MFG Labs (**153** icons) [`License:`](https://scripts.sil.org/OFL)
-* [`Modern Pictograms`](http://thedesignoffice.org/project/modern-pictograms/) by John Caserta (**91** icons) [`License:`](https://scripts.sil.org/OFL)
-* [`RPG Awesome`](http://nagoshiashumari.github.io/Rpg-Awesome/) by Daniela Howe & Ivan Montiel (**495** icons) [`License:`](https://scripts.sil.org/OFL)
-* [`Typicons`](http://typicons.com/) by Stephen Hutchings 2012 (**293** icons) [`License:`](https://scripts.sil.org/OFL)
-* [`Web Symbols`](http://www.justbenicestudio.com/) by Just Be Nice studio 2011 (**85** icons) [`License:`](https://scripts.sil.org/OFL)
+* [`Linecons`](https://designmodo.com/linecons-free/) by Designmodo for Smashing Magazine (**48** icons) [`License:`](https://scripts.sil.org/OFL)
+* [`Maki`](https://mapbox.com/maki/) by https://mapbox.com/maki/ (**63** icons) [`License:`](https://github.com/mapbox/maki/blob/gh-pages/LICENSE.txt)
+* [`Meteocons`](https://www.alessioatzeni.com/) by Alessio Atzeni (**47** icons) [`License:`](https://scripts.sil.org/OFL)
+* [`MFG Labs`](https://www.mfglabs.com/) by Daniel Bruce **Author:** MFG Labs (**153** icons) [`License:`](https://scripts.sil.org/OFL)
+* [`Modern Pictograms`](https://thedesignoffice.org/project/modern-pictograms/) by John Caserta (**91** icons) [`License:`](https://scripts.sil.org/OFL)
+* [`RPG Awesome`](https://nagoshiashumari.github.io/Rpg-Awesome/) by Daniela Howe & Ivan Montiel (**495** icons) [`License:`](https://scripts.sil.org/OFL)
+* [`Typicons`](https://typicons.com/) by Stephen Hutchings 2012 (**293** icons) [`License:`](https://scripts.sil.org/OFL)
+* [`Web Symbols`](https://www.justbenicestudio.com/) by Just Be Nice studio 2011 (**85** icons) [`License:`](https://scripts.sil.org/OFL)
 
 ## Usage
 To use this plugin, add `icons_flutter` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
@@ -137,6 +137,7 @@ Add the font you want to leave in the project's pubspec file
 //Zocial Icons -> zoc,
 //Weather Icons -> wea
 
+ ```
  ...
 
 icons_flutter:
