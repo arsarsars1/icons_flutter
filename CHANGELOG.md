@@ -15,3 +15,7 @@
 
 * Package analyzed updated
 * Code refactored
+
+## 0.0.4
+* Readme updated
+* flutter version upgrade
