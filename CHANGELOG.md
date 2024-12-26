@@ -19,3 +19,7 @@
 ## 0.0.4
 * Readme updated
 * flutter version upgrade
+
+## 0.0.5
+
+* flutter version upgrade
