@@ -136,20 +136,19 @@ Add the font you want to leave in the project's pubspec file
 //Simple Line Icons -> sli,
 //Zocial Icons -> zoc,
 //Weather Icons -> wea
+```
 
- ```
- ...
-
+```yaml
 icons_flutter:
   includes:
-    -ant 
-    -mco
- ...
- ```
+    - ant
+    - mco
+  ...
+```
 
 #### step3
 Execute the command in the project directory
-``` 
+```
 split_icon
 ```
 

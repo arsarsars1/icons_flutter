@@ -23,3 +23,9 @@
 ## 0.0.5
 
 * flutter version upgrade
+
+## 0.0.6
+
+* Fixed README markdown rendering for the `split_icon` configuration section ([#1](https://github.com/arsarsars1/icons_flutter/issues/1))
+* Updated Flutter SDK constraint to `>=3.41.0` and Dart SDK to `^3.11.5`
+* Updated `flutter_lints` to `^6.0.0`
