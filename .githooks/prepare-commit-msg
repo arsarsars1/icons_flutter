@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+# Remove Cursor agent attribution from commit messages before they are finalized.
+set -euo pipefail
+
+MSG_FILE="${1:?}"
+
+[[ -f "$MSG_FILE" ]] || exit 0
+
+tmp="$(mktemp)"
+grep -viE 'co-authored-by:.*cursor|made-with:.*cursor|cursoragent@cursor\.com' "$MSG_FILE" > "$tmp" || true
+mv "$tmp" "$MSG_FILE"
+
+exit 0

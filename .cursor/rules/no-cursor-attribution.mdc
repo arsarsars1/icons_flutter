@@ -1,0 +1,15 @@
+---
+description: Never add Cursor co-author or attribution to git commits or PRs
+alwaysApply: true
+---
+
+# Git attribution
+
+Never add Cursor attribution to git history or pull requests.
+
+- Do not add `Co-authored-by: Cursor`, `Made-with: Cursor`, or any `cursoragent@cursor.com` trailer.
+- Do not pass `--trailer` flags to `git commit` for Cursor attribution.
+- Do not add attribution footers to `gh pr create`.
+- Commits in this repository must attribute only the human maintainer.
+
+If a commit message already contains Cursor attribution, remove it before committing.
