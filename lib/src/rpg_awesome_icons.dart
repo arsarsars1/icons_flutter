@@ -4,514 +4,2480 @@ import 'package:icons_flutter/src/icons_flutter_data.dart';
 class RpgAwesome {
   RpgAwesome._();
 
-  static const IconData acid = IconsFlutterData.rpgAwesome(0xe900);
-  static const IconData acorn = IconsFlutterData.rpgAwesome(0xe901);
-  static const IconData alien_fire = IconsFlutterData.rpgAwesome(0xe902);
-  static const IconData all_for_one = IconsFlutterData.rpgAwesome(0xe903);
-  static const IconData alligator_clip = IconsFlutterData.rpgAwesome(0xe904);
-  static const IconData ammo_bag = IconsFlutterData.rpgAwesome(0xe905);
-  static const IconData anchor = IconsFlutterData.rpgAwesome(0xe906);
-  static const IconData angel_wings = IconsFlutterData.rpgAwesome(0xe907);
-  static const IconData ankh = IconsFlutterData.rpgAwesome(0xe908);
-  static const IconData anvil = IconsFlutterData.rpgAwesome(0xe909);
-  static const IconData apple = IconsFlutterData.rpgAwesome(0xe90a);
-  static const IconData aquarius = IconsFlutterData.rpgAwesome(0xe90b);
-  static const IconData arcane_mask = IconsFlutterData.rpgAwesome(0xe90c);
-  static const IconData archer = IconsFlutterData.rpgAwesome(0xe90d);
-  static const IconData archery_target = IconsFlutterData.rpgAwesome(0xe90e);
-  static const IconData arena = IconsFlutterData.rpgAwesome(0xe90f);
-  static const IconData aries = IconsFlutterData.rpgAwesome(0xe910);
-  static const IconData arrow_cluster = IconsFlutterData.rpgAwesome(0xe911);
-  static const IconData arrow_flights = IconsFlutterData.rpgAwesome(0xe912);
-  static const IconData arson = IconsFlutterData.rpgAwesome(0xe913);
-  static const IconData aura = IconsFlutterData.rpgAwesome(0xe914);
-  static const IconData aware = IconsFlutterData.rpgAwesome(0xe915);
-  static const IconData axe_swing = IconsFlutterData.rpgAwesome(0xe916);
-  static const IconData axe = IconsFlutterData.rpgAwesome(0xe917);
-  static const IconData ball = IconsFlutterData.rpgAwesome(0xe918);
-  static const IconData barbed_arrow = IconsFlutterData.rpgAwesome(0xe919);
-  static const IconData barrier = IconsFlutterData.rpgAwesome(0xe91a);
-  static const IconData bat_sword = IconsFlutterData.rpgAwesome(0xe91b);
-  static const IconData battered_axe = IconsFlutterData.rpgAwesome(0xe91c);
-  static const IconData batteries = IconsFlutterData.rpgAwesome(0xe91d);
-  static const IconData battery_0 = IconsFlutterData.rpgAwesome(0xe91e);
-  static const IconData battery_25 = IconsFlutterData.rpgAwesome(0xe91f);
-  static const IconData battery_50 = IconsFlutterData.rpgAwesome(0xe920);
-  static const IconData battery_75 = IconsFlutterData.rpgAwesome(0xe921);
-  static const IconData battery_100 = IconsFlutterData.rpgAwesome(0xe922);
-  static const IconData battery_black = IconsFlutterData.rpgAwesome(0xe923);
-  static const IconData battery_negative = IconsFlutterData.rpgAwesome(0xe924);
-  static const IconData battery_positive = IconsFlutterData.rpgAwesome(0xe925);
-  static const IconData battery_white = IconsFlutterData.rpgAwesome(0xe926);
-  static const IconData batwings = IconsFlutterData.rpgAwesome(0xe927);
-  static const IconData beam_wake = IconsFlutterData.rpgAwesome(0xe928);
-  static const IconData bear_trap = IconsFlutterData.rpgAwesome(0xe929);
-  static const IconData beer = IconsFlutterData.rpgAwesome(0xe92a);
-  static const IconData beetle = IconsFlutterData.rpgAwesome(0xe92b);
-  static const IconData bell = IconsFlutterData.rpgAwesome(0xe92c);
-  static const IconData biohazard = IconsFlutterData.rpgAwesome(0xe92d);
-  static const IconData bird_claw = IconsFlutterData.rpgAwesome(0xe92e);
-  static const IconData bird_mask = IconsFlutterData.rpgAwesome(0xe92f);
-  static const IconData blade_bite = IconsFlutterData.rpgAwesome(0xe930);
-  static const IconData blast = IconsFlutterData.rpgAwesome(0xe931);
-  static const IconData blaster = IconsFlutterData.rpgAwesome(0xe932);
-  static const IconData bleeding_eye = IconsFlutterData.rpgAwesome(0xe933);
-  static const IconData bleeding_hearts = IconsFlutterData.rpgAwesome(0xe934);
-  static const IconData bolt_shield = IconsFlutterData.rpgAwesome(0xe935);
-  static const IconData bomb_explosion = IconsFlutterData.rpgAwesome(0xe936);
-  static const IconData bombs = IconsFlutterData.rpgAwesome(0xe937);
-  static const IconData bone_bite = IconsFlutterData.rpgAwesome(0xe938);
-  static const IconData bone_knife = IconsFlutterData.rpgAwesome(0xe939);
-  static const IconData book = IconsFlutterData.rpgAwesome(0xe93a);
-  static const IconData boomerang = IconsFlutterData.rpgAwesome(0xe93b);
-  static const IconData boot_stomp = IconsFlutterData.rpgAwesome(0xe93c);
-  static const IconData bottle_vapors = IconsFlutterData.rpgAwesome(0xe93d);
-  static const IconData bottled_bolt = IconsFlutterData.rpgAwesome(0xe93e);
-  static const IconData bottom_right = IconsFlutterData.rpgAwesome(0xe93f);
-  static const IconData bowie_knife = IconsFlutterData.rpgAwesome(0xe940);
-  static const IconData bowling_pin = IconsFlutterData.rpgAwesome(0xe941);
-  static const IconData brain_freeze = IconsFlutterData.rpgAwesome(0xe942);
-  static const IconData brandy_bottle = IconsFlutterData.rpgAwesome(0xe943);
-  static const IconData bridge = IconsFlutterData.rpgAwesome(0xe944);
-  static const IconData broadhead_arrow = IconsFlutterData.rpgAwesome(0xe945);
-  static const IconData broadsword = IconsFlutterData.rpgAwesome(0xe946);
-  static const IconData broken_bone = IconsFlutterData.rpgAwesome(0xe947);
-  static const IconData broken_bottle = IconsFlutterData.rpgAwesome(0xe948);
-  static const IconData broken_heart = IconsFlutterData.rpgAwesome(0xe949);
-  static const IconData broken_shield = IconsFlutterData.rpgAwesome(0xe94a);
-  static const IconData broken_skull = IconsFlutterData.rpgAwesome(0xe94b);
-  static const IconData bubbling_potion = IconsFlutterData.rpgAwesome(0xe94c);
-  static const IconData bullets = IconsFlutterData.rpgAwesome(0xe94d);
-  static const IconData burning_book = IconsFlutterData.rpgAwesome(0xe94e);
-  static const IconData burning_embers = IconsFlutterData.rpgAwesome(0xe94f);
-  static const IconData burning_eye = IconsFlutterData.rpgAwesome(0xe950);
-  static const IconData burning_meteor = IconsFlutterData.rpgAwesome(0xe951);
-  static const IconData burst_blob = IconsFlutterData.rpgAwesome(0xe952);
-  static const IconData butterfly = IconsFlutterData.rpgAwesome(0xe953);
-  static const IconData campfire = IconsFlutterData.rpgAwesome(0xe954);
-  static const IconData cancel = IconsFlutterData.rpgAwesome(0xe955);
-  static const IconData cancer = IconsFlutterData.rpgAwesome(0xe956);
-  static const IconData candle_fire = IconsFlutterData.rpgAwesome(0xe957);
-  static const IconData candle = IconsFlutterData.rpgAwesome(0xe958);
-  static const IconData cannon_shot = IconsFlutterData.rpgAwesome(0xe959);
-  static const IconData capitol = IconsFlutterData.rpgAwesome(0xe95a);
-  static const IconData capricorn = IconsFlutterData.rpgAwesome(0xe95b);
-  static const IconData carrot = IconsFlutterData.rpgAwesome(0xe95c);
-  static const IconData castle_emblem = IconsFlutterData.rpgAwesome(0xe95d);
-  static const IconData castle_flag = IconsFlutterData.rpgAwesome(0xe95e);
-  static const IconData cat = IconsFlutterData.rpgAwesome(0xe95f);
-  static const IconData chain = IconsFlutterData.rpgAwesome(0xe960);
-  static const IconData cheese = IconsFlutterData.rpgAwesome(0xe961);
-  static const IconData chemical_arrow = IconsFlutterData.rpgAwesome(0xe962);
-  static const IconData chessboard = IconsFlutterData.rpgAwesome(0xe963);
-  static const IconData chicken_leg = IconsFlutterData.rpgAwesome(0xe964);
-  static const IconData circle_of_circles = IconsFlutterData.rpgAwesome(0xe965);
-  static const IconData circular_saw = IconsFlutterData.rpgAwesome(0xe966);
-  static const IconData circular_shield = IconsFlutterData.rpgAwesome(0xe967);
-  static const IconData cloak_and_dagger = IconsFlutterData.rpgAwesome(0xe968);
-  static const IconData clockwork = IconsFlutterData.rpgAwesome(0xe969);
-  static const IconData clover = IconsFlutterData.rpgAwesome(0xe96a);
-  static const IconData clovers_card = IconsFlutterData.rpgAwesome(0xe96b);
-  static const IconData clovers = IconsFlutterData.rpgAwesome(0xe96c);
-  static const IconData cluster_bomb = IconsFlutterData.rpgAwesome(0xe96d);
-  static const IconData coffee_mug = IconsFlutterData.rpgAwesome(0xe96e);
-  static const IconData cog_wheel = IconsFlutterData.rpgAwesome(0xe96f);
-  static const IconData cog = IconsFlutterData.rpgAwesome(0xe970);
-  static const IconData cold_heart = IconsFlutterData.rpgAwesome(0xe971);
-  static const IconData compass = IconsFlutterData.rpgAwesome(0xe972);
-  static const IconData corked_tube = IconsFlutterData.rpgAwesome(0xe973);
-  static const IconData crab_claw = IconsFlutterData.rpgAwesome(0xe974);
-  static const IconData cracked_helm = IconsFlutterData.rpgAwesome(0xe975);
-  static const IconData cracked_shield = IconsFlutterData.rpgAwesome(0xe976);
-  static const IconData croc_sword = IconsFlutterData.rpgAwesome(0xe977);
-  static const IconData crossbow = IconsFlutterData.rpgAwesome(0xe978);
-  static const IconData crossed_axes = IconsFlutterData.rpgAwesome(0xe979);
-  static const IconData crossed_bones = IconsFlutterData.rpgAwesome(0xe97a);
-  static const IconData crossed_pistols = IconsFlutterData.rpgAwesome(0xe97b);
-  static const IconData crossed_sabres = IconsFlutterData.rpgAwesome(0xe97c);
-  static const IconData crossed_swords = IconsFlutterData.rpgAwesome(0xe97d);
-  static const IconData crown_of_thorns = IconsFlutterData.rpgAwesome(0xe97e);
-  static const IconData crown = IconsFlutterData.rpgAwesome(0xe97f);
-  static const IconData crowned_heart = IconsFlutterData.rpgAwesome(0xe980);
-  static const IconData crush = IconsFlutterData.rpgAwesome(0xe981);
-  static const IconData crystal_ball = IconsFlutterData.rpgAwesome(0xe982);
-  static const IconData crystal_cluster = IconsFlutterData.rpgAwesome(0xe983);
-  static const IconData crystal_wand = IconsFlutterData.rpgAwesome(0xe984);
-  static const IconData crystals = IconsFlutterData.rpgAwesome(0xe985);
-  static const IconData cubes = IconsFlutterData.rpgAwesome(0xe986);
-  static const IconData cut_palm = IconsFlutterData.rpgAwesome(0xe987);
-  static const IconData cycle = IconsFlutterData.rpgAwesome(0xe988);
-  static const IconData daggers = IconsFlutterData.rpgAwesome(0xe989);
-  static const IconData daisy = IconsFlutterData.rpgAwesome(0xe98a);
-  static const IconData dead_tree = IconsFlutterData.rpgAwesome(0xe98b);
-  static const IconData death_skull = IconsFlutterData.rpgAwesome(0xe98c);
-  static const IconData decapitation = IconsFlutterData.rpgAwesome(0xe98d);
-  static const IconData defibrillate = IconsFlutterData.rpgAwesome(0xe98e);
-  static const IconData demolish = IconsFlutterData.rpgAwesome(0xe98f);
-  static const IconData dervish_swords = IconsFlutterData.rpgAwesome(0xe990);
-  static const IconData desert_skull = IconsFlutterData.rpgAwesome(0xe991);
-  static const IconData diamond = IconsFlutterData.rpgAwesome(0xe992);
-  static const IconData diamonds_card = IconsFlutterData.rpgAwesome(0xe993);
-  static const IconData diamonds = IconsFlutterData.rpgAwesome(0xe994);
-  static const IconData dice_five = IconsFlutterData.rpgAwesome(0xe995);
-  static const IconData dice_four = IconsFlutterData.rpgAwesome(0xe996);
-  static const IconData dice_one = IconsFlutterData.rpgAwesome(0xe997);
-  static const IconData dice_six = IconsFlutterData.rpgAwesome(0xe998);
-  static const IconData dice_three = IconsFlutterData.rpgAwesome(0xe999);
-  static const IconData dice_two = IconsFlutterData.rpgAwesome(0xe99a);
-  static const IconData dinosaur = IconsFlutterData.rpgAwesome(0xe99b);
-  static const IconData divert = IconsFlutterData.rpgAwesome(0xe99c);
-  static const IconData diving_dagger = IconsFlutterData.rpgAwesome(0xe99d);
-  static const IconData double_team = IconsFlutterData.rpgAwesome(0xe99e);
-  static const IconData doubled = IconsFlutterData.rpgAwesome(0xe99f);
-  static const IconData dragon_breath = IconsFlutterData.rpgAwesome(0xe9a0);
-  static const IconData dragon_wing = IconsFlutterData.rpgAwesome(0xe9a1);
-  static const IconData dragon = IconsFlutterData.rpgAwesome(0xe9a2);
-  static const IconData dragonfly = IconsFlutterData.rpgAwesome(0xe9a3);
-  static const IconData drill = IconsFlutterData.rpgAwesome(0xe9a4);
-  static const IconData dripping_blade = IconsFlutterData.rpgAwesome(0xe9a5);
-  static const IconData dripping_knife = IconsFlutterData.rpgAwesome(0xe9a6);
-  static const IconData dripping_sword = IconsFlutterData.rpgAwesome(0xe9a7);
-  static const IconData droplet_splash = IconsFlutterData.rpgAwesome(0xe9a8);
-  static const IconData droplet = IconsFlutterData.rpgAwesome(0xe9a9);
-  static const IconData droplets = IconsFlutterData.rpgAwesome(0xe9aa);
-  static const IconData duel = IconsFlutterData.rpgAwesome(0xe9ab);
-  static const IconData egg_pod = IconsFlutterData.rpgAwesome(0xe9ac);
-  static const IconData egg = IconsFlutterData.rpgAwesome(0xe9ad);
-  static const IconData eggplant = IconsFlutterData.rpgAwesome(0xe9ae);
-  static const IconData emerald = IconsFlutterData.rpgAwesome(0xe9af);
-  static const IconData energise = IconsFlutterData.rpgAwesome(0xe9b0);
-  static const IconData explosion = IconsFlutterData.rpgAwesome(0xe9b1);
-  static const IconData explosive_materials =
-      IconsFlutterData.rpgAwesome(0xe9b2);
-  static const IconData eye_monster = IconsFlutterData.rpgAwesome(0xe9b3);
-  static const IconData eye_shield = IconsFlutterData.rpgAwesome(0xe9b4);
-  static const IconData eyeball = IconsFlutterData.rpgAwesome(0xe9b5);
-  static const IconData fairy_wand = IconsFlutterData.rpgAwesome(0xe9b6);
-  static const IconData fairy = IconsFlutterData.rpgAwesome(0xe9b7);
-  static const IconData fall_down = IconsFlutterData.rpgAwesome(0xe9b8);
-  static const IconData falling = IconsFlutterData.rpgAwesome(0xe9b9);
-  static const IconData fast_ship = IconsFlutterData.rpgAwesome(0xe9ba);
-  static const IconData feather_wing = IconsFlutterData.rpgAwesome(0xe9bb);
-  static const IconData feathered_wing = IconsFlutterData.rpgAwesome(0xe9bc);
-  static const IconData fedora = IconsFlutterData.rpgAwesome(0xe9bd);
-  static const IconData fire_bomb = IconsFlutterData.rpgAwesome(0xe9be);
-  static const IconData fire_breath = IconsFlutterData.rpgAwesome(0xe9bf);
-  static const IconData fire_ring = IconsFlutterData.rpgAwesome(0xe9c0);
-  static const IconData fire_shield = IconsFlutterData.rpgAwesome(0xe9c1);
-  static const IconData fire_symbol = IconsFlutterData.rpgAwesome(0xe9c2);
-  static const IconData fire = IconsFlutterData.rpgAwesome(0xe9c3);
-  static const IconData fireball_sword = IconsFlutterData.rpgAwesome(0xe9c4);
-  static const IconData fish = IconsFlutterData.rpgAwesome(0xe9c5);
-  static const IconData fizzing_flask = IconsFlutterData.rpgAwesome(0xe9c6);
-  static const IconData flame_symbol = IconsFlutterData.rpgAwesome(0xe9c7);
-  static const IconData flaming_arrow = IconsFlutterData.rpgAwesome(0xe9c8);
-  static const IconData flaming_claw = IconsFlutterData.rpgAwesome(0xe9c9);
-  static const IconData flaming_trident = IconsFlutterData.rpgAwesome(0xe9ca);
-  static const IconData flask = IconsFlutterData.rpgAwesome(0xe9cb);
-  static const IconData flat_hammer = IconsFlutterData.rpgAwesome(0xe9cc);
-  static const IconData flower = IconsFlutterData.rpgAwesome(0xe9cd);
-  static const IconData flowers = IconsFlutterData.rpgAwesome(0xe9ce);
-  static const IconData fluffy_swirl = IconsFlutterData.rpgAwesome(0xe9cf);
-  static const IconData focused_lightning = IconsFlutterData.rpgAwesome(0xe9d0);
-  static const IconData food_chain = IconsFlutterData.rpgAwesome(0xe9d1);
-  static const IconData footprint = IconsFlutterData.rpgAwesome(0xe9d2);
-  static const IconData forging = IconsFlutterData.rpgAwesome(0xe9d3);
-  static const IconData forward = IconsFlutterData.rpgAwesome(0xe9d4);
-  static const IconData fox = IconsFlutterData.rpgAwesome(0xe9d5);
-  static const IconData frost_emblem = IconsFlutterData.rpgAwesome(0xe9d6);
-  static const IconData frostfire = IconsFlutterData.rpgAwesome(0xe9d7);
-  static const IconData frozen_arrow = IconsFlutterData.rpgAwesome(0xe9d8);
-  static const IconData gamepad_cross = IconsFlutterData.rpgAwesome(0xe9d9);
-  static const IconData gavel = IconsFlutterData.rpgAwesome(0xe9da);
-  static const IconData gear_hammer = IconsFlutterData.rpgAwesome(0xe9db);
-  static const IconData gear_heart = IconsFlutterData.rpgAwesome(0xe9dc);
-  static const IconData gears = IconsFlutterData.rpgAwesome(0xe9dd);
-  static const IconData gecko = IconsFlutterData.rpgAwesome(0xe9de);
-  static const IconData gem_pendant = IconsFlutterData.rpgAwesome(0xe9df);
-  static const IconData gem = IconsFlutterData.rpgAwesome(0xe9e0);
-  static const IconData gemini = IconsFlutterData.rpgAwesome(0xe9e1);
-  static const IconData glass_heart = IconsFlutterData.rpgAwesome(0xe9e2);
-  static const IconData gloop = IconsFlutterData.rpgAwesome(0xe9e3);
-  static const IconData gold_bar = IconsFlutterData.rpgAwesome(0xe9e4);
-  static const IconData grappling_hook = IconsFlutterData.rpgAwesome(0xe9e5);
-  static const IconData grass_patch = IconsFlutterData.rpgAwesome(0xe9e6);
-  static const IconData grass = IconsFlutterData.rpgAwesome(0xe9e7);
-  static const IconData grenade = IconsFlutterData.rpgAwesome(0xe9e8);
-  static const IconData groundbreaker = IconsFlutterData.rpgAwesome(0xe9e9);
-  static const IconData guarded_tower = IconsFlutterData.rpgAwesome(0xe9ea);
-  static const IconData guillotine = IconsFlutterData.rpgAwesome(0xe9eb);
-  static const IconData halberd = IconsFlutterData.rpgAwesome(0xe9ec);
-  static const IconData hammer_drop = IconsFlutterData.rpgAwesome(0xe9ed);
-  static const IconData hammer = IconsFlutterData.rpgAwesome(0xe9ee);
-  static const IconData hand_emblem = IconsFlutterData.rpgAwesome(0xe9ef);
-  static const IconData hand_saw = IconsFlutterData.rpgAwesome(0xe9f0);
-  static const IconData hand = IconsFlutterData.rpgAwesome(0xe9f1);
-  static const IconData harpoon_trident = IconsFlutterData.rpgAwesome(0xe9f2);
-  static const IconData health_decrease = IconsFlutterData.rpgAwesome(0xe9f3);
-  static const IconData health_increase = IconsFlutterData.rpgAwesome(0xe9f4);
-  static const IconData health = IconsFlutterData.rpgAwesome(0xe9f5);
-  static const IconData heart_bottle = IconsFlutterData.rpgAwesome(0xe9f6);
-  static const IconData heart_tower = IconsFlutterData.rpgAwesome(0xe9f7);
-  static const IconData heartburn = IconsFlutterData.rpgAwesome(0xe9f8);
-  static const IconData hearts_card = IconsFlutterData.rpgAwesome(0xe9f9);
-  static const IconData hearts = IconsFlutterData.rpgAwesome(0xe9fa);
-  static const IconData heat_haze = IconsFlutterData.rpgAwesome(0xe9fb);
-  static const IconData heavy_fall = IconsFlutterData.rpgAwesome(0xe9fc);
-  static const IconData heavy_shield = IconsFlutterData.rpgAwesome(0xe9fd);
-  static const IconData helmet = IconsFlutterData.rpgAwesome(0xe9fe);
-  static const IconData help = IconsFlutterData.rpgAwesome(0xe9ff);
-  static const IconData hive_emblem = IconsFlutterData.rpgAwesome(0xea00);
-  static const IconData hole_ladder = IconsFlutterData.rpgAwesome(0xea01);
-  static const IconData honeycomb = IconsFlutterData.rpgAwesome(0xea02);
-  static const IconData hood = IconsFlutterData.rpgAwesome(0xea03);
-  static const IconData horn_call = IconsFlutterData.rpgAwesome(0xea04);
-  static const IconData horns = IconsFlutterData.rpgAwesome(0xea05);
-  static const IconData horseshoe = IconsFlutterData.rpgAwesome(0xea06);
-  static const IconData hospital_cross = IconsFlutterData.rpgAwesome(0xea07);
-  static const IconData hot_surface = IconsFlutterData.rpgAwesome(0xea08);
-  static const IconData hourglass = IconsFlutterData.rpgAwesome(0xea09);
-  static const IconData hydra_shot = IconsFlutterData.rpgAwesome(0xea0a);
-  static const IconData hydra = IconsFlutterData.rpgAwesome(0xea0b);
-  static const IconData ice_cube = IconsFlutterData.rpgAwesome(0xea0c);
-  static const IconData implosion = IconsFlutterData.rpgAwesome(0xea0d);
-  static const IconData incense = IconsFlutterData.rpgAwesome(0xea0e);
-  static const IconData insect_jaws = IconsFlutterData.rpgAwesome(0xea0f);
-  static const IconData interdiction = IconsFlutterData.rpgAwesome(0xea10);
-  static const IconData jetpack = IconsFlutterData.rpgAwesome(0xea11);
-  static const IconData jigsaw_piece = IconsFlutterData.rpgAwesome(0xea12);
-  static const IconData kaleidoscope = IconsFlutterData.rpgAwesome(0xea13);
-  static const IconData kettlebell = IconsFlutterData.rpgAwesome(0xea14);
-  static const IconData key_basic = IconsFlutterData.rpgAwesome(0xea15);
-  static const IconData key = IconsFlutterData.rpgAwesome(0xea16);
-  static const IconData kitchen_knives = IconsFlutterData.rpgAwesome(0xea17);
-  static const IconData knife_fork = IconsFlutterData.rpgAwesome(0xea18);
-  static const IconData knife = IconsFlutterData.rpgAwesome(0xea19);
-  static const IconData knight_helmet = IconsFlutterData.rpgAwesome(0xea1a);
-  static const IconData kunai = IconsFlutterData.rpgAwesome(0xea1b);
-  static const IconData lantern_flame = IconsFlutterData.rpgAwesome(0xea1c);
-  static const IconData large_hammer = IconsFlutterData.rpgAwesome(0xea1d);
-  static const IconData laser_blast = IconsFlutterData.rpgAwesome(0xea1e);
-  static const IconData laser_site = IconsFlutterData.rpgAwesome(0xea1f);
-  static const IconData lava = IconsFlutterData.rpgAwesome(0xea20);
-  static const IconData leaf = IconsFlutterData.rpgAwesome(0xea21);
-  static const IconData leo = IconsFlutterData.rpgAwesome(0xea22);
-  static const IconData level_four_advanced =
-      IconsFlutterData.rpgAwesome(0xea23);
-  static const IconData level_four = IconsFlutterData.rpgAwesome(0xea24);
-  static const IconData level_three_advanced =
-      IconsFlutterData.rpgAwesome(0xea25);
-  static const IconData level_three = IconsFlutterData.rpgAwesome(0xea26);
-  static const IconData level_two_advanced =
-      IconsFlutterData.rpgAwesome(0xea27);
-  static const IconData level_two = IconsFlutterData.rpgAwesome(0xea28);
-  static const IconData lever = IconsFlutterData.rpgAwesome(0xea29);
-  static const IconData libra = IconsFlutterData.rpgAwesome(0xea2a);
-  static const IconData light_bulb = IconsFlutterData.rpgAwesome(0xea2b);
-  static const IconData lighthouse = IconsFlutterData.rpgAwesome(0xea2c);
-  static const IconData lightning_bolt = IconsFlutterData.rpgAwesome(0xea2d);
-  static const IconData lightning_storm = IconsFlutterData.rpgAwesome(0xea2e);
-  static const IconData lightning_sword = IconsFlutterData.rpgAwesome(0xea2f);
-  static const IconData lightning_trio = IconsFlutterData.rpgAwesome(0xea30);
-  static const IconData lightning = IconsFlutterData.rpgAwesome(0xea31);
-  static const IconData lion = IconsFlutterData.rpgAwesome(0xea32);
-  static const IconData lit_candelabra = IconsFlutterData.rpgAwesome(0xea33);
-  static const IconData load = IconsFlutterData.rpgAwesome(0xea34);
-  static const IconData locked_fortress = IconsFlutterData.rpgAwesome(0xea35);
-  static const IconData love_howl = IconsFlutterData.rpgAwesome(0xea36);
-  static const IconData maggot = IconsFlutterData.rpgAwesome(0xea37);
-  static const IconData magnet = IconsFlutterData.rpgAwesome(0xea38);
-  static const IconData mass_driver = IconsFlutterData.rpgAwesome(0xea39);
-  static const IconData match = IconsFlutterData.rpgAwesome(0xea3a);
-  static const IconData meat_hook = IconsFlutterData.rpgAwesome(0xea3b);
-  static const IconData meat = IconsFlutterData.rpgAwesome(0xea3c);
-  static const IconData medical_pack = IconsFlutterData.rpgAwesome(0xea3d);
-  static const IconData metal_gate = IconsFlutterData.rpgAwesome(0xea3e);
-  static const IconData microphone = IconsFlutterData.rpgAwesome(0xea3f);
-  static const IconData mine_wagon = IconsFlutterData.rpgAwesome(0xea40);
-  static const IconData mining_diamonds = IconsFlutterData.rpgAwesome(0xea41);
-  static const IconData mirror = IconsFlutterData.rpgAwesome(0xea42);
-  static const IconData monster_skull = IconsFlutterData.rpgAwesome(0xea43);
-  static const IconData montains = IconsFlutterData.rpgAwesome(0xea44);
-  static const IconData moon_sun = IconsFlutterData.rpgAwesome(0xea45);
-  static const IconData mp5 = IconsFlutterData.rpgAwesome(0xea46);
-  static const IconData muscle_fat = IconsFlutterData.rpgAwesome(0xea47);
-  static const IconData muscle_up = IconsFlutterData.rpgAwesome(0xea48);
-  static const IconData musket = IconsFlutterData.rpgAwesome(0xea49);
-  static const IconData nails = IconsFlutterData.rpgAwesome(0xea4a);
-  static const IconData nodular = IconsFlutterData.rpgAwesome(0xea4b);
-  static const IconData noose = IconsFlutterData.rpgAwesome(0xea4c);
-  static const IconData nuclear = IconsFlutterData.rpgAwesome(0xea4d);
-  static const IconData ocarina = IconsFlutterData.rpgAwesome(0xea4e);
-  static const IconData ocean_emblem = IconsFlutterData.rpgAwesome(0xea4f);
-  static const IconData octopus = IconsFlutterData.rpgAwesome(0xea50);
-  static const IconData omega = IconsFlutterData.rpgAwesome(0xea51);
-  static const IconData on_target = IconsFlutterData.rpgAwesome(0xea52);
-  static const IconData ophiuchus = IconsFlutterData.rpgAwesome(0xea53);
-  static const IconData overhead = IconsFlutterData.rpgAwesome(0xea54);
-  static const IconData overmind = IconsFlutterData.rpgAwesome(0xea55);
-  static const IconData palm_tree = IconsFlutterData.rpgAwesome(0xea56);
-  static const IconData pawn = IconsFlutterData.rpgAwesome(0xea57);
-  static const IconData pawprint = IconsFlutterData.rpgAwesome(0xea58);
-  static const IconData perspective_dice_five =
-      IconsFlutterData.rpgAwesome(0xea59);
-  static const IconData perspective_dice_four =
-      IconsFlutterData.rpgAwesome(0xea5a);
-  static const IconData perspective_dice_one =
-      IconsFlutterData.rpgAwesome(0xea5b);
-  static const IconData perspective_dice_random =
-      IconsFlutterData.rpgAwesome(0xea5c);
-  static const IconData perspective_dice_six_two =
-      IconsFlutterData.rpgAwesome(0xea5d);
-  static const IconData perspective_dice_six =
-      IconsFlutterData.rpgAwesome(0xea5e);
-  static const IconData perspective_dice_three =
-      IconsFlutterData.rpgAwesome(0xea5f);
-  static const IconData pill = IconsFlutterData.rpgAwesome(0xea60);
-  static const IconData pills = IconsFlutterData.rpgAwesome(0xea61);
-  static const IconData pine_tree = IconsFlutterData.rpgAwesome(0xea62);
-  static const IconData ping_pong = IconsFlutterData.rpgAwesome(0xea63);
-  static const IconData pisces = IconsFlutterData.rpgAwesome(0xea64);
-  static const IconData plain_dagger = IconsFlutterData.rpgAwesome(0xea65);
-  static const IconData player_despair = IconsFlutterData.rpgAwesome(0xea66);
-  static const IconData player_dodge = IconsFlutterData.rpgAwesome(0xea67);
-  static const IconData player_king = IconsFlutterData.rpgAwesome(0xea68);
-  static const IconData player_lift = IconsFlutterData.rpgAwesome(0xea69);
-  static const IconData player_pain = IconsFlutterData.rpgAwesome(0xea6a);
-  static const IconData player_pyromaniac = IconsFlutterData.rpgAwesome(0xea6b);
-  static const IconData player_shot = IconsFlutterData.rpgAwesome(0xea6c);
-  static const IconData player_teleport = IconsFlutterData.rpgAwesome(0xea6d);
-  static const IconData player_thunder_struck =
-      IconsFlutterData.rpgAwesome(0xea6e);
-  static const IconData player = IconsFlutterData.rpgAwesome(0xea6f);
-  static const IconData podium = IconsFlutterData.rpgAwesome(0xea70);
-  static const IconData poison_cloud = IconsFlutterData.rpgAwesome(0xea71);
-  static const IconData potion = IconsFlutterData.rpgAwesome(0xea72);
-  static const IconData pyramids = IconsFlutterData.rpgAwesome(0xea73);
-  static const IconData queen_crown = IconsFlutterData.rpgAwesome(0xea74);
-  static const IconData quill_ink = IconsFlutterData.rpgAwesome(0xea75);
-  static const IconData rabbit = IconsFlutterData.rpgAwesome(0xea76);
-  static const IconData radar_dish = IconsFlutterData.rpgAwesome(0xea77);
-  static const IconData radial_balance = IconsFlutterData.rpgAwesome(0xea78);
-  static const IconData radioactive = IconsFlutterData.rpgAwesome(0xea79);
-  static const IconData raven = IconsFlutterData.rpgAwesome(0xea7a);
-  static const IconData reactor = IconsFlutterData.rpgAwesome(0xea7b);
-  static const IconData recycle = IconsFlutterData.rpgAwesome(0xea7c);
-  static const IconData regeneration = IconsFlutterData.rpgAwesome(0xea7d);
-  static const IconData relic_blade = IconsFlutterData.rpgAwesome(0xea7e);
-  static const IconData repair = IconsFlutterData.rpgAwesome(0xea7f);
-  static const IconData reverse = IconsFlutterData.rpgAwesome(0xea80);
-  static const IconData revolver = IconsFlutterData.rpgAwesome(0xea81);
-  static const IconData rifle = IconsFlutterData.rpgAwesome(0xea82);
-  static const IconData ringing_bell = IconsFlutterData.rpgAwesome(0xea83);
-  static const IconData roast_chicken = IconsFlutterData.rpgAwesome(0xea84);
-  static const IconData robot_arm = IconsFlutterData.rpgAwesome(0xea85);
-  static const IconData round_bottom_flask =
-      IconsFlutterData.rpgAwesome(0xea86);
-  static const IconData round_shield = IconsFlutterData.rpgAwesome(0xea87);
-  static const IconData rss = IconsFlutterData.rpgAwesome(0xea88);
-  static const IconData rune_stone = IconsFlutterData.rpgAwesome(0xea89);
-  static const IconData sagittarius = IconsFlutterData.rpgAwesome(0xea8a);
-  static const IconData sapphire = IconsFlutterData.rpgAwesome(0xea8b);
-  static const IconData satellite = IconsFlutterData.rpgAwesome(0xea8c);
-  static const IconData save = IconsFlutterData.rpgAwesome(0xea8d);
-  static const IconData scorpio = IconsFlutterData.rpgAwesome(0xea8e);
-  static const IconData scroll_unfurled = IconsFlutterData.rpgAwesome(0xea8f);
-  static const IconData scythe = IconsFlutterData.rpgAwesome(0xea90);
-  static const IconData sea_serpent = IconsFlutterData.rpgAwesome(0xea91);
-  static const IconData seagull = IconsFlutterData.rpgAwesome(0xea92);
-  static const IconData shark = IconsFlutterData.rpgAwesome(0xea93);
-  static const IconData sheep = IconsFlutterData.rpgAwesome(0xea94);
-  static const IconData sheriff = IconsFlutterData.rpgAwesome(0xea95);
-  static const IconData shield = IconsFlutterData.rpgAwesome(0xea96);
-  static const IconData ship_emblem = IconsFlutterData.rpgAwesome(0xea97);
-  static const IconData shoe_prints = IconsFlutterData.rpgAwesome(0xea98);
-  static const IconData shot_through_the_heart =
-      IconsFlutterData.rpgAwesome(0xea99);
-  static const IconData shotgun_shell = IconsFlutterData.rpgAwesome(0xea9a);
-  static const IconData shovel = IconsFlutterData.rpgAwesome(0xea9b);
-  static const IconData shuriken = IconsFlutterData.rpgAwesome(0xea9c);
-  static const IconData sickle = IconsFlutterData.rpgAwesome(0xea9d);
-  static const IconData sideswipe = IconsFlutterData.rpgAwesome(0xea9e);
-  static const IconData site = IconsFlutterData.rpgAwesome(0xea9f);
-  static const IconData skull_trophy = IconsFlutterData.rpgAwesome(0xeaa0);
-  static const IconData skull = IconsFlutterData.rpgAwesome(0xeaa1);
-  static const IconData slash_ring = IconsFlutterData.rpgAwesome(0xeaa2);
-  static const IconData small_fire = IconsFlutterData.rpgAwesome(0xeaa3);
-  static const IconData snail = IconsFlutterData.rpgAwesome(0xeaa4);
-  static const IconData snake = IconsFlutterData.rpgAwesome(0xeaa5);
-  static const IconData snorkel = IconsFlutterData.rpgAwesome(0xeaa6);
-  static const IconData snowflake = IconsFlutterData.rpgAwesome(0xeaa7);
-  static const IconData soccer_ball = IconsFlutterData.rpgAwesome(0xeaa8);
-  static const IconData spades_card = IconsFlutterData.rpgAwesome(0xeaa9);
-  static const IconData spades = IconsFlutterData.rpgAwesome(0xeaaa);
-  static const IconData spawn_node = IconsFlutterData.rpgAwesome(0xeaab);
-  static const IconData spear_head = IconsFlutterData.rpgAwesome(0xeaac);
-  static const IconData speech_bubble = IconsFlutterData.rpgAwesome(0xeaad);
-  static const IconData speech_bubbles = IconsFlutterData.rpgAwesome(0xeaae);
-  static const IconData spider_face = IconsFlutterData.rpgAwesome(0xeaaf);
-  static const IconData spikeball = IconsFlutterData.rpgAwesome(0xeab0);
-  static const IconData spiked_mace = IconsFlutterData.rpgAwesome(0xeab1);
-  static const IconData spiked_tentacle = IconsFlutterData.rpgAwesome(0xeab2);
-  static const IconData spinning_sword = IconsFlutterData.rpgAwesome(0xeab3);
-  static const IconData spiral_shell = IconsFlutterData.rpgAwesome(0xeab4);
-  static const IconData splash = IconsFlutterData.rpgAwesome(0xeab5);
-  static const IconData spray_can = IconsFlutterData.rpgAwesome(0xeab6);
-  static const IconData sprout_emblem = IconsFlutterData.rpgAwesome(0xeab7);
-  static const IconData sprout = IconsFlutterData.rpgAwesome(0xeab8);
-  static const IconData stopwatch = IconsFlutterData.rpgAwesome(0xeab9);
-  static const IconData suckered_tentacle = IconsFlutterData.rpgAwesome(0xeaba);
-  static const IconData suits = IconsFlutterData.rpgAwesome(0xeabb);
-  static const IconData sun_symbol = IconsFlutterData.rpgAwesome(0xeabc);
-  static const IconData sun = IconsFlutterData.rpgAwesome(0xeabd);
-  static const IconData sunbeams = IconsFlutterData.rpgAwesome(0xeabe);
-  static const IconData super_mushroom = IconsFlutterData.rpgAwesome(0xeabf);
-  static const IconData supersonic_arrow = IconsFlutterData.rpgAwesome(0xeac0);
-  static const IconData surveillance_camera =
-      IconsFlutterData.rpgAwesome(0xeac1);
-  static const IconData syringe = IconsFlutterData.rpgAwesome(0xeac2);
-  static const IconData target_arrows = IconsFlutterData.rpgAwesome(0xeac3);
-  static const IconData target_laser = IconsFlutterData.rpgAwesome(0xeac4);
-  static const IconData targeted = IconsFlutterData.rpgAwesome(0xeac5);
-  static const IconData taurus = IconsFlutterData.rpgAwesome(0xeac6);
-  static const IconData telescope = IconsFlutterData.rpgAwesome(0xeac7);
-  static const IconData tentacle = IconsFlutterData.rpgAwesome(0xeac8);
-  static const IconData tesla = IconsFlutterData.rpgAwesome(0xeac9);
-  static const IconData thorn_arrow = IconsFlutterData.rpgAwesome(0xeaca);
-  static const IconData thorny_vine = IconsFlutterData.rpgAwesome(0xeacb);
-  static const IconData three_keys = IconsFlutterData.rpgAwesome(0xeacc);
-  static const IconData tic_tac_toe = IconsFlutterData.rpgAwesome(0xeacd);
-  static const IconData toast = IconsFlutterData.rpgAwesome(0xeace);
-  static const IconData tombstone = IconsFlutterData.rpgAwesome(0xeacf);
-  static const IconData tooth = IconsFlutterData.rpgAwesome(0xead0);
-  static const IconData torch = IconsFlutterData.rpgAwesome(0xead1);
-  static const IconData tower = IconsFlutterData.rpgAwesome(0xead2);
-  static const IconData trail = IconsFlutterData.rpgAwesome(0xead3);
-  static const IconData trefoil_lily = IconsFlutterData.rpgAwesome(0xead4);
-  static const IconData trident = IconsFlutterData.rpgAwesome(0xead5);
-  static const IconData triforce = IconsFlutterData.rpgAwesome(0xead6);
-  static const IconData trophy = IconsFlutterData.rpgAwesome(0xead7);
-  static const IconData turd = IconsFlutterData.rpgAwesome(0xead8);
-  static const IconData two_dragons = IconsFlutterData.rpgAwesome(0xead9);
-  static const IconData two_hearts = IconsFlutterData.rpgAwesome(0xeada);
-  static const IconData uncertainty = IconsFlutterData.rpgAwesome(0xeadb);
-  static const IconData underhand = IconsFlutterData.rpgAwesome(0xeadc);
-  static const IconData unplugged = IconsFlutterData.rpgAwesome(0xeadd);
-  static const IconData vase = IconsFlutterData.rpgAwesome(0xeade);
-  static const IconData venomous_snake = IconsFlutterData.rpgAwesome(0xeadf);
-  static const IconData vest = IconsFlutterData.rpgAwesome(0xeae0);
-  static const IconData vial = IconsFlutterData.rpgAwesome(0xeae1);
-  static const IconData vine_whip = IconsFlutterData.rpgAwesome(0xeae2);
-  static const IconData virgo = IconsFlutterData.rpgAwesome(0xeae3);
-  static const IconData water_drop = IconsFlutterData.rpgAwesome(0xeae4);
-  static const IconData wifi = IconsFlutterData.rpgAwesome(0xeae5);
-  static const IconData wireless_signal = IconsFlutterData.rpgAwesome(0xeae6);
-  static const IconData wolf_head = IconsFlutterData.rpgAwesome(0xeae7);
-  static const IconData wolf_howl = IconsFlutterData.rpgAwesome(0xeae8);
-  static const IconData wooden_sign = IconsFlutterData.rpgAwesome(0xeae9);
-  static const IconData wrench = IconsFlutterData.rpgAwesome(0xeaea);
-  static const IconData wyvern = IconsFlutterData.rpgAwesome(0xeaeb);
-  static const IconData x_mark = IconsFlutterData.rpgAwesome(0xeaec);
-  static const IconData zebra_shield = IconsFlutterData.rpgAwesome(0xeaed);
-  static const IconData zigzag_leaf = IconsFlutterData.rpgAwesome(0xeaee);
+  static const String _family = "RpgAwesome";
+  static const IconData acid = IconData(
+    0xe900,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData acorn = IconData(
+    0xe901,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData alien_fire = IconData(
+    0xe902,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData all_for_one = IconData(
+    0xe903,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData alligator_clip = IconData(
+    0xe904,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData ammo_bag = IconData(
+    0xe905,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData anchor = IconData(
+    0xe906,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData angel_wings = IconData(
+    0xe907,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData ankh = IconData(
+    0xe908,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData anvil = IconData(
+    0xe909,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData apple = IconData(
+    0xe90a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData aquarius = IconData(
+    0xe90b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData arcane_mask = IconData(
+    0xe90c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData archer = IconData(
+    0xe90d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData archery_target = IconData(
+    0xe90e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData arena = IconData(
+    0xe90f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData aries = IconData(
+    0xe910,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData arrow_cluster = IconData(
+    0xe911,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData arrow_flights = IconData(
+    0xe912,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData arson = IconData(
+    0xe913,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData aura = IconData(
+    0xe914,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData aware = IconData(
+    0xe915,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData axe_swing = IconData(
+    0xe916,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData axe = IconData(
+    0xe917,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData ball = IconData(
+    0xe918,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData barbed_arrow = IconData(
+    0xe919,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData barrier = IconData(
+    0xe91a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bat_sword = IconData(
+    0xe91b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData battered_axe = IconData(
+    0xe91c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData batteries = IconData(
+    0xe91d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData battery_0 = IconData(
+    0xe91e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData battery_25 = IconData(
+    0xe91f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData battery_50 = IconData(
+    0xe920,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData battery_75 = IconData(
+    0xe921,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData battery_100 = IconData(
+    0xe922,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData battery_black = IconData(
+    0xe923,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData battery_negative = IconData(
+    0xe924,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData battery_positive = IconData(
+    0xe925,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData battery_white = IconData(
+    0xe926,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData batwings = IconData(
+    0xe927,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData beam_wake = IconData(
+    0xe928,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bear_trap = IconData(
+    0xe929,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData beer = IconData(
+    0xe92a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData beetle = IconData(
+    0xe92b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bell = IconData(
+    0xe92c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData biohazard = IconData(
+    0xe92d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bird_claw = IconData(
+    0xe92e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bird_mask = IconData(
+    0xe92f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData blade_bite = IconData(
+    0xe930,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData blast = IconData(
+    0xe931,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData blaster = IconData(
+    0xe932,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bleeding_eye = IconData(
+    0xe933,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bleeding_hearts = IconData(
+    0xe934,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bolt_shield = IconData(
+    0xe935,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bomb_explosion = IconData(
+    0xe936,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bombs = IconData(
+    0xe937,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bone_bite = IconData(
+    0xe938,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bone_knife = IconData(
+    0xe939,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData book = IconData(
+    0xe93a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData boomerang = IconData(
+    0xe93b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData boot_stomp = IconData(
+    0xe93c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bottle_vapors = IconData(
+    0xe93d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bottled_bolt = IconData(
+    0xe93e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bottom_right = IconData(
+    0xe93f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bowie_knife = IconData(
+    0xe940,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bowling_pin = IconData(
+    0xe941,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData brain_freeze = IconData(
+    0xe942,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData brandy_bottle = IconData(
+    0xe943,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bridge = IconData(
+    0xe944,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData broadhead_arrow = IconData(
+    0xe945,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData broadsword = IconData(
+    0xe946,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData broken_bone = IconData(
+    0xe947,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData broken_bottle = IconData(
+    0xe948,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData broken_heart = IconData(
+    0xe949,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData broken_shield = IconData(
+    0xe94a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData broken_skull = IconData(
+    0xe94b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bubbling_potion = IconData(
+    0xe94c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bullets = IconData(
+    0xe94d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData burning_book = IconData(
+    0xe94e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData burning_embers = IconData(
+    0xe94f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData burning_eye = IconData(
+    0xe950,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData burning_meteor = IconData(
+    0xe951,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData burst_blob = IconData(
+    0xe952,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData butterfly = IconData(
+    0xe953,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData campfire = IconData(
+    0xe954,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cancel = IconData(
+    0xe955,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cancer = IconData(
+    0xe956,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData candle_fire = IconData(
+    0xe957,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData candle = IconData(
+    0xe958,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cannon_shot = IconData(
+    0xe959,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData capitol = IconData(
+    0xe95a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData capricorn = IconData(
+    0xe95b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData carrot = IconData(
+    0xe95c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData castle_emblem = IconData(
+    0xe95d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData castle_flag = IconData(
+    0xe95e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cat = IconData(
+    0xe95f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData chain = IconData(
+    0xe960,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cheese = IconData(
+    0xe961,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData chemical_arrow = IconData(
+    0xe962,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData chessboard = IconData(
+    0xe963,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData chicken_leg = IconData(
+    0xe964,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData circle_of_circles = IconData(
+    0xe965,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData circular_saw = IconData(
+    0xe966,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData circular_shield = IconData(
+    0xe967,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cloak_and_dagger = IconData(
+    0xe968,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData clockwork = IconData(
+    0xe969,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData clover = IconData(
+    0xe96a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData clovers_card = IconData(
+    0xe96b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData clovers = IconData(
+    0xe96c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cluster_bomb = IconData(
+    0xe96d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData coffee_mug = IconData(
+    0xe96e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cog_wheel = IconData(
+    0xe96f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cog = IconData(
+    0xe970,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cold_heart = IconData(
+    0xe971,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData compass = IconData(
+    0xe972,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData corked_tube = IconData(
+    0xe973,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crab_claw = IconData(
+    0xe974,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cracked_helm = IconData(
+    0xe975,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cracked_shield = IconData(
+    0xe976,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData croc_sword = IconData(
+    0xe977,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crossbow = IconData(
+    0xe978,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crossed_axes = IconData(
+    0xe979,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crossed_bones = IconData(
+    0xe97a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crossed_pistols = IconData(
+    0xe97b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crossed_sabres = IconData(
+    0xe97c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crossed_swords = IconData(
+    0xe97d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crown_of_thorns = IconData(
+    0xe97e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crown = IconData(
+    0xe97f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crowned_heart = IconData(
+    0xe980,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crush = IconData(
+    0xe981,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crystal_ball = IconData(
+    0xe982,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crystal_cluster = IconData(
+    0xe983,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crystal_wand = IconData(
+    0xe984,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData crystals = IconData(
+    0xe985,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cubes = IconData(
+    0xe986,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cut_palm = IconData(
+    0xe987,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cycle = IconData(
+    0xe988,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData daggers = IconData(
+    0xe989,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData daisy = IconData(
+    0xe98a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dead_tree = IconData(
+    0xe98b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData death_skull = IconData(
+    0xe98c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData decapitation = IconData(
+    0xe98d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData defibrillate = IconData(
+    0xe98e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData demolish = IconData(
+    0xe98f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dervish_swords = IconData(
+    0xe990,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData desert_skull = IconData(
+    0xe991,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData diamond = IconData(
+    0xe992,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData diamonds_card = IconData(
+    0xe993,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData diamonds = IconData(
+    0xe994,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dice_five = IconData(
+    0xe995,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dice_four = IconData(
+    0xe996,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dice_one = IconData(
+    0xe997,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dice_six = IconData(
+    0xe998,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dice_three = IconData(
+    0xe999,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dice_two = IconData(
+    0xe99a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dinosaur = IconData(
+    0xe99b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData divert = IconData(
+    0xe99c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData diving_dagger = IconData(
+    0xe99d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData double_team = IconData(
+    0xe99e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData doubled = IconData(
+    0xe99f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dragon_breath = IconData(
+    0xe9a0,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dragon_wing = IconData(
+    0xe9a1,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dragon = IconData(
+    0xe9a2,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dragonfly = IconData(
+    0xe9a3,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData drill = IconData(
+    0xe9a4,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dripping_blade = IconData(
+    0xe9a5,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dripping_knife = IconData(
+    0xe9a6,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData dripping_sword = IconData(
+    0xe9a7,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData droplet_splash = IconData(
+    0xe9a8,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData droplet = IconData(
+    0xe9a9,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData droplets = IconData(
+    0xe9aa,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData duel = IconData(
+    0xe9ab,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData egg_pod = IconData(
+    0xe9ac,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData egg = IconData(
+    0xe9ad,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData eggplant = IconData(
+    0xe9ae,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData emerald = IconData(
+    0xe9af,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData energise = IconData(
+    0xe9b0,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData explosion = IconData(
+    0xe9b1,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData explosive_materials = IconData(
+    0xe9b2,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData eye_monster = IconData(
+    0xe9b3,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData eye_shield = IconData(
+    0xe9b4,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData eyeball = IconData(
+    0xe9b5,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fairy_wand = IconData(
+    0xe9b6,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fairy = IconData(
+    0xe9b7,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fall_down = IconData(
+    0xe9b8,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData falling = IconData(
+    0xe9b9,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fast_ship = IconData(
+    0xe9ba,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData feather_wing = IconData(
+    0xe9bb,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData feathered_wing = IconData(
+    0xe9bc,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fedora = IconData(
+    0xe9bd,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fire_bomb = IconData(
+    0xe9be,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fire_breath = IconData(
+    0xe9bf,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fire_ring = IconData(
+    0xe9c0,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fire_shield = IconData(
+    0xe9c1,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fire_symbol = IconData(
+    0xe9c2,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fire = IconData(
+    0xe9c3,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fireball_sword = IconData(
+    0xe9c4,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fish = IconData(
+    0xe9c5,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fizzing_flask = IconData(
+    0xe9c6,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData flame_symbol = IconData(
+    0xe9c7,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData flaming_arrow = IconData(
+    0xe9c8,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData flaming_claw = IconData(
+    0xe9c9,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData flaming_trident = IconData(
+    0xe9ca,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData flask = IconData(
+    0xe9cb,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData flat_hammer = IconData(
+    0xe9cc,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData flower = IconData(
+    0xe9cd,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData flowers = IconData(
+    0xe9ce,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fluffy_swirl = IconData(
+    0xe9cf,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData focused_lightning = IconData(
+    0xe9d0,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData food_chain = IconData(
+    0xe9d1,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData footprint = IconData(
+    0xe9d2,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData forging = IconData(
+    0xe9d3,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData forward = IconData(
+    0xe9d4,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData fox = IconData(
+    0xe9d5,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData frost_emblem = IconData(
+    0xe9d6,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData frostfire = IconData(
+    0xe9d7,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData frozen_arrow = IconData(
+    0xe9d8,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData gamepad_cross = IconData(
+    0xe9d9,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData gavel = IconData(
+    0xe9da,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData gear_hammer = IconData(
+    0xe9db,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData gear_heart = IconData(
+    0xe9dc,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData gears = IconData(
+    0xe9dd,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData gecko = IconData(
+    0xe9de,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData gem_pendant = IconData(
+    0xe9df,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData gem = IconData(
+    0xe9e0,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData gemini = IconData(
+    0xe9e1,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData glass_heart = IconData(
+    0xe9e2,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData gloop = IconData(
+    0xe9e3,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData gold_bar = IconData(
+    0xe9e4,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData grappling_hook = IconData(
+    0xe9e5,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData grass_patch = IconData(
+    0xe9e6,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData grass = IconData(
+    0xe9e7,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData grenade = IconData(
+    0xe9e8,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData groundbreaker = IconData(
+    0xe9e9,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData guarded_tower = IconData(
+    0xe9ea,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData guillotine = IconData(
+    0xe9eb,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData halberd = IconData(
+    0xe9ec,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hammer_drop = IconData(
+    0xe9ed,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hammer = IconData(
+    0xe9ee,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hand_emblem = IconData(
+    0xe9ef,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hand_saw = IconData(
+    0xe9f0,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hand = IconData(
+    0xe9f1,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData harpoon_trident = IconData(
+    0xe9f2,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData health_decrease = IconData(
+    0xe9f3,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData health_increase = IconData(
+    0xe9f4,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData health = IconData(
+    0xe9f5,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData heart_bottle = IconData(
+    0xe9f6,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData heart_tower = IconData(
+    0xe9f7,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData heartburn = IconData(
+    0xe9f8,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hearts_card = IconData(
+    0xe9f9,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hearts = IconData(
+    0xe9fa,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData heat_haze = IconData(
+    0xe9fb,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData heavy_fall = IconData(
+    0xe9fc,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData heavy_shield = IconData(
+    0xe9fd,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData helmet = IconData(
+    0xe9fe,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData help = IconData(
+    0xe9ff,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hive_emblem = IconData(
+    0xea00,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hole_ladder = IconData(
+    0xea01,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData honeycomb = IconData(
+    0xea02,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hood = IconData(
+    0xea03,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData horn_call = IconData(
+    0xea04,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData horns = IconData(
+    0xea05,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData horseshoe = IconData(
+    0xea06,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hospital_cross = IconData(
+    0xea07,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hot_surface = IconData(
+    0xea08,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hourglass = IconData(
+    0xea09,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hydra_shot = IconData(
+    0xea0a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData hydra = IconData(
+    0xea0b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData ice_cube = IconData(
+    0xea0c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData implosion = IconData(
+    0xea0d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData incense = IconData(
+    0xea0e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData insect_jaws = IconData(
+    0xea0f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData interdiction = IconData(
+    0xea10,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData jetpack = IconData(
+    0xea11,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData jigsaw_piece = IconData(
+    0xea12,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData kaleidoscope = IconData(
+    0xea13,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData kettlebell = IconData(
+    0xea14,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData key_basic = IconData(
+    0xea15,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData key = IconData(
+    0xea16,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData kitchen_knives = IconData(
+    0xea17,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData knife_fork = IconData(
+    0xea18,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData knife = IconData(
+    0xea19,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData knight_helmet = IconData(
+    0xea1a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData kunai = IconData(
+    0xea1b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData lantern_flame = IconData(
+    0xea1c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData large_hammer = IconData(
+    0xea1d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData laser_blast = IconData(
+    0xea1e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData laser_site = IconData(
+    0xea1f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData lava = IconData(
+    0xea20,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData leaf = IconData(
+    0xea21,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData leo = IconData(
+    0xea22,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData level_four_advanced = IconData(
+    0xea23,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData level_four = IconData(
+    0xea24,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData level_three_advanced = IconData(
+    0xea25,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData level_three = IconData(
+    0xea26,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData level_two_advanced = IconData(
+    0xea27,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData level_two = IconData(
+    0xea28,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData lever = IconData(
+    0xea29,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData libra = IconData(
+    0xea2a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData light_bulb = IconData(
+    0xea2b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData lighthouse = IconData(
+    0xea2c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData lightning_bolt = IconData(
+    0xea2d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData lightning_storm = IconData(
+    0xea2e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData lightning_sword = IconData(
+    0xea2f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData lightning_trio = IconData(
+    0xea30,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData lightning = IconData(
+    0xea31,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData lion = IconData(
+    0xea32,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData lit_candelabra = IconData(
+    0xea33,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData load = IconData(
+    0xea34,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData locked_fortress = IconData(
+    0xea35,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData love_howl = IconData(
+    0xea36,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData maggot = IconData(
+    0xea37,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData magnet = IconData(
+    0xea38,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData mass_driver = IconData(
+    0xea39,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData match = IconData(
+    0xea3a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData meat_hook = IconData(
+    0xea3b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData meat = IconData(
+    0xea3c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData medical_pack = IconData(
+    0xea3d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData metal_gate = IconData(
+    0xea3e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData microphone = IconData(
+    0xea3f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData mine_wagon = IconData(
+    0xea40,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData mining_diamonds = IconData(
+    0xea41,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData mirror = IconData(
+    0xea42,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData monster_skull = IconData(
+    0xea43,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData montains = IconData(
+    0xea44,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData moon_sun = IconData(
+    0xea45,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData mp5 = IconData(
+    0xea46,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData muscle_fat = IconData(
+    0xea47,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData muscle_up = IconData(
+    0xea48,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData musket = IconData(
+    0xea49,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData nails = IconData(
+    0xea4a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData nodular = IconData(
+    0xea4b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData noose = IconData(
+    0xea4c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData nuclear = IconData(
+    0xea4d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData ocarina = IconData(
+    0xea4e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData ocean_emblem = IconData(
+    0xea4f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData octopus = IconData(
+    0xea50,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData omega = IconData(
+    0xea51,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData on_target = IconData(
+    0xea52,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData ophiuchus = IconData(
+    0xea53,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData overhead = IconData(
+    0xea54,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData overmind = IconData(
+    0xea55,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData palm_tree = IconData(
+    0xea56,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData pawn = IconData(
+    0xea57,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData pawprint = IconData(
+    0xea58,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData perspective_dice_five = IconData(
+    0xea59,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData perspective_dice_four = IconData(
+    0xea5a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData perspective_dice_one = IconData(
+    0xea5b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData perspective_dice_random = IconData(
+    0xea5c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData perspective_dice_six_two = IconData(
+    0xea5d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData perspective_dice_six = IconData(
+    0xea5e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData perspective_dice_three = IconData(
+    0xea5f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData pill = IconData(
+    0xea60,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData pills = IconData(
+    0xea61,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData pine_tree = IconData(
+    0xea62,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData ping_pong = IconData(
+    0xea63,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData pisces = IconData(
+    0xea64,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData plain_dagger = IconData(
+    0xea65,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData player_despair = IconData(
+    0xea66,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData player_dodge = IconData(
+    0xea67,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData player_king = IconData(
+    0xea68,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData player_lift = IconData(
+    0xea69,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData player_pain = IconData(
+    0xea6a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData player_pyromaniac = IconData(
+    0xea6b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData player_shot = IconData(
+    0xea6c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData player_teleport = IconData(
+    0xea6d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData player_thunder_struck = IconData(
+    0xea6e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData player = IconData(
+    0xea6f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData podium = IconData(
+    0xea70,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData poison_cloud = IconData(
+    0xea71,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData potion = IconData(
+    0xea72,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData pyramids = IconData(
+    0xea73,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData queen_crown = IconData(
+    0xea74,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData quill_ink = IconData(
+    0xea75,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData rabbit = IconData(
+    0xea76,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData radar_dish = IconData(
+    0xea77,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData radial_balance = IconData(
+    0xea78,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData radioactive = IconData(
+    0xea79,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData raven = IconData(
+    0xea7a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData reactor = IconData(
+    0xea7b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData recycle = IconData(
+    0xea7c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData regeneration = IconData(
+    0xea7d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData relic_blade = IconData(
+    0xea7e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData repair = IconData(
+    0xea7f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData reverse = IconData(
+    0xea80,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData revolver = IconData(
+    0xea81,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData rifle = IconData(
+    0xea82,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData ringing_bell = IconData(
+    0xea83,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData roast_chicken = IconData(
+    0xea84,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData robot_arm = IconData(
+    0xea85,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData round_bottom_flask = IconData(
+    0xea86,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData round_shield = IconData(
+    0xea87,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData rss = IconData(
+    0xea88,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData rune_stone = IconData(
+    0xea89,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sagittarius = IconData(
+    0xea8a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sapphire = IconData(
+    0xea8b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData satellite = IconData(
+    0xea8c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData save = IconData(
+    0xea8d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData scorpio = IconData(
+    0xea8e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData scroll_unfurled = IconData(
+    0xea8f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData scythe = IconData(
+    0xea90,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sea_serpent = IconData(
+    0xea91,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData seagull = IconData(
+    0xea92,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData shark = IconData(
+    0xea93,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sheep = IconData(
+    0xea94,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sheriff = IconData(
+    0xea95,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData shield = IconData(
+    0xea96,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData ship_emblem = IconData(
+    0xea97,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData shoe_prints = IconData(
+    0xea98,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData shot_through_the_heart = IconData(
+    0xea99,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData shotgun_shell = IconData(
+    0xea9a,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData shovel = IconData(
+    0xea9b,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData shuriken = IconData(
+    0xea9c,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sickle = IconData(
+    0xea9d,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sideswipe = IconData(
+    0xea9e,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData site = IconData(
+    0xea9f,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData skull_trophy = IconData(
+    0xeaa0,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData skull = IconData(
+    0xeaa1,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData slash_ring = IconData(
+    0xeaa2,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData small_fire = IconData(
+    0xeaa3,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData snail = IconData(
+    0xeaa4,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData snake = IconData(
+    0xeaa5,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData snorkel = IconData(
+    0xeaa6,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData snowflake = IconData(
+    0xeaa7,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData soccer_ball = IconData(
+    0xeaa8,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spades_card = IconData(
+    0xeaa9,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spades = IconData(
+    0xeaaa,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spawn_node = IconData(
+    0xeaab,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spear_head = IconData(
+    0xeaac,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData speech_bubble = IconData(
+    0xeaad,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData speech_bubbles = IconData(
+    0xeaae,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spider_face = IconData(
+    0xeaaf,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spikeball = IconData(
+    0xeab0,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spiked_mace = IconData(
+    0xeab1,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spiked_tentacle = IconData(
+    0xeab2,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spinning_sword = IconData(
+    0xeab3,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spiral_shell = IconData(
+    0xeab4,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData splash = IconData(
+    0xeab5,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spray_can = IconData(
+    0xeab6,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sprout_emblem = IconData(
+    0xeab7,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sprout = IconData(
+    0xeab8,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData stopwatch = IconData(
+    0xeab9,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData suckered_tentacle = IconData(
+    0xeaba,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData suits = IconData(
+    0xeabb,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sun_symbol = IconData(
+    0xeabc,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sun = IconData(
+    0xeabd,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sunbeams = IconData(
+    0xeabe,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData super_mushroom = IconData(
+    0xeabf,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData supersonic_arrow = IconData(
+    0xeac0,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData surveillance_camera = IconData(
+    0xeac1,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData syringe = IconData(
+    0xeac2,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData target_arrows = IconData(
+    0xeac3,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData target_laser = IconData(
+    0xeac4,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData targeted = IconData(
+    0xeac5,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData taurus = IconData(
+    0xeac6,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData telescope = IconData(
+    0xeac7,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData tentacle = IconData(
+    0xeac8,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData tesla = IconData(
+    0xeac9,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData thorn_arrow = IconData(
+    0xeaca,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData thorny_vine = IconData(
+    0xeacb,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData three_keys = IconData(
+    0xeacc,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData tic_tac_toe = IconData(
+    0xeacd,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData toast = IconData(
+    0xeace,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData tombstone = IconData(
+    0xeacf,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData tooth = IconData(
+    0xead0,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData torch = IconData(
+    0xead1,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData tower = IconData(
+    0xead2,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData trail = IconData(
+    0xead3,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData trefoil_lily = IconData(
+    0xead4,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData trident = IconData(
+    0xead5,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData triforce = IconData(
+    0xead6,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData trophy = IconData(
+    0xead7,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData turd = IconData(
+    0xead8,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData two_dragons = IconData(
+    0xead9,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData two_hearts = IconData(
+    0xeada,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData uncertainty = IconData(
+    0xeadb,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData underhand = IconData(
+    0xeadc,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData unplugged = IconData(
+    0xeadd,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData vase = IconData(
+    0xeade,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData venomous_snake = IconData(
+    0xeadf,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData vest = IconData(
+    0xeae0,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData vial = IconData(
+    0xeae1,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData vine_whip = IconData(
+    0xeae2,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData virgo = IconData(
+    0xeae3,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData water_drop = IconData(
+    0xeae4,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData wifi = IconData(
+    0xeae5,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData wireless_signal = IconData(
+    0xeae6,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData wolf_head = IconData(
+    0xeae7,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData wolf_howl = IconData(
+    0xeae8,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData wooden_sign = IconData(
+    0xeae9,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData wrench = IconData(
+    0xeaea,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData wyvern = IconData(
+    0xeaeb,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData x_mark = IconData(
+    0xeaec,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData zebra_shield = IconData(
+    0xeaed,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData zigzag_leaf = IconData(
+    0xeaee,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
 }

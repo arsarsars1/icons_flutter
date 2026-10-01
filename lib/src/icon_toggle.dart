@@ -3,24 +3,9 @@ import 'dart:math' as math;
 import 'package:flutter/material.dart';
 
 Widget _defaultTransitionBuilder(Widget child, Animation<double> animation) =>
-    ScaleTransition(
-      scale: animation,
-      child: child,
-    );
+    ScaleTransition(scale: animation, child: child);
 
 class IconToggle extends StatefulWidget {
-  const IconToggle({
-    Key? key,
-    this.unselectedIconData = Icons.radio_button_unchecked,
-    this.selectedIconData = Icons.radio_button_checked,
-    this.activeColor = Colors.blue,
-    this.inactiveColor = Colors.grey,
-    this.value = false,
-    this.onChanged,
-    this.transitionBuilder = _defaultTransitionBuilder,
-    this.duration = const Duration(milliseconds: 100),
-    this.reverseDuration,
-  }) : super(key: key);
   final IconData selectedIconData;
   final IconData unselectedIconData;
   final Color activeColor;
@@ -30,6 +15,19 @@ class IconToggle extends StatefulWidget {
   final AnimatedSwitcherTransitionBuilder transitionBuilder;
   final Duration duration;
   final Duration? reverseDuration;
+
+  const IconToggle({
+    super.key,
+    this.unselectedIconData = Icons.radio_button_unchecked,
+    this.selectedIconData = Icons.radio_button_checked,
+    this.activeColor = Colors.blue,
+    this.inactiveColor = Colors.grey,
+    this.value = false,
+    this.onChanged,
+    this.transitionBuilder = _defaultTransitionBuilder,
+    this.duration = const Duration(milliseconds: 100),
+    this.reverseDuration,
+  });
 
   @override
   State<IconToggle> createState() => _IconToggleState();
@@ -44,9 +42,10 @@ class _IconToggleState extends State<IconToggle>
   @override
   void initState() {
     _controller = AnimationController(
-        vsync: this,
-        duration: const Duration(milliseconds: 100),
-        reverseDuration: const Duration(milliseconds: 50));
+      vsync: this,
+      duration: const Duration(milliseconds: 100),
+      reverseDuration: const Duration(milliseconds: 50),
+    );
     _position = CurvedAnimation(parent: _controller!, curve: Curves.linear);
     super.initState();
     _position!.addStatusListener((status) {
@@ -106,7 +105,7 @@ class _IconToggleState extends State<IconToggle>
   }
 }
 
-class _IconToggleable<double> extends AnimatedWidget {
+class _IconToggleable<T> extends AnimatedWidget {
   final Color? activeColor;
   final Color? inactiveColor;
   final Widget? child;
@@ -121,7 +120,7 @@ class _IconToggleable<double> extends AnimatedWidget {
   Widget build(BuildContext context) {
     return CustomPaint(
       painter: _IconPainter(
-        position: listenable,
+        position: listenable as Animation<double>,
         activeColor: activeColor,
         inactiveColor: inactiveColor,
       ),
@@ -136,21 +135,27 @@ class _IconPainter extends CustomPainter {
     this.activeColor,
     this.inactiveColor,
   });
-  final position;
+  final Animation<double> position;
   final Color? activeColor;
   final Color? inactiveColor;
 
-  double get _value => position != null ? position.value : 0;
+  double get _value => position.value;
 
   @override
   void paint(Canvas canvas, Size size) {
     final Paint paint = Paint()
-      ..color = Color.lerp(inactiveColor, activeColor, _value)!
-          .withOpacity(math.min(_value, 0.15))
+      ..color = Color.lerp(
+        inactiveColor,
+        activeColor,
+        _value,
+      )!.withValues(alpha: math.min(_value, 0.15))
       ..style = PaintingStyle.fill
       ..strokeWidth = 2.0;
     canvas.drawCircle(
-        Offset(size.width / 2, size.height / 2), 20 * _value, paint);
+      Offset(size.width / 2, size.height / 2),
+      20 * _value,
+      paint,
+    );
   }
 
   @override

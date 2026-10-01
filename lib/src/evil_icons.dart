@@ -1,80 +1,360 @@
 import 'package:flutter/material.dart';
-
-import 'icons_flutter_data.dart';
+import 'package:icons_flutter/src/icons_flutter_data.dart';
 
 /// all Icons under EvilIcons
 ///
 /// http://evil-icons.io
 class EvilIcons {
   EvilIcons._();
-  static const IconData archive = IconsFlutterData.evilIcons(61696);
-  static const IconData arrow_down = IconsFlutterData.evilIcons(61697);
-  static const IconData arrow_left = IconsFlutterData.evilIcons(61698);
-  static const IconData arrow_right = IconsFlutterData.evilIcons(61699);
-  static const IconData arrow_up = IconsFlutterData.evilIcons(61700);
-  static const IconData bell = IconsFlutterData.evilIcons(61701);
-  static const IconData calendar = IconsFlutterData.evilIcons(61702);
-  static const IconData camera = IconsFlutterData.evilIcons(61703);
-  static const IconData cart = IconsFlutterData.evilIcons(61704);
-  static const IconData chart = IconsFlutterData.evilIcons(61705);
-  static const IconData check = IconsFlutterData.evilIcons(61706);
-  static const IconData chevron_down = IconsFlutterData.evilIcons(61707);
-  static const IconData chevron_left = IconsFlutterData.evilIcons(61708);
-  static const IconData chevron_right = IconsFlutterData.evilIcons(61709);
-  static const IconData chevron_up = IconsFlutterData.evilIcons(61710);
-  static const IconData clock = IconsFlutterData.evilIcons(61711);
-  static const IconData close = IconsFlutterData.evilIcons(61712);
-  static const IconData close_o = IconsFlutterData.evilIcons(61713);
-  static const IconData comment = IconsFlutterData.evilIcons(61714);
-  static const IconData credit_card = IconsFlutterData.evilIcons(61715);
-  static const IconData envelope = IconsFlutterData.evilIcons(61716);
-  static const IconData exclamation = IconsFlutterData.evilIcons(61717);
-  static const IconData external_link = IconsFlutterData.evilIcons(61718);
-  static const IconData eye = IconsFlutterData.evilIcons(61719);
-  static const IconData gear = IconsFlutterData.evilIcons(61720);
-  static const IconData heart = IconsFlutterData.evilIcons(61721);
-  static const IconData image = IconsFlutterData.evilIcons(61722);
-  static const IconData like = IconsFlutterData.evilIcons(61723);
-  static const IconData link = IconsFlutterData.evilIcons(61724);
-  static const IconData location = IconsFlutterData.evilIcons(61725);
-  static const IconData lock = IconsFlutterData.evilIcons(61726);
-  static const IconData minus = IconsFlutterData.evilIcons(61727);
-  static const IconData navicon = IconsFlutterData.evilIcons(61728);
-  static const IconData paperclip = IconsFlutterData.evilIcons(61729);
-  static const IconData pencil = IconsFlutterData.evilIcons(61730);
-  static const IconData play = IconsFlutterData.evilIcons(61731);
-  static const IconData plus = IconsFlutterData.evilIcons(61732);
-  static const IconData pointer = IconsFlutterData.evilIcons(61733);
-  static const IconData question = IconsFlutterData.evilIcons(61734);
-  static const IconData redo = IconsFlutterData.evilIcons(61735);
-  static const IconData refresh = IconsFlutterData.evilIcons(61736);
-  static const IconData retweet = IconsFlutterData.evilIcons(61737);
-  static const IconData sc_facebook = IconsFlutterData.evilIcons(61738);
-  static const IconData sc_github = IconsFlutterData.evilIcons(61739);
-  static const IconData sc_google_plus = IconsFlutterData.evilIcons(61740);
-  static const IconData sc_instagram = IconsFlutterData.evilIcons(61741);
-  static const IconData sc_linkedin = IconsFlutterData.evilIcons(61742);
-  static const IconData sc_odnoklassniki = IconsFlutterData.evilIcons(61743);
-  static const IconData sc_pinterest = IconsFlutterData.evilIcons(61744);
-  static const IconData sc_skype = IconsFlutterData.evilIcons(61745);
-  static const IconData sc_soundcloud = IconsFlutterData.evilIcons(61746);
-  static const IconData sc_telegram = IconsFlutterData.evilIcons(61747);
-  static const IconData sc_tumblr = IconsFlutterData.evilIcons(61748);
-  static const IconData sc_twitter = IconsFlutterData.evilIcons(61749);
-  static const IconData sc_vimeo = IconsFlutterData.evilIcons(61750);
-  static const IconData sc_vk = IconsFlutterData.evilIcons(61751);
-  static const IconData sc_youtube = IconsFlutterData.evilIcons(61752);
-  static const IconData search = IconsFlutterData.evilIcons(61753);
-  static const IconData share_apple = IconsFlutterData.evilIcons(61754);
-  static const IconData share_google = IconsFlutterData.evilIcons(61755);
-  static const IconData spinner = IconsFlutterData.evilIcons(61756);
-  static const IconData spinner_2 = IconsFlutterData.evilIcons(61757);
-  static const IconData spinner_3 = IconsFlutterData.evilIcons(61758);
-  static const IconData star = IconsFlutterData.evilIcons(61759);
-  static const IconData tag = IconsFlutterData.evilIcons(61760);
-  static const IconData trash = IconsFlutterData.evilIcons(61761);
-  static const IconData trophy = IconsFlutterData.evilIcons(61762);
-  static const IconData undo = IconsFlutterData.evilIcons(61763);
-  static const IconData unlock = IconsFlutterData.evilIcons(61764);
-  static const IconData user = IconsFlutterData.evilIcons(61765);
+  static const String _family = "EvilIcons";
+  static const IconData archive = IconData(
+    61696,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData arrow_down = IconData(
+    61697,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData arrow_left = IconData(
+    61698,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData arrow_right = IconData(
+    61699,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData arrow_up = IconData(
+    61700,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData bell = IconData(
+    61701,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData calendar = IconData(
+    61702,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData camera = IconData(
+    61703,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData cart = IconData(
+    61704,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData chart = IconData(
+    61705,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData check = IconData(
+    61706,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData chevron_down = IconData(
+    61707,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData chevron_left = IconData(
+    61708,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData chevron_right = IconData(
+    61709,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData chevron_up = IconData(
+    61710,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData clock = IconData(
+    61711,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData close = IconData(
+    61712,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData close_o = IconData(
+    61713,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData comment = IconData(
+    61714,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData credit_card = IconData(
+    61715,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData envelope = IconData(
+    61716,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData exclamation = IconData(
+    61717,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData external_link = IconData(
+    61718,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData eye = IconData(
+    61719,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData gear = IconData(
+    61720,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData heart = IconData(
+    61721,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData image = IconData(
+    61722,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData like = IconData(
+    61723,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData link = IconData(
+    61724,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData location = IconData(
+    61725,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData lock = IconData(
+    61726,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData minus = IconData(
+    61727,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData navicon = IconData(
+    61728,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData paperclip = IconData(
+    61729,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData pencil = IconData(
+    61730,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData play = IconData(
+    61731,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData plus = IconData(
+    61732,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData pointer = IconData(
+    61733,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData question = IconData(
+    61734,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData redo = IconData(
+    61735,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData refresh = IconData(
+    61736,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData retweet = IconData(
+    61737,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_facebook = IconData(
+    61738,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_github = IconData(
+    61739,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_google_plus = IconData(
+    61740,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_instagram = IconData(
+    61741,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_linkedin = IconData(
+    61742,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_odnoklassniki = IconData(
+    61743,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_pinterest = IconData(
+    61744,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_skype = IconData(
+    61745,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_soundcloud = IconData(
+    61746,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_telegram = IconData(
+    61747,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_tumblr = IconData(
+    61748,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_twitter = IconData(
+    61749,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_vimeo = IconData(
+    61750,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_vk = IconData(
+    61751,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData sc_youtube = IconData(
+    61752,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData search = IconData(
+    61753,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData share_apple = IconData(
+    61754,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData share_google = IconData(
+    61755,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spinner = IconData(
+    61756,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spinner_2 = IconData(
+    61757,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData spinner_3 = IconData(
+    61758,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData star = IconData(
+    61759,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData tag = IconData(
+    61760,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData trash = IconData(
+    61761,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData trophy = IconData(
+    61762,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData undo = IconData(
+    61763,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData unlock = IconData(
+    61764,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
+  static const IconData user = IconData(
+    61765,
+    fontFamily: _family,
+    fontPackage: fontPackage,
+  );
 }

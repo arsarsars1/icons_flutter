@@ -1,6 +1,6 @@
 import 'dart:io';
 
-main(List<String> args) {
+void main(List<String> args) {
   Directory directory = Directory("../lib/src");
   File flutterIconFile = File('../lib/src/flutter_icons.dart');
   List<File> files = directory.listSync().map((e) => File(e.path)).toList();
@@ -36,28 +36,17 @@ class FlutterIcons {
 String getSimple(String line) {
   var name1 = line.split(".")[1];
   var name = name1.split("(")[0];
-  if (name == 'materialCommunityIcons') {
-    return 'mco';
-  }
-  if (name == 'materialIcons') {
-    return 'mdi';
-  }
-  if (name == 'simpleLineIcons') {
-    return 'sli';
-  }
-  if (name == 'fontAwesome') {
-    return 'faw';
-  }
-  if (name == 'fontAwesome5') {
-    return 'faw5';
-  }
-  if (name == 'fontAwesome5Solid') {
-    return 'faw5s';
-  }
-  if (name == 'fontAwesome5Brands') {
-    return 'faw5d';
-  }
-  return name.substring(0, 3).toLowerCase();
+
+  return switch (name) {
+    'materialCommunityIcons' => 'mco',
+    'materialIcons' => 'mdi',
+    'simpleLineIcons' => 'sli',
+    'fontAwesome' => 'faw',
+    'fontAwesome5' => 'faw5',
+    'fontAwesome5Solid' => 'faw5s',
+    'fontAwesome5Brands' => 'faw5d',
+    _ => name.substring(0, 3).toLowerCase(),
+  };
 }
 
 enum IconLib {
@@ -101,5 +90,5 @@ enum IconLib {
   zoc,
 
   ///Weather Icons
-  wea
+  wea,
 }

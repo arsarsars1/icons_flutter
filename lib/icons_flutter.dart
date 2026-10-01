@@ -1,12 +1,9 @@
-library icons_flutter;
-
 export 'src/ant_design.dart';
 export 'src/brandico_icons.dart';
 export 'src/elusive_icons.dart';
 export 'src/entypo.dart';
 export 'src/evil_icons.dart';
 export 'src/feather.dart';
-export 'src/flutter_icons.dart';
 export 'src/font_awesome.dart';
 export 'src/font_awesome5_icons.dart';
 export 'src/font_awesome_5.dart';
@@ -15,7 +12,6 @@ export 'src/font_awesome_5_solid.dart';
 export 'src/font_elico_icons.dart';
 export 'src/foundation.dart';
 export 'src/icon_toggle.dart';
-export 'src/icons_flutter_data.dart';
 export 'src/ionicons.dart';
 export 'src/linearicons_free_icons.dart';
 export 'src/linecons_icons.dart';
