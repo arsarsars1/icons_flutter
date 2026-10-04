@@ -14,3 +14,6 @@ include: package:flutter_lints/flutter.yaml
 linter:
   rules:
     constant_identifier_names: false
+
+formatter:
+  page_width: 140

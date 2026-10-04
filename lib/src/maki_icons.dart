@@ -5,319 +5,67 @@ class Maki {
   Maki._();
 
   static const String _family = "Maki";
-  static const IconData aboveground_rail = IconData(
-    0xe800,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData airfield = IconData(
-    0xe801,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData airport = IconData(
-    0xe802,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData art_gallery = IconData(
-    0xe803,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData bar = IconData(
-    0xe804,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData baseball = IconData(
-    0xe806,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData basketball = IconData(
-    0xe807,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData beer = IconData(
-    0xe808,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData belowground_rail = IconData(
-    0xe809,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData bicycle = IconData(
-    0xe80a,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData bus = IconData(
-    0xe80b,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData cafe = IconData(
-    0xe80c,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData campsite = IconData(
-    0xe80d,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData cemetery = IconData(
-    0xe80e,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData cinema = IconData(
-    0xe80f,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData college = IconData(
-    0xe810,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData commerical_building = IconData(
-    0xe811,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData credit_card = IconData(
-    0xe812,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData cricket = IconData(
-    0xe813,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData embassy = IconData(
-    0xe814,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData fast_food = IconData(
-    0xe815,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData ferry = IconData(
-    0xe816,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData fire_station = IconData(
-    0xe817,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData football = IconData(
-    0xe818,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData fuel = IconData(
-    0xe819,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData garden = IconData(
-    0xe81a,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData giraffe = IconData(
-    0xe81b,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData golf = IconData(
-    0xe81c,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData grocery_store = IconData(
-    0xe81e,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData harbor = IconData(
-    0xe81f,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData heliport = IconData(
-    0xe820,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData hospital = IconData(
-    0xe821,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData industrial_building = IconData(
-    0xe822,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData library_icon = IconData(
-    0xe823,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData lodging = IconData(
-    0xe824,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData london_underground = IconData(
-    0xe825,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData minefield = IconData(
-    0xe826,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData monument = IconData(
-    0xe827,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData museum = IconData(
-    0xe828,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData pharmacy = IconData(
-    0xe829,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData pitch = IconData(
-    0xe82a,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData police = IconData(
-    0xe82b,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData post = IconData(
-    0xe82c,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData prison = IconData(
-    0xe82d,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData rail = IconData(
-    0xe82e,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData religious_christian = IconData(
-    0xe82f,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData religious_islam = IconData(
-    0xe830,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData religious_jewish = IconData(
-    0xe831,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData restaurant = IconData(
-    0xe832,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData roadblock = IconData(
-    0xe833,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData school = IconData(
-    0xe834,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData shop = IconData(
-    0xe835,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData skiing = IconData(
-    0xe836,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData soccer = IconData(
-    0xe837,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData swimming = IconData(
-    0xe838,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData tennis = IconData(
-    0xe839,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData theatre = IconData(
-    0xe83a,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData toilet = IconData(
-    0xe83b,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData town_hall = IconData(
-    0xe83c,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData trash = IconData(
-    0xe83d,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData tree_1 = IconData(
-    0xe83e,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData tree_2 = IconData(
-    0xe83f,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData warehouse = IconData(
-    0xe840,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
+  static const IconData aboveground_rail = IconData(0xe800, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData airfield = IconData(0xe801, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData airport = IconData(0xe802, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData art_gallery = IconData(0xe803, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData bar = IconData(0xe804, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData baseball = IconData(0xe806, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData basketball = IconData(0xe807, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData beer = IconData(0xe808, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData belowground_rail = IconData(0xe809, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData bicycle = IconData(0xe80a, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData bus = IconData(0xe80b, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData cafe = IconData(0xe80c, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData campsite = IconData(0xe80d, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData cemetery = IconData(0xe80e, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData cinema = IconData(0xe80f, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData college = IconData(0xe810, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData commerical_building = IconData(0xe811, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData credit_card = IconData(0xe812, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData cricket = IconData(0xe813, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData embassy = IconData(0xe814, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData fast_food = IconData(0xe815, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData ferry = IconData(0xe816, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData fire_station = IconData(0xe817, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData football = IconData(0xe818, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData fuel = IconData(0xe819, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData garden = IconData(0xe81a, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData giraffe = IconData(0xe81b, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData golf = IconData(0xe81c, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData grocery_store = IconData(0xe81e, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData harbor = IconData(0xe81f, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData heliport = IconData(0xe820, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData hospital = IconData(0xe821, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData industrial_building = IconData(0xe822, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData library_icon = IconData(0xe823, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData lodging = IconData(0xe824, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData london_underground = IconData(0xe825, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData minefield = IconData(0xe826, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData monument = IconData(0xe827, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData museum = IconData(0xe828, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData pharmacy = IconData(0xe829, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData pitch = IconData(0xe82a, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData police = IconData(0xe82b, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData post = IconData(0xe82c, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData prison = IconData(0xe82d, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData rail = IconData(0xe82e, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData religious_christian = IconData(0xe82f, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData religious_islam = IconData(0xe830, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData religious_jewish = IconData(0xe831, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData restaurant = IconData(0xe832, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData roadblock = IconData(0xe833, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData school = IconData(0xe834, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData shop = IconData(0xe835, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData skiing = IconData(0xe836, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData soccer = IconData(0xe837, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData swimming = IconData(0xe838, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData tennis = IconData(0xe839, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData theatre = IconData(0xe83a, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData toilet = IconData(0xe83b, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData town_hall = IconData(0xe83c, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData trash = IconData(0xe83d, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData tree_1 = IconData(0xe83e, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData tree_2 = IconData(0xe83f, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData warehouse = IconData(0xe840, fontFamily: _family, fontPackage: fontPackage);
 }

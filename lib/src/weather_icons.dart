@@ -4,2984 +4,600 @@ import 'package:icons_flutter/src/icons_flutter_data.dart';
 class WeatherIcons {
   WeatherIcons._();
   static const String _family = "WeatherIcons";
-  static const IconData wi_day_sunny = IconData(
-    61453,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_cloudy = IconData(
-    61442,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_cloudy_gusts = IconData(
-    61440,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_cloudy_windy = IconData(
-    61441,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_fog = IconData(
-    61443,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_hail = IconData(
-    61444,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_haze = IconData(
-    61622,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_lightning = IconData(
-    61445,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_rain = IconData(
-    61448,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_rain_mix = IconData(
-    61446,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_rain_wind = IconData(
-    61447,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_showers = IconData(
-    61449,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_sleet = IconData(
-    61618,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_sleet_storm = IconData(
-    61544,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_snow = IconData(
-    61450,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_snow_thunderstorm = IconData(
-    61547,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_snow_wind = IconData(
-    61541,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_sprinkle = IconData(
-    61451,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_storm_showers = IconData(
-    61454,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_sunny_overcast = IconData(
-    61452,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_thunderstorm = IconData(
-    61456,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_windy = IconData(
-    61573,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_solar_eclipse = IconData(
-    61550,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_hot = IconData(
-    61554,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_cloudy_high = IconData(
-    61565,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_day_light_wind = IconData(
-    61636,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_clear = IconData(
-    61486,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_cloudy = IconData(
-    61574,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_cloudy_gusts = IconData(
-    61474,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_cloudy_windy = IconData(
-    61475,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_hail = IconData(
-    61476,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_lightning = IconData(
-    61477,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_rain = IconData(
-    61480,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_rain_mix = IconData(
-    61478,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_rain_wind = IconData(
-    61479,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_showers = IconData(
-    61481,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_sleet = IconData(
-    61620,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_sleet_storm = IconData(
-    61546,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_snow = IconData(
-    61482,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_snow_thunderstorm = IconData(
-    61549,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_snow_wind = IconData(
-    61543,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_sprinkle = IconData(
-    61483,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_storm_showers = IconData(
-    61484,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_thunderstorm = IconData(
-    61485,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_cloudy = IconData(
-    61489,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_cloudy_gusts = IconData(
-    61487,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_cloudy_windy = IconData(
-    61488,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_fog = IconData(
-    61514,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_hail = IconData(
-    61490,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_lightning = IconData(
-    61491,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_partly_cloudy = IconData(
-    61571,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_rain = IconData(
-    61494,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_rain_mix = IconData(
-    61492,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_rain_wind = IconData(
-    61493,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_showers = IconData(
-    61495,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_sleet = IconData(
-    61619,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_sleet_storm = IconData(
-    61545,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_snow = IconData(
-    61496,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_snow_thunderstorm = IconData(
-    61548,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_snow_wind = IconData(
-    61542,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_sprinkle = IconData(
-    61497,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_storm_showers = IconData(
-    61498,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_thunderstorm = IconData(
-    61499,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_lunar_eclipse = IconData(
-    61552,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_stars = IconData(
-    61559,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_storm_showers = IconData(
-    61469,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_thunderstorm = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_cloudy_high = IconData(
-    61566,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_cloudy_high = IconData(
-    61568,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_night_alt_partly_cloudy = IconData(
-    61569,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_cloud = IconData(
-    61505,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_cloudy = IconData(
-    61459,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_cloudy_gusts = IconData(
-    61457,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_cloudy_windy = IconData(
-    61458,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_fog = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_hail = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_rain = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_rain_mix = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_rain_wind = IconData(
-    61464,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_showers = IconData(
-    61466,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_sleet = IconData(
-    61621,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_snow = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_sprinkle = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_snow_wind = IconData(
-    61540,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_smog = IconData(
-    61556,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_smoke = IconData(
-    61538,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_lightning = IconData(
-    61462,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_raindrops = IconData(
-    61518,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_raindrop = IconData(
-    61560,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_dust = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_snowflake_cold = IconData(
-    61558,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_windy = IconData(
-    61473,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_strong_wind = IconData(
-    61520,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_sandstorm = IconData(
-    61570,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_earthquake = IconData(
-    61638,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_fire = IconData(
-    61639,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_flood = IconData(
-    61564,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_meteor = IconData(
-    61553,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_tsunami = IconData(
-    61637,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_volcano = IconData(
-    61640,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_hurricane = IconData(
-    61555,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_tornado = IconData(
-    61526,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_small_craft_advisory = IconData(
-    61644,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_gale_warning = IconData(
-    61645,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_storm_warning = IconData(
-    61646,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_hurricane_warning = IconData(
-    61647,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_direction = IconData(
-    61617,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_alien = IconData(
-    61557,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_celsius = IconData(
-    61500,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_fahrenheit = IconData(
-    61509,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_degrees = IconData(
-    61506,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_thermometer = IconData(
-    61525,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_thermometer_exterior = IconData(
-    61523,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_thermometer_internal = IconData(
-    61524,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_cloud_down = IconData(
-    61501,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_cloud_up = IconData(
-    61504,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_cloud_refresh = IconData(
-    61502,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_horizon = IconData(
-    61511,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_horizon_alt = IconData(
-    61510,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_sunrise = IconData(
-    61521,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_sunset = IconData(
-    61522,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moonrise = IconData(
-    61641,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moonset = IconData(
-    61642,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_refresh = IconData(
-    61516,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_refresh_alt = IconData(
-    61515,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_umbrella = IconData(
-    61572,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_barometer = IconData(
-    61561,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_humidity = IconData(
-    61562,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_na = IconData(
-    61563,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_train = IconData(
-    61643,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_new = IconData(
-    61589,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waxing_crescent_1 = IconData(
-    61590,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waxing_crescent_2 = IconData(
-    61591,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waxing_crescent_3 = IconData(
-    61592,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waxing_crescent_4 = IconData(
-    61593,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waxing_crescent_5 = IconData(
-    61594,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waxing_crescent_6 = IconData(
-    61595,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_first_quarter = IconData(
-    61596,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waxing_gibbous_1 = IconData(
-    61597,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waxing_gibbous_2 = IconData(
-    61598,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waxing_gibbous_3 = IconData(
-    61599,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waxing_gibbous_4 = IconData(
-    61600,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waxing_gibbous_5 = IconData(
-    61601,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waxing_gibbous_6 = IconData(
-    61602,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_full = IconData(
-    61603,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waning_gibbous_1 = IconData(
-    61604,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waning_gibbous_2 = IconData(
-    61605,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waning_gibbous_3 = IconData(
-    61606,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waning_gibbous_4 = IconData(
-    61607,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waning_gibbous_5 = IconData(
-    61608,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waning_gibbous_6 = IconData(
-    61609,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_third_quarter = IconData(
-    61610,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waning_crescent_1 = IconData(
-    61611,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waning_crescent_2 = IconData(
-    61612,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waning_crescent_3 = IconData(
-    61613,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waning_crescent_4 = IconData(
-    61614,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waning_crescent_5 = IconData(
-    61615,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_waning_crescent_6 = IconData(
-    61616,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_new = IconData(
-    61675,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waxing_crescent_1 = IconData(
-    61648,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waxing_crescent_2 = IconData(
-    61649,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waxing_crescent_3 = IconData(
-    61650,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waxing_crescent_4 = IconData(
-    61651,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waxing_crescent_5 = IconData(
-    61652,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waxing_crescent_6 = IconData(
-    61653,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_first_quarter = IconData(
-    61654,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waxing_gibbous_1 = IconData(
-    61655,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waxing_gibbous_2 = IconData(
-    61656,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waxing_gibbous_3 = IconData(
-    61657,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waxing_gibbous_4 = IconData(
-    61658,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waxing_gibbous_5 = IconData(
-    61659,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waxing_gibbous_6 = IconData(
-    61660,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_full = IconData(
-    61661,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waning_gibbous_1 = IconData(
-    61662,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waning_gibbous_2 = IconData(
-    61663,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waning_gibbous_3 = IconData(
-    61664,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waning_gibbous_4 = IconData(
-    61665,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waning_gibbous_5 = IconData(
-    61666,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waning_gibbous_6 = IconData(
-    61667,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_third_quarter = IconData(
-    61668,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waning_crescent_1 = IconData(
-    61669,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waning_crescent_2 = IconData(
-    61670,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waning_crescent_3 = IconData(
-    61671,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waning_crescent_4 = IconData(
-    61672,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waning_crescent_5 = IconData(
-    61673,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_alt_waning_crescent_6 = IconData(
-    61674,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_0 = IconData(
-    61589,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_1 = IconData(
-    61590,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_2 = IconData(
-    61591,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_3 = IconData(
-    61592,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_4 = IconData(
-    61593,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_5 = IconData(
-    61594,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_6 = IconData(
-    61595,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_7 = IconData(
-    61596,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_8 = IconData(
-    61597,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_9 = IconData(
-    61598,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_10 = IconData(
-    61599,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_11 = IconData(
-    61600,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_12 = IconData(
-    61601,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_13 = IconData(
-    61602,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_14 = IconData(
-    61603,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_15 = IconData(
-    61604,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_16 = IconData(
-    61605,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_17 = IconData(
-    61606,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_18 = IconData(
-    61607,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_19 = IconData(
-    61608,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_20 = IconData(
-    61609,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_21 = IconData(
-    61610,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_22 = IconData(
-    61611,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_23 = IconData(
-    61612,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_24 = IconData(
-    61613,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_25 = IconData(
-    61614,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_26 = IconData(
-    61615,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_moon_27 = IconData(
-    61616,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_time_1 = IconData(
-    61578,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_time_2 = IconData(
-    61579,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_time_3 = IconData(
-    61580,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_time_4 = IconData(
-    61581,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_time_5 = IconData(
-    61582,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_time_6 = IconData(
-    61583,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_time_7 = IconData(
-    61584,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_time_8 = IconData(
-    61585,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_time_9 = IconData(
-    61586,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_time_10 = IconData(
-    61587,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_time_11 = IconData(
-    61588,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_time_12 = IconData(
-    61577,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_direction_up = IconData(
-    61528,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_direction_up_right = IconData(
-    61527,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_direction_right = IconData(
-    61517,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_direction_down_right = IconData(
-    61576,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_direction_down = IconData(
-    61508,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_direction_down_left = IconData(
-    61507,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_direction_left = IconData(
-    61512,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_direction_up_left = IconData(
-    61575,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_0 = IconData(
-    61623,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_1 = IconData(
-    61624,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_2 = IconData(
-    61625,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_3 = IconData(
-    61626,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_4 = IconData(
-    61627,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_5 = IconData(
-    61628,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_6 = IconData(
-    61629,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_7 = IconData(
-    61630,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_8 = IconData(
-    61631,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_9 = IconData(
-    61632,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_10 = IconData(
-    61633,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_11 = IconData(
-    61634,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wind_beaufort_12 = IconData(
-    61635,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_0 = IconData(
-    61526,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_1 = IconData(
-    61454,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_2 = IconData(
-    61555,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_3 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_4 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_5 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_6 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_7 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_8 = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_9 = IconData(
-    61466,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_10 = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_11 = IconData(
-    61466,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_12 = IconData(
-    61466,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_13 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_14 = IconData(
-    61450,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_15 = IconData(
-    61540,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_16 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_17 = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_18 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_19 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_20 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_21 = IconData(
-    61473,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_22 = IconData(
-    61538,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_23 = IconData(
-    61520,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_24 = IconData(
-    61520,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_25 = IconData(
-    61558,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_26 = IconData(
-    61459,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_27 = IconData(
-    61489,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_28 = IconData(
-    61442,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_29 = IconData(
-    61489,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_30 = IconData(
-    61442,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_31 = IconData(
-    61486,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_32 = IconData(
-    61453,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_33 = IconData(
-    61571,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_34 = IconData(
-    61452,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_35 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_36 = IconData(
-    61554,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_37 = IconData(
-    61454,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_38 = IconData(
-    61454,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_39 = IconData(
-    61454,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_40 = IconData(
-    61466,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_41 = IconData(
-    61540,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_42 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_43 = IconData(
-    61540,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_44 = IconData(
-    61452,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_45 = IconData(
-    61454,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_46 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_47 = IconData(
-    61454,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_yahoo_3200 = IconData(
-    61559,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_clear_day = IconData(
-    61453,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_clear_night = IconData(
-    61486,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_rain = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_snow = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_sleet = IconData(
-    61621,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_wind = IconData(
-    61520,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_fog = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_cloudy = IconData(
-    61459,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_partly_cloudy_day = IconData(
-    61442,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_partly_cloudy_night = IconData(
-    61489,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_hail = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_thunderstorm = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_forecast_io_tornado = IconData(
-    61526,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_0 = IconData(
-    61525,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_00 = IconData(
-    61525,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_1 = IconData(
-    61459,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_01 = IconData(
-    61459,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_2 = IconData(
-    61525,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_02 = IconData(
-    61525,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_3 = IconData(
-    61459,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_03 = IconData(
-    61459,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_4 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_04 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_5 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_05 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_10 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_11 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_12 = IconData(
-    61462,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_18 = IconData(
-    61520,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_20 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_21 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_22 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_23 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_24 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_25 = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_26 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_27 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_28 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_29 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_30 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_31 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_32 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_33 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_34 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_35 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_40 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_41 = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_42 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_43 = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_44 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_45 = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_46 = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_47 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_48 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_50 = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_51 = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_52 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_53 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_54 = IconData(
-    61558,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_55 = IconData(
-    61558,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_56 = IconData(
-    61558,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_57 = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_58 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_60 = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_61 = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_62 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_63 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_64 = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_65 = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_66 = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_67 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_68 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_70 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_71 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_72 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_73 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_74 = IconData(
-    61558,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_75 = IconData(
-    61558,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_76 = IconData(
-    61558,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_77 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_78 = IconData(
-    61558,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_80 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_81 = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_82 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_83 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_84 = IconData(
-    61469,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_85 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_86 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_87 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_89 = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_90 = IconData(
-    61462,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_91 = IconData(
-    61469,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_92 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_93 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_94 = IconData(
-    61462,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_95 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_96 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wmo4680_99 = IconData(
-    61526,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_200 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_201 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_202 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_210 = IconData(
-    61462,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_211 = IconData(
-    61462,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_212 = IconData(
-    61462,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_221 = IconData(
-    61462,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_230 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_231 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_232 = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_300 = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_301 = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_302 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_310 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_311 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_312 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_313 = IconData(
-    61466,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_314 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_321 = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_500 = IconData(
-    61468,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_501 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_502 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_503 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_504 = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_511 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_520 = IconData(
-    61466,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_521 = IconData(
-    61466,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_522 = IconData(
-    61466,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_531 = IconData(
-    61469,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_600 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_601 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_602 = IconData(
-    61621,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_611 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_612 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_615 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_616 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_620 = IconData(
-    61463,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_621 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_622 = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_701 = IconData(
-    61466,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_711 = IconData(
-    61538,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_721 = IconData(
-    61622,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_731 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_741 = IconData(
-    61460,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_761 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_762 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_771 = IconData(
-    61457,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_781 = IconData(
-    61526,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_800 = IconData(
-    61453,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_801 = IconData(
-    61457,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_802 = IconData(
-    61457,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_803 = IconData(
-    61458,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_804 = IconData(
-    61459,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_900 = IconData(
-    61526,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_901 = IconData(
-    61469,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_902 = IconData(
-    61555,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_903 = IconData(
-    61558,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_904 = IconData(
-    61554,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_905 = IconData(
-    61473,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_906 = IconData(
-    61461,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_957 = IconData(
-    61520,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_200 = IconData(
-    61456,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_201 = IconData(
-    61456,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_202 = IconData(
-    61456,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_210 = IconData(
-    61445,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_211 = IconData(
-    61445,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_212 = IconData(
-    61445,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_221 = IconData(
-    61445,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_230 = IconData(
-    61456,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_231 = IconData(
-    61456,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_232 = IconData(
-    61456,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_300 = IconData(
-    61451,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_301 = IconData(
-    61451,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_302 = IconData(
-    61448,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_310 = IconData(
-    61448,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_311 = IconData(
-    61448,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_312 = IconData(
-    61448,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_313 = IconData(
-    61448,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_314 = IconData(
-    61448,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_321 = IconData(
-    61451,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_500 = IconData(
-    61451,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_501 = IconData(
-    61448,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_502 = IconData(
-    61448,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_503 = IconData(
-    61448,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_504 = IconData(
-    61448,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_511 = IconData(
-    61446,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_520 = IconData(
-    61449,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_521 = IconData(
-    61449,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_522 = IconData(
-    61449,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_531 = IconData(
-    61454,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_600 = IconData(
-    61450,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_601 = IconData(
-    61618,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_602 = IconData(
-    61450,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_611 = IconData(
-    61446,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_612 = IconData(
-    61446,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_615 = IconData(
-    61446,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_616 = IconData(
-    61446,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_620 = IconData(
-    61446,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_621 = IconData(
-    61450,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_622 = IconData(
-    61450,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_701 = IconData(
-    61449,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_711 = IconData(
-    61538,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_721 = IconData(
-    61622,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_731 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_741 = IconData(
-    61443,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_761 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_762 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_771 = IconData(
-    61440,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_781 = IconData(
-    61526,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_800 = IconData(
-    61453,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_801 = IconData(
-    61440,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_802 = IconData(
-    61440,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_803 = IconData(
-    61440,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_804 = IconData(
-    61452,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_900 = IconData(
-    61526,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_901 = IconData(
-    61454,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_902 = IconData(
-    61555,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_903 = IconData(
-    61558,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_904 = IconData(
-    61554,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_905 = IconData(
-    61636,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_906 = IconData(
-    61444,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_day_957 = IconData(
-    61520,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_200 = IconData(
-    61485,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_201 = IconData(
-    61485,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_202 = IconData(
-    61485,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_210 = IconData(
-    61477,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_211 = IconData(
-    61477,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_212 = IconData(
-    61477,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_221 = IconData(
-    61477,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_230 = IconData(
-    61485,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_231 = IconData(
-    61485,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_232 = IconData(
-    61485,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_300 = IconData(
-    61483,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_301 = IconData(
-    61483,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_302 = IconData(
-    61480,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_310 = IconData(
-    61480,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_311 = IconData(
-    61480,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_312 = IconData(
-    61480,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_313 = IconData(
-    61480,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_314 = IconData(
-    61480,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_321 = IconData(
-    61483,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_500 = IconData(
-    61483,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_501 = IconData(
-    61480,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_502 = IconData(
-    61480,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_503 = IconData(
-    61480,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_504 = IconData(
-    61480,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_511 = IconData(
-    61478,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_520 = IconData(
-    61481,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_521 = IconData(
-    61481,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_522 = IconData(
-    61481,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_531 = IconData(
-    61484,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_600 = IconData(
-    61482,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_601 = IconData(
-    61620,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_602 = IconData(
-    61482,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_611 = IconData(
-    61478,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_612 = IconData(
-    61478,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_615 = IconData(
-    61478,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_616 = IconData(
-    61478,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_620 = IconData(
-    61478,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_621 = IconData(
-    61482,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_622 = IconData(
-    61482,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_701 = IconData(
-    61481,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_711 = IconData(
-    61538,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_721 = IconData(
-    61622,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_731 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_741 = IconData(
-    61514,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_761 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_762 = IconData(
-    61539,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_771 = IconData(
-    61474,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_781 = IconData(
-    61526,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_800 = IconData(
-    61486,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_801 = IconData(
-    61474,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_802 = IconData(
-    61474,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_803 = IconData(
-    61474,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_804 = IconData(
-    61574,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_900 = IconData(
-    61526,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_901 = IconData(
-    61498,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_902 = IconData(
-    61555,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_903 = IconData(
-    61558,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_904 = IconData(
-    61554,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_905 = IconData(
-    61473,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_906 = IconData(
-    61476,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_owm_night_957 = IconData(
-    61520,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_chanceflurries = IconData(
-    61540,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_chancerain = IconData(
-    61465,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_chancesleat = IconData(
-    61621,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_chancesnow = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_chancetstorms = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_clear = IconData(
-    61453,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_cloudy = IconData(
-    61442,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_flurries = IconData(
-    61540,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_hazy = IconData(
-    61622,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_mostlycloudy = IconData(
-    61442,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_mostlysunny = IconData(
-    61453,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_partlycloudy = IconData(
-    61442,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_partlysunny = IconData(
-    61453,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_rain = IconData(
-    61466,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_sleat = IconData(
-    61621,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_snow = IconData(
-    61467,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_sunny = IconData(
-    61453,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_tstorms = IconData(
-    61470,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wi_wu_unknown = IconData(
-    61453,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
+  static const IconData wi_day_sunny = IconData(61453, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_cloudy = IconData(61442, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_cloudy_gusts = IconData(61440, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_cloudy_windy = IconData(61441, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_fog = IconData(61443, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_hail = IconData(61444, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_haze = IconData(61622, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_lightning = IconData(61445, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_rain = IconData(61448, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_rain_mix = IconData(61446, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_rain_wind = IconData(61447, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_showers = IconData(61449, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_sleet = IconData(61618, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_sleet_storm = IconData(61544, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_snow = IconData(61450, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_snow_thunderstorm = IconData(61547, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_snow_wind = IconData(61541, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_sprinkle = IconData(61451, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_storm_showers = IconData(61454, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_sunny_overcast = IconData(61452, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_thunderstorm = IconData(61456, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_windy = IconData(61573, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_solar_eclipse = IconData(61550, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_hot = IconData(61554, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_cloudy_high = IconData(61565, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_day_light_wind = IconData(61636, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_clear = IconData(61486, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_cloudy = IconData(61574, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_cloudy_gusts = IconData(61474, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_cloudy_windy = IconData(61475, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_hail = IconData(61476, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_lightning = IconData(61477, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_rain = IconData(61480, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_rain_mix = IconData(61478, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_rain_wind = IconData(61479, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_showers = IconData(61481, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_sleet = IconData(61620, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_sleet_storm = IconData(61546, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_snow = IconData(61482, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_snow_thunderstorm = IconData(61549, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_snow_wind = IconData(61543, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_sprinkle = IconData(61483, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_storm_showers = IconData(61484, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_thunderstorm = IconData(61485, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_cloudy = IconData(61489, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_cloudy_gusts = IconData(61487, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_cloudy_windy = IconData(61488, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_fog = IconData(61514, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_hail = IconData(61490, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_lightning = IconData(61491, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_partly_cloudy = IconData(61571, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_rain = IconData(61494, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_rain_mix = IconData(61492, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_rain_wind = IconData(61493, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_showers = IconData(61495, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_sleet = IconData(61619, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_sleet_storm = IconData(61545, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_snow = IconData(61496, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_snow_thunderstorm = IconData(61548, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_snow_wind = IconData(61542, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_sprinkle = IconData(61497, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_storm_showers = IconData(61498, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_thunderstorm = IconData(61499, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_lunar_eclipse = IconData(61552, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_stars = IconData(61559, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_storm_showers = IconData(61469, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_thunderstorm = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_cloudy_high = IconData(61566, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_cloudy_high = IconData(61568, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_night_alt_partly_cloudy = IconData(61569, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_cloud = IconData(61505, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_cloudy = IconData(61459, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_cloudy_gusts = IconData(61457, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_cloudy_windy = IconData(61458, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_fog = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_hail = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_rain = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_rain_mix = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_rain_wind = IconData(61464, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_showers = IconData(61466, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_sleet = IconData(61621, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_snow = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_sprinkle = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_snow_wind = IconData(61540, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_smog = IconData(61556, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_smoke = IconData(61538, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_lightning = IconData(61462, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_raindrops = IconData(61518, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_raindrop = IconData(61560, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_dust = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_snowflake_cold = IconData(61558, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_windy = IconData(61473, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_strong_wind = IconData(61520, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_sandstorm = IconData(61570, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_earthquake = IconData(61638, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_fire = IconData(61639, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_flood = IconData(61564, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_meteor = IconData(61553, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_tsunami = IconData(61637, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_volcano = IconData(61640, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_hurricane = IconData(61555, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_tornado = IconData(61526, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_small_craft_advisory = IconData(61644, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_gale_warning = IconData(61645, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_storm_warning = IconData(61646, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_hurricane_warning = IconData(61647, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_direction = IconData(61617, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_alien = IconData(61557, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_celsius = IconData(61500, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_fahrenheit = IconData(61509, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_degrees = IconData(61506, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_thermometer = IconData(61525, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_thermometer_exterior = IconData(61523, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_thermometer_internal = IconData(61524, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_cloud_down = IconData(61501, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_cloud_up = IconData(61504, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_cloud_refresh = IconData(61502, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_horizon = IconData(61511, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_horizon_alt = IconData(61510, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_sunrise = IconData(61521, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_sunset = IconData(61522, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moonrise = IconData(61641, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moonset = IconData(61642, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_refresh = IconData(61516, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_refresh_alt = IconData(61515, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_umbrella = IconData(61572, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_barometer = IconData(61561, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_humidity = IconData(61562, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_na = IconData(61563, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_train = IconData(61643, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_new = IconData(61589, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waxing_crescent_1 = IconData(61590, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waxing_crescent_2 = IconData(61591, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waxing_crescent_3 = IconData(61592, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waxing_crescent_4 = IconData(61593, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waxing_crescent_5 = IconData(61594, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waxing_crescent_6 = IconData(61595, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_first_quarter = IconData(61596, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waxing_gibbous_1 = IconData(61597, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waxing_gibbous_2 = IconData(61598, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waxing_gibbous_3 = IconData(61599, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waxing_gibbous_4 = IconData(61600, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waxing_gibbous_5 = IconData(61601, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waxing_gibbous_6 = IconData(61602, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_full = IconData(61603, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waning_gibbous_1 = IconData(61604, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waning_gibbous_2 = IconData(61605, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waning_gibbous_3 = IconData(61606, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waning_gibbous_4 = IconData(61607, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waning_gibbous_5 = IconData(61608, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waning_gibbous_6 = IconData(61609, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_third_quarter = IconData(61610, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waning_crescent_1 = IconData(61611, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waning_crescent_2 = IconData(61612, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waning_crescent_3 = IconData(61613, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waning_crescent_4 = IconData(61614, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waning_crescent_5 = IconData(61615, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_waning_crescent_6 = IconData(61616, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_new = IconData(61675, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waxing_crescent_1 = IconData(61648, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waxing_crescent_2 = IconData(61649, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waxing_crescent_3 = IconData(61650, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waxing_crescent_4 = IconData(61651, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waxing_crescent_5 = IconData(61652, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waxing_crescent_6 = IconData(61653, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_first_quarter = IconData(61654, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waxing_gibbous_1 = IconData(61655, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waxing_gibbous_2 = IconData(61656, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waxing_gibbous_3 = IconData(61657, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waxing_gibbous_4 = IconData(61658, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waxing_gibbous_5 = IconData(61659, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waxing_gibbous_6 = IconData(61660, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_full = IconData(61661, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waning_gibbous_1 = IconData(61662, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waning_gibbous_2 = IconData(61663, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waning_gibbous_3 = IconData(61664, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waning_gibbous_4 = IconData(61665, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waning_gibbous_5 = IconData(61666, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waning_gibbous_6 = IconData(61667, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_third_quarter = IconData(61668, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waning_crescent_1 = IconData(61669, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waning_crescent_2 = IconData(61670, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waning_crescent_3 = IconData(61671, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waning_crescent_4 = IconData(61672, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waning_crescent_5 = IconData(61673, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_alt_waning_crescent_6 = IconData(61674, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_0 = IconData(61589, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_1 = IconData(61590, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_2 = IconData(61591, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_3 = IconData(61592, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_4 = IconData(61593, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_5 = IconData(61594, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_6 = IconData(61595, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_7 = IconData(61596, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_8 = IconData(61597, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_9 = IconData(61598, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_10 = IconData(61599, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_11 = IconData(61600, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_12 = IconData(61601, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_13 = IconData(61602, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_14 = IconData(61603, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_15 = IconData(61604, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_16 = IconData(61605, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_17 = IconData(61606, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_18 = IconData(61607, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_19 = IconData(61608, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_20 = IconData(61609, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_21 = IconData(61610, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_22 = IconData(61611, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_23 = IconData(61612, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_24 = IconData(61613, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_25 = IconData(61614, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_26 = IconData(61615, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_moon_27 = IconData(61616, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_time_1 = IconData(61578, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_time_2 = IconData(61579, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_time_3 = IconData(61580, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_time_4 = IconData(61581, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_time_5 = IconData(61582, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_time_6 = IconData(61583, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_time_7 = IconData(61584, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_time_8 = IconData(61585, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_time_9 = IconData(61586, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_time_10 = IconData(61587, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_time_11 = IconData(61588, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_time_12 = IconData(61577, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_direction_up = IconData(61528, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_direction_up_right = IconData(61527, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_direction_right = IconData(61517, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_direction_down_right = IconData(61576, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_direction_down = IconData(61508, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_direction_down_left = IconData(61507, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_direction_left = IconData(61512, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_direction_up_left = IconData(61575, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_0 = IconData(61623, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_1 = IconData(61624, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_2 = IconData(61625, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_3 = IconData(61626, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_4 = IconData(61627, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_5 = IconData(61628, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_6 = IconData(61629, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_7 = IconData(61630, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_8 = IconData(61631, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_9 = IconData(61632, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_10 = IconData(61633, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_11 = IconData(61634, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wind_beaufort_12 = IconData(61635, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_0 = IconData(61526, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_1 = IconData(61454, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_2 = IconData(61555, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_3 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_4 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_5 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_6 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_7 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_8 = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_9 = IconData(61466, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_10 = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_11 = IconData(61466, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_12 = IconData(61466, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_13 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_14 = IconData(61450, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_15 = IconData(61540, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_16 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_17 = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_18 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_19 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_20 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_21 = IconData(61473, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_22 = IconData(61538, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_23 = IconData(61520, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_24 = IconData(61520, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_25 = IconData(61558, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_26 = IconData(61459, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_27 = IconData(61489, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_28 = IconData(61442, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_29 = IconData(61489, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_30 = IconData(61442, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_31 = IconData(61486, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_32 = IconData(61453, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_33 = IconData(61571, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_34 = IconData(61452, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_35 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_36 = IconData(61554, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_37 = IconData(61454, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_38 = IconData(61454, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_39 = IconData(61454, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_40 = IconData(61466, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_41 = IconData(61540, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_42 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_43 = IconData(61540, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_44 = IconData(61452, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_45 = IconData(61454, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_46 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_47 = IconData(61454, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_yahoo_3200 = IconData(61559, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_clear_day = IconData(61453, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_clear_night = IconData(61486, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_rain = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_snow = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_sleet = IconData(61621, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_wind = IconData(61520, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_fog = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_cloudy = IconData(61459, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_partly_cloudy_day = IconData(61442, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_partly_cloudy_night = IconData(61489, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_hail = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_thunderstorm = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_forecast_io_tornado = IconData(61526, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_0 = IconData(61525, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_00 = IconData(61525, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_1 = IconData(61459, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_01 = IconData(61459, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_2 = IconData(61525, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_02 = IconData(61525, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_3 = IconData(61459, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_03 = IconData(61459, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_4 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_04 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_5 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_05 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_10 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_11 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_12 = IconData(61462, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_18 = IconData(61520, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_20 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_21 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_22 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_23 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_24 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_25 = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_26 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_27 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_28 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_29 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_30 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_31 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_32 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_33 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_34 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_35 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_40 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_41 = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_42 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_43 = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_44 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_45 = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_46 = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_47 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_48 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_50 = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_51 = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_52 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_53 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_54 = IconData(61558, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_55 = IconData(61558, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_56 = IconData(61558, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_57 = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_58 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_60 = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_61 = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_62 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_63 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_64 = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_65 = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_66 = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_67 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_68 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_70 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_71 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_72 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_73 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_74 = IconData(61558, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_75 = IconData(61558, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_76 = IconData(61558, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_77 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_78 = IconData(61558, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_80 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_81 = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_82 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_83 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_84 = IconData(61469, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_85 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_86 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_87 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_89 = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_90 = IconData(61462, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_91 = IconData(61469, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_92 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_93 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_94 = IconData(61462, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_95 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_96 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wmo4680_99 = IconData(61526, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_200 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_201 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_202 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_210 = IconData(61462, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_211 = IconData(61462, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_212 = IconData(61462, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_221 = IconData(61462, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_230 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_231 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_232 = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_300 = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_301 = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_302 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_310 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_311 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_312 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_313 = IconData(61466, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_314 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_321 = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_500 = IconData(61468, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_501 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_502 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_503 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_504 = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_511 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_520 = IconData(61466, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_521 = IconData(61466, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_522 = IconData(61466, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_531 = IconData(61469, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_600 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_601 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_602 = IconData(61621, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_611 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_612 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_615 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_616 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_620 = IconData(61463, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_621 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_622 = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_701 = IconData(61466, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_711 = IconData(61538, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_721 = IconData(61622, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_731 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_741 = IconData(61460, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_761 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_762 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_771 = IconData(61457, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_781 = IconData(61526, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_800 = IconData(61453, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_801 = IconData(61457, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_802 = IconData(61457, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_803 = IconData(61458, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_804 = IconData(61459, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_900 = IconData(61526, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_901 = IconData(61469, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_902 = IconData(61555, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_903 = IconData(61558, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_904 = IconData(61554, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_905 = IconData(61473, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_906 = IconData(61461, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_957 = IconData(61520, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_200 = IconData(61456, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_201 = IconData(61456, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_202 = IconData(61456, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_210 = IconData(61445, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_211 = IconData(61445, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_212 = IconData(61445, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_221 = IconData(61445, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_230 = IconData(61456, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_231 = IconData(61456, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_232 = IconData(61456, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_300 = IconData(61451, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_301 = IconData(61451, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_302 = IconData(61448, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_310 = IconData(61448, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_311 = IconData(61448, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_312 = IconData(61448, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_313 = IconData(61448, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_314 = IconData(61448, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_321 = IconData(61451, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_500 = IconData(61451, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_501 = IconData(61448, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_502 = IconData(61448, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_503 = IconData(61448, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_504 = IconData(61448, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_511 = IconData(61446, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_520 = IconData(61449, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_521 = IconData(61449, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_522 = IconData(61449, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_531 = IconData(61454, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_600 = IconData(61450, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_601 = IconData(61618, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_602 = IconData(61450, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_611 = IconData(61446, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_612 = IconData(61446, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_615 = IconData(61446, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_616 = IconData(61446, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_620 = IconData(61446, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_621 = IconData(61450, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_622 = IconData(61450, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_701 = IconData(61449, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_711 = IconData(61538, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_721 = IconData(61622, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_731 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_741 = IconData(61443, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_761 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_762 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_771 = IconData(61440, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_781 = IconData(61526, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_800 = IconData(61453, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_801 = IconData(61440, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_802 = IconData(61440, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_803 = IconData(61440, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_804 = IconData(61452, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_900 = IconData(61526, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_901 = IconData(61454, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_902 = IconData(61555, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_903 = IconData(61558, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_904 = IconData(61554, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_905 = IconData(61636, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_906 = IconData(61444, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_day_957 = IconData(61520, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_200 = IconData(61485, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_201 = IconData(61485, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_202 = IconData(61485, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_210 = IconData(61477, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_211 = IconData(61477, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_212 = IconData(61477, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_221 = IconData(61477, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_230 = IconData(61485, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_231 = IconData(61485, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_232 = IconData(61485, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_300 = IconData(61483, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_301 = IconData(61483, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_302 = IconData(61480, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_310 = IconData(61480, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_311 = IconData(61480, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_312 = IconData(61480, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_313 = IconData(61480, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_314 = IconData(61480, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_321 = IconData(61483, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_500 = IconData(61483, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_501 = IconData(61480, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_502 = IconData(61480, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_503 = IconData(61480, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_504 = IconData(61480, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_511 = IconData(61478, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_520 = IconData(61481, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_521 = IconData(61481, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_522 = IconData(61481, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_531 = IconData(61484, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_600 = IconData(61482, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_601 = IconData(61620, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_602 = IconData(61482, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_611 = IconData(61478, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_612 = IconData(61478, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_615 = IconData(61478, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_616 = IconData(61478, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_620 = IconData(61478, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_621 = IconData(61482, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_622 = IconData(61482, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_701 = IconData(61481, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_711 = IconData(61538, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_721 = IconData(61622, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_731 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_741 = IconData(61514, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_761 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_762 = IconData(61539, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_771 = IconData(61474, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_781 = IconData(61526, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_800 = IconData(61486, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_801 = IconData(61474, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_802 = IconData(61474, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_803 = IconData(61474, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_804 = IconData(61574, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_900 = IconData(61526, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_901 = IconData(61498, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_902 = IconData(61555, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_903 = IconData(61558, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_904 = IconData(61554, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_905 = IconData(61473, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_906 = IconData(61476, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_owm_night_957 = IconData(61520, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_chanceflurries = IconData(61540, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_chancerain = IconData(61465, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_chancesleat = IconData(61621, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_chancesnow = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_chancetstorms = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_clear = IconData(61453, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_cloudy = IconData(61442, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_flurries = IconData(61540, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_hazy = IconData(61622, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_mostlycloudy = IconData(61442, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_mostlysunny = IconData(61453, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_partlycloudy = IconData(61442, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_partlysunny = IconData(61453, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_rain = IconData(61466, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_sleat = IconData(61621, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_snow = IconData(61467, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_sunny = IconData(61453, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_tstorms = IconData(61470, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wi_wu_unknown = IconData(61453, fontFamily: _family, fontPackage: fontPackage);
 }

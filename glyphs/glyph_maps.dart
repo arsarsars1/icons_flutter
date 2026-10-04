@@ -282,7 +282,7 @@ Map<String, dynamic> gly = {
     "x": 61975,
     "yen": 61976,
     "zoom-in": 61977,
-    "zoom-out": 61978
+    "zoom-out": 61978,
   },
   "zocial": {
     "acrobat": 61696,
@@ -384,7 +384,7 @@ Map<String, dynamic> gly = {
     "yahoo": 61792,
     "ycombinator": 61793,
     "yelp": 61794,
-    "youtube": 61795
+    "youtube": 61795,
   },
   "feather": {
     "activity": 59648,
@@ -652,7 +652,7 @@ Map<String, dynamic> gly = {
     "zap": 59910,
     "zap-off": 59911,
     "zoom-in": 59912,
-    "zoom-out": 59913
+    "zoom-out": 59913,
   },
   "ant_design": {
     "stepforward": 58880,
@@ -952,7 +952,7 @@ Map<String, dynamic> gly = {
     "instagram": 59147,
     "yuque": 59148,
     "slack": 59141,
-    "slack-square": 59142
+    "slack-square": 59142,
   },
   "entypo": {
     "500px": 61696,
@@ -1365,7 +1365,7 @@ Map<String, dynamic> gly = {
     "youko": 62103,
     "youko-with-circle": 62104,
     "youtube": 62105,
-    "youtube-with-circle": 62106
+    "youtube-with-circle": 62106,
   },
   "evil_icons": {
     "archive": 61696,
@@ -1437,7 +1437,7 @@ Map<String, dynamic> gly = {
     "trophy": 61762,
     "undo": 61763,
     "unlock": 61764,
-    "user": 61765
+    "user": 61765,
   },
   "octicons": {
     "alert": 61696,
@@ -1616,7 +1616,7 @@ Map<String, dynamic> gly = {
     "versions": 61869,
     "watch": 61870,
     "x": 61871,
-    "zap": 61872
+    "zap": 61872,
   },
   "material_icons": {
     "3d-rotation": 59469,
@@ -2550,7 +2550,7 @@ Map<String, dynamic> gly = {
     "youtube-searched-for": 59642,
     "zoom-in": 59647,
     "zoom-out": 59648,
-    "zoom-out-map": 58731
+    "zoom-out-map": 58731,
   },
   "weather_icons": {
     "wi_day_sunny": 0xf00d,
@@ -3339,7 +3339,7 @@ Map<String, dynamic> gly = {
     "social-youtube": 57352,
     "social-dropbox": 57356,
     "social-vkontakte": 58904,
-    "social-steam": 58912
+    "social-steam": 58912,
   },
   "font_awesome": {
     "glass": 61440,
@@ -4127,7 +4127,7 @@ Map<String, dynamic> gly = {
     "snowflake-o": 62172,
     "superpowers": 62173,
     "wpexplorer": 62174,
-    "meetup": 62176
+    "meetup": 62176,
   },
   "material_community_icons": {
     "ab-testing": 983068,
@@ -8226,7 +8226,7 @@ Map<String, dynamic> gly = {
     "zodiac-scorpio": 64133,
     "zodiac-taurus": 64134,
     "zodiac-virgo": 64135,
-    "blank": 63116
+    "blank": 63116,
   },
   "ionicons": {
     "ios-add": 61698,
@@ -8924,6 +8924,6 @@ Map<String, dynamic> gly = {
     "md-water": 62375,
     "md-wifi": 62376,
     "md-wine": 62377,
-    "md-woman": 62378
+    "md-woman": 62378,
   },
 };

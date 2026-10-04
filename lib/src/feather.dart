@@ -7,1334 +7,270 @@ import 'package:icons_flutter/src/icons_flutter_data.dart';
 class Feather {
   Feather._();
   static const String _family = "Feather";
-  static const IconData activity = IconData(
-    59648,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData airplay = IconData(
-    59649,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData alert_circle = IconData(
-    59650,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData alert_octagon = IconData(
-    59651,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData alert_triangle = IconData(
-    59652,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData align_center = IconData(
-    59653,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData align_justify = IconData(
-    59654,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData align_left = IconData(
-    59655,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData align_right = IconData(
-    59656,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData anchor = IconData(
-    59657,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData aperture = IconData(
-    59658,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData archive = IconData(
-    59659,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData arrow_down = IconData(
-    59660,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData arrow_down_circle = IconData(
-    59661,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData arrow_down_left = IconData(
-    59662,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData arrow_down_right = IconData(
-    59663,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData arrow_left = IconData(
-    59664,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData arrow_left_circle = IconData(
-    59665,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData arrow_right = IconData(
-    59666,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData arrow_right_circle = IconData(
-    59667,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData arrow_up = IconData(
-    59668,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData arrow_up_circle = IconData(
-    59669,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData arrow_up_left = IconData(
-    59670,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData arrow_up_right = IconData(
-    59671,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData at_sign = IconData(
-    59672,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData award = IconData(
-    59673,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData bar_chart = IconData(
-    59674,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData bar_chart_2 = IconData(
-    59675,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData battery = IconData(
-    59676,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData battery_charging = IconData(
-    59677,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData bell = IconData(
-    59678,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData bell_off = IconData(
-    59679,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData bluetooth = IconData(
-    59680,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData bold = IconData(
-    59681,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData book = IconData(
-    59682,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData book_open = IconData(
-    59683,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData bookmark = IconData(
-    59684,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData box = IconData(
-    59685,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData briefcase = IconData(
-    59686,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData calendar = IconData(
-    59687,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData camera = IconData(
-    59688,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData camera_off = IconData(
-    59689,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData cast = IconData(
-    59690,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData check = IconData(
-    59691,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData check_circle = IconData(
-    59692,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData check_square = IconData(
-    59693,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData chevron_down = IconData(
-    59694,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData chevron_left = IconData(
-    59695,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData chevron_right = IconData(
-    59696,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData chevron_up = IconData(
-    59697,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData chevrons_down = IconData(
-    59698,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData chevrons_left = IconData(
-    59699,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData chevrons_right = IconData(
-    59700,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData chevrons_up = IconData(
-    59701,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData chrome = IconData(
-    59702,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData circle = IconData(
-    59703,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData clipboard = IconData(
-    59704,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData clock = IconData(
-    59705,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData cloud = IconData(
-    59706,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData cloud_drizzle = IconData(
-    59707,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData cloud_lightning = IconData(
-    59708,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData cloud_off = IconData(
-    59709,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData cloud_rain = IconData(
-    59710,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData cloud_snow = IconData(
-    59711,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData code = IconData(
-    59712,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData codepen = IconData(
-    59713,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData command = IconData(
-    59714,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData compass = IconData(
-    59715,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData copy = IconData(
-    59716,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData corner_down_left = IconData(
-    59717,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData corner_down_right = IconData(
-    59718,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData corner_left_down = IconData(
-    59719,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData corner_left_up = IconData(
-    59720,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData corner_right_down = IconData(
-    59721,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData corner_right_up = IconData(
-    59722,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData corner_up_left = IconData(
-    59723,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData corner_up_right = IconData(
-    59724,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData cpu = IconData(
-    59725,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData credit_card = IconData(
-    59726,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData crop = IconData(
-    59727,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData crosshair = IconData(
-    59728,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData database = IconData(
-    59729,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData delete = IconData(
-    59730,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData disc = IconData(
-    59731,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData dollar_sign = IconData(
-    59732,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData download = IconData(
-    59733,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData download_cloud = IconData(
-    59734,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData droplet = IconData(
-    59735,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData edit = IconData(
-    59736,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData edit_2 = IconData(
-    59737,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData edit_3 = IconData(
-    59738,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData external_link = IconData(
-    59739,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData eye = IconData(
-    59740,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData eye_off = IconData(
-    59741,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData facebook = IconData(
-    59742,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData fast_forward = IconData(
-    59743,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData feather = IconData(
-    59744,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData file = IconData(
-    59745,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData file_minus = IconData(
-    59746,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData file_plus = IconData(
-    59747,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData file_text = IconData(
-    59748,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData film = IconData(
-    59749,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData filter = IconData(
-    59750,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData flag = IconData(
-    59751,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData folder = IconData(
-    59752,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData folder_minus = IconData(
-    59753,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData folder_plus = IconData(
-    59754,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData gift = IconData(
-    59755,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData git_branch = IconData(
-    59756,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData git_commit = IconData(
-    59757,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData git_merge = IconData(
-    59758,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData git_pull_request = IconData(
-    59759,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData github = IconData(
-    59760,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData gitlab = IconData(
-    59761,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData globe = IconData(
-    59762,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData grid = IconData(
-    59763,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData hard_drive = IconData(
-    59764,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData hash = IconData(
-    59765,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData headphones = IconData(
-    59766,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData heart = IconData(
-    59767,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData help_circle = IconData(
-    59768,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData home = IconData(
-    59769,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData image = IconData(
-    59770,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData inbox = IconData(
-    59771,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData info = IconData(
-    59772,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData instagram = IconData(
-    59773,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData italic = IconData(
-    59774,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData layers = IconData(
-    59775,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData layout = IconData(
-    59776,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData life_buoy = IconData(
-    59777,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData link = IconData(
-    59778,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData link_2 = IconData(
-    59779,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData linkedin = IconData(
-    59780,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData list = IconData(
-    59781,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData loader = IconData(
-    59782,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData lock = IconData(
-    59783,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData log_in = IconData(
-    59784,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData log_out = IconData(
-    59785,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData mail = IconData(
-    59786,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData map = IconData(
-    59787,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData map_pin = IconData(
-    59788,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData maximize = IconData(
-    59789,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData maximize_2 = IconData(
-    59790,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData menu = IconData(
-    59791,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData message_circle = IconData(
-    59792,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData message_square = IconData(
-    59793,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData mic = IconData(
-    59794,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData mic_off = IconData(
-    59795,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData minimize = IconData(
-    59796,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData minimize_2 = IconData(
-    59797,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData minus = IconData(
-    59798,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData minus_circle = IconData(
-    59799,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData minus_square = IconData(
-    59800,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData monitor = IconData(
-    59801,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData moon = IconData(
-    59802,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData more_horizontal = IconData(
-    59803,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData more_vertical = IconData(
-    59804,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData move = IconData(
-    59805,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData music = IconData(
-    59806,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData navigation = IconData(
-    59807,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData navigation_2 = IconData(
-    59808,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData octagon = IconData(
-    59809,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData package = IconData(
-    59810,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData paperclip = IconData(
-    59811,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData pause = IconData(
-    59812,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData pause_circle = IconData(
-    59813,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData percent = IconData(
-    59814,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData phone = IconData(
-    59815,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData phone_call = IconData(
-    59816,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData phone_forwarded = IconData(
-    59817,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData phone_incoming = IconData(
-    59818,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData phone_missed = IconData(
-    59819,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData phone_off = IconData(
-    59820,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData phone_outgoing = IconData(
-    59821,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData pie_chart = IconData(
-    59822,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData play = IconData(
-    59823,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData play_circle = IconData(
-    59824,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData plus = IconData(
-    59825,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData plus_circle = IconData(
-    59826,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData plus_square = IconData(
-    59827,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData pocket = IconData(
-    59828,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData power = IconData(
-    59829,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData printer = IconData(
-    59830,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData radio = IconData(
-    59831,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData refresh_ccw = IconData(
-    59832,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData refresh_cw = IconData(
-    59833,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData repeat = IconData(
-    59834,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData rewind = IconData(
-    59835,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData rotate_ccw = IconData(
-    59836,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData rotate_cw = IconData(
-    59837,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData rss = IconData(
-    59838,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData save = IconData(
-    59839,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData scissors = IconData(
-    59840,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData search = IconData(
-    59841,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData send = IconData(
-    59842,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData server = IconData(
-    59843,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData settings = IconData(
-    59844,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData share = IconData(
-    59845,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData share_2 = IconData(
-    59846,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData shield = IconData(
-    59847,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData shield_off = IconData(
-    59848,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData shopping_bag = IconData(
-    59849,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData shopping_cart = IconData(
-    59850,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData shuffle = IconData(
-    59851,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData sidebar = IconData(
-    59852,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData skip_back = IconData(
-    59853,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData skip_forward = IconData(
-    59854,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData slack = IconData(
-    59855,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData slash = IconData(
-    59856,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData sliders = IconData(
-    59857,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData smartphone = IconData(
-    59858,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData speaker = IconData(
-    59859,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData square = IconData(
-    59860,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData star = IconData(
-    59861,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData stop_circle = IconData(
-    59862,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData sun = IconData(
-    59863,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData sunrise = IconData(
-    59864,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData sunset = IconData(
-    59865,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData tablet = IconData(
-    59866,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData tag = IconData(
-    59867,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData target = IconData(
-    59868,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData terminal = IconData(
-    59869,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData thermometer = IconData(
-    59870,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData thumbs_down = IconData(
-    59871,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData thumbs_up = IconData(
-    59872,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData toggle_left = IconData(
-    59873,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData toggle_right = IconData(
-    59874,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData trash = IconData(
-    59875,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData trash_2 = IconData(
-    59876,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData trending_down = IconData(
-    59877,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData trending_up = IconData(
-    59878,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData triangle = IconData(
-    59879,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData truck = IconData(
-    59880,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData tv = IconData(
-    59881,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData twitter = IconData(
-    59882,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData type = IconData(
-    59883,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData umbrella = IconData(
-    59884,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData underline = IconData(
-    59885,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData unlock = IconData(
-    59886,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData upload = IconData(
-    59887,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData upload_cloud = IconData(
-    59888,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData user = IconData(
-    59889,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData user_check = IconData(
-    59890,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData user_minus = IconData(
-    59891,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData user_plus = IconData(
-    59892,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData user_x = IconData(
-    59893,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData users = IconData(
-    59894,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData video = IconData(
-    59895,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData video_off = IconData(
-    59896,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData voicemail = IconData(
-    59897,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData volume = IconData(
-    59898,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData volume_1 = IconData(
-    59899,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData volume_2 = IconData(
-    59900,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData volume_x = IconData(
-    59901,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData watch = IconData(
-    59902,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wifi = IconData(
-    59903,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wifi_off = IconData(
-    59904,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData wind = IconData(
-    59905,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData x = IconData(
-    59906,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData x_circle = IconData(
-    59907,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData x_square = IconData(
-    59908,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData youtube = IconData(
-    59909,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData zap = IconData(
-    59910,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData zap_off = IconData(
-    59911,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData zoom_in = IconData(
-    59912,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
-  static const IconData zoom_out = IconData(
-    59913,
-    fontFamily: _family,
-    fontPackage: fontPackage,
-  );
+  static const IconData activity = IconData(59648, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData airplay = IconData(59649, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData alert_circle = IconData(59650, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData alert_octagon = IconData(59651, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData alert_triangle = IconData(59652, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData align_center = IconData(59653, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData align_justify = IconData(59654, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData align_left = IconData(59655, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData align_right = IconData(59656, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData anchor = IconData(59657, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData aperture = IconData(59658, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData archive = IconData(59659, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData arrow_down = IconData(59660, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData arrow_down_circle = IconData(59661, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData arrow_down_left = IconData(59662, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData arrow_down_right = IconData(59663, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData arrow_left = IconData(59664, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData arrow_left_circle = IconData(59665, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData arrow_right = IconData(59666, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData arrow_right_circle = IconData(59667, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData arrow_up = IconData(59668, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData arrow_up_circle = IconData(59669, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData arrow_up_left = IconData(59670, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData arrow_up_right = IconData(59671, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData at_sign = IconData(59672, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData award = IconData(59673, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData bar_chart = IconData(59674, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData bar_chart_2 = IconData(59675, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData battery = IconData(59676, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData battery_charging = IconData(59677, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData bell = IconData(59678, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData bell_off = IconData(59679, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData bluetooth = IconData(59680, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData bold = IconData(59681, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData book = IconData(59682, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData book_open = IconData(59683, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData bookmark = IconData(59684, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData box = IconData(59685, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData briefcase = IconData(59686, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData calendar = IconData(59687, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData camera = IconData(59688, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData camera_off = IconData(59689, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData cast = IconData(59690, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData check = IconData(59691, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData check_circle = IconData(59692, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData check_square = IconData(59693, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData chevron_down = IconData(59694, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData chevron_left = IconData(59695, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData chevron_right = IconData(59696, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData chevron_up = IconData(59697, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData chevrons_down = IconData(59698, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData chevrons_left = IconData(59699, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData chevrons_right = IconData(59700, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData chevrons_up = IconData(59701, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData chrome = IconData(59702, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData circle = IconData(59703, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData clipboard = IconData(59704, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData clock = IconData(59705, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData cloud = IconData(59706, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData cloud_drizzle = IconData(59707, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData cloud_lightning = IconData(59708, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData cloud_off = IconData(59709, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData cloud_rain = IconData(59710, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData cloud_snow = IconData(59711, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData code = IconData(59712, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData codepen = IconData(59713, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData command = IconData(59714, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData compass = IconData(59715, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData copy = IconData(59716, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData corner_down_left = IconData(59717, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData corner_down_right = IconData(59718, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData corner_left_down = IconData(59719, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData corner_left_up = IconData(59720, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData corner_right_down = IconData(59721, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData corner_right_up = IconData(59722, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData corner_up_left = IconData(59723, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData corner_up_right = IconData(59724, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData cpu = IconData(59725, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData credit_card = IconData(59726, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData crop = IconData(59727, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData crosshair = IconData(59728, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData database = IconData(59729, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData delete = IconData(59730, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData disc = IconData(59731, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData dollar_sign = IconData(59732, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData download = IconData(59733, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData download_cloud = IconData(59734, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData droplet = IconData(59735, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData edit = IconData(59736, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData edit_2 = IconData(59737, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData edit_3 = IconData(59738, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData external_link = IconData(59739, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData eye = IconData(59740, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData eye_off = IconData(59741, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData facebook = IconData(59742, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData fast_forward = IconData(59743, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData feather = IconData(59744, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData file = IconData(59745, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData file_minus = IconData(59746, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData file_plus = IconData(59747, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData file_text = IconData(59748, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData film = IconData(59749, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData filter = IconData(59750, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData flag = IconData(59751, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData folder = IconData(59752, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData folder_minus = IconData(59753, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData folder_plus = IconData(59754, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData gift = IconData(59755, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData git_branch = IconData(59756, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData git_commit = IconData(59757, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData git_merge = IconData(59758, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData git_pull_request = IconData(59759, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData github = IconData(59760, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData gitlab = IconData(59761, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData globe = IconData(59762, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData grid = IconData(59763, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData hard_drive = IconData(59764, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData hash = IconData(59765, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData headphones = IconData(59766, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData heart = IconData(59767, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData help_circle = IconData(59768, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData home = IconData(59769, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData image = IconData(59770, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData inbox = IconData(59771, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData info = IconData(59772, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData instagram = IconData(59773, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData italic = IconData(59774, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData layers = IconData(59775, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData layout = IconData(59776, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData life_buoy = IconData(59777, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData link = IconData(59778, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData link_2 = IconData(59779, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData linkedin = IconData(59780, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData list = IconData(59781, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData loader = IconData(59782, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData lock = IconData(59783, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData log_in = IconData(59784, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData log_out = IconData(59785, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData mail = IconData(59786, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData map = IconData(59787, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData map_pin = IconData(59788, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData maximize = IconData(59789, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData maximize_2 = IconData(59790, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData menu = IconData(59791, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData message_circle = IconData(59792, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData message_square = IconData(59793, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData mic = IconData(59794, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData mic_off = IconData(59795, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData minimize = IconData(59796, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData minimize_2 = IconData(59797, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData minus = IconData(59798, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData minus_circle = IconData(59799, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData minus_square = IconData(59800, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData monitor = IconData(59801, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData moon = IconData(59802, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData more_horizontal = IconData(59803, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData more_vertical = IconData(59804, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData move = IconData(59805, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData music = IconData(59806, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData navigation = IconData(59807, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData navigation_2 = IconData(59808, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData octagon = IconData(59809, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData package = IconData(59810, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData paperclip = IconData(59811, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData pause = IconData(59812, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData pause_circle = IconData(59813, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData percent = IconData(59814, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData phone = IconData(59815, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData phone_call = IconData(59816, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData phone_forwarded = IconData(59817, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData phone_incoming = IconData(59818, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData phone_missed = IconData(59819, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData phone_off = IconData(59820, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData phone_outgoing = IconData(59821, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData pie_chart = IconData(59822, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData play = IconData(59823, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData play_circle = IconData(59824, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData plus = IconData(59825, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData plus_circle = IconData(59826, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData plus_square = IconData(59827, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData pocket = IconData(59828, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData power = IconData(59829, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData printer = IconData(59830, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData radio = IconData(59831, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData refresh_ccw = IconData(59832, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData refresh_cw = IconData(59833, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData repeat = IconData(59834, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData rewind = IconData(59835, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData rotate_ccw = IconData(59836, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData rotate_cw = IconData(59837, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData rss = IconData(59838, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData save = IconData(59839, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData scissors = IconData(59840, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData search = IconData(59841, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData send = IconData(59842, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData server = IconData(59843, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData settings = IconData(59844, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData share = IconData(59845, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData share_2 = IconData(59846, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData shield = IconData(59847, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData shield_off = IconData(59848, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData shopping_bag = IconData(59849, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData shopping_cart = IconData(59850, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData shuffle = IconData(59851, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData sidebar = IconData(59852, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData skip_back = IconData(59853, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData skip_forward = IconData(59854, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData slack = IconData(59855, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData slash = IconData(59856, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData sliders = IconData(59857, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData smartphone = IconData(59858, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData speaker = IconData(59859, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData square = IconData(59860, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData star = IconData(59861, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData stop_circle = IconData(59862, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData sun = IconData(59863, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData sunrise = IconData(59864, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData sunset = IconData(59865, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData tablet = IconData(59866, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData tag = IconData(59867, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData target = IconData(59868, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData terminal = IconData(59869, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData thermometer = IconData(59870, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData thumbs_down = IconData(59871, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData thumbs_up = IconData(59872, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData toggle_left = IconData(59873, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData toggle_right = IconData(59874, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData trash = IconData(59875, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData trash_2 = IconData(59876, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData trending_down = IconData(59877, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData trending_up = IconData(59878, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData triangle = IconData(59879, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData truck = IconData(59880, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData tv = IconData(59881, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData twitter = IconData(59882, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData type = IconData(59883, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData umbrella = IconData(59884, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData underline = IconData(59885, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData unlock = IconData(59886, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData upload = IconData(59887, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData upload_cloud = IconData(59888, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData user = IconData(59889, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData user_check = IconData(59890, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData user_minus = IconData(59891, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData user_plus = IconData(59892, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData user_x = IconData(59893, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData users = IconData(59894, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData video = IconData(59895, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData video_off = IconData(59896, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData voicemail = IconData(59897, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData volume = IconData(59898, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData volume_1 = IconData(59899, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData volume_2 = IconData(59900, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData volume_x = IconData(59901, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData watch = IconData(59902, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wifi = IconData(59903, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wifi_off = IconData(59904, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData wind = IconData(59905, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData x = IconData(59906, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData x_circle = IconData(59907, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData x_square = IconData(59908, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData youtube = IconData(59909, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData zap = IconData(59910, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData zap_off = IconData(59911, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData zoom_in = IconData(59912, fontFamily: _family, fontPackage: fontPackage);
+  static const IconData zoom_out = IconData(59913, fontFamily: _family, fontPackage: fontPackage);
 }
