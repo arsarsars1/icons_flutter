@@ -3,7 +3,7 @@ import 'package:icons_flutter/src/icons_flutter_data.dart';
 
 class Entypo {
   Entypo._();
-  static const String _family = "enTypo";
+  static const String _family = "Entypo";
   static const IconData $500px = IconData(61696, fontFamily: _family, fontPackage: fontPackage);
   static const IconData $500px_with_circle = IconData(61697, fontFamily: _family, fontPackage: fontPackage);
   static const IconData add_to_list = IconData(61698, fontFamily: _family, fontPackage: fontPackage);
