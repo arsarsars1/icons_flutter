@@ -29,3 +29,10 @@
 * Fixed README markdown rendering for the `split_icon` configuration section ([#1](https://github.com/arsarsars1/icons_flutter/issues/1))
 * Updated Flutter SDK constraint to `>=3.41.0` and Dart SDK to `^3.11.5`
 * Updated `flutter_lints` to `^6.0.0`
+
+## 0.0.7
+
+* Compatible with Flutter versions where `IconData` is a final class ([breaking change](https://docs.flutter.dev/release/breaking-changes/icondata-class-marked-final))
+* Icons now use `IconData` constructors directly instead of subclassing via `IconsFlutterData`
+* `FlutterIcons` remains part of the public API and is exported from `package:icons_flutter/icons_flutter.dart`
+* Fixed Entypo font family name to match the registered `"Entypo"` font ([#3](https://github.com/arsarsars1/icons_flutter/pull/3))

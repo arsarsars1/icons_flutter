@@ -42,7 +42,16 @@ The Flutter icon package provides you 14k+ additional icons to use in your apps.
 * [`Web Symbols`](https://www.justbenicestudio.com/) by Just Be Nice studio 2011 (**85** icons) [`License:`](https://scripts.sil.org/OFL)
 
 ## Usage
-To use this plugin, add `icons_flutter` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
+To use this plugin, add `icons_flutter` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/):
+
+```yaml
+dependencies:
+  icons_flutter: ^0.0.7
+```
+
+## Compatibility
+
+From `0.0.7`, icon definitions use Flutter's `IconData` directly (required now that `IconData` is a final class). The `FlutterIcons` convenience API is unchanged.
 
 ## Widget
 
@@ -68,7 +77,7 @@ To use this plugin, add `icons_flutter` as a [dependency in your pubspec.yaml fi
 import 'package:icons_flutter/icons_flutter.dart';
 import 'package:flutter/material.dart';
 
-// 0.0.1 version used
+// Current usage (0.0.7+)
 Icon(AntDesign.stepforward),
 Icon(Ionicons.ios_search),
 Icon(FontAwesome.glass),
@@ -77,7 +86,7 @@ Icon(FontAwesome5.address_book),
 Icon(FontAwesome5Solid.address_book),
 Icon(FontAwesome5Brands.$500px)
 
-// The IconsFlutter class is provided to access all Icons
+// The FlutterIcons class is provided to access all Icons
 // Icon name in the original basis added icon set abbreviation name as suffix
 // Hereinafter referred to as the following
 //Ant Design Icons -> ant,
@@ -100,14 +109,14 @@ Icon(FlutterIcons.stepforward_ant)
 Icon(FlutterIcons.html5_faw)
 ...
 
-// Previous versions of 1.0.0 are used
-Icon(Ionicons.getIconData("ios-search"));
-Icon(AntDesign.getIconData("stepforward"));
-Icon(FontAwesome.getIconData("glass"));
-Icon(MaterialIcons.getIconData("ac-unit"));
-Icon(FontAwesome5.getIconData("address-book"));
-Icon(FontAwesome5.getIconData("address-book",weight: IconWeight.Solid));
-Icon(FontAwesome5.getIconData("500px", weight: IconWeight.Brand));
+// Legacy string-based helpers from older releases (not used in 0.0.7+)
+// Icon(Ionicons.getIconData("ios-search"));
+// Icon(AntDesign.getIconData("stepforward"));
+// Icon(FontAwesome.getIconData("glass"));
+// Icon(MaterialIcons.getIconData("ac-unit"));
+// Icon(FontAwesome5.getIconData("address-book"));
+// Icon(FontAwesome5.getIconData("address-book",weight: IconWeight.Solid));
+// Icon(FontAwesome5.getIconData("500px", weight: IconWeight.Brand));
 ```
 
 ### How to keep only the fonts used in the project.
