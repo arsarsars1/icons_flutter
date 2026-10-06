@@ -4,6 +4,7 @@ export 'package:icons_flutter/src/elusive_icons.dart';
 export 'package:icons_flutter/src/entypo.dart';
 export 'package:icons_flutter/src/evil_icons.dart';
 export 'package:icons_flutter/src/feather.dart';
+export 'package:icons_flutter/src/flutter_icons.dart';
 export 'package:icons_flutter/src/font_awesome.dart';
 export 'package:icons_flutter/src/font_awesome5_icons.dart';
 export 'package:icons_flutter/src/font_awesome_5.dart';
