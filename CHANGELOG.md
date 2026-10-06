@@ -34,5 +34,3 @@
 
 * Compatible with Flutter versions where `IconData` is a final class ([breaking change](https://docs.flutter.dev/release/breaking-changes/icondata-class-marked-final))
 * Icons now use `IconData` constructors directly instead of subclassing via `IconsFlutterData`
-* `FlutterIcons` remains part of the public API and is exported from `package:icons_flutter/icons_flutter.dart`
-* Fixed Entypo font family name to match the registered `"Entypo"` font ([#3](https://github.com/arsarsars1/icons_flutter/pull/3))
