@@ -75,9 +75,9 @@ From `0.0.7`, icon definitions use Flutter's `IconData` directly (required now t
 ``` dart
 // Import package
 import 'package:icons_flutter/icons_flutter.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
-// Current usage (0.0.7+)
+// Usage with material_ui (1.0.0+)
 Icon(AntDesign.stepforward),
 Icon(Ionicons.ios_search),
 Icon(FontAwesome.glass),

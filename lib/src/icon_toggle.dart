@@ -1,6 +1,6 @@
 import 'dart:math' as math;
 
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 Widget _defaultTransitionBuilder(Widget child, Animation<double> animation) =>
     ScaleTransition(scale: animation, child: child);

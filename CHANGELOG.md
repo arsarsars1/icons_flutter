@@ -36,3 +36,11 @@
 * Icons now use `IconData` constructors directly instead of subclassing via `IconsFlutterData`
 * `FlutterIcons` remains part of the public API and is exported from `package:icons_flutter/icons_flutter.dart`
 * Fixed Entypo font family name to match the registered `"Entypo"` font ([#3](https://github.com/arsarsars1/icons_flutter/pull/3))
+
+## 1.0.0
+
+* **Breaking:** Migrated from `package:flutter/material.dart` to standalone [`package:material_ui`](https://pub.dev/packages/material_ui) ([Flutter guidance](https://docs.flutter.dev/release/breaking-changes/material-ui-and-cupertino-ui))
+* Requires Flutter `>=3.47.0` / Dart `^3.13.0`; depends on `material_ui: ^1.6.0`
+* Icon glyph libraries import `flutter/widgets.dart` only (`IconData`)
+* `IconToggle` and the example app use `package:material_ui/material_ui.dart`
+* Consumers still on in-framework Material may need `MaterialUiCompatibilityBridge` for theme/localizations; Material-specific type mismatches still require aligning on `material_ui` (this package’s public glyph API remains `IconData`-centric)
