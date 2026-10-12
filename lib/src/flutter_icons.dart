@@ -1,4 +1,4 @@
-import 'package:flutter/widgets.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:icons_flutter/src/ant_design.dart';
 import 'package:icons_flutter/src/entypo.dart';
 import 'package:icons_flutter/src/evil_icons.dart';

@@ -1,4 +1,4 @@
-import 'package:flutter/widgets.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:icons_flutter/src/icons_flutter_data.dart';
 
 class MfgLabs {
