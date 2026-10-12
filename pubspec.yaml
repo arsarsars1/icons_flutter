@@ -5,11 +5,8 @@ homepage: https://github.com/arsarsars1/icons_flutter.git
 
 environment:
   sdk: ^3.13.0
-  flutter: ">=3.47.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
   material_ui: ^1.6.0
 
 dev_dependencies:
